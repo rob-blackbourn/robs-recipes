@@ -634,18 +634,7 @@ input[aria-invalid='true'] {
   margin-right: 0;
   margin-left: 0.35em;
 }
-.original-line {
-  margin: 0 0 5px;
-  color: var(--muted);
-  font-size: 0.72rem;
-}
-.original-line summary {
-  cursor: pointer;
-  width: max-content;
-}
-.original-line p {
-  margin: 5px 0 0;
-}
+
 .method > h2 {
   margin-bottom: 20px;
 }
@@ -1032,9 +1021,6 @@ input[aria-invalid='true'] {
   .site-footer {
     padding: 20px 0;
   }
-  .original-line {
-    font-size: 0.7rem;
-  }
 }
 @media print {
   :root {
@@ -1049,7 +1035,6 @@ input[aria-invalid='true'] {
   .site-footer,
   .skip-link,
   .recipe-topbar,
-  .original-line,
   .section-heading button,
   .recipe-end {
     display: none !important;

@@ -537,7 +537,6 @@ function Recipe({
         entry.tool,
       ]),
     ).length > 0;
-  const adjusted = factor !== 1 || units !== 'original';
   const citations = typeof entry.citation === 'string' ? [entry.citation] : entry.citation || [];
   return (
     <article className="recipe-page narrow-wide" key={resetVersion}>
@@ -683,14 +682,6 @@ function Recipe({
                         {line.issue && <WarningIcon message={`Check quantity: ${line.issue}`} />}
                       </button>
                       {line.note && <small className="ingredient-note">{line.note}</small>}
-                      {adjusted && line.text !== line.original && (
-                        <details className="original-line">
-                          <summary>As written</summary>
-                          <p>
-                            <TemperatureText text={line.original} allowGas={false} />
-                          </p>
-                        </details>
-                      )}
                     </li>
                   ))}
                 </ul>
