@@ -24,7 +24,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Season, dredge and sear the veal shanks on a medium high heat with olive oil and butter for 5 minutes on each side.."
+      "text": "Season, dredge and sear the veal shanks on a medium high heat with olive oil and butter for 5 minutes on each side."
     },
     {
       "@type": "HowToStep",
@@ -32,7 +32,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Add the garlic and saute for another 30 seconds"
+      "text": "Add the garlic and saute for another 30 seconds."
     },
     {
       "@type": "HowToStep",
@@ -49,12 +49,6 @@
     {
       "@type": "HowToStep",
       "text": "Cover and cook in the oven on 160°C for 2 to 2 1/2 hours."
-    }
-  ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 2 1/2 hours"
     }
   ],
   "cookTime": "PT2H30M",
