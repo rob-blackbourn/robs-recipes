@@ -15,27 +15,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Soak the Kombu in enough water to cover it until it is soft enough to cut."
+      "text": "Soak the Kombu in enough water to cover it until it is soft enough to cut."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Reserve the water and cut into bite size pieces, and return to the water."
+      "text": "Reserve the water and cut into bite size pieces, and return to the water."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the vinegar and leave for at least 1 hour."
+      "text": "Add the vinegar and leave for at least 1 hour."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the other ingredients, bring the pan to a simmer, then lower the heat."
+      "text": "Add the other ingredients, bring the pan to a simmer, then lower the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add liquid if necessary."
+      "text": "Add liquid if necessary."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Cook until soft, shiny, caramalised, and transluscent."
+      "text": "Cook until soft, shiny, caramalised, and transluscent."
     }
   ]
 }

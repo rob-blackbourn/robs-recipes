@@ -17,15 +17,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the butter in a frying pan over a medium heat and add the pine nuts and sage. Stir until the nuts are light brown and the butter is pale golden."
+      "text": "Heat the butter in a frying pan over a medium heat and add the pine nuts and sage. Stir until the nuts are light brown and the butter is pale golden."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Have the lemon juice to hand and, once the butter is pale golden, turn off the heat and quickly pour in the lemon juice."
+      "text": "Have the lemon juice to hand and, once the butter is pale golden, turn off the heat and quickly pour in the lemon juice."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Season the butter with salt and serve."
+      "text": "Season the butter with salt and serve."
     }
   ]
 }

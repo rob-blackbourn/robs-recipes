@@ -20,15 +20,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Take beef cubes, water, season salt (to taste), and large slivers of onion, place them in pressure cooker."
+      "text": "Take beef cubes, water, season salt (to taste), and large slivers of onion, place them in pressure cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Cook on high until the little jiggler on top of the pressure cooker is going very fast and all crazy then turn heat down to medium leaving the jiggler at a slower steady jiggle, cook for about 20 minutes before you open the lid to check if the meat is done."
+      "text": "Cook on high until the little jiggler on top of the pressure cooker is going very fast and all crazy then turn heat down to medium leaving the jiggler at a slower steady jiggle, cook for about 20 minutes before you open the lid to check if the meat is done."
     },
     {
       "@type": "HowToStep",
-      "text": "3. When meat is done, drain all except 1/2 cup of the water, the onions are optional to keep in - personally I take them out."
+      "text": "When meat is done, drain all except 1/2 cup of the water, the onions are optional to keep in - personally I take them out."
     }
   ]
 }

@@ -22,15 +22,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Mix all the salsa ingredients together."
+      "text": "Mix all the salsa ingredients together."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Halve the fillets diagonally, brush with oil, season, and grill."
+      "text": "Halve the fillets diagonally, brush with oil, season, and grill."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Spoon the salsa on the plates and lay the fish on top. Garnish with the coriander."
+      "text": "Spoon the salsa on the plates and lay the fish on top. Garnish with the coriander."
     }
   ]
 }

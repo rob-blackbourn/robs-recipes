@@ -21,31 +21,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the tomatoes in a roasting tin. Drizzle with olive oil, and roast for 40 minutes at gas 1/140C."
+      "text": "Put the tomatoes in a roasting tin. Drizzle with olive oil, and roast for 40 minutes at gas 1/140C."
     },
     {
       "@type": "HowToStep",
-      "text": "2. After 30 mins add the garlic."
+      "text": "After 30 mins add the garlic."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Push the tomatoes through a sieve into a pan, squeeze in the garlic, discarding the skin. Add the watercress."
+      "text": "Push the tomatoes through a sieve into a pan, squeeze in the garlic, discarding the skin. Add the watercress."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Mix the prawns, basil leaves, breadcrumbs, egg, and lemon zest and fill the ravioli."
+      "text": "Mix the prawns, basil leaves, breadcrumbs, egg, and lemon zest and fill the ravioli."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Boil the ravioli for 4 minutes."
+      "text": "Boil the ravioli for 4 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Warm through the sauce, adding a little cream at the end."
+      "text": "Warm through the sauce, adding a little cream at the end."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Season the sauce and serve."
+      "text": "Season the sauce and serve."
     }
   ]
 }

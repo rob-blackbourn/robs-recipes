@@ -26,15 +26,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. In a wok or a large frying pan, heat 2 Tbsp of vegetable oil until hot. Sear the whole shrimp until done; remove and set aside. In the same pan, add the small pieces of shrimp and cook until done; remove and set aside."
+      "text": "In a wok or a large frying pan, heat 2 Tbsp of vegetable oil until hot. Sear the whole shrimp until done; remove and set aside. In the same pan, add the small pieces of shrimp and cook until done; remove and set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add more oil to the wok if needed, then add the egg and scramble slightly. When the egg is half way cooked, add the rice and toss to mix. Add the diced onions and toss to mix. Add curry powder, white pepper, sugar, salt, soy sauce, fish sauce, and shrimp paste (if using); toss until the rice grains are separated and the seasoning is well mixed. Add the pineapple, cashews, and small pieces of shrimp; toss until the pineapples start to darken slightly and the rice is dry. Turn off the heat and toss in tomatoes and green onions."
+      "text": "Add more oil to the wok if needed, then add the egg and scramble slightly. When the egg is half way cooked, add the rice and toss to mix. Add the diced onions and toss to mix. Add curry powder, white pepper, sugar, salt, soy sauce, fish sauce, and shrimp paste (if using); toss until the rice grains are separated and the seasoning is well mixed. Add the pineapple, cashews, and small pieces of shrimp; toss until the pineapples start to darken slightly and the rice is dry. Turn off the heat and toss in tomatoes and green onions."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Serve on a plate or in a pineapple bowl with some cucumber slices. Top with the whole shrimp and extra green onions."
+      "text": "Serve on a plate or in a pineapple bowl with some cucumber slices. Top with the whole shrimp and extra green onions."
     }
   ]
 }

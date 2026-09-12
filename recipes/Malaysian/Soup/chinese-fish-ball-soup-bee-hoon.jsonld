@@ -23,47 +23,47 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Bring the stock to the boil."
+      "text": "Bring the stock to the boil."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Meanwhile make the fish balls."
+      "text": "Meanwhile make the fish balls."
     },
     {
       "@type": "HowToStep",
-      "text": "2.1 Grind the flaked fish into a paste using a mortar and pestle or a food processor."
+      "text": "Grind the flaked fish into a paste using a mortar and pestle or a food processor."
     },
     {
       "@type": "HowToStep",
-      "text": "2.2 Season with salt and pepper."
+      "text": "Season with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "2.3 Stir in 4 tbsp water."
+      "text": "Stir in 4 tbsp water."
     },
     {
       "@type": "HowToStep",
-      "text": "2.4 Sprinkle with rice flour and mould into balls."
+      "text": "Sprinkle with rice flour and mould into balls."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Season stock and add fish balls, simmering for 5 minutes."
+      "text": "Season stock and add fish balls, simmering for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the shredded mustard greens and simmer for 1 minute."
+      "text": "Add the shredded mustard greens and simmer for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Divide the noodles between the bowls."
+      "text": "Divide the noodles between the bowls."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Put the fish balls and soup into the bowls."
+      "text": "Put the fish balls and soup into the bowls."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Garnish with spring onions, chilli, and chopped coriander."
+      "text": "Garnish with spring onions, chilli, and chopped coriander."
     }
   ]
 }

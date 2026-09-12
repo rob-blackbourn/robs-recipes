@@ -21,23 +21,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Wash and slice the chicken."
+      "text": "Wash and slice the chicken."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Combine the rest of the ingredients in a food processor or grind with a pestle and mortar."
+      "text": "Combine the rest of the ingredients in a food processor or grind with a pestle and mortar."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Marinate the chicken for at least an hour."
+      "text": "Marinate the chicken for at least an hour."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Clean the pandanus leaves and pat dry.Wrap the chicken in the leaves in triangular packets, and secure with a cocktail stick."
+      "text": "Clean the pandanus leaves and pat dry.Wrap the chicken in the leaves in triangular packets, and secure with a cocktail stick."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Fry in some oil."
+      "text": "Fry in some oil."
     }
   ]
 }

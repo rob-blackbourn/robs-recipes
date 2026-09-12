@@ -22,23 +22,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Bring the stock to the boil over a medium heat."
+      "text": "Bring the stock to the boil over a medium heat."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add galangal, lemongrass, and kaffir lime leaves. Cook until fragrant."
+      "text": "Add galangal, lemongrass, and kaffir lime leaves. Cook until fragrant."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the prawns and mushroom. Cook until done."
+      "text": "Add the prawns and mushroom. Cook until done."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Season with fish sauce, lime juice, and roasted chili paste."
+      "text": "Season with fish sauce, lime juice, and roasted chili paste."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add hot chili and coriander. Remove from heat."
+      "text": "Add hot chili and coriander. Remove from heat."
     }
   ]
 }

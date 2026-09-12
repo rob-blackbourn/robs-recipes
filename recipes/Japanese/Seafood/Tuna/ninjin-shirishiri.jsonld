@@ -17,27 +17,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Open the tin of tuna and drain the oil into a small frying pan."
+      "text": "Open the tin of tuna and drain the oil into a small frying pan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Fry the carrot in the pan. Adding a small amount of water will help the carrot cook quickly. Cook until soft."
+      "text": "Fry the carrot in the pan. Adding a small amount of water will help the carrot cook quickly. Cook until soft."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the tuna. Crumble into small pieces."
+      "text": "Add the tuna. Crumble into small pieces."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Season with soy sauce and salt, and continue to stir fry."
+      "text": "Season with soy sauce and salt, and continue to stir fry."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Pour over the egg and mix."
+      "text": "Pour over the egg and mix."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add the bonito flakes, lightly stir, and remove from the heat."
+      "text": "Add the bonito flakes, lightly stir, and remove from the heat."
     }
   ]
 }

@@ -17,15 +17,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Preheat the oven to 190C/Gas 5."
+      "text": "Preheat the oven to 190C/Gas 5."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Stud the lamb with slices of garlic, rosemary, and anchovy fillets."
+      "text": "Stud the lamb with slices of garlic, rosemary, and anchovy fillets."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put in the oven for 20 mins per 500g plus 20 mins, or until the internal temperature has reached 52C for rare, 60C for medium, 75C for rare."
+      "text": "Put in the oven for 20 mins per 500g plus 20 mins, or until the internal temperature has reached 52C for rare, 60C for medium, 75C for rare."
     }
   ]
 }

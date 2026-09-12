@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Stir fry the garlic, chilies, and onion for 1 1/2 minutes."
+      "text": "Stir fry the garlic, chilies, and onion for 1 1/2 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the beef and stir fry over a high heat for about 1 1/2 minutes until the meat changes colour."
+      "text": "Add the beef and stir fry over a high heat for about 1 1/2 minutes until the meat changes colour."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Season with fish sauce, oyster sauce, and sugar, then stir in the shredded lime leaves."
+      "text": "Season with fish sauce, oyster sauce, and sugar, then stir in the shredded lime leaves."
     }
   ],
   "comment": [

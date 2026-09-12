@@ -20,15 +20,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cook the potatoes in a large saucepan for 10 minutes. Then add the beans and cook for a further 5 minutes."
+      "text": "Cook the potatoes in a large saucepan for 10 minutes. Then add the beans and cook for a further 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Meanwhile blend the basil, pine nuts, and garlic, in a food processor until the mixture forms a thick paste. Add the cheeses and process briefly, then, with the motor still running, pour in the oil in a thin steady stream."
+      "text": "Meanwhile blend the basil, pine nuts, and garlic, in a food processor until the mixture forms a thick paste. Add the cheeses and process briefly, then, with the motor still running, pour in the oil in a thin steady stream."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Drain the vegetables, reserving 2 tbsp of the cooking water. Return the vegetables to the pan, and stir in the pesto sauce, adding the reserved water to loosen the mixture. Serve with the extra Parmesan cheese."
+      "text": "Drain the vegetables, reserving 2 tbsp of the cooking water. Return the vegetables to the pan, and stir in the pesto sauce, adding the reserved water to loosen the mixture. Serve with the extra Parmesan cheese."
     }
   ]
 }

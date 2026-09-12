@@ -16,23 +16,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Bring the dashi to a boil in a saucepan."
+      "text": "Bring the dashi to a boil in a saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the wakame and mushrooms (if you are using them), and simmer for 1 minute."
+      "text": "Add the wakame and mushrooms (if you are using them), and simmer for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put the miso paste in a separate bowl and add a small amount of the dashing, a little at a time, to prevent lumps."
+      "text": "Put the miso paste in a separate bowl and add a small amount of the dashing, a little at a time, to prevent lumps."
     },
     {
       "@type": "HowToStep",
-      "text": "4. When the miso is well diluted, ad it to the remaining dashi."
+      "text": "When the miso is well diluted, ad it to the remaining dashi."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add then the tofu, and reheat slightly, but do not boil."
+      "text": "Add then the tofu, and reheat slightly, but do not boil."
     }
   ]
 }

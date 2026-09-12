@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place the salt, sugar, mustard, shallot and basil in a blender or food processor. Scrape the sides of the blender down with a spatula. Add the vinegar and pulse again."
+      "text": "Place the salt, sugar, mustard, shallot and basil in a blender or food processor. Scrape the sides of the blender down with a spatula. Add the vinegar and pulse again."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Turn the blender on low and take off the cap in the centre of the blenders lid and dribble in the olive oil."
+      "text": "Turn the blender on low and take off the cap in the centre of the blenders lid and dribble in the olive oil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Scrape down the sides of the blender and pulse for a further 2 minutes."
+      "text": "Scrape down the sides of the blender and pulse for a further 2 minutes."
     }
   ]
 }

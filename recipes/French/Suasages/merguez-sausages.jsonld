@@ -18,15 +18,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Grind through 1/4” (6 mm) plate."
+      "text": "Grind through 1/4” (6 mm) plate."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Mix ground meat with all ingredients and olive oil."
+      "text": "Mix ground meat with all ingredients and olive oil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Stuff into 24-26 mm sheep casings. Leave as one long rope or make 5” links."
+      "text": "Stuff into 24-26 mm sheep casings. Leave as one long rope or make 5” links."
     }
   ]
 }

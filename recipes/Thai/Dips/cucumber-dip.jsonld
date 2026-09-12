@@ -18,19 +18,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cook the vinegar, caster sugar, palm sugar, and salt over a low heat until slightly thickened."
+      "text": "Cook the vinegar, caster sugar, palm sugar, and salt over a low heat until slightly thickened."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add coarsely pounded chili and garlic, stirring well."
+      "text": "Add coarsely pounded chili and garlic, stirring well."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Bring to the boil, then turn off the heat."
+      "text": "Bring to the boil, then turn off the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the cucumber and coriander just before serving."
+      "text": "Add the cucumber and coriander just before serving."
     }
   ]
 }

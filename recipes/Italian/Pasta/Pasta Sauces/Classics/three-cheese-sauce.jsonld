@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the oil, chives, rosemary and cayenne pepper into a saucepan and heat gently for 2 minutes so the herbs and spice infuse the oil."
+      "text": "Put the oil, chives, rosemary and cayenne pepper into a saucepan and heat gently for 2 minutes so the herbs and spice infuse the oil."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Stir in the ricotta and heat gently, stirring, until it has softened."
+      "text": "Stir in the ricotta and heat gently, stirring, until it has softened."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Stir in the remaining cheeses and heat through gently for 1 minute until the sauce is smooth and creamy."
+      "text": "Stir in the remaining cheeses and heat through gently for 1 minute until the sauce is smooth and creamy."
     }
   ]
 }

@@ -25,11 +25,11 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "1. Take the head and fins off the mackerel."
+          "text": "Take the head and fins off the mackerel."
         },
         {
           "@type": "HowToStep",
-          "text": "2. Poach in a court bouillon."
+          "text": "Poach in a court bouillon."
         }
       ]
     },
@@ -39,23 +39,23 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "3. Add the egg white to the whiting."
+          "text": "Add the egg white to the whiting."
         },
         {
           "@type": "HowToStep",
-          "text": "4. Puree in a blender."
+          "text": "Puree in a blender."
         },
         {
           "@type": "HowToStep",
-          "text": "5. Pass through a sieve."
+          "text": "Pass through a sieve."
         },
         {
           "@type": "HowToStep",
-          "text": "6. Beat in the double cream until it has the texture of mash potato."
+          "text": "Beat in the double cream until it has the texture of mash potato."
         },
         {
           "@type": "HowToStep",
-          "text": "7. Season."
+          "text": "Season."
         }
       ]
     },
@@ -65,11 +65,11 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "8. Roll out the pastry to 3mm thick."
+          "text": "Roll out the pastry to 3mm thick."
         },
         {
           "@type": "HowToStep",
-          "text": "9. Blind bake the tartlet (about 4”) without trimming the edges."
+          "text": "Blind bake the tartlet (about 4”) without trimming the edges."
         }
       ]
     },
@@ -79,19 +79,19 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "10. Sweat the shallot and garlic."
+          "text": "Sweat the shallot and garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "11. Add the tomato paste."
+          "text": "Add the tomato paste."
         },
         {
           "@type": "HowToStep",
-          "text": "12. Add the tomato."
+          "text": "Add the tomato."
         },
         {
           "@type": "HowToStep",
-          "text": "13. Season with the emphasis on pepper."
+          "text": "Season with the emphasis on pepper."
         }
       ]
     },
@@ -101,23 +101,23 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "14. Flake the fish."
+          "text": "Flake the fish."
         },
         {
           "@type": "HowToStep",
-          "text": "15. Pipe the mousse into the blind baked pastry case."
+          "text": "Pipe the mousse into the blind baked pastry case."
         },
         {
           "@type": "HowToStep",
-          "text": "16. Add the flaked mackerel."
+          "text": "Add the flaked mackerel."
         },
         {
           "@type": "HowToStep",
-          "text": "17. Top with the tomato fondue."
+          "text": "Top with the tomato fondue."
         },
         {
           "@type": "HowToStep",
-          "text": "18. Return to the oven to bake."
+          "text": "Return to the oven to bake."
         }
       ]
     },
@@ -127,7 +127,7 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "19. Make the beurre blanc.."
+          "text": "Make the beurre blanc.."
         }
       ]
     }

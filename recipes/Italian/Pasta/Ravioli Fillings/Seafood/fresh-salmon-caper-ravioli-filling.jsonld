@@ -17,11 +17,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cut the salmon into chunks then place in a food processor and pulse to chop."
+      "text": "Cut the salmon into chunks then place in a food processor and pulse to chop."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the remaining ingredients and process until well blended but not too smooth."
+      "text": "Add the remaining ingredients and process until well blended but not too smooth."
     }
   ]
 }

@@ -23,15 +23,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oil in a saucepan over a moderate heat, add the onions and cook gently for 5 minutes until softened."
+      "text": "Heat the oil in a saucepan over a moderate heat, add the onions and cook gently for 5 minutes until softened."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the garlic, anchovies, and cook for about 3 minutes, until the anchovies completely disintegrate."
+      "text": "Add the garlic, anchovies, and cook for about 3 minutes, until the anchovies completely disintegrate."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Stir in the tomatoes, olives, capers and oregano, and season to taste with salt and pepper. Bring to the boil, then reduce heat and simmer the sauce gently for about 20 minutes, stirring occasionally. Garnish the sauce with red basil leaves and serve with grated Parmesan cheese."
+      "text": "Stir in the tomatoes, olives, capers and oregano, and season to taste with salt and pepper. Bring to the boil, then reduce heat and simmer the sauce gently for about 20 minutes, stirring occasionally. Garnish the sauce with red basil leaves and serve with grated Parmesan cheese."
     }
   ]
 }

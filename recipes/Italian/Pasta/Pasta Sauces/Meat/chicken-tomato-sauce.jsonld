@@ -23,27 +23,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oil in a saucepan and fry the chicken, stirring occasionally, until lightly coloured."
+      "text": "Heat the oil in a saucepan and fry the chicken, stirring occasionally, until lightly coloured."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the onion, celery, and carrots, and cook for 5 minutes until softened."
+      "text": "Add the onion, celery, and carrots, and cook for 5 minutes until softened."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the oregano, wine and tomatoes."
+      "text": "Add the oregano, wine and tomatoes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Bring to the boil, cover, then reduce the heat and simmer for 10 minutes."
+      "text": "Bring to the boil, cover, then reduce the heat and simmer for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Season to taste with salt and pepper."
+      "text": "Season to taste with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Garnish with oregano and serve with parmesan shavings."
+      "text": "Garnish with oregano and serve with parmesan shavings."
     }
   ]
 }

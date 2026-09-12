@@ -17,19 +17,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the butter in a medium sized saucepan, add the onion and sauté over a medium heat for 5 minutes until soft and translucent."
+      "text": "Heat the butter in a medium sized saucepan, add the onion and sauté over a medium heat for 5 minutes until soft and translucent."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the garlic, anchovy and broccoli and continue to cook for a further 3-4 minutes, stirring frequently."
+      "text": "Add the garlic, anchovy and broccoli and continue to cook for a further 3-4 minutes, stirring frequently."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Remove from the heat, transfer to a food processor and process to a rough purée. Don't make the mixture too smooth."
+      "text": "Remove from the heat, transfer to a food processor and process to a rough purée. Don't make the mixture too smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Allow the mixture to cool before mixing in the ricotta and pepper."
+      "text": "Allow the mixture to cool before mixing in the ricotta and pepper."
     }
   ]
 }

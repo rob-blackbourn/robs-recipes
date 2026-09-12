@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Combine sauces, honey, oil, sherry and garlic in large bowl, add prawns and mix well."
+      "text": "Combine sauces, honey, oil, sherry and garlic in large bowl, add prawns and mix well."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Cover and marinate for 1-2 hours."
+      "text": "Cover and marinate for 1-2 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Barbecue over high heat until prawns are cooked, brushing with marinade while cooking."
+      "text": "Barbecue over high heat until prawns are cooked, brushing with marinade while cooking."
     }
   ],
   "comment": [

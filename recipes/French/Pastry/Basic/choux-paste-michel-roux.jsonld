@@ -17,23 +17,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Combine the water, milk, butter, salt and sugar in a saucepan, and set over a low heat."
+      "text": "Combine the water, milk, butter, salt and sugar in a saucepan, and set over a low heat."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to a boil and immediately remove from the heat."
+      "text": "Bring to a boil and immediately remove from the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Shower with flour and mix with a wooden spoon until completely smooth."
+      "text": "Shower with flour and mix with a wooden spoon until completely smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Return the pan to a medium heat and stir continuously for 1 minute to dry out the paste, then tip into a bowl and allow to cool."
+      "text": "Return the pan to a medium heat and stir continuously for 1 minute to dry out the paste, then tip into a bowl and allow to cool."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the eggs one at a time, beating with the wooden spoon or in a food mixer. Once the eggs are combined the paste should be smooth and shiney with a thick ribbon like consistency."
+      "text": "Add the eggs one at a time, beating with the wooden spoon or in a food mixer. Once the eggs are combined the paste should be smooth and shiney with a thick ribbon like consistency."
     }
   ]
 }

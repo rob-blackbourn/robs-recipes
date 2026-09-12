@@ -16,23 +16,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. In a bowl combine the egg yolks, mustard and a little salt and pepper."
+      "text": "In a bowl combine the egg yolks, mustard and a little salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Pour in the oil in a thin stream. whisking continually."
+      "text": "Pour in the oil in a thin stream. whisking continually."
     },
     {
       "@type": "HowToStep",
-      "text": "3. When it is all incorporated, whisk more vigorously for 30 seconds until glossy."
+      "text": "When it is all incorporated, whisk more vigorously for 30 seconds until glossy."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the hot vinegar or cold lemon juice."
+      "text": "Add the hot vinegar or cold lemon juice."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Check the seasoning."
+      "text": "Check the seasoning."
     }
   ]
 }

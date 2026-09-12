@@ -21,19 +21,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Add the chilli and salt and pound."
+      "text": "Add the chilli and salt and pound."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the galangal, lemongrass, kaffir lime rind, and coriander root and pound finely."
+      "text": "Add the galangal, lemongrass, kaffir lime rind, and coriander root and pound finely."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the garlic, shallot, coriander seed, cumin and shrimp paste."
+      "text": "Add the garlic, shallot, coriander seed, cumin and shrimp paste."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Continue pounding until a smooth paste."
+      "text": "Continue pounding until a smooth paste."
     }
   ]
 }

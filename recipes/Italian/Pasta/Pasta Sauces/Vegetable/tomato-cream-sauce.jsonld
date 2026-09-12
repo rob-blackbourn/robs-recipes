@@ -17,19 +17,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat olive oil in a pan over medium heat.  Chop tomatoes and garlic and add to the pan.  Cook covered for about 10 minutes until tomatoes soften."
+      "text": "Heat olive oil in a pan over medium heat.  Chop tomatoes and garlic and add to the pan.  Cook covered for about 10 minutes until tomatoes soften."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add white wine and chopped thyme.  Bring to boil and cook uncovered for 5 more minutes until half of liquid evaporates.  Remove from heat, let it cool for a bit."
+      "text": "Add white wine and chopped thyme.  Bring to boil and cook uncovered for 5 more minutes until half of liquid evaporates.  Remove from heat, let it cool for a bit."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Then transfer to blender and puree the tomato mixture.  Transfer the puree back to the pan, reheat to medium heat and add heavy cream.  Stir until well incorporated."
+      "text": "Then transfer to blender and puree the tomato mixture.  Transfer the puree back to the pan, reheat to medium heat and add heavy cream.  Stir until well incorporated."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Cut each grape tomato in half and add all of them to the pan with the tomato cream sauce. Salt to taste and and more chopped thyme if needed.  Cook for 5 more minutes."
+      "text": "Cut each grape tomato in half and add all of them to the pan with the tomato cream sauce. Salt to taste and and more chopped thyme if needed.  Cook for 5 more minutes."
     }
   ]
 }

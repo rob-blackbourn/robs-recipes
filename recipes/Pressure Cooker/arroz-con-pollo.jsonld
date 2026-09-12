@@ -27,55 +27,55 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Mix rice and 375 ml of water in a metal bowl. Make sure it can loosely fit in your pressure cooker."
+      "text": "Mix rice and 375 ml of water in a metal bowl. Make sure it can loosely fit in your pressure cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Place your steamer basket and the bowl in the pressure cooker."
+      "text": "Place your steamer basket and the bowl in the pressure cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the rest of the water to the cooker."
+      "text": "Add the rest of the water to the cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Securely close the cooker with the pressure regulator on the vent pipe."
+      "text": "Securely close the cooker with the pressure regulator on the vent pipe."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Cook at 15 PSI for 5 minutes. The pressure regulator should rock slowly during this time."
+      "text": "Cook at 15 PSI for 5 minutes. The pressure regulator should rock slowly during this time."
     },
     {
       "@type": "HowToStep",
-      "text": "6. After cooking time is done, let the pressure drop on its own. Then remove the bowl of rice, water and steamer basket from the cooker."
+      "text": "After cooking time is done, let the pressure drop on its own. Then remove the bowl of rice, water and steamer basket from the cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Meanwhile, season the chicken with paprika, salt and pepper."
+      "text": "Meanwhile, season the chicken with paprika, salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Heat oil in the pressure cooker and cook a few pieces of the chicken at a time until browned. Set chicken aside."
+      "text": "Heat oil in the pressure cooker and cook a few pieces of the chicken at a time until browned. Set chicken aside."
     },
     {
       "@type": "HowToStep",
-      "text": "9. Next, saute garlic and onions until softened."
+      "text": "Next, saute garlic and onions until softened."
     },
     {
       "@type": "HowToStep",
-      "text": "10. Place the chicken back to the pressure cooker, together with the red pepper, saffron, bay leaf and broth."
+      "text": "Place the chicken back to the pressure cooker, together with the red pepper, saffron, bay leaf and broth."
     },
     {
       "@type": "HowToStep",
-      "text": "11. Close the pressure cooker with the pressure regulator on the vent pipe."
+      "text": "Close the pressure cooker with the pressure regulator on the vent pipe."
     },
     {
       "@type": "HowToStep",
-      "text": "12. Cook at 15 PSI for 8 minutes. The pressure regulator should rock slowly during this time."
+      "text": "Cook at 15 PSI for 8 minutes. The pressure regulator should rock slowly during this time."
     },
     {
       "@type": "HowToStep",
-      "text": "13. Remove the chicken and stir in with the rice. Add in green peas, tomato, olives, and pimiento."
+      "text": "Remove the chicken and stir in with the rice. Add in green peas, tomato, olives, and pimiento."
     }
   ]
 }

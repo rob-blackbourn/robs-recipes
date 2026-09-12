@@ -17,19 +17,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Boil the peppers for 10 minutes. Allow to cool, then peel and chop."
+      "text": "Boil the peppers for 10 minutes. Allow to cool, then peel and chop."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Cook the tomatoes in a little olive oil with the crushed clove of garlic."
+      "text": "Cook the tomatoes in a little olive oil with the crushed clove of garlic."
     },
     {
       "@type": "HowToStep",
-      "text": "3. When the tomato is reduced to a puree, add the sauce and the peppers."
+      "text": "When the tomato is reduced to a puree, add the sauce and the peppers."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Finish with a little parsley."
+      "text": "Finish with a little parsley."
     }
   ]
 }

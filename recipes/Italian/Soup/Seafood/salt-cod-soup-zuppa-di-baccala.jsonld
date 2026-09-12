@@ -22,27 +22,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Soak the fillets in cold water for 24 hours, changing the water a few times during this period."
+      "text": "Soak the fillets in cold water for 24 hours, changing the water a few times during this period."
     },
     {
       "@type": "HowToStep",
-      "text": "2.   Chop the onion, carrots, celery, garlic and parsley stalks. Heat a splash of olive oil in a saucepan, and add the chopped vegetables, parsley stalks and dried chilli. Sweat very slowly with the lid ajar for 15 to 20 minutes until soft, but not brown."
+      "text": "Chop the onion, carrots, celery, garlic and parsley stalks. Heat a splash of olive oil in a saucepan, and add the chopped vegetables, parsley stalks and dried chilli. Sweat very slowly with the lid ajar for 15 to 20 minutes until soft, but not brown."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the tomatoes and simmer for 10 minutes, then add the stock and bring back to the boil."
+      "text": "Add the tomatoes and simmer for 10 minutes, then add the stock and bring back to the boil."
     },
     {
       "@type": "HowToStep",
-      "text": "4.   Break up any larger pieces of tomato with a wooden spoon and drop the salt cod fillets into the hot soup. Simmer gently for 15 minutes, just until the fish has poached and flakes apart when prodded with a fork."
+      "text": "Break up any larger pieces of tomato with a wooden spoon and drop the salt cod fillets into the hot soup. Simmer gently for 15 minutes, just until the fish has poached and flakes apart when prodded with a fork."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Pick out any bits of skin. Gently fold the flakes of fish through the soup, taste and season with pepper, salt (if needed) and a little lemon juice."
+      "text": "Pick out any bits of skin. Gently fold the flakes of fish through the soup, taste and season with pepper, salt (if needed) and a little lemon juice."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Chop the parsley and celery leaves and scatter over the soup. Drizzle with plenty of extra virgin olive oil."
+      "text": "Chop the parsley and celery leaves and scatter over the soup. Drizzle with plenty of extra virgin olive oil."
     }
   ]
 }

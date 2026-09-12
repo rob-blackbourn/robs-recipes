@@ -21,27 +21,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Wash the monkfish under cold water and pat dry with a paper towel."
+      "text": "Wash the monkfish under cold water and pat dry with a paper towel."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Heat the oil in a large frying pan over medium-high heat. Season the monkfish with salt and flour it lightly. Place the monkfish in the pan without crowding. Cook, turning once, until the fish has a nice golden colour (about 2 minutes per side)."
+      "text": "Heat the oil in a large frying pan over medium-high heat. Season the monkfish with salt and flour it lightly. Place the monkfish in the pan without crowding. Cook, turning once, until the fish has a nice golden colour (about 2 minutes per side)."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Discard half of the fat in the pan and return it to medium heat. Add the garlic and anchovies and stir for 20 to 30 seconds. Add the wine and cook, stirring and scraping the bottom of the pan with a wooden spoon until the wine is reduced by half. Add the tomatoes, season with salt and red pepper flakes and bring the sauce to a fast simmer."
+      "text": "Discard half of the fat in the pan and return it to medium heat. Add the garlic and anchovies and stir for 20 to 30 seconds. Add the wine and cook, stirring and scraping the bottom of the pan with a wooden spoon until the wine is reduced by half. Add the tomatoes, season with salt and red pepper flakes and bring the sauce to a fast simmer."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Return the monkfish and juices to the pan. Cover and reduce the heat to low. Simmer, basting once or twice, until the fish is cooked (about 7 minutes)."
+      "text": "Return the monkfish and juices to the pan. Cover and reduce the heat to low. Simmer, basting once or twice, until the fish is cooked (about 7 minutes)."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Place the fish on warm serving dishes."
+      "text": "Place the fish on warm serving dishes."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add the basil and butter to the pan, raise the heat to high and stir quickly for a minute to thicken the sauce. Adjust the seasoning and pour over the fish."
+      "text": "Add the basil and butter to the pan, raise the heat to high and stir quickly for a minute to thicken the sauce. Adjust the seasoning and pour over the fish."
     }
   ]
 }

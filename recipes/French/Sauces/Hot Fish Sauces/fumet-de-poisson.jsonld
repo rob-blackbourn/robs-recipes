@@ -22,19 +22,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put all the ingredients in a pan, adding the water last."
+      "text": "Put all the ingredients in a pan, adding the water last."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring slowly to the boil, skimming until the liquid is clear."
+      "text": "Bring slowly to the boil, skimming until the liquid is clear."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cover, and simmer for 30 minutes."
+      "text": "Cover, and simmer for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4 Strain the stock through a double muslin lined sieve."
+      "text": "Strain the stock through a double muslin lined sieve."
     }
   ]
 }

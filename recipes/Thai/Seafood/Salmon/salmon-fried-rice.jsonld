@@ -21,39 +21,39 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat oil in a hot wok on a high heat."
+      "text": "Heat oil in a hot wok on a high heat."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the garlic, fry until fragrant and beginning to colour, then reserve."
+      "text": "Add the garlic, fry until fragrant and beginning to colour, then reserve."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the shallot, fry and reserve."
+      "text": "Add the shallot, fry and reserve."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the egg. Wait a few seconds for the albumen to whiten, then continually move. Once cooked reserve."
+      "text": "Add the egg. Wait a few seconds for the albumen to whiten, then continually move. Once cooked reserve."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Reduce to a medium heat and add the salmon, after a few seconds move continually. When cooked reserve."
+      "text": "Reduce to a medium heat and add the salmon, after a few seconds move continually. When cooked reserve."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add a little more oil, and then the rice. Fry gently mixing well."
+      "text": "Add a little more oil, and then the rice. Fry gently mixing well."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Add the soy sauce, sugar, and pepper, and mix thoroughly."
+      "text": "Add the soy sauce, sugar, and pepper, and mix thoroughly."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Add the reserved egg and salmon."
+      "text": "Add the reserved egg and salmon."
     },
     {
       "@type": "HowToStep",
-      "text": "9. Garnish with coriander and cucumber."
+      "text": "Garnish with coriander and cucumber."
     }
   ]
 }

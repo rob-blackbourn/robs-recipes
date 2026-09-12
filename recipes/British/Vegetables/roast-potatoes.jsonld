@@ -18,27 +18,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Preheat the oven to 190C/375F/Gas 5."
+      "text": "Preheat the oven to 190C/375F/Gas 5."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Parboil the potatoes for 8 minutes."
+      "text": "Parboil the potatoes for 8 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Drain, and shake until slightly rough on the outside."
+      "text": "Drain, and shake until slightly rough on the outside."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Dust with semolina flour."
+      "text": "Dust with semolina flour."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Put the fat in the baking tray, and leave in the oven for 5 minutes."
+      "text": "Put the fat in the baking tray, and leave in the oven for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Roast for 45 minutes to 1 hour, basting occasionally."
+      "text": "Roast for 45 minutes to 1 hour, basting occasionally."
     }
   ]
 }

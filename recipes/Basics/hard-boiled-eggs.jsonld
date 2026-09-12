@@ -10,19 +10,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the eggs in a cold pan of water."
+      "text": "Put the eggs in a cold pan of water."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Turn on the heat and bring to the boil."
+      "text": "Turn on the heat and bring to the boil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. From when it starts cook for 7 1/2 minutes."
+      "text": "From when it starts cook for 7 1/2 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Transfer to a bowl of cold water."
+      "text": "Transfer to a bowl of cold water."
     }
   ],
   "comment": [

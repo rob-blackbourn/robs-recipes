@@ -27,27 +27,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oil and butter in a saucepan."
+      "text": "Heat the oil and butter in a saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the thyme, garlic, carrots onion, celery and fennel. Cook over a medium heat for 8-10 minutes without colouring, stirring constantly, until soft."
+      "text": "Add the thyme, garlic, carrots onion, celery and fennel. Cook over a medium heat for 8-10 minutes without colouring, stirring constantly, until soft."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add enough stock to cover the vegetables, reduce the heat and simmer for 8-10 more minutes."
+      "text": "Add enough stock to cover the vegetables, reduce the heat and simmer for 8-10 more minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the potato and cook for a further 10 minutes."
+      "text": "Add the potato and cook for a further 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the courgette, pasta and parsley and warm through."
+      "text": "Add the courgette, pasta and parsley and warm through."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Season and serve with parmesan."
+      "text": "Season and serve with parmesan."
     }
   ]
 }

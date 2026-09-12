@@ -12,15 +12,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Make the rice."
+      "text": "Make the rice."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Make a bowl of slightly salty water."
+      "text": "Make a bowl of slightly salty water."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Moisten your hands with the salty water and mold into shape."
+      "text": "Moisten your hands with the salty water and mold into shape."
     }
   ]
 }

@@ -23,19 +23,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Fry the onion and garlic over a medium heat."
+      "text": "Fry the onion and garlic over a medium heat."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add ginger, saffron and cinnamon, followed by the lemon juice, and coarsely chop the pulp of one preserved lemon and the rind of both, cut into slivers. Add the parsley and 2 tbsp chopped coriander and mix well."
+      "text": "Add ginger, saffron and cinnamon, followed by the lemon juice, and coarsely chop the pulp of one preserved lemon and the rind of both, cut into slivers. Add the parsley and 2 tbsp chopped coriander and mix well."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Arrange the chicken on top and scatter over the olives. Pour 80ml water into the pan and simmer for 40 mins."
+      "text": "Arrange the chicken on top and scatter over the olives. Pour 80ml water into the pan and simmer for 40 mins."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Season and garnish with coriander."
+      "text": "Season and garnish with coriander."
     }
   ]
 }

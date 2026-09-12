@@ -20,15 +20,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cook the pasta in a large pan of salted boiling water."
+      "text": "Cook the pasta in a large pan of salted boiling water."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Put the remaining ingredients into a small pan and warm through."
+      "text": "Put the remaining ingredients into a small pan and warm through."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Drain the pasta and mix with the sauce."
+      "text": "Drain the pasta and mix with the sauce."
     }
   ]
 }

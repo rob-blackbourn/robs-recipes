@@ -16,19 +16,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Clean the liver and cut into 1/2cm slices."
+      "text": "Clean the liver and cut into 1/2cm slices."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Dip in and out of simmering water until just cooked."
+      "text": "Dip in and out of simmering water until just cooked."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Combine chilli with lime juice and fish sauce."
+      "text": "Combine chilli with lime juice and fish sauce."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Dress the liver with the mixture and add the remaining ingredients."
+      "text": "Dress the liver with the mixture and add the remaining ingredients."
     }
   ]
 }

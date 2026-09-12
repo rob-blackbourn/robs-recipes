@@ -23,15 +23,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Puree the tomatoes in a food processor."
+      "text": "Puree the tomatoes in a food processor."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Melt the butter in a large saucepan over a moderate heat. Add the onion and bacon then cook, stirring for 5 minutes. Add the garlic and chilies then cook, stirring occasionally for another 5 minutes until the onion is tender."
+      "text": "Melt the butter in a large saucepan over a moderate heat. Add the onion and bacon then cook, stirring for 5 minutes. Add the garlic and chilies then cook, stirring occasionally for another 5 minutes until the onion is tender."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the tomatoes, oregano and thyme and season to taste with salt and pepper. Cover the sauce, bring to the boil then reduce the heat and simmer for about 30 minutes. Garnish with parsley and serve with grated Parmesan cheese."
+      "text": "Add the tomatoes, oregano and thyme and season to taste with salt and pepper. Cover the sauce, bring to the boil then reduce the heat and simmer for about 30 minutes. Garnish with parsley and serve with grated Parmesan cheese."
     }
   ]
 }

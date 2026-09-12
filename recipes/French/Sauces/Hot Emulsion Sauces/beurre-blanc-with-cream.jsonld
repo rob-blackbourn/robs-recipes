@@ -18,19 +18,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the shallot, water, wine and vinegar into a small saucepan and reduce until almost all the liquid has gone."
+      "text": "Put the shallot, water, wine and vinegar into a small saucepan and reduce until almost all the liquid has gone."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Remove from the heat and allow to cool a little."
+      "text": "Remove from the heat and allow to cool a little."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Whisk in the cold butter a piece at a time until the sauce has a custard like consistency, returning the sauce to the heat from time to time to keep warm."
+      "text": "Whisk in the cold butter a piece at a time until the sauce has a custard like consistency, returning the sauce to the heat from time to time to keep warm."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Season."
+      "text": "Season."
     }
   ]
 }

@@ -16,15 +16,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place the spinach in a large saucepan pan with only the water which is left clinging to the leaves. Cover, place over a medium heat and cook for a few minutes, shaking the pan vigorously from time to time, until the spinach has wilted."
+      "text": "Place the spinach in a large saucepan pan with only the water which is left clinging to the leaves. Cover, place over a medium heat and cook for a few minutes, shaking the pan vigorously from time to time, until the spinach has wilted."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Drain well, squeezing as much water out of the leaves as possible then transfer to a chopping board and chop."
+      "text": "Drain well, squeezing as much water out of the leaves as possible then transfer to a chopping board and chop."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Place the chopped spinach in a mixing bowl together with the and cheeses, egg, nutmeg, salt and pepper and mix well. Allow to cool before using."
+      "text": "Place the chopped spinach in a mixing bowl together with the and cheeses, egg, nutmeg, salt and pepper and mix well. Allow to cool before using."
     }
   ]
 }

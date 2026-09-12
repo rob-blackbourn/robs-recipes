@@ -14,15 +14,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Preheat the oven to Gas mark 1/4 (90C)."
+      "text": "Preheat the oven to Gas mark 1/4 (90C)."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Split the vanilla pod lengthwise and scrape out the seeds. Set the seeds aside."
+      "text": "Split the vanilla pod lengthwise and scrape out the seeds. Set the seeds aside."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Follow the preparation for classic meringues."
+      "text": "Follow the preparation for classic meringues."
     }
   ],
   "comment": [

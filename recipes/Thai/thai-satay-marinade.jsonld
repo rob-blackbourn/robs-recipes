@@ -26,11 +26,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place all marinade ingredients in a blender and whizz until smooth."
+      "text": "Place all marinade ingredients in a blender and whizz until smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Leave the meat in the marinade for 4-18 hours."
+      "text": "Leave the meat in the marinade for 4-18 hours."
     }
   ],
   "comment": [

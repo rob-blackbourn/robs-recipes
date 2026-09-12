@@ -22,35 +22,35 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the cooker, add oil and brown roast on all sides."
+      "text": "Heat the cooker, add oil and brown roast on all sides."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add veggies and seasonings."
+      "text": "Add veggies and seasonings."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Blend the paste with the broth and wine."
+      "text": "Blend the paste with the broth and wine."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Pour over meat and veg."
+      "text": "Pour over meat and veg."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Close cover securely."
+      "text": "Close cover securely."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Place pressure regulator on vent pipe and cook 35 minutes at 15 pounds pressure."
+      "text": "Place pressure regulator on vent pipe and cook 35 minutes at 15 pounds pressure."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Let pressure drop of its own accord."
+      "text": "Let pressure drop of its own accord."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Thicken gravy if desired."
+      "text": "Thicken gravy if desired."
     }
   ]
 }

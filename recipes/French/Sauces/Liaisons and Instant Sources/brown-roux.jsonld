@@ -14,19 +14,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the clarified butter in a saucepan."
+      "text": "Heat the clarified butter in a saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Take the pan off the heat and stir in the flour using a small whisk or spatual."
+      "text": "Take the pan off the heat and stir in the flour using a small whisk or spatual."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cook the roux over a medium heat for 8 minutes, stirring continuously until it becomes chestnut brown."
+      "text": "Cook the roux over a medium heat for 8 minutes, stirring continuously until it becomes chestnut brown."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Transfer to a bowl and cover with cling film."
+      "text": "Transfer to a bowl and cover with cling film."
     }
   ]
 }

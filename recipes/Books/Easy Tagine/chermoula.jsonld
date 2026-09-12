@@ -16,19 +16,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Use a mortar and pestle to pound the garlic, chilli and salt into a paste."
+      "text": "Use a mortar and pestle to pound the garlic, chilli and salt into a paste."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the coriander leaves and work into a paste."
+      "text": "Add the coriander leaves and work into a paste."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Mix in the saffron and cumin."
+      "text": "Mix in the saffron and cumin."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Bind with the oil and lemon juice."
+      "text": "Bind with the oil and lemon juice."
     }
   ]
 }

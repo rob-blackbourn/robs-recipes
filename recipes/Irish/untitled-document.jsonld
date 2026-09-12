@@ -28,65 +28,65 @@
   "recipeInstructions": [
     {
       "@type": "HowToSection",
-      "name": "1. Stew",
+      "name": "Stew",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "1.1. Heat oil in a large heavy based casserole pan over a medium heat."
+          "text": "Heat oil in a large heavy based casserole pan over a medium heat."
         },
         {
           "@type": "HowToStep",
-          "text": "1.2. In batches, brown the chicken skin side down  for 3-4 minutes until golden. Set aside."
+          "text": "In batches, brown the chicken skin side down  for 3-4 minutes until golden. Set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "1.3. Lower the heat slightly and add the butter, celery, carrots, onion and thyme. Stir occasionally for about 6-8 minutes until softened."
+          "text": "Lower the heat slightly and add the butter, celery, carrots, onion and thyme. Stir occasionally for about 6-8 minutes until softened."
         },
         {
           "@type": "HowToStep",
-          "text": "1.4. Add the flour and cook for 60 seconds while stirring."
+          "text": "Add the flour and cook for 60 seconds while stirring."
         },
         {
           "@type": "HowToStep",
-          "text": "1.5. Add the chicken."
+          "text": "Add the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "1.6. Pour over the chicken stock and bring to a boil."
+          "text": "Pour over the chicken stock and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "1.7. Reduce the heat to a simmer and cook  for 30-35 minutes without a lid until the chicken is tender and the sauce has reduced, it should be thick."
+          "text": "Reduce the heat to a simmer and cook  for 30-35 minutes without a lid until the chicken is tender and the sauce has reduced, it should be thick."
         },
         {
           "@type": "HowToStep",
-          "text": "1.8. Season to taste with sea salt and freshly ground white pepper."
+          "text": "Season to taste with sea salt and freshly ground white pepper."
         }
       ]
     },
     {
       "@type": "HowToSection",
-      "name": "2. Dumplings",
+      "name": "Dumplings",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "2.1. Rub the butter into the flour, season with lots of pepper and a little salt."
+          "text": "Rub the butter into the flour, season with lots of pepper and a little salt."
         },
         {
           "@type": "HowToStep",
-          "text": "2.2 Stir through the chives."
+          "text": "Stir through the chives."
         },
         {
           "@type": "HowToStep",
-          "text": "2.3 Mix through the buttermilk and cheddar."
+          "text": "Mix through the buttermilk and cheddar."
         },
         {
           "@type": "HowToStep",
-          "text": "2.4 Tear into rough pieces (about 12) onto the top of the chicken stew. They should cover the top of the surface."
+          "text": "Tear into rough pieces (about 12) onto the top of the chicken stew. They should cover the top of the surface."
         },
         {
           "@type": "HowToStep",
-          "text": "2.5 Replace lid and leave to simmer for 20-25 minutes. The dumplings when cooked will have covered the surface."
+          "text": "Replace lid and leave to simmer for 20-25 minutes. The dumplings when cooked will have covered the surface."
         }
       ]
     }

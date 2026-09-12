@@ -15,23 +15,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. For the crème anglaise, place the milk, double cream, vanilla pod and seeds into a non-stick saucepan and heat until just boiling."
+      "text": "For the crème anglaise, place the milk, double cream, vanilla pod and seeds into a non-stick saucepan and heat until just boiling."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Meanwhile, whisk together the egg yolks and caster sugar, until light and fluffy."
+      "text": "Meanwhile, whisk together the egg yolks and caster sugar, until light and fluffy."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Remove the vanilla pod from the warm milk and cream mixture and gradually add the milk to the beaten eggs and sugar, whisking continuously."
+      "text": "Remove the vanilla pod from the warm milk and cream mixture and gradually add the milk to the beaten eggs and sugar, whisking continuously."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Pour the mixture back into the saucepan and heat, whisking continuously, for a further two minutes, or until the custard has thickened slightly."
+      "text": "Pour the mixture back into the saucepan and heat, whisking continuously, for a further two minutes, or until the custard has thickened slightly."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Remove from the heat and stir in the orange zest."
+      "text": "Remove from the heat and stir in the orange zest."
     }
   ]
 }

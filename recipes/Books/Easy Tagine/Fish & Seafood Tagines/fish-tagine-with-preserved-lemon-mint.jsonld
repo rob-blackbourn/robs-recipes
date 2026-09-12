@@ -21,27 +21,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Marinade the fish in all but 2 tsp of the chermoula for 1-2 hours."
+      "text": "Marinade the fish in all but 2 tsp of the chermoula for 1-2 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Fry the onion, carrot and celery over a medium heat until softened."
+      "text": "Fry the onion, carrot and celery over a medium heat until softened."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the preserved lemons, reserved chermoula, and tomatoes. Stir well and cook for 10 minutes."
+      "text": "Add the preserved lemons, reserved chermoula, and tomatoes. Stir well and cook for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the stock and the wine, bring to the boil, then simmer for another 10 minutes."
+      "text": "Add the stock and the wine, bring to the boil, then simmer for another 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the fish to the tagine, cover, and cook for 8 minutes."
+      "text": "Add the fish to the tagine, cover, and cook for 8 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Season, and scatter with mint."
+      "text": "Season, and scatter with mint."
     }
   ]
 }

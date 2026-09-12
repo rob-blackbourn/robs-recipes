@@ -17,19 +17,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Add all the ingredients to a pan."
+      "text": "Add all the ingredients to a pan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. On a medium heat, dissolve the sugar."
+      "text": "On a medium heat, dissolve the sugar."
     },
     {
       "@type": "HowToStep",
-      "text": "3. When it starts to boil remove the foam."
+      "text": "When it starts to boil remove the foam."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Reduce the heat, and allow the sauce to reduce a little."
+      "text": "Reduce the heat, and allow the sauce to reduce a little."
     }
   ]
 }

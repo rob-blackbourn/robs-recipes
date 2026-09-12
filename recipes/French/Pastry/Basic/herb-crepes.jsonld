@@ -14,27 +14,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the flour in a bowl, season, and make a well in the centre."
+      "text": "Put the flour in a bowl, season, and make a well in the centre."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add one-third of the milk and the eggs then whisk lightly to make a smooth batter."
+      "text": "Add one-third of the milk and the eggs then whisk lightly to make a smooth batter."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Pour in the rest of the milk and mix thoroughly."
+      "text": "Pour in the rest of the milk and mix thoroughly."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Pass the batter through a chinois or fine sieve."
+      "text": "Pass the batter through a chinois or fine sieve."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the chopped herbs."
+      "text": "Add the chopped herbs."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Cover with cling film and leave to rest for at least 30 minutes in the fridge."
+      "text": "Cover with cling film and leave to rest for at least 30 minutes in the fridge."
     }
   ]
 }

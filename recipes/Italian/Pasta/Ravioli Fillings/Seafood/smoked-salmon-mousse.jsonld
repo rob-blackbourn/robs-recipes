@@ -14,11 +14,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Puree the smoked salmon and egg until smooth."
+      "text": "Puree the smoked salmon and egg until smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the cream, chives and a little pepper."
+      "text": "Add the cream, chives and a little pepper."
     }
   ]
 }

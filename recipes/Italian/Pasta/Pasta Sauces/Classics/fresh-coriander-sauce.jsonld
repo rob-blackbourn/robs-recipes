@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Set some of the coriander leaves aside for the garnish and chop the rest finely. Place them in a mortar with the pine nuts and crush with a pestle."
+      "text": "Set some of the coriander leaves aside for the garnish and chop the rest finely. Place them in a mortar with the pine nuts and crush with a pestle."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Heat the oil in a saucepan. Add the shallots and fry for two minutes, stirring constantly. Lower the heat and stir in the coriander mixture with the cream cheese and then the milk or cream. Season with salt and pepper. Bring to the boil, then reduce the heat an simmer for 2 minutes or until thoroughly heated through."
+      "text": "Heat the oil in a saucepan. Add the shallots and fry for two minutes, stirring constantly. Lower the heat and stir in the coriander mixture with the cream cheese and then the milk or cream. Season with salt and pepper. Bring to the boil, then reduce the heat an simmer for 2 minutes or until thoroughly heated through."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Garnish the reserved coriander leaves then serve."
+      "text": "Garnish the reserved coriander leaves then serve."
     }
   ]
 }

@@ -20,15 +20,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oil in a pan and cook the onion, garlic and bacon until lightly coloured."
+      "text": "Heat the oil in a pan and cook the onion, garlic and bacon until lightly coloured."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the chilies, tomatoes, and 25 g of the cheese. Cook over a gentle heat for 30-40 minutes until the sauce thickens. Season to taste with salt and pepper."
+      "text": "Add the chilies, tomatoes, and 25 g of the cheese. Cook over a gentle heat for 30-40 minutes until the sauce thickens. Season to taste with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Server at once, sprinkled with the remaining cheese."
+      "text": "Server at once, sprinkled with the remaining cheese."
     }
   ]
 }

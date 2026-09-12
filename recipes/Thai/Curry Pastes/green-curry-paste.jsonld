@@ -21,15 +21,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Combine coriander seeds, cumin and peppercorn in a mortar, pound well. Transfer to a bowl and put aside."
+      "text": "Combine coriander seeds, cumin and peppercorn in a mortar, pound well. Transfer to a bowl and put aside."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Pound hot chilies and salt together well. Add the remaining ingredients except shrimp paste, pound until mixed well."
+      "text": "Pound hot chilies and salt together well. Add the remaining ingredients except shrimp paste, pound until mixed well."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the cumin mixture and shrimp paste, continue pounding until smooth and fine."
+      "text": "Add the cumin mixture and shrimp paste, continue pounding until smooth and fine."
     }
   ]
 }

@@ -27,43 +27,43 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Prepare the pork loin by making cuts across the tough parts, including the fat. Pound the loin with a meat hammer to tenderize (not to make it thinner)."
+      "text": "Prepare the pork loin by making cuts across the tough parts, including the fat. Pound the loin with a meat hammer to tenderize (not to make it thinner)."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Season one side of the loin with salt and pepper."
+      "text": "Season one side of the loin with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put 1/4 egg into a shallow dish and beat lightly."
+      "text": "Put 1/4 egg into a shallow dish and beat lightly."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Coat both sides of the pork loin with flour using a brush, dip the floured pork loin into the beaten egg and coat with breadcrumbs."
+      "text": "Coat both sides of the pork loin with flour using a brush, dip the floured pork loin into the beaten egg and coat with breadcrumbs."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Deep fry at 170C until golden brown,turning once."
+      "text": "Deep fry at 170C until golden brown,turning once."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Drain the fat and cut into 1” pieces."
+      "text": "Drain the fat and cut into 1” pieces."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Add the dashi stock to a medium frying pan with the soy sauce, mirin, sugar and onion."
+      "text": "Add the dashi stock to a medium frying pan with the soy sauce, mirin, sugar and onion."
     },
     {
       "@type": "HowToStep",
-      "text": "8. With the lid on, bring to the boil, then simmer for 3 minutes."
+      "text": "With the lid on, bring to the boil, then simmer for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "9. Add the pork loin to the pan, then cover with the beaten egg."
+      "text": "Add the pork loin to the pan, then cover with the beaten egg."
     },
     {
       "@type": "HowToStep",
-      "text": "10. With the lid on cook on high heat for 30 seconds."
+      "text": "With the lid on cook on high heat for 30 seconds."
     }
   ]
 }

@@ -15,23 +15,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. For the pasta, mix the flour and egg yolks in a blender with the salt until combined."
+      "text": "For the pasta, mix the flour and egg yolks in a blender with the salt until combined."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Turn out onto a floured surface and flour a pasta machine."
+      "text": "Turn out onto a floured surface and flour a pasta machine."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Starting at the lowest (thickest) setting, feed the dough through the machine, holding the dough with one hand as it comes out of the machine."
+      "text": "Starting at the lowest (thickest) setting, feed the dough through the machine, holding the dough with one hand as it comes out of the machine."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Change the setting on the machine to the next-thickest setting, flour the machine again and feed the pasta through."
+      "text": "Change the setting on the machine to the next-thickest setting, flour the machine again and feed the pasta through."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Repeat this process 3-4 times or until the desired thickness is achieved."
+      "text": "Repeat this process 3-4 times or until the desired thickness is achieved."
     }
   ]
 }

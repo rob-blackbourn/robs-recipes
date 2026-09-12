@@ -26,15 +26,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. First make the paste. Boil the peanuts for at least 30 minutes until very soft, drain and cool. Pound or blend the paste, adding the peanuts last."
+      "text": "First make the paste. Boil the peanuts for at least 30 minutes until very soft, drain and cool. Pound or blend the paste, adding the peanuts last."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Blanch the meat from a cold water start (to soften it’s flavour) and rinse. Bring the coconut milk to the boil, add the beef, then turn down the heat and braise gently until tender (about 2 hours). Allow to cool in the liquid, then remove and slice."
+      "text": "Blanch the meat from a cold water start (to soften it’s flavour) and rinse. Bring the coconut milk to the boil, add the beef, then turn down the heat and braise gently until tender (about 2 hours). Allow to cool in the liquid, then remove and slice."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Crack the coconut cream by simmering over a medium heat, then fry 4 tbsp of the paste in the coconut cream for 10 minutes. Season, first with palm sugar, and then, after a minute with the fish sauce. Moisten with 3 cups of coconut milk. Add the sliced beef, simmer briefly to heat through, and finish with the remaining ingredients."
+      "text": "Crack the coconut cream by simmering over a medium heat, then fry 4 tbsp of the paste in the coconut cream for 10 minutes. Season, first with palm sugar, and then, after a minute with the fish sauce. Moisten with 3 cups of coconut milk. Add the sliced beef, simmer briefly to heat through, and finish with the remaining ingredients."
     }
   ]
 }

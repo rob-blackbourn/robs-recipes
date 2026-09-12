@@ -21,31 +21,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oven to 180C/Gas 4/350F."
+      "text": "Heat the oven to 180C/Gas 4/350F."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Cut fish into pieces and dust with flour."
+      "text": "Cut fish into pieces and dust with flour."
     },
     {
       "@type": "HowToStep",
-      "text": "3. In a small saucepan, add the saki and mirin to a pan, and boil off the alcohol."
+      "text": "In a small saucepan, add the saki and mirin to a pan, and boil off the alcohol."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Reduce the heat then add the soy sauce and sugar and stir until dissolved. Remove from the heat."
+      "text": "Reduce the heat then add the soy sauce and sugar and stir until dissolved. Remove from the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "5. In a small frying pan over a medium heat, add a little oil, then fry the fish for 1 minute on each side."
+      "text": "In a small frying pan over a medium heat, add a little oil, then fry the fish for 1 minute on each side."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the ginger, spring onion, and the liquids."
+      "text": "Add the ginger, spring onion, and the liquids."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Put the pan in the oven for 5-7 minutes."
+      "text": "Put the pan in the oven for 5-7 minutes."
     }
   ]
 }

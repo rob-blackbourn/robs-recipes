@@ -18,27 +18,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the couscous in a pyrex bowl."
+      "text": "Put the couscous in a pyrex bowl."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Boil the water and pour over the couscous."
+      "text": "Boil the water and pour over the couscous."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cover with cling film and wait for 10 minutes."
+      "text": "Cover with cling film and wait for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Remove the cling film and fluff with a fork."
+      "text": "Remove the cling film and fluff with a fork."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add a knob of butter and season."
+      "text": "Add a knob of butter and season."
     },
     {
       "@type": "HowToStep",
-      "text": "6. If required add the optional ingredients."
+      "text": "If required add the optional ingredients."
     }
   ]
 }

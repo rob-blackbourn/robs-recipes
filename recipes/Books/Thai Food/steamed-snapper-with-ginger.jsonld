@@ -15,23 +15,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Clean and score the fish."
+      "text": "Clean and score the fish."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Place on a plate and cover with soy sauce, sugar and half the ginger."
+      "text": "Place on a plate and cover with soy sauce, sugar and half the ginger."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Steam until just cooked (around 20 minutes) checking the underside of the fish to make sure it is done."
+      "text": "Steam until just cooked (around 20 minutes) checking the underside of the fish to make sure it is done."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Strew with the rest of the ginger and spring onions and steam for a moment longer until the onions have softened."
+      "text": "Strew with the rest of the ginger and spring onions and steam for a moment longer until the onions have softened."
     },
     {
       "@type": "HowToStep",
-      "text": "5.Before serving remove as much of the liquid as possible, thn sprinkle with pepper and coriander."
+      "text": "Before serving remove as much of the liquid as possible, thn sprinkle with pepper and coriander."
     }
   ]
 }

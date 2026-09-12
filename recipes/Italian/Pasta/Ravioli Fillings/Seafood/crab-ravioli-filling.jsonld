@@ -18,11 +18,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oil and butter in a medium saucepan, add the shallot and garlic and sauté for 2-3 minutes."
+      "text": "Heat the oil and butter in a medium saucepan, add the shallot and garlic and sauté for 2-3 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Remove the pan from the heat, add the crabmeat, lemon juice and parsley, stir to mix well then stir in the crème fraîche, salt and pepper. Allow to cool before using."
+      "text": "Remove the pan from the heat, add the crabmeat, lemon juice and parsley, stir to mix well then stir in the crème fraîche, salt and pepper. Allow to cool before using."
     }
   ]
 }

@@ -16,43 +16,43 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Boil the egg for 6 minutes, then cool in cold water."
+      "text": "Boil the egg for 6 minutes, then cool in cold water."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Finely dice the egg (this is easier with an egg slicer)."
+      "text": "Finely dice the egg (this is easier with an egg slicer)."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Finely dice the onion."
+      "text": "Finely dice the onion."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Put the onion in a small bowl. Rub in a little salt. Rinse the onion in cold water, then drain with a mesh strainer. Squeeze out the water, and dry on a paper towel."
+      "text": "Put the onion in a small bowl. Rub in a little salt. Rinse the onion in cold water, then drain with a mesh strainer. Squeeze out the water, and dry on a paper towel."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the onion to the chopped egg."
+      "text": "Add the onion to the chopped egg."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Finely chop the parsley, and add to the mixture."
+      "text": "Finely chop the parsley, and add to the mixture."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Finely dice the pickled cucumber and add to the mixture."
+      "text": "Finely dice the pickled cucumber and add to the mixture."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Add the mayonnaise."
+      "text": "Add the mayonnaise."
     },
     {
       "@type": "HowToStep",
-      "text": "9. Add the lemon juice."
+      "text": "Add the lemon juice."
     },
     {
       "@type": "HowToStep",
-      "text": "10. Season with salt."
+      "text": "Season with salt."
     }
   ]
 }

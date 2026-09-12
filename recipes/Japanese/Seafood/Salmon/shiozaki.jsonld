@@ -11,23 +11,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Dry the salmon with kitchen towel."
+      "text": "Dry the salmon with kitchen towel."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Salt both sides."
+      "text": "Salt both sides."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Wrap in kitchen towel and put in a sieve over a bowl."
+      "text": "Wrap in kitchen towel and put in a sieve over a bowl."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Refridgerate for 24 hours."
+      "text": "Refridgerate for 24 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Unwrap and either dry fry or grill."
+      "text": "Unwrap and either dry fry or grill."
     }
   ]
 }

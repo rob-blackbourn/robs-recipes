@@ -15,19 +15,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Add to a medium saucepan, dashi stock, mirin and sake."
+      "text": "Add to a medium saucepan, dashi stock, mirin and sake."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to the boil, then add the sugar and soy sauce."
+      "text": "Bring to the boil, then add the sugar and soy sauce."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Bring the sauce back to the boil, stirring until the sugar has dissolved, then remove from the heat."
+      "text": "Bring the sauce back to the boil, stirring until the sugar has dissolved, then remove from the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Cool to room temperature before serving."
+      "text": "Cool to room temperature before serving."
     }
   ]
 }

@@ -25,27 +25,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Sweat onion and garlic in half the butter. • Add rice and sweat for 2 minutes. • Add wine and stock bit by bit."
+      "text": "Sweat onion and garlic in half the butter. • Add rice and sweat for 2 minutes. • Add wine and stock bit by bit."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to boil, reduce heat."
+      "text": "Bring to boil, reduce heat."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Simmer for 15 minutes or so, until liquid is absorbed and rice is cooked."
+      "text": "Simmer for 15 minutes or so, until liquid is absorbed and rice is cooked."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add flaked Smokies, then add rest of butter, cream, Parmesan and dill."
+      "text": "Add flaked Smokies, then add rest of butter, cream, Parmesan and dill."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Stir until all combined and butter melted."
+      "text": "Stir until all combined and butter melted."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Season to taste."
+      "text": "Season to taste."
     },
     {
       "@type": "HowToSection",
@@ -53,11 +53,11 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "7. Place cream, stock, lemon juice and mustard in pan."
+          "text": "Place cream, stock, lemon juice and mustard in pan."
         },
         {
           "@type": "HowToStep",
-          "text": "8. Bring to boil and reduce until coats the back of a spoon, season to taste."
+          "text": "Bring to boil and reduce until coats the back of a spoon, season to taste."
         }
       ]
     },
@@ -67,15 +67,15 @@
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "9. Place portion of haddock on tray, season with salt, drizzle with fresh squeezed lemon juice, place knob of butter on top. Grill until just cooked."
+          "text": "Place portion of haddock on tray, season with salt, drizzle with fresh squeezed lemon juice, place knob of butter on top. Grill until just cooked."
         },
         {
           "@type": "HowToStep",
-          "text": "10. Assembly"
+          "text": "Assembly"
         },
         {
           "@type": "HowToStep",
-          "text": "11. Spoon kedgeree onto centre of plate, place grilled haddock on top, top with soft poached egg and drizzle mustard cream sauce over the top and around plate."
+          "text": "Spoon kedgeree onto centre of plate, place grilled haddock on top, top with soft poached egg and drizzle mustard cream sauce over the top and around plate."
         }
       ]
     }

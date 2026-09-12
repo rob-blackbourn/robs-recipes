@@ -18,11 +18,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place all of the ingredients in a food processor and blend until they are smooth."
+      "text": "Place all of the ingredients in a food processor and blend until they are smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Season with salt and pepper."
+      "text": "Season with salt and pepper."
     }
   ],
   "comment": [

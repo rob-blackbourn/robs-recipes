@@ -16,19 +16,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Clean the beef and remove excess fat, as preferred. Marinate in the light soy sauce for an hour or so. Drain and pat dry."
+      "text": "Clean the beef and remove excess fat, as preferred. Marinate in the light soy sauce for an hour or so. Drain and pat dry."
     },
     {
       "@type": "HowToStep",
-      "text": "2. To make the chilli sauce, combine the ingredients and check seasoning: the sauce should taste hot, sour, and salty."
+      "text": "To make the chilli sauce, combine the ingredients and check seasoning: the sauce should taste hot, sour, and salty."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Grill the beef over high heat for 5-10 minutes, until cooked to the preferred degree, then rest for the same amount of time in a warm place."
+      "text": "Grill the beef over high heat for 5-10 minutes, until cooked to the preferred degree, then rest for the same amount of time in a warm place."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Slice and serve with the chilli sauce."
+      "text": "Slice and serve with the chilli sauce."
     }
   ]
 }

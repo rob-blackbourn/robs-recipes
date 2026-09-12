@@ -24,27 +24,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the fish, sake, and salt in the food processor and process of a few seconds."
+      "text": "Put the fish, sake, and salt in the food processor and process of a few seconds."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the egg, starch, and ginger root juice and process briefly."
+      "text": "Add the egg, starch, and ginger root juice and process briefly."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put the onion and carrot in a bowl and mix in the flour."
+      "text": "Put the onion and carrot in a bowl and mix in the flour."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Mix the fish mixture with the vegetable mixture."
+      "text": "Mix the fish mixture with the vegetable mixture."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Divide into 6 and deep fry for 4 minutes."
+      "text": "Divide into 6 and deep fry for 4 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Serve with the ginger and soy sauce."
+      "text": "Serve with the ginger and soy sauce."
     }
   ]
 }

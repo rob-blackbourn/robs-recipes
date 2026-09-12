@@ -21,35 +21,35 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Slice bacon into 1 cm pieces and fry in cooker."
+      "text": "Slice bacon into 1 cm pieces and fry in cooker."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add onion and cook for 2 minutes."
+      "text": "Add onion and cook for 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add round steak and brown meat for 5 minutes."
+      "text": "Add round steak and brown meat for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Stir in flour and blend thoroughly."
+      "text": "Stir in flour and blend thoroughly."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Stir in wine, beef stock and seasonings. Close the lid."
+      "text": "Stir in wine, beef stock and seasonings. Close the lid."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Cook for 20 minutes. Remove the lid."
+      "text": "Cook for 20 minutes. Remove the lid."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Add carrots and mushrooms. Close the lid."
+      "text": "Add carrots and mushrooms. Close the lid."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Cook for 5 minutes. Remove the lid."
+      "text": "Cook for 5 minutes. Remove the lid."
     }
   ]
 }

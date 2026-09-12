@@ -23,23 +23,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put all the ingredients except the peppercorns into a saucepan."
+      "text": "Put all the ingredients except the peppercorns into a saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to the boil over a high heat, then reduce immediately to a simmer."
+      "text": "Bring to the boil over a high heat, then reduce immediately to a simmer."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cook at a bare simmer for 45 minutes."
+      "text": "Cook at a bare simmer for 45 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. After 35 minutes add the muslin wrapped peppercorns."
+      "text": "After 35 minutes add the muslin wrapped peppercorns."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Strain and cool as quickly as possible."
+      "text": "Strain and cool as quickly as possible."
     }
   ]
 }

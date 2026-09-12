@@ -11,23 +11,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cut up the butter and place in a cold saucepan."
+      "text": "Cut up the butter and place in a cold saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to the boil."
+      "text": "Bring to the boil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Boil for 1 minute."
+      "text": "Boil for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Cool for 10 minutes."
+      "text": "Cool for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Strain through a damp muslin cloth."
+      "text": "Strain through a damp muslin cloth."
     }
   ],
   "tool": [

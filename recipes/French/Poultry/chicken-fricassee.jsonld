@@ -22,27 +22,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the oven to 190C/Gas 5."
+      "text": "Heat the oven to 190C/Gas 5."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Season the chicken and colour quickly in oil."
+      "text": "Season the chicken and colour quickly in oil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves."
+      "text": "Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Sauté the vegetables together until lightly Brown. Place them in with the chicken."
+      "text": "Sauté the vegetables together until lightly Brown. Place them in with the chicken."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken."
+      "text": "Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Place in the oven until the chicken is cooked through."
+      "text": "Place in the oven until the chicken is cooked through."
     }
   ],
   "comment": [

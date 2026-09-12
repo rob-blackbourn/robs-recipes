@@ -7,19 +7,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cut a small aubergine in half."
+      "text": "Cut a small aubergine in half."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Lay flat on a chopping board (skin side up) with the stem away from you."
+      "text": "Lay flat on a chopping board (skin side up) with the stem away from you."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cut small slices down from the stem, being sure not to cut all the way through the stem."
+      "text": "Cut small slices down from the stem, being sure not to cut all the way through the stem."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Fan out the slices."
+      "text": "Fan out the slices."
     }
   ]
 }

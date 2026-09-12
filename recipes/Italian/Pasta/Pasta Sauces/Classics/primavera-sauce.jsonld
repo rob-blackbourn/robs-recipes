@@ -23,31 +23,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1 Melt the butter in a large saucepan."
+      "text": "Melt the butter in a large saucepan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Gently fry the onion, carrot and celery until soft."
+      "text": "Gently fry the onion, carrot and celery until soft."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the peas, tomatoes, and courgette, and fry for another 5 minutes."
+      "text": "Add the peas, tomatoes, and courgette, and fry for another 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the asparagus and fry for a further minute."
+      "text": "Add the asparagus and fry for a further minute."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Stir in the cream. Bring to the boil and simmer gently until reduced by half."
+      "text": "Stir in the cream. Bring to the boil and simmer gently until reduced by half."
     },
     {
       "@type": "HowToStep",
-      "text": "7 Season to taste with salt and pepper."
+      "text": "Season to taste with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Garnish with parsley and serve with freshly grated Parmesan cheese."
+      "text": "Garnish with parsley and serve with freshly grated Parmesan cheese."
     }
   ]
 }

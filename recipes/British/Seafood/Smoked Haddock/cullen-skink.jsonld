@@ -19,35 +19,35 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Trim off and remove any bones, cut fish into small chunks."
+      "text": "Trim off and remove any bones, cut fish into small chunks."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Chop and wash leek and onion."
+      "text": "Chop and wash leek and onion."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put butter in a large pan and sweat onion and leek."
+      "text": "Put butter in a large pan and sweat onion and leek."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add flour, cook for 1 minute."
+      "text": "Add flour, cook for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Slowly add milk and cream, then add smoked haddock chunks and cook on a gentle heat, DO NOT BOIL this will cause it to split."
+      "text": "Slowly add milk and cream, then add smoked haddock chunks and cook on a gentle heat, DO NOT BOIL this will cause it to split."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add cooked potato."
+      "text": "Add cooked potato."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Finish off with parsley and salt & pepper to taste."
+      "text": "Finish off with parsley and salt & pepper to taste."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Serve with warm oatcakes or crusty bread."
+      "text": "Serve with warm oatcakes or crusty bread."
     }
   ]
 }

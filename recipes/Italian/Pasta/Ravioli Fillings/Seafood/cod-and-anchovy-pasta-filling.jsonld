@@ -18,19 +18,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the butter in a medium sized saucepan, add the onion and sauté over a medium heat for 5 minutes until soft and translucent."
+      "text": "Heat the butter in a medium sized saucepan, add the onion and sauté over a medium heat for 5 minutes until soft and translucent."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the anchovies and continue to cook for 1-2 minutes, stirring until fully dissolved."
+      "text": "Add the anchovies and continue to cook for 1-2 minutes, stirring until fully dissolved."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the wine and cod and cook over a low/medium heat for 5-6 minutes, stirring from time to time, until most of the liquid has evaporated."
+      "text": "Add the wine and cod and cook over a low/medium heat for 5-6 minutes, stirring from time to time, until most of the liquid has evaporated."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Remove from the heat and allow to cool before mixing in the egg yolk, crème fraîche and pepper."
+      "text": "Remove from the heat and allow to cool before mixing in the egg yolk, crème fraîche and pepper."
     }
   ]
 }

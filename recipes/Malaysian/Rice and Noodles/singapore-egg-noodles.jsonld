@@ -22,31 +22,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. In a wok fry off the garlic."
+      "text": "In a wok fry off the garlic."
     },
     {
       "@type": "HowToStep",
-      "text": "2. When it becomes fragrant stir in the pork, fish, prawns,  and squid, tossing them around in the pan for 1 minute."
+      "text": "When it becomes fragrant stir in the pork, fish, prawns,  and squid, tossing them around in the pan for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Pour in the stock and simmer to reduce it."
+      "text": "Pour in the stock and simmer to reduce it."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the noodles and toss them around in the wok for 1 minute."
+      "text": "Add the noodles and toss them around in the wok for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Stir in the carrot and cabbage."
+      "text": "Stir in the carrot and cabbage."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add the soy sauces and cook until most of the liquid has been evaporated."
+      "text": "Add the soy sauces and cook until most of the liquid has been evaporated."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Season with pepper."
+      "text": "Season with pepper."
     }
   ]
 }

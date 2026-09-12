@@ -20,15 +20,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place a sieve over a glass bowl and grate the cucumber into the bowl. Push out as much water as possible."
+      "text": "Place a sieve over a glass bowl and grate the cucumber into the bowl. Push out as much water as possible."
     },
     {
       "@type": "HowToStep",
-      "text": "2.  Combine the yoghurt, cucumber, lemon juice and garlic. Add a dash of olive oil and sprinkle with paprika."
+      "text": "Combine the yoghurt, cucumber, lemon juice and garlic. Add a dash of olive oil and sprinkle with paprika."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Season with sugar, salt and pepper."
+      "text": "Season with sugar, salt and pepper."
     }
   ]
 }

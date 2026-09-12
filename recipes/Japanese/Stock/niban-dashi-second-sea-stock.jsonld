@@ -12,19 +12,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Combine all of the ingredients in a pan."
+      "text": "Combine all of the ingredients in a pan."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Place the pan over low heat and cook the mixture for 10 minutes."
+      "text": "Place the pan over low heat and cook the mixture for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Remove the pan from the heat and then strain the stock through a wire sieve lined with muslin or filter paper."
+      "text": "Remove the pan from the heat and then strain the stock through a wire sieve lined with muslin or filter paper."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Refrigerate the stock in a tightly covered container for up to 4 days in the refrigerator."
+      "text": "Refrigerate the stock in a tightly covered container for up to 4 days in the refrigerator."
     }
   ],
   "citation": [

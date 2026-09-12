@@ -14,15 +14,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Soften the butter to a thick cream."
+      "text": "Soften the butter to a thick cream."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Mix in the parsley and lemon."
+      "text": "Mix in the parsley and lemon."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Form into a roll and wrap in foil to store in the fridge."
+      "text": "Form into a roll and wrap in foil to store in the fridge."
     }
   ]
 }

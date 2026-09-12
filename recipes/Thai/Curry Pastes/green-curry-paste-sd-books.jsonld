@@ -22,19 +22,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Add both kinds of chilli to a food processor, with the salt, and process."
+      "text": "Add both kinds of chilli to a food processor, with the salt, and process."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the galangal, lemongrass, kaffir lime rind, and coriander root. Process."
+      "text": "Add the galangal, lemongrass, kaffir lime rind, and coriander root. Process."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the garlic, shallot, peppercorns, coriander seed, cumin and shrimp paste."
+      "text": "Add the garlic, shallot, peppercorns, coriander seed, cumin and shrimp paste."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Process until a smooth paste."
+      "text": "Process until a smooth paste."
     }
   ]
 }

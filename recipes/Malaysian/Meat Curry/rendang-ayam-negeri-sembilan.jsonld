@@ -24,19 +24,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Into a mixing bowl put chicken, 1 tsp salt, shallots, garlic lemongrass and group ingredients. Mix well and leave for 30 minutes."
+      "text": "Into a mixing bowl put chicken, 1 tsp salt, shallots, garlic lemongrass and group ingredients. Mix well and leave for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Transfer the marinated meat to a pot and add coconut cream. Bring to a slow boil."
+      "text": "Transfer the marinated meat to a pot and add coconut cream. Bring to a slow boil."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the turmeric leaves and simmer gently until the gravy is thick."
+      "text": "Add the turmeric leaves and simmer gently until the gravy is thick."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Stir in kerisik and salt to taste, then simmer until chicken is tender and very little gravy remains."
+      "text": "Stir in kerisik and salt to taste, then simmer until chicken is tender and very little gravy remains."
     }
   ]
 }

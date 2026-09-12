@@ -18,15 +18,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cook the potatoes until tender, then add the frozen peas for the last 2 minutes of cooking. Gently crush with half the butter."
+      "text": "Cook the potatoes until tender, then add the frozen peas for the last 2 minutes of cooking. Gently crush with half the butter."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Heat the rest of the butter in a pan and cook the haddock for 3 minutes on each side. Remove the haddock then add a splash of wine or chicken stock and reduce a little. Stir in the chives."
+      "text": "Heat the rest of the butter in a pan and cook the haddock for 3 minutes on each side. Remove the haddock then add a splash of wine or chicken stock and reduce a little. Stir in the chives."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put the potato on 2 plates, top with the haddock and the chive butter."
+      "text": "Put the potato on 2 plates, top with the haddock and the chive butter."
     }
   ]
 }

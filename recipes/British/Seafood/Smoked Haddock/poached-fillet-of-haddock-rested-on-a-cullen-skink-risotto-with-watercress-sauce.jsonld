@@ -22,27 +22,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. For risotto - fry onion, rice, ginger and lemon grass, slowly add stock till rice has a bite, finish with salt and pepper to taste."
+      "text": "For risotto - fry onion, rice, ginger and lemon grass, slowly add stock till rice has a bite, finish with salt and pepper to taste."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Fry leek and smoked haddock in a little white wine until cooked."
+      "text": "Fry leek and smoked haddock in a little white wine until cooked."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add risotto mixture and 100g of cream and cook until a thick consistency."
+      "text": "Add risotto mixture and 100g of cream and cook until a thick consistency."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Poach haddock in a little white wine and fish stock."
+      "text": "Poach haddock in a little white wine and fish stock."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Reduce rest of fish stock with cream, add watercress and blend till smooth texture."
+      "text": "Reduce rest of fish stock with cream, add watercress and blend till smooth texture."
     },
     {
       "@type": "HowToStep",
-      "text": "6.  Put risotto mixture in centre of plate, place poached haddock on top and pour sauce around it."
+      "text": "Put risotto mixture in centre of plate, place poached haddock on top and pour sauce around it."
     }
   ]
 }

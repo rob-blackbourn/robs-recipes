@@ -32,51 +32,51 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Make the spice paste."
+      "text": "Make the spice paste."
     },
     {
       "@type": "HowToStep",
-      "text": "1.1 Put all the spice paste ingredients except the oil into a food processor and process."
+      "text": "Put all the spice paste ingredients except the oil into a food processor and process."
     },
     {
       "@type": "HowToStep",
-      "text": "1.2 Add the oil and process into a paste, then set aside."
+      "text": "Add the oil and process into a paste, then set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Deep fry the shallots and set aside."
+      "text": "Deep fry the shallots and set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "3. In a wok, fry the spice paste in a little oil on a low heat for 3-4 minutes."
+      "text": "In a wok, fry the spice paste in a little oil on a low heat for 3-4 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the coconut milk and chicken stock and bring to the boil, stirring continually."
+      "text": "Add the coconut milk and chicken stock and bring to the boil, stirring continually."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the prawns, squid, and scallops, and simmer gently for 5-10 minutes until cooked."
+      "text": "Add the prawns, squid, and scallops, and simmer gently for 5-10 minutes until cooked."
     },
     {
       "@type": "HowToStep",
-      "text": "6. At the last minute add the cockles and season with salt and pepper."
+      "text": "At the last minute add the cockles and season with salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "7. Ladle the noodles into bowls."
+      "text": "Ladle the noodles into bowls."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Add the beansprouts."
+      "text": "Add the beansprouts."
     },
     {
       "@type": "HowToStep",
-      "text": "9. Add the soup."
+      "text": "Add the soup."
     },
     {
       "@type": "HowToStep",
-      "text": "10. Garnish with crispy shallots, mint, and a drizzle of chilli oil."
+      "text": "Garnish with crispy shallots, mint, and a drizzle of chilli oil."
     }
   ]
 }

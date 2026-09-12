@@ -11,11 +11,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Dry fry one side of the tuna in a non-stick frying pan over a medium heat until golden brown."
+      "text": "Dry fry one side of the tuna in a non-stick frying pan over a medium heat until golden brown."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Turn and add the teriyaki sauce, a little at a time, basting the steak."
+      "text": "Turn and add the teriyaki sauce, a little at a time, basting the steak."
     }
   ],
   "citation": [

@@ -22,23 +22,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Bring a large pot of water to a rolling boil and cook the spinach for one minute. Quickly drain the spinach and plunge it into a bowl of cold water. Drain and rinse with cold water until the spinach is completely cold. Squeeze out the water, then cut into 1-inch lengths. Set aside."
+      "text": "Bring a large pot of water to a rolling boil and cook the spinach for one minute. Quickly drain the spinach and plunge it into a bowl of cold water. Drain and rinse with cold water until the spinach is completely cold. Squeeze out the water, then cut into 1-inch lengths. Set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Mix the dashi, soy sauce, mirin, and salt together in a 4-quart saucepan, then stir in the garlic and ginger. Add the sliced carrots and leeks, then bring the liquid to a boil over medium heat."
+      "text": "Mix the dashi, soy sauce, mirin, and salt together in a 4-quart saucepan, then stir in the garlic and ginger. Add the sliced carrots and leeks, then bring the liquid to a boil over medium heat."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Add the chicken and simmer until just cooked through, about 5 minutes."
+      "text": "Add the chicken and simmer until just cooked through, about 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the udon noodles and place the spinach in 5 small bundles on the top. Simmer for 3 minutes."
+      "text": "Add the udon noodles and place the spinach in 5 small bundles on the top. Simmer for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Gently crack the eggs, one at a time, into the soup. Cover the pot with a lid, and let simmer for 3 minutes, then turn off the heat and let sit to allow the eggs to finish cooking."
+      "text": "Gently crack the eggs, one at a time, into the soup. Cover the pot with a lid, and let simmer for 3 minutes, then turn off the heat and let sit to allow the eggs to finish cooking."
     }
   ]
 }

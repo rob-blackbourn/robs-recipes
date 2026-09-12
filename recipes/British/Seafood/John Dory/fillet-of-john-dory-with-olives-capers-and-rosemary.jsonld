@@ -22,27 +22,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Preheat the grill to high."
+      "text": "Preheat the grill to high."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Halve each fillet diagonally. Brush with olive oil and season. Place skin side up on a baking sheet."
+      "text": "Halve each fillet diagonally. Brush with olive oil and season. Place skin side up on a baking sheet."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Cut the potato into quarters and cook in boiling salted water until tender. Drain and return to the pan."
+      "text": "Cut the potato into quarters and cook in boiling salted water until tender. Drain and return to the pan."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the anchovies, sun dried tomatoes, parsley, fresh tomatoes, olives capers, rosemary, and oil. Warm through and season."
+      "text": "Add the anchovies, sun dried tomatoes, parsley, fresh tomatoes, olives capers, rosemary, and oil. Warm through and season."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Grill the fish for 3-4 minutes until barely cooked."
+      "text": "Grill the fish for 3-4 minutes until barely cooked."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Pour the sauce over the fish."
+      "text": "Pour the sauce over the fish."
     }
   ]
 }

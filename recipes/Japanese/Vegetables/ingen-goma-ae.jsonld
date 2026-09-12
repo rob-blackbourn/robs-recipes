@@ -15,27 +15,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Boil in salted water for 2 minutes, then remove and strain."
+      "text": "Boil in salted water for 2 minutes, then remove and strain."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Lightly toast the sesame seeds in a dry frying pan, moving continually."
+      "text": "Lightly toast the sesame seeds in a dry frying pan, moving continually."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Transfer to a mortar and grind to a rough texture."
+      "text": "Transfer to a mortar and grind to a rough texture."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the sugar and soy sauce and mix."
+      "text": "Add the sugar and soy sauce and mix."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Add the dashi stock and mix into a dry paste."
+      "text": "Add the dashi stock and mix into a dry paste."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add the beans and coat with the paste."
+      "text": "Add the beans and coat with the paste."
     }
   ]
 }

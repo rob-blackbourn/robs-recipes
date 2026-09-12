@@ -19,19 +19,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place the peas in a pan of salted boiling water and cook according to the packet instructions until tender."
+      "text": "Place the peas in a pan of salted boiling water and cook according to the packet instructions until tender."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Meanwhile, melt half of the butter in a frying pan, add the mushrooms and saute gently until just tender, adding salt to taste."
+      "text": "Meanwhile, melt half of the butter in a frying pan, add the mushrooms and saute gently until just tender, adding salt to taste."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put the remaining butter in a saucepan with the cream and heat gently without allowing the mixture to boil. Add the mushrooms with their juice, the peas and the cooked ham."
+      "text": "Put the remaining butter in a saucepan with the cream and heat gently without allowing the mixture to boil. Add the mushrooms with their juice, the peas and the cooked ham."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Stir a ladle of boiling water and a third of the Parmesan into the sauce, then serve with the remaining cheese."
+      "text": "Stir a ladle of boiling water and a third of the Parmesan into the sauce, then serve with the remaining cheese."
     }
   ]
 }

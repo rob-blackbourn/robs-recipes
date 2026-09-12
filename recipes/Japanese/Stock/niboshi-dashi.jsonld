@@ -12,15 +12,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Soak the niboshi in water for 30 minutes. Optionally add a small piece of kombu; remove before heating."
+      "text": "Soak the niboshi in water for 30 minutes. Optionally add a small piece of kombu; remove before heating."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Bring to the boil, then simmer for 5 minutes."
+      "text": "Bring to the boil, then simmer for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Strain through a paper towel."
+      "text": "Strain through a paper towel."
     }
   ]
 }

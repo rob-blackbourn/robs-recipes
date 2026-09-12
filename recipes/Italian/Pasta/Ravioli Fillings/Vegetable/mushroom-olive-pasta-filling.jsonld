@@ -19,11 +19,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the butter and oil in a frying pan, add the onion and mushrooms and sauté over a medium/high heat, stirring constantly, for 5 minutes, until the mushrooms are lightly browned."
+      "text": "Heat the butter and oil in a frying pan, add the onion and mushrooms and sauté over a medium/high heat, stirring constantly, for 5 minutes, until the mushrooms are lightly browned."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the olives, garlic, herbs, salt and pepper and continue to cook for 1-2 minutes."
+      "text": "Add the olives, garlic, herbs, salt and pepper and continue to cook for 1-2 minutes."
     }
   ]
 }

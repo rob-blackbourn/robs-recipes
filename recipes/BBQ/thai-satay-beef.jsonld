@@ -23,19 +23,19 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Combine all the ingredients for the marinade."
+      "text": "Combine all the ingredients for the marinade."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Slice the beef into thin strips."
+      "text": "Slice the beef into thin strips."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Put the sliced beef in the marinade, cover with clingfilm, and refrigerate for 2 hours."
+      "text": "Put the sliced beef in the marinade, cover with clingfilm, and refrigerate for 2 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Thread onto four long metal skewers and barbecue for 8 minutes."
+      "text": "Thread onto four long metal skewers and barbecue for 8 minutes."
     }
   ],
   "comment": [

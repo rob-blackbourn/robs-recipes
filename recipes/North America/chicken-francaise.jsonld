@@ -17,39 +17,39 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Slice the chicken breast into thin wide strips. Flatten with a meat tenderizer."
+      "text": "Slice the chicken breast into thin wide strips. Flatten with a meat tenderizer."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Lightly beat the eggs in a medium glass bowl."
+      "text": "Lightly beat the eggs in a medium glass bowl."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Dip the chicken in the flour, then into the egg, leaving in the bowl."
+      "text": "Dip the chicken in the flour, then into the egg, leaving in the bowl."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Put some butter in a frying pan over a medium heat."
+      "text": "Put some butter in a frying pan over a medium heat."
     },
     {
       "@type": "HowToStep",
-      "text": "5 When the butter is foaming add the chicken."
+      "text": "When the butter is foaming add the chicken."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Sprinkle the parmesan over the chicken and some parsley."
+      "text": "Sprinkle the parmesan over the chicken and some parsley."
     },
     {
       "@type": "HowToStep",
-      "text": "7. After a couple of minutes flip turn."
+      "text": "After a couple of minutes flip turn."
     },
     {
       "@type": "HowToStep",
-      "text": "8. Add some crushed garlic to the pan."
+      "text": "Add some crushed garlic to the pan."
     },
     {
       "@type": "HowToStep",
-      "text": "9. When the chicken is cooked remove it from the pan, then reduce the sauce for few more seconds."
+      "text": "When the chicken is cooked remove it from the pan, then reduce the sauce for few more seconds."
     }
   ]
 }

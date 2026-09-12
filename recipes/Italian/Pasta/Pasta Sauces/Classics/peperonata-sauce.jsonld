@@ -21,27 +21,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat the garlic in a saucepan, add the onio and garlic and cook for 5 minutes."
+      "text": "Heat the garlic in a saucepan, add the onio and garlic and cook for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the tomatoes with their juice, the tomato puree, oregano and bay leaves."
+      "text": "Add the tomatoes with their juice, the tomato puree, oregano and bay leaves."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Bring to the boil, reduce the heat and simmer for 10 minutes."
+      "text": "Bring to the boil, reduce the heat and simmer for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "4. Add the peppers and cook for another 10 minutes until they are soft."
+      "text": "Add the peppers and cook for another 10 minutes until they are soft."
     },
     {
       "@type": "HowToStep",
-      "text": "5. Season to taste."
+      "text": "Season to taste."
     },
     {
       "@type": "HowToStep",
-      "text": "6. Remove the bay leaves and serve with a bowl of grated Parmesan cheese."
+      "text": "Remove the bay leaves and serve with a bowl of grated Parmesan cheese."
     }
   ]
 }

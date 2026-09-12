@@ -17,15 +17,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cream the butter."
+      "text": "Cream the butter."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the garlic, mushrooms, ham and parsley, and mix well."
+      "text": "Add the garlic, mushrooms, ham and parsley, and mix well."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Season to taste."
+      "text": "Season to taste."
     }
   ]
 }

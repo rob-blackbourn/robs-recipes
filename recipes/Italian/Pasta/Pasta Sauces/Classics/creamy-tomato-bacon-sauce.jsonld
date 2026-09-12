@@ -19,15 +19,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Put the garlic, tomatoes, oil, oregano and sugar in a saucepan, bring to the boil, then reduce the heat,  cover and simmer for 10 minutes."
+      "text": "Put the garlic, tomatoes, oil, oregano and sugar in a saucepan, bring to the boil, then reduce the heat,  cover and simmer for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Add the bacon and simmer, uncovered for a further 5 minutes. Season to taste with salt and peper."
+      "text": "Add the bacon and simmer, uncovered for a further 5 minutes. Season to taste with salt and peper."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Stir in the marscapone, heat through, and adjust the seasoning if necessary."
+      "text": "Stir in the marscapone, heat through, and adjust the seasoning if necessary."
     }
   ]
 }

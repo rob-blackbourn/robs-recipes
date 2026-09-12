@@ -17,15 +17,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Place the tomatoes in a large saucepan with the onions and garlic. Cover the pan, bring to the boil, then cook slowly for 25 minutes."
+      "text": "Place the tomatoes in a large saucepan with the onions and garlic. Cover the pan, bring to the boil, then cook slowly for 25 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Uncover the pan and simmer for another 15-20 minutes to evaporate any extra liquid, as the sauce should be quite thick."
+      "text": "Uncover the pan and simmer for another 15-20 minutes to evaporate any extra liquid, as the sauce should be quite thick."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Puree the sauce in a blender, then sieve it to remove any seeds and skin. Stir in the basil and oil."
+      "text": "Puree the sauce in a blender, then sieve it to remove any seeds and skin. Stir in the basil and oil."
     }
   ],
   "tool": [

@@ -17,27 +17,27 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat pressure cooker (lid off) with some oil"
+      "text": "Heat pressure cooker (lid off) with some oil"
     },
     {
       "@type": "HowToStep",
-      "text": "2. Brown pieces of chicken"
+      "text": "Brown pieces of chicken"
     },
     {
       "@type": "HowToStep",
-      "text": "3. Sprinkle the chicken with the onion and ginger"
+      "text": "Sprinkle the chicken with the onion and ginger"
     },
     {
       "@type": "HowToStep",
-      "text": "4. Mix well, then add sherry, soya sauce and water"
+      "text": "Mix well, then add sherry, soya sauce and water"
     },
     {
       "@type": "HowToStep",
-      "text": "5. Close the lid, and when full pressure is reached reduce the heat and cook for 8 minutes (10psi) or about 6 minutes for higher pressure (15psi) cookers"
+      "text": "Close the lid, and when full pressure is reached reduce the heat and cook for 8 minutes (10psi) or about 6 minutes for higher pressure (15psi) cookers"
     },
     {
       "@type": "HowToStep",
-      "text": "6. Add salt and pepper to taste"
+      "text": "Add salt and pepper to taste"
     }
   ]
 }

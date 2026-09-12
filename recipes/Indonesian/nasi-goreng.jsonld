@@ -37,67 +37,67 @@
   "recipeInstructions": [
     {
       "@type": "HowToSection",
-      "name": "1. Spice Paste",
+      "name": "Spice Paste",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "1.1 Put the peanuts in the chopper/grinder and grind until all the large pieces have broken down."
+          "text": "Put the peanuts in the chopper/grinder and grind until all the large pieces have broken down."
         },
         {
           "@type": "HowToStep",
-          "text": "1.2 Add all the other ingredients except the oil and chop until slightly lump paste."
+          "text": "Add all the other ingredients except the oil and chop until slightly lump paste."
         },
         {
           "@type": "HowToStep",
-          "text": "1.3 Add the oil and blend to a smooth paste."
+          "text": "Add the oil and blend to a smooth paste."
         }
       ]
     },
     {
       "@type": "HowToSection",
-      "name": "2. Garnish",
+      "name": "Garnish",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "2.1 Chop the cucumber in half and remove the seeds with a spoon."
+          "text": "Chop the cucumber in half and remove the seeds with a spoon."
         },
         {
           "@type": "HowToStep",
-          "text": "2.2 Roughly crush the peanuts in a pestle and mortar."
+          "text": "Roughly crush the peanuts in a pestle and mortar."
         }
       ]
     },
     {
       "@type": "HowToSection",
-      "name": "3. Crispy shallots",
+      "name": "Crispy shallots",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "3.1 Heat the oil in the wok and fry two finely chopped shallots until crispy."
+          "text": "Heat the oil in the wok and fry two finely chopped shallots until crispy."
         },
         {
           "@type": "HowToStep",
-          "text": "3.2 Put on a paper towel to remove the oil, then set aside."
+          "text": "Put on a paper towel to remove the oil, then set aside."
         }
       ]
     },
     {
       "@type": "HowToSection",
-      "name": "4. Fried egg",
+      "name": "Fried egg",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "4.1 Fry each egg in the oil and set aside somewhere warm."
+          "text": "Fry each egg in the oil and set aside somewhere warm."
         }
       ]
     },
     {
       "@type": "HowToSection",
-      "name": "5. Stir Fry",
+      "name": "Stir Fry",
       "itemListElement": [
         {
           "@type": "HowToStep",
-          "text": "5.1. Heat the oil in a wok over a high heat until shimmering"
+          "text": "Heat the oil in a wok over a high heat until shimmering"
         },
         {
           "@type": "HowToStep",
@@ -105,35 +105,35 @@
         },
         {
           "@type": "HowToStep",
-          "text": "5.2 Add the spice paste and prawns and stir well, cooking for a good 4-5 minutes."
+          "text": "Add the spice paste and prawns and stir well, cooking for a good 4-5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "5.3 Add the beans and spring onions and fry for another minute, keeping everything moving."
+          "text": "Add the beans and spring onions and fry for another minute, keeping everything moving."
         },
         {
           "@type": "HowToStep",
-          "text": "5.4. Add the cooked rice and stir until it's all been incorporated (add a few tablespoons of water at this point if it becomes dry and starts to stick)."
+          "text": "Add the cooked rice and stir until it's all been incorporated (add a few tablespoons of water at this point if it becomes dry and starts to stick)."
         },
         {
           "@type": "HowToStep",
-          "text": "5.5 Season with soy sauce and ketjap manis, to taste."
+          "text": "Season with soy sauce and ketjap manis, to taste."
         },
         {
           "@type": "HowToStep",
-          "text": "5.6 Using a spare bowl form each portion by pressing the rice into the bowl and poping out onto a plate."
+          "text": "Using a spare bowl form each portion by pressing the rice into the bowl and poping out onto a plate."
         },
         {
           "@type": "HowToStep",
-          "text": "5.7 Put the fried egg on the top."
+          "text": "Put the fried egg on the top."
         },
         {
           "@type": "HowToStep",
-          "text": "5.8 Put the cucumber and crushed peanuts on the side."
+          "text": "Put the cucumber and crushed peanuts on the side."
         },
         {
           "@type": "HowToStep",
-          "text": "5.9 Drizzle a little chilli oil over the top."
+          "text": "Drizzle a little chilli oil over the top."
         }
       ]
     }

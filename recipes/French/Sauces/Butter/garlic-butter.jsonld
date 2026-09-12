@@ -17,11 +17,11 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cream the butter."
+      "text": "Cream the butter."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Mix the ingredients."
+      "text": "Mix the ingredients."
     }
   ]
 }

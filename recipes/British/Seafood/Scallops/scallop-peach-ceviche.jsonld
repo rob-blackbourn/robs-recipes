@@ -17,15 +17,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Slice each scallop horizontally into four disks,"
+      "text": "Slice each scallop horizontally into four disks,"
     },
     {
       "@type": "HowToStep",
-      "text": "2. Place the scallop slices into a bowl with the lime juice and zest, peaches, tarragon, and a pinch of salt."
+      "text": "Place the scallop slices into a bowl with the lime juice and zest, peaches, tarragon, and a pinch of salt."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Stir, cover with cling film and put in the fridge for 20 minutes."
+      "text": "Stir, cover with cling film and put in the fridge for 20 minutes."
     }
   ]
 }

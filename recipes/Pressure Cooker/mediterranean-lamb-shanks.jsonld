@@ -25,23 +25,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Heat half the oil in the pressure cooker over medium heat"
+      "text": "Heat half the oil in the pressure cooker over medium heat"
     },
     {
       "@type": "HowToStep",
-      "text": "2. Wipe dry the shanks and brown, remove and set aside"
+      "text": "Wipe dry the shanks and brown, remove and set aside"
     },
     {
       "@type": "HowToStep",
-      "text": "3. In remaining oil, saute onion, carrots and garlic for 5 mins. Add tomato paste, tomatoes, herbs, lemon rind, wine and stock. Bring to the boil and stir well"
+      "text": "In remaining oil, saute onion, carrots and garlic for 5 mins. Add tomato paste, tomatoes, herbs, lemon rind, wine and stock. Bring to the boil and stir well"
     },
     {
       "@type": "HowToStep",
-      "text": "4. Return the lamb shanks to the cooker, season to taste with salt and pepper"
+      "text": "Return the lamb shanks to the cooker, season to taste with salt and pepper"
     },
     {
       "@type": "HowToStep",
-      "text": "5. Close and lock the lid, bring the cooker to HIGH pressure over high heat. Once pressure is reached, reduce the heat to a minimum and cook for 35 mins - Use natural release method to depressurise your pressure cooker, then remove the lid"
+      "text": "Close and lock the lid, bring the cooker to HIGH pressure over high heat. Once pressure is reached, reduce the heat to a minimum and cook for 35 mins - Use natural release method to depressurise your pressure cooker, then remove the lid"
     }
   ]
 }

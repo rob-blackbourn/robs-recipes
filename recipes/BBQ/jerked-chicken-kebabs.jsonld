@@ -14,15 +14,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "1. Cut the chicken into 3cm pieces. Add all but most of the marinade to a 3.75L plastic sealable bag. Add the chicken to the bag and leave to marinate in the refrigerator for 1 to 2 hours."
+      "text": "Cut the chicken into 3cm pieces. Add all but most of the marinade to a 3.75L plastic sealable bag. Add the chicken to the bag and leave to marinate in the refrigerator for 1 to 2 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "2. Heat the grill to medium-high. Remove the chicken from the marinade and discard the used marinade. Skewer the chicken pieces and grill on 1 side for about 5 minutes. Flip and grill the other side until cooked through and grill marks appear."
+      "text": "Heat the grill to medium-high. Remove the chicken from the marinade and discard the used marinade. Skewer the chicken pieces and grill on 1 side for about 5 minutes. Flip and grill the other side until cooked through and grill marks appear."
     },
     {
       "@type": "HowToStep",
-      "text": "3. Serve the chicken topped with the mango salsa. Use the reserved (unused) marinade as a dipping sauce."
+      "text": "Serve the chicken topped with the mango salsa. Use the reserved (unused) marinade as a dipping sauce."
     }
   ],
   "tool": [

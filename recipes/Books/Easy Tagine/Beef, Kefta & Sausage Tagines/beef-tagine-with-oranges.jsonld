@@ -21,10 +21,5 @@
     "2-3 tbsp shelled pistachios,",
     "leaves from a small bunch of fresh flat leaf parsley (roughly chopped)."
   ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "1."
-    }
-  ]
+  "recipeInstructions": []
 }
