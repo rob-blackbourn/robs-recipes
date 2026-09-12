@@ -647,11 +647,6 @@ function Recipe({
                     Ingredients <span aria-hidden="true">{ingredientsOpen ? '−' : '+'}</span>
                   </button>
                 </h2>
-                {lines.length > 0 && (
-                  <button className="text-button" onClick={() => setChecked(new Set())}>
-                    Reset checks
-                  </button>
-                )}
               </div>
               <div id="ingredients-content" className="cooking-content" hidden={!ingredientsOpen}>
                 {!lines.length && <p className="notice">No ingredient list is available.</p>}
