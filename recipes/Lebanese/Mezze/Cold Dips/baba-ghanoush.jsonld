@@ -5,7 +5,7 @@
   "name": "Baba Ghanoush",
   "cookTime": "PT30M",
   "prepTime": "PT5M",
-  "recipeYield": "2 portions",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "1 large aubergine,",
     "1 tbsp tahini,",
@@ -35,6 +35,12 @@
     {
       "@type": "HowToStep",
       "text": "Make a well in the centre and drizzle in some olive oil, and sprinkle with pomegranate seeds or chopped flat leaf parsley."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 2 portions"
     }
   ]
 }

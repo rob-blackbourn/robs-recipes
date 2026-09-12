@@ -5,7 +5,7 @@
   "name": "Yakitori Sauce",
   "prepTime": "PT1M",
   "cookTime": "PT10M",
-  "recipeYield": "200ml",
+  "recipeYield": "200 ml",
   "recipeIngredient": [
     "100 ml soy sauce,",
     "100 ml sake,",
@@ -29,6 +29,12 @@
     {
       "@type": "HowToStep",
       "text": "Reduce the heat, and allow the sauce to reduce a little."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 200ml"
     }
   ]
 }

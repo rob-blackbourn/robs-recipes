@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Pad Thai",
-  "recipeYield": "2-3",
+  "recipeYield": "3 servings",
   "recipeIngredient": [
     "For the sauce: 35 grams palm sugar, finely chopped (about 3 tightly packed tablespoons)",
     "For the sauce: 1/4 cup tamarind concentrate",
@@ -51,6 +51,12 @@
     {
       "@type": "HowToStep",
       "text": "Plate the noodles, top with the shrimp and sprinkle over the remaining peanuts. Serve with a piece of lime, extra bean sprouts, garlic chives, and chili flakes. Make sure you squeeze that lime over the noodles before you enjoy!"
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 2-3"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Red Curry Paste - SD Books",
-  "recipeYield": "½ cup",
+  "recipeYield": "1/2 cup",
   "recipeIngredient": [
     "3 dried spur chilies (seeded and soaked for 2 minutes),",
     "1 tsp sea salt,",
@@ -33,6 +33,12 @@
     {
       "@type": "HowToStep",
       "text": "Continue pounding until a smooth paste."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: ½ cup"
     }
   ]
 }

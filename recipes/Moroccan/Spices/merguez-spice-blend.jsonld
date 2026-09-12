@@ -5,7 +5,6 @@
   "name": "Merguez Spice Blend",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
-  "recipeYield": "Seasoning for 1kg lamb",
   "recipeIngredient": [
     "2 tsp fennel seeds,",
     "2 tsp cumin seeds,",
@@ -22,6 +21,12 @@
     {
       "@type": "HowToStep",
       "text": "Grid spices and combine."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Seasoning for 1kg lamb"
     }
   ]
 }

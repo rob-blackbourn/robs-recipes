@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Nobu-Style Saikyo Miso",
-  "recipeYield": "3 cups (800 g)",
+  "recipeYield": "800 g",
   "recipeIngredient": [
     "3/4 cup (150ml) sake,",
     "3/4 cup (150ml) mirin,",
@@ -26,6 +26,12 @@
     {
       "@type": "HowToStep",
       "text": "When all the sugar is dissolved, remove from the heat and allow to cool to room temperature before using."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 3 cups (800 g)"
     }
   ]
 }

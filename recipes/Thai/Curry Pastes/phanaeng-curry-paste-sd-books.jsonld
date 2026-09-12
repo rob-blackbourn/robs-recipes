@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Phanaeng Curry Paste - SD Books",
-  "recipeYield": "½ cup + 1 tbsp",
+  "recipeYield": "140 ml",
   "recipeIngredient": [
     "5 dried spur chilies (seeded and soaked until tender),",
     "1 tsp sea salt,",
@@ -20,6 +20,12 @@
     {
       "@type": "HowToStep",
       "text": "Process to a smooth paste."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: ½ cup + 1 tbsp"
     }
   ]
 }

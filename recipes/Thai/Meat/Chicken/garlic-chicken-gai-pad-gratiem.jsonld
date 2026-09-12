@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Garlic Chicken - Gai Pad Gratiem",
-  "recipeYield": "4 starters",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "500 g chicken breast or thigh (cut into 1-cm thick slices)",
     "8 cloves garlic (chopped),",
@@ -38,6 +38,12 @@
     {
       "@type": "HowToStep",
       "text": "Just before serving, sprinkle over the remaining fried garlic. Serve with jasmine rice, but it can also be wonderful when added to other dishes such as pasta, noodles, salads, wraps, and omelettes!"
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 starters"
     }
   ]
 }

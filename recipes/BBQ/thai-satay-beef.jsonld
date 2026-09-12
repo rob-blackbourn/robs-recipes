@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "name": "Thai Satay Beef",
   "cookTime": "PT7M",
-  "recipeYield": "4 large skewers",
+  "recipeYield": "4 skewers",
   "recipeIngredient": [
     "2 lbs beef top sirloin steak, sliced thin across grain, about 1/8-inch thick",
     "For the marinade: 1 tbsp grated ginger",
@@ -41,6 +41,10 @@
     {
       "@type": "Comment",
       "text": "Preparation time: 15 minutes with a 2 hour marination"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 large skewers"
     }
   ],
   "prepTime": "15 minutes with a 2 hour marination"

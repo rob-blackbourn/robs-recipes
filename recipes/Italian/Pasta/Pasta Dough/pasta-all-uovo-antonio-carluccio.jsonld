@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Pasta all'Uovo - Antonio Carluccio",
-  "recipeYield": "Makes 450g (1 lb) pasta dough",
+  "recipeYield": "450 g",
   "recipeIngredient": [
     "300g (10 1/2 oz) plain flour,",
     "3 large, very fresh eggs,",
@@ -39,5 +39,11 @@
       "text": "Cook fresh pasta in a large saucepan, preferably with a rounded base. Use one litre (1 3/4 pints) water per 115g (4 oz) pasta, plus two teaspoons of salt. When you put the pasta into the pot, give it a quick stir to prevent it from sticking together (it is only with lasagne, which must be immersed one sheet at a time, that it is necessary to add a few drops of oil to the water). Cooking time varies according to the kind of pasta, its thickness and whether it is stuffed, but home-made noodles and ribbons will take between three and five minutes. Stir the pasta while it is cooking, preferably with a long wooden fork. Always test the pasta when you think it should be almost done: it is ready when it is al dente, and slightly resistant. A little before it reaches that stage, take the saucepan off the heat, add a glass of cold water, and leave for a couple of seconds. Then drain the pasta and return immediately to the saucepan or a preheated dish, mixing it with a little sauce and perhaps some grated cheese. Serve it immediately."
     }
   ],
-  "description": "Basic Pasta Dough\n\nThe ideal proportions for the best home-made pasta dough are one large egg for every 115g (4oz) flour, but variations in temperature and humidity as well as in the in the ingredients themselves may produce slightly different textures. You may need to vary the quantity of flour slightly: the thing to aim for is a dough which has been kneaded until it is perfectly smooth and elastic, yet firm."
+  "description": "Basic Pasta Dough\n\nThe ideal proportions for the best home-made pasta dough are one large egg for every 115g (4oz) flour, but variations in temperature and humidity as well as in the in the ingredients themselves may produce slightly different textures. You may need to vary the quantity of flour slightly: the thing to aim for is a dough which has been kneaded until it is perfectly smooth and elastic, yet firm.",
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Makes 450g (1 lb) pasta dough"
+    }
+  ]
 }

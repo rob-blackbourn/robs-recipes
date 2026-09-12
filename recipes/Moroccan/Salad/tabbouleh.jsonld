@@ -5,7 +5,7 @@
   "name": "Tabbouleh",
   "prepTime": "PT30M",
   "cookTime": "PT0M",
-  "recipeYield": "Serves 4",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "25g bulgur wheat,",
     "2 large ripe vine tomatoes,",
@@ -40,6 +40,12 @@
     {
       "@type": "HowToStep",
       "text": "Drizzle over the lemon juice and olive oil and season, to taste, with salt. Mix well to coat the ingredients in the liquid."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 4"
     }
   ]
 }

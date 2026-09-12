@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Beef with Chilli and Kaffir Lime Leaves",
-  "recipeYield": "4-5",
+  "recipeYield": "5 servings",
   "recipeIngredient": [
     "2 1/2 tbsp oil,",
     "2 cloves of garlic (chopped),",
@@ -33,6 +33,10 @@
     {
       "@type": "Comment",
       "text": "Status: Really good."
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4-5"
     }
   ]
 }

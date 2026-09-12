@@ -5,7 +5,7 @@
   "name": "Minestrone",
   "prepTime": "PT15M",
   "cookTime": "PT30M",
-  "recipeYield": "Serves 4",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "2 tbsp olive oil,",
     "knob of butter,",
@@ -47,6 +47,12 @@
     {
       "@type": "HowToStep",
       "text": "Season and serve with parmesan."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 4"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "recipeCuisine": "Italy",
   "name": "Fresh Egg Pasta",
   "cookTime": "PT5M",
-  "recipeYield": "2 (of tagliatelle)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "100 g ‘00’ plain flour,",
     "1 large egg,",
@@ -40,6 +40,10 @@
     {
       "@type": "Comment",
       "text": "Preparation time: 30 minutes (plus 30 minutes resting)"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 2 (of tagliatelle)"
     }
   ],
   "prepTime": "30 minutes (plus 30 minutes resting)"

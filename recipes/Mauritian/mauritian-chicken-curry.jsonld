@@ -5,7 +5,7 @@
   "name": "Mauritian Chicken Curry",
   "cookTime": "PT1H",
   "prepTime": "PT15M",
-  "recipeYield": "4 portions",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 medium onion (diced)",
     "1 inch of fresh ginger root (very finely diced)",
@@ -67,6 +67,12 @@
     {
       "@type": "HowToStep",
       "text": "Serve with rice and dress with the last of the coriander leaves.."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 portions"
     }
   ]
 }

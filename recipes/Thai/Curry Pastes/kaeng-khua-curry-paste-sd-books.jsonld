@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Kaeng Khua Curry Paste - SD Books",
-  "recipeYield": "½ cup",
+  "recipeYield": "1/2 cup",
   "recipeIngredient": [
     "5 dried spur chillies (seeded and soaked until tender),",
     "1 tsp sea salt,",
@@ -17,6 +17,12 @@
     {
       "@type": "HowToStep",
       "text": "Process to a smooth paste."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: ½ cup"
     }
   ]
 }

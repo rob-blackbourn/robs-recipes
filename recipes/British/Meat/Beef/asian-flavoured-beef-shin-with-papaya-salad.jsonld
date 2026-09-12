@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Asian-flavoured beef shin with papaya salad",
-  "recipeYield": "Serves 6-8",
+  "recipeYield": "8 servings",
   "recipeIngredient": [
     "For the beef: 3kg/6lb 8oz beef shin (on the bone),",
     "For the beef: 4 tbsp sunflower oil,",
@@ -83,6 +83,10 @@
     {
       "@type": "Comment",
       "text": "cooking time: Over 2 hours"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 6-8"
     }
   ],
   "prepTime": "30 mins to 1 hour",

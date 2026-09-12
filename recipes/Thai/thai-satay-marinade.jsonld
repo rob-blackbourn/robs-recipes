@@ -6,7 +6,6 @@
   "prepTime": "PT10M",
   "cookTime": "PT0M",
   "totalTime": "PT10M",
-  "recipeYield": "Makes enough marinade for 500g of beef or chicken.",
   "recipeIngredient": [
     "1/4 cup chopped fresh lemongrass stalks,",
     "2 roughly chopped shallots,",
@@ -36,6 +35,10 @@
     {
       "@type": "Comment",
       "text": "Status: Successful"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Makes enough marinade for 500g of beef or chicken."
     }
   ]
 }

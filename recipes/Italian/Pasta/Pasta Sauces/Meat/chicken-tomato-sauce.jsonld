@@ -5,7 +5,7 @@
   "name": "Chicken & Tomato Sauce",
   "prepTime": "PT5M",
   "cookTime": "PT20M",
-  "recipeYield": "4-6",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "2 tbsp olive oil,",
     "250 g boneless skinless chicken breasts (diced),",
@@ -43,6 +43,12 @@
     {
       "@type": "HowToStep",
       "text": "Garnish with oregano and serve with parmesan shavings."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4-6"
     }
   ]
 }

@@ -38,3 +38,5 @@ To migrate cooking times, run `node scripts/normalize-cook-times.mjs --write` (o
 Duplicate yield lines already captured in `recipeYield` are removed from `text`. Run `node scripts/remove-duplicate-yields.mjs --write` to repeat this cleanup (omit `--write` for a check). Conflicting values are preserved.
 
 Top-level `text` fields have now been removed from all 419 documents. Structured recipe steps and notes retain their nested `text` fields. Reference pages use `description`. The source-text migration scripts above are retained for importing future documents that still contain source text.
+
+Recipe yields are normalized to a number followed by a unit. Bare numbers use servings; ranges use the upper bound with the original wording retained in a comment. Unknown yields remain unset and are listed in `reports/recipe-yield-audit.md`. Descriptions of how much meat a marinade or seasoning treats are retained in comments instead of being treated as the finished yield. The combined half-cup plus tablespoon yield uses the collection’s 250 ml cup and 15 ml tablespoon conventions (140 ml).

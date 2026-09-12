@@ -4,7 +4,7 @@
   "recipeCuisine": "France",
   "name": "Hollandaise Sauce",
   "prepTime": "PT20M",
-  "recipeYield": "2-3",
+  "recipeYield": "3 servings",
   "recipeIngredient": [
     "2 tbsp cold water,",
     "½ tbsp white wine vinegar,",
@@ -47,6 +47,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 12-15 minutes"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 2-3"
     }
   ],
   "cookTime": "12-15 minutes"

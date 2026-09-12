@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Rosemary Olive Bread",
-  "recipeYield": "1 large loaf",
+  "recipeYield": "1 loaf",
   "recipeIngredient": [
     "3 cups bread flour,",
     "1 tablespoon sugar,",
@@ -58,6 +58,12 @@
     {
       "@type": "HowToStep",
       "text": "Remove from the oven and allow to cool for two hours or so before eating."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 1 large loaf"
     }
   ]
 }

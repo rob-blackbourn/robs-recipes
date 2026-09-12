@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Cucumber Relish",
-  "recipeYield": "¾ cup",
+  "recipeYield": "3/4 cup",
   "recipeIngredient": [
     "80 ml rice vinegar.",
     "125g sugar,",
@@ -30,6 +30,10 @@
     {
       "@type": "Comment",
       "text": "Status: Very good."
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: ¾ cup"
     }
   ]
 }

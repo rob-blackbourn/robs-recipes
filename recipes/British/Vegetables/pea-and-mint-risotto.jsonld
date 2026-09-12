@@ -4,7 +4,7 @@
   "recipeCuisine": "United Kingdom",
   "name": "Pea and Mint Risotto",
   "prepTime": "PT30M",
-  "recipeYield": "serves 2",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "For the risotto: 1 tbsp olive oil,",
     "For the risotto: ¼ onion, finely chopped,",
@@ -44,6 +44,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 10 to 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: serves 2"
     }
   ],
   "cookTime": "10 to 30 mins"

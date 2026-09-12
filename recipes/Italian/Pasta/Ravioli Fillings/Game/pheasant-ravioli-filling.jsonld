@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Pheasant Ravioli Filling",
-  "recipeYield": "6 portions",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "2 pheasant legs (deboned),",
     "a sprig of rosemary,",
@@ -61,6 +61,12 @@
     {
       "@type": "HowToStep",
       "text": "Once it's cold, roll small amounts of the mixture into little balls (two legs should give you enough for 32 balls), and place on a tray or plate, ready for filling your ravioli. These balls can also be frozen, for later use."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 6 portions"
     }
   ]
 }

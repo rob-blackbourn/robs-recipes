@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Walnut Bread",
-  "recipeYield": "1 small loaf",
+  "recipeYield": "1 loaf",
   "recipeIngredient": [
     "2 tsp dried active yeast,",
     "1 cup strong wholemeal bread flour,",
@@ -52,6 +52,12 @@
     {
       "@type": "HowToStep",
       "text": "Cook on 220°C (oven) for 25 minutes."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 1 small loaf"
     }
   ]
 }

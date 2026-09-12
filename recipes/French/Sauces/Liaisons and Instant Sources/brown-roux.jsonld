@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Brown Roux",
-  "recipeYield": "100g",
+  "recipeYield": "100 g",
   "prepTime": "PT3M",
   "cookTime": "PT9M",
   "recipeIngredient": [
@@ -26,6 +26,12 @@
     {
       "@type": "HowToStep",
       "text": "Transfer to a bowl and cover with cling film."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 100g"
     }
   ]
 }

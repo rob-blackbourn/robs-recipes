@@ -4,7 +4,7 @@
   "recipeCuisine": "United Kingdom",
   "name": "Bloomer",
   "cookTime": "PT25M",
-  "recipeYield": "1 large loaf",
+  "recipeYield": "1 loaf",
   "recipeIngredient": [
     "500g strong white flour,",
     "1 tbsp dried active yeast,",
@@ -50,6 +50,10 @@
     {
       "@type": "Comment",
       "text": "Preparation time: 30 minutes, plus 4 hours waiting."
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 1 large loaf"
     }
   ],
   "prepTime": "30 minutes, plus 4 hours waiting."

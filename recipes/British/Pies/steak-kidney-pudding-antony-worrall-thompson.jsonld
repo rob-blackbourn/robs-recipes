@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Steak & Kidney Pudding - Antony Worrall Thompson",
-  "recipeYield": "6-8",
+  "recipeYield": "8 servings",
   "recipeIngredient": [
     "675g/1½lb chuck steak, cut into 2.5cm/1in cubes",
     "225g/8oz ox kidney, cut into 2.5cm1in cubes",
@@ -77,6 +77,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: over 2 hours"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 6-8"
     }
   ],
   "prepTime": "less than 30 mins",

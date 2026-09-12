@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Fish Tagine With Preserved Lemon & Mint",
-  "recipeYield": "4-6",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "1 quantity of chermoula,",
     "900g white fish like cod or haddock (cut into large chunks),",
@@ -41,6 +41,12 @@
     {
       "@type": "HowToStep",
       "text": "Season, and scatter with mint."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4-6"
     }
   ]
 }

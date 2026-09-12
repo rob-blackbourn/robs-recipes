@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Salmon & Smoked Haddock Fish Cakes",
-  "recipeYield": "4 servings as a starter",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "275g haddock fillets,",
     "175g salmon,",
@@ -45,6 +45,12 @@
     {
       "@type": "HowToStep",
       "text": "Pan-fry in butter for 5 minutes each side – keep warm in the oven.  Assembly  Serve one cake on a bed of buttered spinach surrounded by parsley sauce."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 servings as a starter"
     }
   ]
 }

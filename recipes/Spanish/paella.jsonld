@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Spain",
   "name": "Paella",
-  "recipeYield": "6-8",
+  "recipeYield": "8 servings",
   "recipeIngredient": [
     "60 g chorizo (cut into thin slices),",
     "40g pancetta (finely diced),",
@@ -74,6 +74,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 10 to 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 6-8"
     }
   ],
   "prepTime": "30 mins to 1 hour",

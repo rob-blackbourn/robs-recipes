@@ -4,7 +4,7 @@
   "recipeCuisine": "Italy",
   "name": "Meringue gelato cake with chocolate sauce",
   "cookTime": "PT0M",
-  "recipeYield": "6-8",
+  "recipeYield": "8 servings",
   "recipeIngredient": [
     "For the meringue gelato cake: 300ml double cream,",
     "For the meringue gelato cake: 30g dark chocolate 70% cocoa,",
@@ -53,6 +53,10 @@
     {
       "@type": "Comment",
       "text": "Preparation time: 10 minutes plus overnight"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 6-8"
     }
   ],
   "prepTime": "10 minutes plus overnight"

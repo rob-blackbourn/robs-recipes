@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Cauliflower Cheese With Salmon",
-  "recipeYield": "Serves 4",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 large cauliflower (cut into florets),",
     "50g/2oz butter (plus extra for greasing),",
@@ -75,6 +75,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 30 mins to 1 hour"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 4"
     }
   ],
   "prepTime": "less than 30 mins",

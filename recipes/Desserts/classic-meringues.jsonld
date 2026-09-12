@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "name": "Classic Meringues",
   "prepTime": "PT10M",
-  "recipeYield": "6 large meringues",
+  "recipeYield": "6 meringues",
   "recipeIngredient": [
     "2 egg whites (at room temperature),",
     "100 g / 3 1/2 oz caster sugar."
@@ -34,6 +34,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 1 1/2 - 2 hours"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 6 large meringues"
     }
   ],
   "cookTime": "1 1/2 - 2 hours"

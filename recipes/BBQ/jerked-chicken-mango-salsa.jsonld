@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "name": "Jerked Chicken Mango Salsa",
   "prepTime": "PT5M",
-  "recipeYield": "1 medium bowl",
+  "recipeYield": "1 bowl",
   "recipeIngredient": [
     "2 tbsp brown sugar",
     "3 tbsp freshly squeezed lime juice",
@@ -24,6 +24,10 @@
     {
       "@type": "Comment",
       "text": "Waiting time: 1 hour"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 1 medium bowl"
     }
   ]
 }

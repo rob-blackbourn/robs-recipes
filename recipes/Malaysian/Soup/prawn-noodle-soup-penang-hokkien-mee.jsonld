@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Malaysia",
   "name": "Prawn Noodle Soup - Penang Hokkien Mee",
-  "recipeYield": "4-6",
+  "recipeYield": "6 servings",
   "prepTime": "PT20M",
   "recipeIngredient": [
     "For the stock: 3 tbsp dried shrimp,",
@@ -90,6 +90,10 @@
     {
       "@type": "Comment",
       "text": "Status: Untried"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4-6"
     }
   ],
   "cookTime": "PT2H15M"

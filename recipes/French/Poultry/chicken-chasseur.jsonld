@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Chicken chasseur",
-  "recipeYield": "Serves 4",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "For the chicken: 1.5 kg chicken (cut into 8 pieces},",
     "For the chicken: salt and freshly ground black pepper,",
@@ -171,6 +171,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 30 mins to 1 hour"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 4"
     }
   ],
   "prepTime": "less than 30 mins",

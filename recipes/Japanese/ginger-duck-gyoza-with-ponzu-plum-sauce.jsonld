@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Ginger Duck Gyoza with Ponzu Plum Sauce",
-  "recipeYield": "Makes about 50 pieces",
+  "recipeYield": "50 pieces",
   "recipeIngredient": [
     "Filling: 12 oz. Napa cabbage (about 1/2 of a medium head), chopped very fine",
     "Filling: 1 1/2 tsp. Kosher salt, divided (cut in half if using table salt)",
@@ -35,6 +35,12 @@
     {
       "@type": "HowToStep",
       "text": "In a small bowl, whisk together the plum dipping sauce ingredients: ponzu sauce, neri ume, and plum sauce.  Add the chili oil last, mixing gently.  The oil will float on top of the sauce."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Makes about 50 pieces"
     }
   ]
 }

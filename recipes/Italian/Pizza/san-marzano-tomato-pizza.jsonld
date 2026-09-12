@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "San Marzano tomato pizza",
-  "recipeYield": "Makes 4 pizzas",
+  "recipeYield": "4 pizzas",
   "recipeIngredient": [
     "For the pizza dough: 800 g '00' flour,",
     "For the pizza dough: 200 g semolina flour,",
@@ -61,6 +61,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: less than 10 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Makes 4 pizzas"
     }
   ],
   "prepTime": "overnight",

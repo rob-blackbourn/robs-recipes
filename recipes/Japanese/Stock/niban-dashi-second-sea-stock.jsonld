@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Niban Dashi (Second Sea Stock)",
-  "recipeYield": "Makes about 4 cups",
+  "recipeYield": "4 cups",
   "recipeIngredient": [
     "4 cups water,",
     "Kombu and katsuobushi used in ichiban dashi"
@@ -28,5 +28,11 @@
   ],
   "citation": [
     "https://docs.google.com/document/d/1REqN4CHP5wws7DraOUMLb5WGEIx2Ow1HJHdx3sxS0E0/edit?usp=sharing"
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: Makes about 4 cups"
+    }
   ]
 }

@@ -5,7 +5,7 @@
   "name": "Meatball Sauce",
   "prepTime": "PT20M",
   "cookTime": "PT30M",
-  "recipeYield": "4 - 5",
+  "recipeYield": "5 servings",
   "recipeIngredient": [
     "For the meatballs: 500 g (1 lb) minced beef,",
     "For the meatballs: 1/2 large onion (very finely chopped),",
@@ -41,6 +41,12 @@
     {
       "@type": "HowToStep",
       "text": "Add the meatballs to the sauce. Cover the pan and cook gently for 20 minutes. shaing the pan occasionally. Garnish with parsley sprigs."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 - 5"
     }
   ]
 }

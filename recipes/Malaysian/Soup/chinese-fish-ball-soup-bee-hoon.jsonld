@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Malaysia",
   "name": "Chinese Fish Ball Soup - Bee Hoon",
-  "recipeYield": "4-6",
+  "recipeYield": "6 servings",
   "prepTime": "PT20M",
   "cookTime": "PT10M",
   "recipeIngredient": [
@@ -63,6 +63,12 @@
     {
       "@type": "HowToStep",
       "text": "Garnish with spring onions, chilli, and chopped coriander."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4-6"
     }
   ]
 }

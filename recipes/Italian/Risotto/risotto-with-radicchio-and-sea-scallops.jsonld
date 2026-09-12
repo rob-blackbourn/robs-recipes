@@ -5,7 +5,7 @@
   "name": "Risotto with Radicchio and Sea Scallops",
   "prepTime": "PT10M",
   "cookTime": "PT20M",
-  "recipeYield": "4 to 6",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "For the scallops",
     "1/4 cup extra virgin olive oil,",
@@ -65,6 +65,12 @@
     {
       "@type": "HowToStep",
       "text": "Add a knob of butter. Mix and season."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 to 6"
     }
   ]
 }

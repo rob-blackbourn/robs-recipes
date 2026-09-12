@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Spain",
   "name": "Rice with Monkfish, Saffron and Red Peppers",
-  "recipeYield": "serves 4",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "Olive oil,",
     "2 banana shallots (finely chopped),",
@@ -52,6 +52,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: 10 to 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: serves 4"
     }
   ],
   "prepTime": "less than 30 mins",

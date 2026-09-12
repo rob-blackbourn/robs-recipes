@@ -5,7 +5,7 @@
   "name": "Mussels",
   "prepTime": "PT30M",
   "cookTime": "PT10M",
-  "recipeYield": "4 as a starter",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "1kg/2lb 3oz mussels",
     "drizzle olive oil",
@@ -35,6 +35,12 @@
     {
       "@type": "HowToStep",
       "text": "Sprinkle in the remaining parsley, then spoon the mussels into a serving bowl. Pour over the cooking liquid and serve with some crusty bread."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Original yield: 4 as a starter"
     }
   ]
 }

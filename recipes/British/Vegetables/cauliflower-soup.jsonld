@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Cauliflower soup",
-  "recipeYield": "Serves 2",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "15g/½oz butter,",
     "½ onion (chopped),",
@@ -37,6 +37,10 @@
     {
       "@type": "Comment",
       "text": "Cooking time: less than 10 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Original yield: Serves 2"
     }
   ],
   "prepTime": "less than 30 mins",
