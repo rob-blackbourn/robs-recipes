@@ -789,7 +789,7 @@ function Recipe({
           <ul>
             {citations.map((citation, i) => (
               <li key={i}>
-                <SourceLink text={citation} />
+                <SourceLink text={citation} currentId={entry.id} />
               </li>
             ))}
           </ul>

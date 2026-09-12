@@ -27,3 +27,11 @@ export function recipeLink(id: string, from: string) {
 export function safeReturn(raw: string | null) {
   return raw && /^#\/(?:references)?(?:\?|$)/.test(raw) ? raw : '#/';
 }
+
+export function citationLink(text: string, currentId: string): string {
+  if (/^https?:\/\//i.test(text)) return text;
+  if (text.startsWith('#/')) return text;
+  const base = `https://recipe.invalid/${currentId.split('/').map(encodeURIComponent).join('/')}`;
+  const destination = new URL(text, base);
+  return `#${destination.pathname}${destination.search}`;
+}

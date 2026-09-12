@@ -1,7 +1,7 @@
 import { globSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { makeEntry, filterDocuments, duration } from './catalog';
-import { recipeLink } from './navigation';
+import { recipeLink, citationLink } from './navigation';
 import { transformIngredient } from './ingredients';
 import { unitModes, type UnitMode } from './types';
 
@@ -13,6 +13,20 @@ const entries = globSync('recipes/**/*.jsonld').map((path) =>
 );
 
 describe('the complete collection', () => {
+  it('resolves citations relative to the current recipe path', () => {
+    expect(citationLink('./empanada-dough.jsonld', 'argentina/empanada-beef.jsonld')).toBe(
+      '#/argentina/empanada-dough.jsonld',
+    );
+    expect(citationLink('../sauce.jsonld', 'italian/pasta/dough.jsonld')).toBe(
+      '#/italian/sauce.jsonld',
+    );
+    expect(
+      citationLink('/pressure cooker/chicken-cacciatore.jsonld', 'argentina/empanada-beef.jsonld'),
+    ).toBe('#/pressure%20cooker/chicken-cacciatore.jsonld');
+    expect(citationLink('https://example.com/recipe', 'a.jsonld')).toBe(
+      'https://example.com/recipe',
+    );
+  });
   it('uses complete relative file paths in recipe links', () => {
     for (const entry of entries) {
       expect(entry.id).toMatch(/\.jsonld$/);

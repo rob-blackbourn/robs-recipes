@@ -2,6 +2,7 @@ import { createContext, useContext, useEffect, useId, useState } from 'react';
 import { positive } from './preferences';
 import { unitModes, type UnitMode, type Step, type TemperatureUnit } from './types';
 import { temperatureParts } from './temperatures';
+import { citationLink } from './navigation';
 
 export const TemperatureUnitContext = createContext<TemperatureUnit>('celsius');
 
@@ -187,12 +188,12 @@ export function Instructions({ steps }: { steps: Step[] }) {
   );
 }
 
-export function SourceLink({ text }: { text: string }) {
+export function SourceLink({ text, currentId }: { text: string; currentId: string }) {
   return /^https?:\/\//i.test(text) ? (
     <a href={text} target="_blank" rel="noreferrer">
       {text}
     </a>
   ) : (
-    <span>{text}</span>
+    <a href={citationLink(text, currentId)}>{text}</a>
   );
 }
