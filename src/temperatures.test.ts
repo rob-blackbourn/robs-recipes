@@ -50,44 +50,49 @@ describe('temperature normalization', () => {
 });
 
 describe('display conversions', () => {
-  it('uses the exact Celsius/Fahrenheit formula independently of ingredient rounding', () => {
+  const display = (
+    text: string,
+    unit: 'celsius' | 'fahrenheit' | 'gas' = 'celsius',
+    allowGas = true,
+  ) =>
+    temperatureParts(text, unit, allowGas)
+      .map((part) => part.text)
+      .join('');
+  it('shows only the selected unit and rounds Fahrenheit to the nearest ten', () => {
     expect(celsiusToFahrenheit(200)).toBe(392);
+    expect(display('Heat oven to 150°C.', 'fahrenheit')).toBe('Heat oven to 300°F.');
+    expect(display('Heat oven to 302°F.', 'fahrenheit')).toBe('Heat oven to 300°F.');
     expect(fahrenheitToCelsius(350)).toBeCloseTo(176.6666667);
-    expect(temperatureParts('Heat the oven to 200°C.')[1]).toEqual({
-      text: '200°C',
-      equivalents: '392°F; approx. Gas Mark 6',
-    });
-  });
-  it('keeps fan oven equivalents distinct', () => {
-    const converted = temperatureParts('Heat oven to 200°C / 180°C fan.').filter(
-      (part) => part.equivalents,
+    expect(display('Heat the oven to 200°C.')).toBe('Heat the oven to 200°C.');
+    expect(display('Heat the oven to 200°C.', 'fahrenheit')).toBe('Heat the oven to 390°F.');
+    expect(display('Heat the oven to 200°C.', 'gas')).toBe('Heat the oven to approx. Gas Mark 6.');
+    expect(display('Internal temperature 65.6°C.', 'fahrenheit')).toBe(
+      'Internal temperature 150°F.',
     );
-    expect(converted).toEqual([
-      { text: '200°C', equivalents: '392°F; approx. Gas Mark 6' },
-      { text: '180°C fan', equivalents: '356°F fan' },
-    ]);
+  });
+  it('preserves fan labels and selects the conventional setting for gas', () => {
+    expect(display('Heat oven to 200°C / 180°C fan.', 'fahrenheit')).toBe(
+      'Heat oven to 390°F / 360°F fan.',
+    );
+    expect(display('Heat oven to 200°C / 180°C fan.', 'gas')).toBe(
+      'Heat oven to approx. Gas Mark 6.',
+    );
+    expect(display('Heat oven to 180°C fan.', 'gas')).toBe('Heat oven to 180°C fan.');
   });
   it.each([
     'Heat the oil to 180°C.',
     'Deep fry at 170°C.',
     'Cook to an internal temperature of 65.6°C.',
-    'Preheat the oven to 160°C. Heat an oven-proof dish to 190°C.',
-  ])('does not attach Gas Marks to non-oven temperatures in %s', (text) => {
-    expect(
-      temperatureParts(text)
-        .filter((part) => part.equivalents)
-        .at(-1)?.equivalents,
-    ).not.toContain('Gas Mark');
+  ])('retains Celsius for non-oven temperatures in Gas Mark mode: %s', (text) => {
+    expect(display(text, 'gas')).toBe(text);
   });
-  it('can explicitly exclude gas conversion in ingredient descriptions', () => {
-    expect(temperatureParts('For the oven: 180°C', false)[1].equivalents).toBe('356°F');
+  it('can exclude gas conversion for ingredient descriptions', () => {
+    expect(display('For the oven: 180°C', 'gas', false)).toBe('For the oven: 180°C');
   });
-  it('does not invent Gas Marks outside the supported oven range', () => {
+  it('falls back to Celsius outside the supported oven range', () => {
     expect(nearestGasMark(90)).toBeUndefined();
     expect(nearestGasMark(300)).toBeUndefined();
-    expect(temperatureParts('Set the oven to 90°C.')[1].equivalents).toContain(
-      'outside the supported Gas Mark range',
-    );
+    expect(display('Set the oven to 90°C.', 'gas')).toBe('Set the oven to 90°C.');
   });
   it('supports low gas settings and conventional rounding', () => {
     expect(nearestGasMark(110)).toBe('1/4');

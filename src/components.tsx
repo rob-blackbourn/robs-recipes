@@ -1,21 +1,19 @@
-import { useEffect, useId, useState } from 'react';
+import { createContext, useContext, useEffect, useId, useState } from 'react';
 import { positive } from './preferences';
-import { unitModes, type UnitMode, type Step } from './types';
+import { unitModes, type UnitMode, type Step, type TemperatureUnit } from './types';
 import { temperatureParts } from './temperatures';
 
+export const TemperatureUnitContext = createContext<TemperatureUnit>('celsius');
+
 export function TemperatureText({ text, allowGas = true }: { text: string; allowGas?: boolean }) {
+  const unit = useContext(TemperatureUnitContext);
   return (
     <>
-      {temperatureParts(text, allowGas).map((part, index) =>
-        part.equivalents ? (
-          <span className="temperature" key={index}>
-            {part.text}
-            <span className="temperature-equivalent"> ({part.equivalents})</span>
-          </span>
-        ) : (
-          <span key={index}>{part.text}</span>
-        ),
-      )}
+      {temperatureParts(text, unit, allowGas).map((part, index) => (
+        <span className={part.temperature ? 'temperature' : undefined} key={index}>
+          {part.text}
+        </span>
+      ))}
     </>
   );
 }
@@ -101,7 +99,9 @@ export function Instructions({ steps }: { steps: Step[] }) {
         <li key={index} className={step['@type'] === 'HowToSection' ? 'step-section' : ''}>
           {step['@type'] === 'HowToSection' ? (
             <>
-              <h3>{step.name || 'Preparation'}</h3>
+              <h3>
+                <TemperatureText text={step.name || 'Preparation'} />
+              </h3>
               {step.text && (
                 <p>
                   <TemperatureText text={step.text} />

@@ -40,7 +40,14 @@ export const unitModes = {
   'cups-us': 'Cups — US',
 } as const;
 export type UnitMode = keyof typeof unitModes;
+export const temperatureUnits = {
+  celsius: 'Celsius (°C)',
+  fahrenheit: 'Fahrenheit (°F)',
+  gas: 'Gas Mark',
+} as const;
+export type TemperatureUnit = keyof typeof temperatureUnits;
 export interface Preferences {
+  temperatureUnit: TemperatureUnit;
   units: UnitMode;
   servings: number | null;
 }

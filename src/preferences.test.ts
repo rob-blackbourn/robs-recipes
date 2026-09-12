@@ -8,7 +8,7 @@ import {
 } from './preferences';
 
 describe('serving preferences', () => {
-  const preferences = { units: 'metric' as const, servings: 8 };
+  const preferences = { ...defaults, units: 'metric' as const, servings: 8 };
   it.each(['4 servings', 'Serves 4', '4 portions', '4 people', '4 servings as a starter'])(
     'applies defaults to %s',
     (raw) => expect(resolveOptions(raw, preferences, new URLSearchParams()).factor).toBe(2),
@@ -64,7 +64,7 @@ describe('serving preferences', () => {
   it('does not confuse preferred output with source conventions', () => {
     const resolved = resolveOptions(
       '4 servings',
-      { units: 'cups-us', servings: null },
+      { ...defaults, units: 'cups-us', servings: null },
       new URLSearchParams(),
     );
     expect(resolved.conventions).toEqual({ cup: 'metric', liquid: 'uk', spoon: 'metric' });
@@ -83,10 +83,26 @@ describe('serving preferences', () => {
   });
 });
 describe('saved settings', () => {
+  it.each([undefined, 'invalid'])(
+    'preserves older preferences with a missing or invalid temperature unit',
+    (temperatureUnit) => {
+      expect(
+        decodePreferences(
+          JSON.stringify({ version: 1, units: 'metric', servings: 8, temperatureUnit }),
+        ),
+      ).toEqual({ ...defaults, units: 'metric', servings: 8 });
+    },
+  );
+
   it('round-trips versioned preferences', () =>
-    expect(decodePreferences(encodePreferences({ units: 'cups-us', servings: 6 }))).toEqual({
+    expect(
+      decodePreferences(
+        encodePreferences({ units: 'cups-us', servings: 6, temperatureUnit: 'fahrenheit' }),
+      ),
+    ).toEqual({
       units: 'cups-us',
       servings: 6,
+      temperatureUnit: 'fahrenheit',
     }));
   it.each([
     null,

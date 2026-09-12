@@ -790,10 +790,6 @@ input[aria-invalid='true'] {
 .temperature {
   font-variant-numeric: tabular-nums;
 }
-.temperature-equivalent {
-  color: #526354;
-  font-size: 0.86em;
-}
 .temperature-notes {
   padding: 17px 0;
   border-top: 1px solid var(--line);

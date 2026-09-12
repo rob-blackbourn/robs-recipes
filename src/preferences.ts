@@ -4,11 +4,17 @@ import {
   type Conventions,
   defaultConventions,
   unitModes,
+  temperatureUnits,
+  type TemperatureUnit,
 } from './types';
 import { parseAmount } from './ingredients';
 import { type Unit, unitFor } from './units';
 
-export const defaults: Preferences = { units: 'original', servings: null };
+export const defaults: Preferences = {
+  units: 'original',
+  servings: null,
+  temperatureUnit: 'celsius',
+};
 export const storageKey = 'recipe-collection.preferences.v1';
 export const isUnitMode = (value: unknown): value is UnitMode =>
   typeof value === 'string' && Object.hasOwn(unitModes, value);
@@ -24,6 +30,11 @@ export function decodePreferences(raw: string | null): Preferences {
     return {
       units: isUnitMode(data.units) ? data.units : defaults.units,
       servings: positive(data.servings) ?? null,
+      temperatureUnit:
+        typeof data.temperatureUnit === 'string' &&
+        Object.hasOwn(temperatureUnits, data.temperatureUnit)
+          ? (data.temperatureUnit as TemperatureUnit)
+          : defaults.temperatureUnit,
     };
   } catch {
     return { ...defaults };

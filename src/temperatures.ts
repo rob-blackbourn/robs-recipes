@@ -1,3 +1,4 @@
+import type { TemperatureUnit } from './types';
 /** Celsius is canonical. Temperatures never pass through ingredient rounding/scaling. */
 export const temperatureSources = {
   fahrenheit: 'https://www.nist.gov/pml/owm/si-units-temperature',
@@ -165,22 +166,34 @@ export function normalizeTemperatureText(text: string): string {
 
 export interface TemperaturePart {
   text: string;
-  equivalents?: string;
+  temperature?: boolean;
 }
-export function temperatureParts(text: string, allowGas = true): TemperaturePart[] {
+export function temperatureParts(
+  text: string,
+  unit: TemperatureUnit = 'celsius',
+  allowGas = true,
+): TemperaturePart[] {
   const parts: TemperaturePart[] = [];
   let cursor = 0;
   for (const group of temperatureGroups(text)) {
     parts.push({ text: text.slice(cursor, group.start) });
-    group.values.forEach((value, index) => {
+    const gasValues =
+      unit === 'gas' && allowGas && group.oven
+        ? group.values.filter((value) => !value.fan && nearestGasMark(value.celsius))
+        : [];
+    const values = gasValues.length ? gasValues : group.values;
+    values.forEach((value, index) => {
       if (index) parts.push({ text: ' / ' });
-      const fahrenheit = Math.round(celsiusToFahrenheit(value.celsius));
-      let equivalents = `${fahrenheit}°F${value.fan ? ' fan' : ''}`;
-      if (allowGas && group.oven && !value.fan) {
-        const gas = nearestGasMark(value.celsius);
-        equivalents += gas ? `; approx. Gas Mark ${gas}` : '; outside the supported Gas Mark range';
-      }
-      parts.push({ text: `${readable(value.celsius)}°C${value.fan ? ' fan' : ''}`, equivalents });
+      const gas =
+        unit === 'gas' && allowGas && group.oven && !value.fan
+          ? nearestGasMark(value.celsius)
+          : undefined;
+      const displayed = gas
+        ? `approx. Gas Mark ${gas}`
+        : unit === 'fahrenheit'
+          ? `${Math.round(celsiusToFahrenheit(value.celsius) / 10) * 10}°F`
+          : `${readable(value.celsius)}°C`;
+      parts.push({ text: `${displayed}${value.fan ? ' fan' : ''}`, temperature: true });
     });
     cursor = group.end;
   }

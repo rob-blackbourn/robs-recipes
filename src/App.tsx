@@ -1,7 +1,13 @@
 import { useEffect, useMemo, useState } from 'react';
 import { entries, entryById } from './data';
 import { duration, filterDocuments } from './catalog';
-import { type Preferences, type DocumentEntry, unitModes } from './types';
+import {
+  type Preferences,
+  type DocumentEntry,
+  unitModes,
+  temperatureUnits,
+  type TemperatureUnit,
+} from './types';
 import {
   defaults,
   decodePreferences,
@@ -10,7 +16,14 @@ import {
   resolveOptions,
 } from './preferences';
 import { useRoute, navigate, recipeLink, safeReturn } from './navigation';
-import { UnitSelect, NumberField, Instructions, SourceLink, TemperatureText } from './components';
+import {
+  UnitSelect,
+  NumberField,
+  Instructions,
+  SourceLink,
+  TemperatureText,
+  TemperatureUnitContext,
+} from './components';
 import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
 import { densitySource } from './densities';
@@ -57,7 +70,7 @@ export default function App() {
   }, [entry, path]);
   const listing = path === '/' || path === '' || path === '/references';
   return (
-    <>
+    <TemperatureUnitContext.Provider value={saved.preferences.temperatureUnit}>
       <a
         className="skip-link"
         href="#main"
@@ -124,7 +137,7 @@ export default function App() {
         <span>A place for good food, made your way.</span>
         <a href="#/settings">Your cooking preferences</a>
       </footer>
-    </>
+    </TemperatureUnitContext.Provider>
   );
 }
 
@@ -383,6 +396,26 @@ function Settings({
           value={preferences.units}
           onChange={(units) => save({ ...preferences, units })}
         />
+        <label className="field">
+          <span>Preferred temperature unit</span>
+          <select
+            value={preferences.temperatureUnit}
+            onChange={(event) =>
+              save({ ...preferences, temperatureUnit: event.target.value as TemperatureUnit })
+            }
+            aria-describedby="temperature-help"
+          >
+            {Object.entries(temperatureUnits).map(([value, label]) => (
+              <option key={value} value={value}>
+                {label}
+              </option>
+            ))}
+          </select>
+          <small id="temperature-help">
+            Gas Marks are approximate conventional oven settings. Other temperatures, including
+            fan-only settings and temperatures outside the Gas Mark range, use Celsius.
+          </small>
+        </label>
         <NumberField
           key={resetVersion}
           label="Default servings"
@@ -818,9 +851,10 @@ function Recipe({
             <details className="temperature-notes">
               <summary>About temperature conversions</summary>
               <p>
-                Celsius is the recipe’s stored temperature. Fahrenheit equivalents are rounded to
-                the nearest degree. Gas Marks are approximate conventional-oven settings, not frying
-                or internal food temperatures. Fan temperatures stay labelled separately.
+                Your preferred temperature unit is selected in Settings and also used when printing.
+                Celsius is the recipe’s stored temperature. Fahrenheit values are rounded to the
+                nearest 10°F. Gas Marks are approximate conventional-oven settings, not frying or
+                internal food temperatures. Fan temperatures stay labelled separately.
               </p>
               <p>
                 Existing Celsius values take precedence where the original equivalents disagree. The

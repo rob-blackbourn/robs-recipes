@@ -134,29 +134,43 @@ test('storage failure and keyboard skip link remain usable', async ({ page }) =>
   await expect(page.getByRole('heading', { name: 'Ingredients', exact: true })).toBeVisible();
 });
 
-test('temperatures show Celsius, Fahrenheit and oven Gas Marks without yield scaling', async ({
+test('temperature preferences persist and apply to recipes and printing independently of yield', async ({
   page,
 }) => {
   await page.goto('./#/recipe/' + encodeURIComponent('British/Bread/bloomer'));
   await expect(page.locator('.method')).toContainText('220°C');
-  await expect(page.locator('.method')).toContainText('428°F; approx. Gas Mark 7');
+  await expect(page.locator('.method')).not.toContainText('°F');
+  await expect(page.locator('.method')).not.toContainText('Gas Mark');
+  await page.goto('./#/settings');
+  await page.getByLabel('Preferred temperature unit').selectOption('fahrenheit');
+  await page.reload();
+  await expect(page.getByLabel('Preferred temperature unit')).toHaveValue('fahrenheit');
+  await page.goto('./#/recipe/' + encodeURIComponent('British/Bread/bloomer'));
   await page.getByLabel('Multiplier', { exact: true }).fill('2');
   await page.getByLabel('Display units').selectOption('imperial');
-  await expect(page.locator('.method')).toContainText('220°C');
-  await expect(page.locator('.method')).not.toContainText('440°C');
+  await expect(page.locator('.method')).toContainText('430°F');
+  await expect(page.locator('.method')).not.toContainText('°C');
+  await expect(page.locator('.method')).not.toContainText('Gas Mark');
   await page.emulateMedia({ media: 'print' });
-  await expect(page.locator('.method .temperature-equivalent').first()).toBeVisible();
+  await expect(page.locator('.method .temperature').first()).toBeVisible();
+  await expect(page.locator('.method .temperature').first()).toHaveText('430°F');
   await page.emulateMedia({ media: 'screen' });
   await page.goto('./#/recipe/' + encodeURIComponent('British/Meat/Beef/beef-wellington'));
-  await expect(page.locator('.method')).toContainText('190°C');
-  await expect(page.locator('.method')).toContainText('170°C fan');
-  await expect(page.locator('.method')).toContainText('338°F fan');
+  await expect(page.locator('.method')).toContainText('340°F fan');
+  await expect(page.locator('.method')).not.toContainText('°C');
+  await page.goto('./#/settings');
+  await page.getByLabel('Preferred temperature unit').selectOption('gas');
+  await page.goto('./#/recipe/' + encodeURIComponent('British/Bread/bloomer'));
+  await expect(page.locator('.method')).toContainText('Gas Mark 7');
+  await expect(page.locator('.method')).not.toContainText('°C');
+  await expect(page.locator('.method')).not.toContainText('°F');
   await page.goto('./#/recipe/' + encodeURIComponent('Japanese/Tofu/agedashi-dofu'));
   await expect(page.locator('.method')).toContainText('170°C');
-  await expect(page.locator('.method')).toContainText('338°F');
   await expect(page.locator('.method')).not.toContainText('Gas Mark');
   await page.goto('./#/recipe/' + encodeURIComponent('French/Suasages/french-merguez-sausages'));
   await expect(page.locator('.method')).toContainText('65.6°C');
-  await expect(page.locator('.method')).toContainText('150°F');
   await expect(page.locator('.method')).not.toContainText('Gas Mark');
+  await page.goto('./#/settings');
+  await page.getByRole('button', { name: 'Reset settings' }).click();
+  await expect(page.getByLabel('Preferred temperature unit')).toHaveValue('celsius');
 });
