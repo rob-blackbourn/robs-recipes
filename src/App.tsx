@@ -553,7 +553,7 @@ function Recipe({
       <header className="recipe-heading">
         <span className="eyebrow">{entry.folder.replaceAll('/', ' / ') || 'THE COLLECTION'}</span>
         <h1>{entry.name}</h1>
-        {entry.description && (
+        {isRecipe && entry.description && (
           <p>
             <TemperatureText text={entry.description} />
           </p>
@@ -899,7 +899,7 @@ function Recipe({
       {!isRecipe && (
         <section className="reference-text">
           <h2>Reference notes</h2>
-          <div className="source-text">{entry.text}</div>
+          <div className="source-text">{entry.description}</div>
         </section>
       )}
       {citations.length > 0 && (

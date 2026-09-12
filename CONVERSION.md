@@ -34,3 +34,7 @@ The green chicken curry from Books/Thai Food has an empty “Make the paste” h
 To populate missing preparation times from labelled source text, run `node scripts/normalize-prep-times.mjs --write`. Without `--write`, the script checks for missing values. Newly migrated preparation-time lines are removed from `text`. Existing preparation times are preserved; blank and unknown values remain unset.
 
 To migrate cooking times, run `node scripts/normalize-cook-times.mjs --write` (omit `--write` for a check). Exact durations, including fractional hours, use ISO 8601; ranges and qualified wording are preserved. Matching cooking-time lines are removed from `text`, including when `cookTime` already exists. Conflicting values are reported and preserved for review; blank and unknown values remain unchanged.
+
+Duplicate yield lines already captured in `recipeYield` are removed from `text`. Run `node scripts/remove-duplicate-yields.mjs --write` to repeat this cleanup (omit `--write` for a check). Conflicting values are preserved.
+
+Top-level `text` fields have now been removed from all 419 documents. Structured recipe steps and notes retain their nested `text` fields. Reference pages use `description`. The source-text migration scripts above are retained for importing future documents that still contain source text.

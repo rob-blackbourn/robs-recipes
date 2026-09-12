@@ -2,7 +2,6 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Mediterranean Marinade",
-  "text": "Mediterranean Marinade\n\nPreparation time: 10 minutes\n\nYield:\n\nIngredients\n\n250ml olive oil\n\n125ml fresh lemon juice\n\n80ml red wine vinegar\n\n1 1/2 tablespoons chopped oregano\n\n1 tablespoons minced garlic\n\n1/2 teaspoon salt\n\n1/2 teaspoon ground black pepper\n\nPreparation\n\n1. Mix all ingredients except oil together. Blend until smooth in food processor. Slowly add oil while blending. Cover and refrigerate until ready to use. Can be stored up to 2 weeks.",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
   "recipeIngredient": [

@@ -3,7 +3,6 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Clarified Butter",
-  "text": "Clarified Butter\n\nPreparation time: none\n\nIngredients\n\nButter\n\nEquipment\n\nSaucepan,\n\nMuslin cloth.\n\nPreparation\n\n1. Cut up the butter and place in a cold saucepan.\n\n2. Bring to the boil.\n\n3. Boil for 1 minute.\n\n4. Cool for 10 minutes.\n\n5. Strain through a damp muslin cloth.",
   "prepTime": "PT0M",
   "recipeIngredient": [
     "Butter"

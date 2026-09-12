@@ -6,11 +6,7 @@ export function makeEntry(
   assets: Record<string, string>,
 ): DocumentEntry {
   const data = JSON.parse(raw) as RecipeDocument;
-  if (
-    !['Recipe', 'CreativeWork'].includes(data['@type']) ||
-    typeof data.name !== 'string' ||
-    typeof data.text !== 'string'
-  )
+  if (!['Recipe', 'CreativeWork'].includes(data['@type']) || typeof data.name !== 'string')
     throw new Error(`Invalid document: ${path}`);
   const relative = path.replace(/^.*?recipes\//, '');
   const folder = relative.includes('/') ? relative.slice(0, relative.lastIndexOf('/')) : '';
@@ -28,7 +24,7 @@ export function makeEntry(
     search: [
       data.name,
       folder,
-      ...(data['@type'] === 'Recipe' ? data.recipeIngredient || [] : [data.text]),
+      ...(data['@type'] === 'Recipe' ? data.recipeIngredient || [] : [data.description]),
     ]
       .join(' ')
       .toLocaleLowerCase('en-GB'),

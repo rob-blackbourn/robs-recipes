@@ -2,7 +2,6 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "French 75",
-  "text": "French 75\n\nIngredients\n\n2 parts gin,\n\n1 part lime juice,\n\n1 part sugar syrup,\n\nChampagne.\n\nPreparation\n\n1. Add the ingredients to a champagne glass and top up with champagne.",
   "recipeIngredient": [
     "2 parts gin,",
     "1 part lime juice,",

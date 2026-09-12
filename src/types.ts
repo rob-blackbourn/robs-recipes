@@ -9,7 +9,6 @@ export interface RecipeDocument {
   '@context': string;
   '@type': 'Recipe' | 'CreativeWork';
   name: string;
-  text: string;
   description?: string;
   recipeCuisine?: string;
   recipeYield?: string;

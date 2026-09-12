@@ -3,7 +3,6 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Asparagus",
-  "text": "Asparagus\n\nPreparation\n\n1. Remove the small scales, and cut into two pieces.",
   "recipeInstructions": [
     {
       "@type": "HowToStep",

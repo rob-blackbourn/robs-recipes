@@ -46,7 +46,7 @@ Structured recipe instructions, ingredients, and notes use Celsius (`°C`). Sett
 
 Existing Celsius values take precedence when the source's equivalents disagree. Fahrenheit-only temperatures use `(°F − 32) / 1.8`, stored to one decimal place; displayed Fahrenheit is rounded to the nearest 10°F. Fan-oven temperatures remain explicitly labelled in Celsius and Fahrenheit modes. Gas Mark mode uses the conventional oven setting when both conventional and fan settings are provided. Fan-only settings, frying, sauce, internal food temperatures, and temperatures outside the supported Gas Mark range fall back to Celsius. Gas Marks are approximate.
 
-Gas Marks use the approximate conventional-oven table from [Delia's conversion guide](https://www.deliaonline.com/information-centre/oven-temperatures-and-conversions), with the quarter and half marks rounded from [AEG's low-temperature settings](https://support.aeg.co.uk/support-articles/article/what-do-the-gas-mark-numbers-mean-relate-to-temperatures). Fahrenheit conversion follows [NIST's formula](https://www.nist.gov/pml/owm/si-units-temperature). The archive in each document's top-level `text` retains the original temperature notation, including inconsistent equivalents, for reference.
+Gas Marks use the approximate conventional-oven table from [Delia's conversion guide](https://www.deliaonline.com/information-centre/oven-temperatures-and-conversions), with the quarter and half marks rounded from [AEG's low-temperature settings](https://support.aeg.co.uk/support-articles/article/what-do-the-gas-mark-numbers-mean-relate-to-temperatures). Fahrenheit conversion follows [NIST's formula](https://www.nist.gov/pml/owm/si-units-temperature). Top-level source `text` fields have been removed; structured instructions and notes retain their nested `text` fields. Reference documents use `description`.
 
 After adding recipes, check or normalize their structured temperature notation:
 
@@ -55,7 +55,7 @@ npm run normalize:temperatures
 npm run normalize:temperatures -- --write
 ```
 
-The check exits nonzero if changes are needed; `--details` lists affected fields. The normalizer preserves other recipe fields and the complete archived source text. Gas-only instructions without oven context gain an `(oven)` label so the site can distinguish an oven dial from an oil or food temperature.
+The check exits nonzero if changes are needed; `--details` lists affected fields. The normalizer preserves other recipe fields. Gas-only instructions without oven context gain an `(oven)` label so the site can distinguish an oven dial from an oil or food temperature.
 
 ## Measurement conventions
 

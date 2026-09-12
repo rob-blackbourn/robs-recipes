@@ -3,7 +3,6 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Aubergine",
-  "text": "Aubergine\n\nPreparation\n\n1. Cut a small aubergine in half.\n\n2. Lay flat on a chopping board (skin side up) with the stem away from you.\n\n3. Cut small slices down from the stem, being sure not to cut all the way through the stem.\n\n4. Fan out the slices.",
   "recipeInstructions": [
     {
       "@type": "HowToStep",
