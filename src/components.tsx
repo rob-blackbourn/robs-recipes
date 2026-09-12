@@ -92,6 +92,20 @@ export function NumberField({
   );
 }
 
+function MethodStep({ text }: { text: string }) {
+  const [completed, setCompleted] = useState(false);
+  return (
+    <button
+      type="button"
+      className="method-toggle"
+      aria-pressed={completed}
+      onClick={() => setCompleted((value) => !value)}
+    >
+      <TemperatureText text={text} />
+    </button>
+  );
+}
+
 export function Instructions({ steps }: { steps: Step[] }) {
   return (
     <ol className="steps">
@@ -102,19 +116,13 @@ export function Instructions({ steps }: { steps: Step[] }) {
               <h3>
                 <TemperatureText text={step.name || 'Preparation'} />
               </h3>
-              {step.text && (
-                <p>
-                  <TemperatureText text={step.text} />
-                </p>
-              )}
+              {step.text && <MethodStep text={step.text} />}
               <Instructions steps={step.itemListElement || []} />
             </>
           ) : (
-            <p>
-              <TemperatureText
-                text={(step.text || step.name || '').replace(/^\s*\d+(?:\.\d+)*[.)]\s+/, '')}
-              />
-            </p>
+            <MethodStep
+              text={(step.text || step.name || '').replace(/^\s*\d+(?:\.\d+)*[.)]\s+/, '')}
+            />
           )}
         </li>
       ))}

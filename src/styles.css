@@ -730,12 +730,12 @@ input[aria-invalid='true'] {
 .steps > li:not(.step-section) {
   counter-increment: step;
   position: relative;
-  padding-left: 39px;
   margin: 0 0 22px;
   font-size: 0.94rem;
 }
 .steps > li:not(.step-section)::before {
   content: counter(step);
+  pointer-events: none;
   position: absolute;
   left: 0;
   top: 1px;
@@ -750,7 +750,26 @@ input[aria-invalid='true'] {
   border-radius: 50%;
   text-align: center;
 }
-.steps p {
+.method-toggle {
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.steps > li:not(.step-section) > .method-toggle {
+  padding-left: 39px;
+}
+.method-toggle[aria-pressed='true'] {
+  text-decoration: line-through;
+  color: #859081;
+}
+.steps p,
+.method-toggle {
   white-space: pre-line;
   line-height: 1.8;
 }
@@ -1102,7 +1121,7 @@ input[aria-invalid='true'] {
   .settings-panel {
     padding: 20px;
   }
-  .steps > li:not(.step-section) {
+  .steps > li:not(.step-section) > .method-toggle {
     padding-left: 36px;
   }
   .site-footer {
@@ -1175,6 +1194,7 @@ input[aria-invalid='true'] {
   .quantity-issue {
     margin-left: 0;
   }
+  .method-toggle[aria-pressed='true'],
   .checked .ingredient-toggle > span {
     color: #000;
     text-decoration: none;
