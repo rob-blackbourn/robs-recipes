@@ -59,7 +59,9 @@ The check exits nonzero if changes are needed; `--details` lists affected fields
 
 ## Measurement conventions
 
-Output modes: Original, Metric, Imperial, US customary, Cups — 250 ml, Cups — imperial (284.130625 ml), and Cups — US (236.5882365 ml).
+Output modes: Original, Metric, Imperial, US customary, Metric with cups and spoons, Imperial with cups and spoons, US Customary with cups and spoons, Cups — 250 ml, Cups — imperial (284.130625 ml), and Cups — US (236.5882365 ml).
+
+The three “with cups and spoons” modes preserve weights in their selected system and display volumes as cups, tablespoons, or teaspoons. They use 250 ml, imperial, or US cups respectively. Metric and Imperial modes use 15 ml tablespoons and 5 ml teaspoons; US Customary uses US spoons. These modes do not infer weight-to-volume conversions.
 
 US customary output uses pounds and ounces for weight, and US gallons, quarts, pints, cups, fluid ounces, tablespoons, or teaspoons for volume, with simple fractions. Unlike Cups — US, it keeps weights as weights.
 

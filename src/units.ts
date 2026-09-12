@@ -107,8 +107,28 @@ export function metric(value: number, dimension: Dimension): string {
     : `${rounded} ${small}`;
 }
 
+export const combinedUnitModes = {
+  'metric-cups': { weight: 'metric', volume: 'cups-metric' },
+  'imperial-cups': { weight: 'imperial', volume: 'cups-imperial' },
+  'customary-cups': { weight: 'customary', volume: 'cups-us' },
+} as const;
+
+export function cupModeFor(mode: UnitMode): UnitMode | undefined {
+  if (mode in combinedUnitModes)
+    return combinedUnitModes[mode as keyof typeof combinedUnitModes].volume;
+  return mode.startsWith('cups-') ? mode : undefined;
+}
+
 export function displayQuantity(base: number, unit: Unit, mode: UnitMode): string {
   if (unit.dimension === 'count') return fraction(base);
+  if (mode in combinedUnitModes) {
+    const combined = combinedUnitModes[mode as keyof typeof combinedUnitModes];
+    return displayQuantity(
+      base,
+      unit,
+      unit.dimension === 'mass' ? combined.weight : combined.volume,
+    );
+  }
   if (mode === 'metric' || (mode === 'original' && unit.metric))
     return metric(base, unit.dimension);
   if (mode === 'original') return `${fraction(base / unit.factor)} ${unit.name}`;

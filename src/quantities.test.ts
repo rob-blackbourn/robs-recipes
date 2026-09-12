@@ -46,6 +46,26 @@ describe('kitchen rounding', () => {
   });
 });
 
+describe('combined weight, cup and spoon modes', () => {
+  it.each([
+    ['metric-cups', 250, 15, '450 g'],
+    ['imperial-cups', UK_PINT / 2, 15, '1 lb'],
+    ['customary-cups', US_CUP, US_CUP / 16, '1 lb'],
+  ] as const)('uses system weights and volume cups/spoons for %s', (mode, cup, spoon, weight) => {
+    expect(transformIngredient('453.59237 g plain flour', 1, mode)).toEqual({
+      text: `${weight} plain flour`,
+      original: '453.59237 g plain flour',
+    });
+    expect(transformIngredient(`${cup} ml water`, 2, mode).text).toBe('2 cup water');
+    expect(transformIngredient(`${spoon} ml oil`, 0.5, mode).text).toBe('1 1/2 tsp oil');
+    expect(transformIngredient(`${spoon} ml oil`, 1, mode).text).toBe('1 tbsp oil');
+    expect(transformIngredient('salt to taste', 2, mode)).toEqual({
+      text: 'salt to taste',
+      original: 'salt to taste',
+    });
+  });
+});
+
 describe('US customary output', () => {
   it.each([
     [US_CUP * 16, '1 US gallon'],

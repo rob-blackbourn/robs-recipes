@@ -83,6 +83,16 @@ describe('serving preferences', () => {
   });
 });
 describe('saved settings', () => {
+  it.each(['metric-cups', 'imperial-cups', 'customary-cups'] as const)(
+    'persists and accepts overrides for %s',
+    (units) => {
+      const preferences = { ...defaults, units };
+      expect(decodePreferences(encodePreferences(preferences))).toEqual(preferences);
+      expect(resolveOptions('4 servings', defaults, new URLSearchParams({ units })).units).toBe(
+        units,
+      );
+    },
+  );
   it('saves customary units and accepts recipe overrides', () => {
     const preferences = { ...defaults, units: 'customary' as const };
     expect(decodePreferences(encodePreferences(preferences))).toEqual(preferences);

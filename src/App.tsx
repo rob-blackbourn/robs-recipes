@@ -28,6 +28,7 @@ import {
 import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
 import { densitySource } from './densities';
+import { cupModeFor } from './units';
 
 function readSettings() {
   try {
@@ -454,6 +455,11 @@ function Settings({
           unless you override them on the recipe page.
         </p>
         <p>
+          The “with cups and spoons” options keep weights in the selected system and use cups,
+          tablespoons, and teaspoons for volumes. Metric and Imperial options use 15 ml tablespoons
+          and 5 ml teaspoons; US Customary uses US spoons.
+        </p>
+        <p>
           Metric quantities round to practical kitchen increments: 158 g becomes 160 g. Customary
           quantities use simple fractions, including thirds. Weight-to-cup conversions are estimates
           and are available only for recognised ingredients.
@@ -720,10 +726,15 @@ function Recipe({
               {unitModes[units]}
               {adjusted ? ' · Quantities rounded for cooking' : ' · As written'}
             </span>
-            {units.startsWith('cups-') && (
+            {cupModeFor(units) && (
               <span>
-                Cup: {units === 'cups-metric' ? '250' : units === 'cups-us' ? '236.6' : '284.1'} ml
-                · spoons: {units === 'cups-us' ? 'US customary' : '15 / 5 ml'}
+                Cup:{' '}
+                {cupModeFor(units) === 'cups-metric'
+                  ? '250'
+                  : cupModeFor(units) === 'cups-us'
+                    ? '236.6'
+                    : '284.1'}{' '}
+                ml · spoons: {cupModeFor(units) === 'cups-us' ? 'US customary' : '15 / 5 ml'}
               </span>
             )}
           </div>
