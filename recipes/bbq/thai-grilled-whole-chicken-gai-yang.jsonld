@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Grilled Whole Chicken - Gai Yang",
+  "recipeCuisine": "Thai",
   "recipeYield": "2 chickens",
   "recipeIngredient": [
     "1 whole chickens (1.8 kg. each)",

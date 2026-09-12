@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Thai Satay Beef",
   "cookTime": "PT7M",
+  "recipeCuisine": "Thai",
   "recipeYield": "4 skewers",
   "recipeIngredient": [
     "1 kg beef top sirloin steak, sliced thin across grain, about 3 mm thick",

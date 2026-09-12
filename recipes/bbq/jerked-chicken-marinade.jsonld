@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Jerked Chicken Marinade",
   "prepTime": "PT20M",
+  "recipeCuisine": "Jamaica",
   "recipeYield": "50 ml",
   "recipeIngredient": [
     "1/4 tsp ground nutmeg",

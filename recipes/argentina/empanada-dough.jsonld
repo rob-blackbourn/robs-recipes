@@ -6,15 +6,15 @@
   "prepTime": "PT10M",
   "recipeYield": "1 kg",
   "recipeIngredient": [
-    "2 cups of water",
-    "1 tbsp coarse salt",
-    "4 tbsp lard lard (56.7 g)",
-    "840 g plain flour"
+    "500 ml water",
+    "15 ml coarse salt",
+    "60 g lard",
+    "1 kg plain flour"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "In a small saucepan bring 2 cups of water to the boil and add 1 tbsp salt and 4 tbsp lard."
+      "text": "In a small saucepan bring the water to the boil and add the salt and lard."
     },
     {
       "@type": "HowToStep",
@@ -22,7 +22,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Mix the liquid with 7 cups of plain flour and knead it till dry and a little hard."
+      "text": "Mix the liquid with 840 g plain flour and knead it till dry and a little hard."
     },
     {
       "@type": "HowToStep",

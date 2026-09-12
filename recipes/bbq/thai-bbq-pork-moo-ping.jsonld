@@ -4,6 +4,7 @@
   "name": "Thai BBQ Pork - Moo Ping",
   "prepTime": "PT20M",
   "cookTime": "PT8M",
+  "recipeCuisine": "Thai",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "450 g Pork fillet stripes",

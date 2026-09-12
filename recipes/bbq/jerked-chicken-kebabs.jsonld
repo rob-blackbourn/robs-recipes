@@ -4,11 +4,12 @@
   "name": "Jerked Chicken Kebabs",
   "prepTime": "PT20M",
   "cookTime": "PT10M",
+  "recipeCuisine": "Jamaica",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "200g boneless skinless chicken breasts",
-    "50 ml Jerked Chicken Marinade",
-    "1 medium bowl Jerked Chicken Mango Salsa"
+    "200 g boneless skinless chicken breasts",
+    "50 ml jerked chicken marinade",
+    "1 medium bowl jerked chicken Mango Salsa"
   ],
   "recipeInstructions": [
     {
@@ -31,8 +32,8 @@
     }
   ],
   "citation": [
-    "https://docs.google.com/document/d/1Wiip5ODi7WXwH7DuT3Vi_dEVl6YTnSKQjtbvE5vu3K8/edit?usp=sharing",
-    "https://docs.google.com/document/d/1usFECmtHdYw9LM50p-2WeVMgmxc9lSJ9oBmFp13axFE/edit?usp=sharing"
+    "../jerked-chicken-marinade.jsonld",
+    "../jerked-chicken-mango-salsa.jsonld"
   ],
   "keywords": [
     "BBQ"

@@ -4,6 +4,7 @@
   "name": "Thai-style chicken rolls",
   "prepTime": "PT15M",
   "cookTime": "PT7M",
+  "recipeCuisine": "Thai",
   "recipeYield": "20 pieces",
   "recipeIngredient": [
     "4 boneless, skinless chicken breast halves (about 110 g each)",

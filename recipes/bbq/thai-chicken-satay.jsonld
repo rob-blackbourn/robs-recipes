@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Thai Chicken Satay",
   "cookTime": "PT8M",
+  "recipeCuisine": "Thai",
   "recipeYield": "4 Servings",
   "recipeCategory": "Starter",
   "recipeIngredient": [
