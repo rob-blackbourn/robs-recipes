@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chicken Kebab",
-  "text": "Chicken Kebab\n\nPreparation time: 30 minutes (4 hours marinade)\n\nCooking time: 10 minutes\n\nYield: 6\n\nIngredients\n\n200 g chicken thighs,\n\n2 tbsp lemon juice,\n\n2 tbsp vegetable oil,\n\n175 ml natural yogurt,\n\n1 cloves garlic (finely chopped),\n\n2 tsp tomato puree,\n\n1 1/2 tsp salt,\n\n1 tsp dried oregano,\n\n1/4 tsp ground black pepper,\n\n1/4 tsp ground allspice,\n\n1/4 tsp ground cinnamon,\n\n1/8 tsp ground cardamom,\n\n900 g skinless boneless chicken breast fillets (cut into 5cm pieces),\n\n2 onions (cut into large chunks),\n\n1 large green pepper (cut into large chunks),\n\n60 g fresh flat-leaf parsley (chopped).\n\nPreparation\n\n1. Whisk together the lemon juice, vegetable oil, natural yogurt, garlic, tomato puree, salt, oregano, pepper, allspice, cinnamon and cardamom in a large bowl; add the chicken and toss to coat. Transfer the chicken mixture into a large plastic bag; refrigerate at least 4 hours.\n\n2. Preheat an outdoor barbecue for medium-high heat and lightly oil grate. Thread the chicken, onions and pepper onto metal skewers. Cook on preheated barbecue until the chicken is golden and no longer pink in the centre, about 5 minutes each side. Sprinkle the parsley over the skewers.",
+  "text": "Chicken Kebab\n\nYield: 6\n\nIngredients\n\n200 g chicken thighs,\n\n2 tbsp lemon juice,\n\n2 tbsp vegetable oil,\n\n175 ml natural yogurt,\n\n1 cloves garlic (finely chopped),\n\n2 tsp tomato puree,\n\n1 1/2 tsp salt,\n\n1 tsp dried oregano,\n\n1/4 tsp ground black pepper,\n\n1/4 tsp ground allspice,\n\n1/4 tsp ground cinnamon,\n\n1/8 tsp ground cardamom,\n\n900 g skinless boneless chicken breast fillets (cut into 5cm pieces),\n\n2 onions (cut into large chunks),\n\n1 large green pepper (cut into large chunks),\n\n60 g fresh flat-leaf parsley (chopped).\n\nPreparation\n\n1. Whisk together the lemon juice, vegetable oil, natural yogurt, garlic, tomato puree, salt, oregano, pepper, allspice, cinnamon and cardamom in a large bowl; add the chicken and toss to coat. Transfer the chicken mixture into a large plastic bag; refrigerate at least 4 hours.\n\n2. Preheat an outdoor barbecue for medium-high heat and lightly oil grate. Thread the chicken, onions and pepper onto metal skewers. Cook on preheated barbecue until the chicken is golden and no longer pink in the centre, about 5 minutes each side. Sprinkle the parsley over the skewers.",
   "cookTime": "PT10M",
   "recipeYield": "6",
   "recipeIngredient": [
@@ -38,5 +38,6 @@
       "@type": "Comment",
       "text": "Preparation time: 30 minutes (4 hours marinade)"
     }
-  ]
+  ],
+  "prepTime": "30 minutes (4 hours marinade)"
 }

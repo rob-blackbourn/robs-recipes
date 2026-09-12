@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Beurre Noisette",
-  "text": "Beurre Noisette\n\nPreparation time: none\n\nCooking time: 5 minutes\n\nIngredients\n\nButter\n\nPreparation\n\n1. Cook the butter in a small frying pan until golden brown.",
+  "text": "Beurre Noisette\n\nPreparation time: none\n\nIngredients\n\nButter\n\nPreparation\n\n1. Cook the butter in a small frying pan until golden brown.",
   "prepTime": "PT0M",
   "cookTime": "PT5M",
   "recipeIngredient": [

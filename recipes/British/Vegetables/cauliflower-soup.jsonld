@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Cauliflower soup",
-  "text": "Cauliflower soup\n\nPreparation time: less than 30 mins\n\nCooking time: less than 10 mins\n\nYield: Serves 2\n\nIngredients\n\n15g/½oz butter,\n\n½ onion (chopped),\n\n150g/5½oz cauliflower (trimmed and chopped),\n\n150ml/5fl oz vegetable stock,\n\n85g/3oz Stilton (crumbled),\n\nPreparation\n\n1. Melt the butter in a saucepan over a medium heat and fry the onion, until softened.\n\n2. Add the cauliflower and vegetable stock, bring to the boil and simmer for 5-6 minutes, or until the cauliflower is cooked.\n\n3. Transfer into a food processor, add the Stilton and blend until smooth.\n\n4. Pour into bowls and serve.",
+  "text": "Cauliflower soup\n\nYield: Serves 2\n\nIngredients\n\n15g/½oz butter,\n\n½ onion (chopped),\n\n150g/5½oz cauliflower (trimmed and chopped),\n\n150ml/5fl oz vegetable stock,\n\n85g/3oz Stilton (crumbled),\n\nPreparation\n\n1. Melt the butter in a saucepan over a medium heat and fry the onion, until softened.\n\n2. Add the cauliflower and vegetable stock, bring to the boil and simmer for 5-6 minutes, or until the cauliflower is cooked.\n\n3. Transfer into a food processor, add the Stilton and blend until smooth.\n\n4. Pour into bowls and serve.",
   "recipeYield": "Serves 2",
   "recipeIngredient": [
     "15g/½oz butter,",
@@ -39,5 +39,7 @@
       "@type": "Comment",
       "text": "Cooking time: less than 10 mins"
     }
-  ]
+  ],
+  "prepTime": "less than 30 mins",
+  "cookTime": "less than 10 mins"
 }

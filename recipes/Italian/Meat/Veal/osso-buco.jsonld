@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Osso Bucco",
-  "text": "Osso Bucco\n\nPreparation time: 20 minutes\n\nCooking time: 2 1/2 hours\n\nYield: 2\n\nIngredients\n\n2 veal shanks\n\n1 carrot (diced),\n\n1/2 onion (diced)\n\n1 stick of celery (diced)\n\n4 fresh tomatoes (roughly chopped) or 400g tin\n\nChicken or veal stock,\n\n2 cloves garlic (crushed and finely chopped),\n\nFresh Rosemary\n\nFresh Thyme\n\nDried bay leaf\n\nButter\n\nOlive oil\n\nFlour\n\nRed wine\n\nPreparation\n\nSeason, dredge and sear the veal shanks on a medium high heat with olive oil and butter for 5 minutes on each side..\n\nSet aside the veal shanks and saute the onion, carrot and celery for about 5 minutes until softened.\n\nAdd the garlic and saute for another 30 seconds\n\nDeglaze the pan with wine,\n\nAdd the veal, tomatoes and stock.\n\nAdd the bay leaf and bouquet garnet.\n\nCover and cook in the oven on 160C for 2 to 2 1/2 hours.",
+  "text": "Osso Bucco\n\nPreparation time: 20 minutes\n\nYield: 2\n\nIngredients\n\n2 veal shanks\n\n1 carrot (diced),\n\n1/2 onion (diced)\n\n1 stick of celery (diced)\n\n4 fresh tomatoes (roughly chopped) or 400g tin\n\nChicken or veal stock,\n\n2 cloves garlic (crushed and finely chopped),\n\nFresh Rosemary\n\nFresh Thyme\n\nDried bay leaf\n\nButter\n\nOlive oil\n\nFlour\n\nRed wine\n\nPreparation\n\nSeason, dredge and sear the veal shanks on a medium high heat with olive oil and butter for 5 minutes on each side..\n\nSet aside the veal shanks and saute the onion, carrot and celery for about 5 minutes until softened.\n\nAdd the garlic and saute for another 30 seconds\n\nDeglaze the pan with wine,\n\nAdd the veal, tomatoes and stock.\n\nAdd the bay leaf and bouquet garnet.\n\nCover and cook in the oven on 160C for 2 to 2 1/2 hours.",
   "prepTime": "PT20M",
   "recipeYield": "2",
   "recipeIngredient": [
@@ -57,5 +57,6 @@
       "@type": "Comment",
       "text": "Cooking time: 2 1/2 hours"
     }
-  ]
+  ],
+  "cookTime": "PT2H30M"
 }

@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Steak & Kidney Pie",
-  "text": "Steak & Kidney Pie\n\nPreparation time: less than 30 mins\n\nCooking time: 1 to 2 hours\n\nYield: 4\n\nIngredients\n\nFor the base\n\n300g puff pastry\n\n1 egg and 1 extra egg yolk beaten together\n\nFor the filling\n\n2 tbsp vegetable oil\n\n700g/1lb 9oz stewing beef, diced\n\n200g/7oz lamb kidney, diced\n\n2 medium onions, diced\n\n30g/1oz plain flour\n\n850ml/1½ pints beef stock\n\nsalt and freshly ground black pepper, to taste\n\na dash of Worcestershire sauce\n\nPreparation method\n\n1. Preheat the oven to 220C/425F/Gas 7\n\n2. Heat the vegetable oil in a large frying pan, and brown the beef all over. (You may need to do this in batches.) Set aside, then brown the kidneys on both sides in the same pan. Add the onions and cook for 3-4 minutes.\n\n3. Return the beef to the pan, sprinkle flour over and coat the meat and onions\n\n4. Add the stock to the pan, stir well and bring to the boil.\n\n5. Turn the heat down and simmer for 1½ hours without a lid. If the liquid evaporates too much, add more stock.\n\n6. Remove from the heat. Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish.\n\n7. Roll out the pastry to 5mm/¼in thick and 5cm/2in larger than the dish you are using.\n\n8. Using a rolling pin, lift the pastry and place it over the top of the pie dish. Trim and crimp the edges with your fingers and thumb.\n\n9. Brush the surface with the beaten egg mixture and bake for 30-40 minutes until golden-brown and puffed.\n\n10. Serve with creamy mash and steamed vegetables to soak up the gravy.",
+  "text": "Steak & Kidney Pie\n\nYield: 4\n\nIngredients\n\nFor the base\n\n300g puff pastry\n\n1 egg and 1 extra egg yolk beaten together\n\nFor the filling\n\n2 tbsp vegetable oil\n\n700g/1lb 9oz stewing beef, diced\n\n200g/7oz lamb kidney, diced\n\n2 medium onions, diced\n\n30g/1oz plain flour\n\n850ml/1½ pints beef stock\n\nsalt and freshly ground black pepper, to taste\n\na dash of Worcestershire sauce\n\nPreparation method\n\n1. Preheat the oven to 220C/425F/Gas 7\n\n2. Heat the vegetable oil in a large frying pan, and brown the beef all over. (You may need to do this in batches.) Set aside, then brown the kidneys on both sides in the same pan. Add the onions and cook for 3-4 minutes.\n\n3. Return the beef to the pan, sprinkle flour over and coat the meat and onions\n\n4. Add the stock to the pan, stir well and bring to the boil.\n\n5. Turn the heat down and simmer for 1½ hours without a lid. If the liquid evaporates too much, add more stock.\n\n6. Remove from the heat. Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish.\n\n7. Roll out the pastry to 5mm/¼in thick and 5cm/2in larger than the dish you are using.\n\n8. Using a rolling pin, lift the pastry and place it over the top of the pie dish. Trim and crimp the edges with your fingers and thumb.\n\n9. Brush the surface with the beaten egg mixture and bake for 30-40 minutes until golden-brown and puffed.\n\n10. Serve with creamy mash and steamed vegetables to soak up the gravy.",
   "recipeYield": "4",
   "recipeIngredient": [
     "For the base: 300g puff pastry",
@@ -68,5 +68,7 @@
       "@type": "Comment",
       "text": "Cooking time: 1 to 2 hours"
     }
-  ]
+  ],
+  "prepTime": "less than 30 mins",
+  "cookTime": "1 to 2 hours"
 }

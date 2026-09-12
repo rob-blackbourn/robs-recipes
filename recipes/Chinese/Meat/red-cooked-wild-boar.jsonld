@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "China",
   "name": "Red Cooked Wild Boar",
-  "text": "Red Cooked Wild Boar\n\nPreparation time: 20 minutes\n\nCooking time: 1 1/2 hours\n\nYield: 6\n\nIngredients\n\n1.5 kg Wild Boar (diced),\n\n6 tbsp dark soy sauce,\n\n10 tbsp Sunflower oil,\n\n6 tbsp of water,\n\n2 tbsp sugar,\n\n4 tbsp Chinese rice wine or dry sherry,\n\n25 g fresh ginger (peeled and finely grated),\n\n5-6 x 5mm (¼ inch) dried Chinese tangerine peel,\n\n2.5 cm (1 inch) cinnamon stick,\n\n4 cloves garlic,\n\n2 star anis,\n\n½ tsp Sichuan peppercorn (dry roasted and grounded).\n\nPreparation\n\n1. Put diced wild boar into bowl with soy sauce, mix well together and rest for 20 minutes.\n\n2. Preheat oven to 160C/325F gas mark 3. Heat the oil in a medium sized oven-proof casserole dish to 190C/375F.\n\n3. Lift wild boar out of soy sauce and deep fry in batches, turning until nicely brown.\n\n4. Discard the cooking oil, return the wild boar to the casserole dish and add the remaining soy sauce and all the other ingredients.\n\n5. Cover with a well fitting lid and cook in the oven for 1½ hours, until the meat is really tender.",
+  "text": "Red Cooked Wild Boar\n\nPreparation time: 20 minutes\n\nYield: 6\n\nIngredients\n\n1.5 kg Wild Boar (diced),\n\n6 tbsp dark soy sauce,\n\n10 tbsp Sunflower oil,\n\n6 tbsp of water,\n\n2 tbsp sugar,\n\n4 tbsp Chinese rice wine or dry sherry,\n\n25 g fresh ginger (peeled and finely grated),\n\n5-6 x 5mm (¼ inch) dried Chinese tangerine peel,\n\n2.5 cm (1 inch) cinnamon stick,\n\n4 cloves garlic,\n\n2 star anis,\n\n½ tsp Sichuan peppercorn (dry roasted and grounded).\n\nPreparation\n\n1. Put diced wild boar into bowl with soy sauce, mix well together and rest for 20 minutes.\n\n2. Preheat oven to 160C/325F gas mark 3. Heat the oil in a medium sized oven-proof casserole dish to 190C/375F.\n\n3. Lift wild boar out of soy sauce and deep fry in batches, turning until nicely brown.\n\n4. Discard the cooking oil, return the wild boar to the casserole dish and add the remaining soy sauce and all the other ingredients.\n\n5. Cover with a well fitting lid and cook in the oven for 1½ hours, until the meat is really tender.",
   "prepTime": "PT20M",
   "recipeYield": "6",
   "recipeIngredient": [
@@ -47,5 +47,6 @@
       "@type": "Comment",
       "text": "Cooking time: 1 1/2 hours"
     }
-  ]
+  ],
+  "cookTime": "PT1H30M"
 }

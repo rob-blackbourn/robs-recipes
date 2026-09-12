@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Yorkshire Pudding",
-  "text": "Yorkshire Pudding\n\nPreparation time:\n\nCooking time: 35 minutes.\n\nYield:\n\nIngredients\n\n225g/8oz plain flour,\n\nsalt and freshly ground black pepper,\n\n8 eggs,\n\n600ml/1 pint milk,\n\n55g/2oz dripping.\n\nPreparation method\n\n1. Place the flour and a little salt and freshly ground black pepper into a bowl. Add the eggs, mixing in with a whisk, then gradually pour in the milk, mixing slowly to prevent lumps forming.\n\n2. Cover the bowl with clingfilm and chill in the fridge overnight.\n\n3. Preheat the oven to 220C/425F/Gas 7.\n\n4. Put a little of the dripping in four non-stick Yorkshire pudding tins. Place the tins in the oven until smoking hot.\n\n5. Remove from the oven and quickly fill the moulds with the batter. Return to the oven and cook for 20-25 minutes.\n\n6. Turn the oven down to 190C/375F/Gas 5 and cook for a further 10 minutes to set the bottom of the puddings.",
+  "text": "Yorkshire Pudding\n\nPreparation time:\n\nYield:\n\nIngredients\n\n225g/8oz plain flour,\n\nsalt and freshly ground black pepper,\n\n8 eggs,\n\n600ml/1 pint milk,\n\n55g/2oz dripping.\n\nPreparation method\n\n1. Place the flour and a little salt and freshly ground black pepper into a bowl. Add the eggs, mixing in with a whisk, then gradually pour in the milk, mixing slowly to prevent lumps forming.\n\n2. Cover the bowl with clingfilm and chill in the fridge overnight.\n\n3. Preheat the oven to 220C/425F/Gas 7.\n\n4. Put a little of the dripping in four non-stick Yorkshire pudding tins. Place the tins in the oven until smoking hot.\n\n5. Remove from the oven and quickly fill the moulds with the batter. Return to the oven and cook for 20-25 minutes.\n\n6. Turn the oven down to 190C/375F/Gas 5 and cook for a further 10 minutes to set the bottom of the puddings.",
   "recipeIngredient": [
     "225g/8oz plain flour,",
     "salt and freshly ground black pepper,",
@@ -42,5 +42,6 @@
       "@type": "Comment",
       "text": "Cooking time: 35 minutes."
     }
-  ]
+  ],
+  "cookTime": "PT35M"
 }

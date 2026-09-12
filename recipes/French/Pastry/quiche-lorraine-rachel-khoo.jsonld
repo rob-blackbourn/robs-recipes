@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Quiche Lorraine - Rachel Khoo",
-  "text": "Quiche Lorraine - Rachel Khoo\n\nPreparation time: 10 mins pastry - 1 hour chill, 10 mins rest.\n\nCooking time: 40 minutes\n\nIngredients\n\nFor the pastry\n\n90g unsalted butter,\n\n1 tsp sugar,\n\n1 pinch salt,\n\n180g plain flour,\n\n2 egg yolks,\n\n2 egg whites (for the wash).\n\nFor the filling\n\n4 whole eggs,\n\n2 egg yolks,\n\n300 ml double cream.\n\n150g bacon lardons.\n\nPreparation\n\n1. Soften the butter and cream with 1 tsp sugar and 1 pinch salt.\n\n2. Add 180g of plain flour, 2 egg yolks, and 2 tbsp cold water.\n\n3. Using a wooden spoon, mix until it has a coarse sandy texture.\n\n4. Using your hands bring the dough together, wrap in cling film for a minimum of 30 minutes, ideally overnight.\n\n5. Remove the pastry from the fridge 30 minutes before use.\n\n6. Butter and flour with dish, then roll out the pastry and line the dish with it.\n\n7. Brush the base with egg white, and put in the fridge for 30 minutes.\n\n8. Fry the lardons without oil, then dry with a paper towel.\n\n9. Into a medium sized glass mixing bowl add 4 whole eggs, 2 egg yolks, and 300ml of double cream. Season with salt and pepper and mix lightly with a bowl whisk.\n\n10. Scatter the fried lardons into the pastry base, and pour over the cream and eggs.\n\n11. Cook at 180C/Gas4 for 40 minutes.",
+  "text": "Quiche Lorraine - Rachel Khoo\n\nIngredients\n\nFor the pastry\n\n90g unsalted butter,\n\n1 tsp sugar,\n\n1 pinch salt,\n\n180g plain flour,\n\n2 egg yolks,\n\n2 egg whites (for the wash).\n\nFor the filling\n\n4 whole eggs,\n\n2 egg yolks,\n\n300 ml double cream.\n\n150g bacon lardons.\n\nPreparation\n\n1. Soften the butter and cream with 1 tsp sugar and 1 pinch salt.\n\n2. Add 180g of plain flour, 2 egg yolks, and 2 tbsp cold water.\n\n3. Using a wooden spoon, mix until it has a coarse sandy texture.\n\n4. Using your hands bring the dough together, wrap in cling film for a minimum of 30 minutes, ideally overnight.\n\n5. Remove the pastry from the fridge 30 minutes before use.\n\n6. Butter and flour with dish, then roll out the pastry and line the dish with it.\n\n7. Brush the base with egg white, and put in the fridge for 30 minutes.\n\n8. Fry the lardons without oil, then dry with a paper towel.\n\n9. Into a medium sized glass mixing bowl add 4 whole eggs, 2 egg yolks, and 300ml of double cream. Season with salt and pepper and mix lightly with a bowl whisk.\n\n10. Scatter the fried lardons into the pastry base, and pour over the cream and eggs.\n\n11. Cook at 180C/Gas4 for 40 minutes.",
   "cookTime": "PT40M",
   "recipeIngredient": [
     "For the pastry: 90g unsalted butter,",
@@ -68,5 +68,6 @@
       "@type": "Comment",
       "text": "Preparation time: 10 mins pastry - 1 hour chill, 10 mins rest."
     }
-  ]
+  ],
+  "prepTime": "10 mins pastry - 1 hour chill, 10 mins rest."
 }

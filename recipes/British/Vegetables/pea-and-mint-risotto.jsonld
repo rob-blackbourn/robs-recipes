@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Pea and Mint Risotto",
-  "text": "Pea and Mint Risotto\n\nPreparation time: 30 mins\n\nCooking time: 10 to 30 mins\n\nYield: serves 2\n\nIngredients\n\nFor the risotto\n\n1 tbsp olive oil,\n\n¼ onion, finely chopped,\n\n1 garlic clove, sliced,\n\n200g/7oz risotto rice,\n\n3 tbsp white wine,\n\nabout 570ml/1 pint hot chicken stock,\n\n50g/2oz fresh peas or frozen peas, defrosted,\n\n1 small handful fresh mint, chopped leaves only,\n\n2 tbsp double cream,\n\n25g/1oz butter,\n\nsalt and freshly ground black pepper.\n\nTo serve\n\ntwo handfuls rocket leaves,\n\ndrizzle olive oil,\n\ndrizzle balsamic vinegar,\n\nparmesan shavings.\n\nPreparation\n\n1. Heat the oil in a large saucepan over a medium heat, add the onion and garlic and fry gently for three minutes or until softened but not coloured. Stir in the rice and stir well for 2-3 minutes, until the grains turn translucent at the edges.\n\n2. Pour in the wine and increase the heat to medium high. Cook for 1-2 minutes, or until the wine has been absorbed. Add a ladleful of the hot chicken stock and stir continuously until all the stock has been absorbed, then repeat until all the stock has been absorbed and the rice is cooked but still slightly firm (al dente).\n\n3. Stir in the peas, mint, cream and butter and season with salt and freshly ground black pepper. Cover with a lid and leave to cook gently for 2-3 minutes.\n\n4. To serve, toss the rocket with the olive oil and balsamic vinegar and scatter over the parmesan. Spoon the risotto into warm bowls and serve the salad alongside.",
+  "text": "Pea and Mint Risotto\n\nPreparation time: 30 mins\n\nYield: serves 2\n\nIngredients\n\nFor the risotto\n\n1 tbsp olive oil,\n\n¼ onion, finely chopped,\n\n1 garlic clove, sliced,\n\n200g/7oz risotto rice,\n\n3 tbsp white wine,\n\nabout 570ml/1 pint hot chicken stock,\n\n50g/2oz fresh peas or frozen peas, defrosted,\n\n1 small handful fresh mint, chopped leaves only,\n\n2 tbsp double cream,\n\n25g/1oz butter,\n\nsalt and freshly ground black pepper.\n\nTo serve\n\ntwo handfuls rocket leaves,\n\ndrizzle olive oil,\n\ndrizzle balsamic vinegar,\n\nparmesan shavings.\n\nPreparation\n\n1. Heat the oil in a large saucepan over a medium heat, add the onion and garlic and fry gently for three minutes or until softened but not coloured. Stir in the rice and stir well for 2-3 minutes, until the grains turn translucent at the edges.\n\n2. Pour in the wine and increase the heat to medium high. Cook for 1-2 minutes, or until the wine has been absorbed. Add a ladleful of the hot chicken stock and stir continuously until all the stock has been absorbed, then repeat until all the stock has been absorbed and the rice is cooked but still slightly firm (al dente).\n\n3. Stir in the peas, mint, cream and butter and season with salt and freshly ground black pepper. Cover with a lid and leave to cook gently for 2-3 minutes.\n\n4. To serve, toss the rocket with the olive oil and balsamic vinegar and scatter over the parmesan. Spoon the risotto into warm bowls and serve the salad alongside.",
   "prepTime": "PT30M",
   "recipeYield": "serves 2",
   "recipeIngredient": [
@@ -46,5 +46,6 @@
       "@type": "Comment",
       "text": "Cooking time: 10 to 30 mins"
     }
-  ]
+  ],
+  "cookTime": "10 to 30 mins"
 }

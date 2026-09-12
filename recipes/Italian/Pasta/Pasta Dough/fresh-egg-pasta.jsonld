@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Fresh Egg Pasta",
-  "text": "Fresh Egg Pasta\n\nPreparation time: 30 minutes (plus 30 minutes resting)\n\nCooking time: 5 minutes\n\nYield: 2 (of tagliatelle)\n\nIngredients\n\n100 g ‘00’ plain flour,\n\n1 large egg,\n\nsalt.\n\nPreparation\n\n1. Put the flour and salt in the bowl of a mixer.\n\n2. Add the egg.\n\n3. Mix on a slow setting until the egg is combined (less than 1 minute).\n\n4. Bring together with your hands, and transfer to a floured surface.\n\n5. Knead for 5 minutes.\n\n6. Wrap in cling film and put in the fridge for 30 minutes.",
+  "text": "Fresh Egg Pasta\n\nYield: 2 (of tagliatelle)\n\nIngredients\n\n100 g ‘00’ plain flour,\n\n1 large egg,\n\nsalt.\n\nPreparation\n\n1. Put the flour and salt in the bowl of a mixer.\n\n2. Add the egg.\n\n3. Mix on a slow setting until the egg is combined (less than 1 minute).\n\n4. Bring together with your hands, and transfer to a floured surface.\n\n5. Knead for 5 minutes.\n\n6. Wrap in cling film and put in the fridge for 30 minutes.",
   "cookTime": "PT5M",
   "recipeYield": "2 (of tagliatelle)",
   "recipeIngredient": [
@@ -42,5 +42,6 @@
       "@type": "Comment",
       "text": "Preparation time: 30 minutes (plus 30 minutes resting)"
     }
-  ]
+  ],
+  "prepTime": "30 minutes (plus 30 minutes resting)"
 }

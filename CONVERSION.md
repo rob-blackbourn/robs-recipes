@@ -2,7 +2,7 @@
 
 Converted all 419 DOCX documents to UTF-8 JSON-LD (.jsonld) beside their original locations: 413 Recipe objects and six CreativeWork reference documents. Extracted 12 embedded images into adjacent .assets folders. Original DOCX files were removed after verification.
 
-Every JSON-LD object includes the complete extracted document text in `text`, preserving original wording, section headings, notes, and metadata. Recipe ingredients, instruction steps and sections, yields, equipment, and explicit durations are also structured. Ingredient group names prefix their ingredient strings. Exact times use ISO 8601 durations; ranges and qualified times remain in comments and source text. Missing data is not invented.
+Every JSON-LD object includes extracted document text in `text`, preserving original wording, section headings, notes, and metadata except preparation- and cooking-time lines moved into `prepTime` and `cookTime`. Recipe ingredients, instruction steps and sections, yields, equipment, and explicit durations are also structured. Ingredient group names prefix their ingredient strings. Exact times use ISO 8601 durations. Preparation-time ranges and qualified times are preserved verbatim in `prepTime`; comments retain their original wording. Preparation-time lines are removed from source text when migrated into `prepTime`. Missing data is not invented.
 
 Validation: all 419 outputs parsed successfully; extracted source text was checked against every output, and all 12 images were checked byte-for-byte before source removal.
 
@@ -30,3 +30,7 @@ These originals lack an ingredient list or preparation instructions; the convert
 - recipes/Japanese/Tempura/sweet-potato.jsonld
 
 The green chicken curry from Books/Thai Food has an empty “Make the paste” heading in the source. It is retained in the full text; no preparation steps have been invented.
+
+To populate missing preparation times from labelled source text, run `node scripts/normalize-prep-times.mjs --write`. Without `--write`, the script checks for missing values. Newly migrated preparation-time lines are removed from `text`. Existing preparation times are preserved; blank and unknown values remain unset.
+
+To migrate cooking times, run `node scripts/normalize-cook-times.mjs --write` (omit `--write` for a check). Exact durations, including fractional hours, use ISO 8601; ranges and qualified wording are preserved. Matching cooking-time lines are removed from `text`, including when `cookTime` already exists. Conflicting values are reported and preserved for review; blank and unknown values remain unchanged.

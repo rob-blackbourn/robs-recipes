@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Chicken Fricassée",
-  "text": "Chicken Fricassée\n\nPreparation time: 30 mins\n\nCooking time: 30 mins to 1 hour\n\nYield: 4\n\nIngredients\n\n2.5 kg chicken (cut into pieces),\n\n60 ml olive oil,\n\n2 cloves garlic (skin on)\n\n150 g shallots (cut in half),\n\n125 g mixed peppers,\n\n2 carrots (peeled and sliced),\n\n200 g button mushrooms,\n\n600 ml Brown chicken stock,\n\n1 bay leaf,\n\nSprig of fresh thyme,\n\n6 peppercorns.\n\nPreparation\n\n1. Heat the oven to 190C/Gas 5.\n\n2. Season the chicken and colour quickly in oil.\n\n3. Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves.\n\n4. Sauté the vegetables together until lightly Brown. Place them in with the chicken.\n\n5. Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken.\n\n6. Place in the oven until the chicken is cooked through.",
+  "text": "Chicken Fricassée\n\nPreparation time: 30 mins\n\nYield: 4\n\nIngredients\n\n2.5 kg chicken (cut into pieces),\n\n60 ml olive oil,\n\n2 cloves garlic (skin on)\n\n150 g shallots (cut in half),\n\n125 g mixed peppers,\n\n2 carrots (peeled and sliced),\n\n200 g button mushrooms,\n\n600 ml Brown chicken stock,\n\n1 bay leaf,\n\nSprig of fresh thyme,\n\n6 peppercorns.\n\nPreparation\n\n1. Heat the oven to 190C/Gas 5.\n\n2. Season the chicken and colour quickly in oil.\n\n3. Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves.\n\n4. Sauté the vegetables together until lightly Brown. Place them in with the chicken.\n\n5. Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken.\n\n6. Place in the oven until the chicken is cooked through.",
   "prepTime": "PT30M",
   "recipeYield": "4",
   "recipeIngredient": [
@@ -50,5 +50,6 @@
       "@type": "Comment",
       "text": "Cooking time: 30 mins to 1 hour"
     }
-  ]
+  ],
+  "cookTime": "30 mins to 1 hour"
 }

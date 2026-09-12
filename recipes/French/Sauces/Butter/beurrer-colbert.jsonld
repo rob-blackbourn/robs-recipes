@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Beurrer Colbert",
-  "text": "Beurrer Colbert\n\nPreparation time: 1 minute\n\nCooking time: none\n\nIngredients\n\n2 tsp finely chopped tarragon,\n\n2 tbsp meat glaze,\n\n1 portion of Beurre Maître D’Hôtel.\n\nPreparation\n\n1. Add the tarragon and meat glaze to the Beurre Maître D’Hôtel.",
+  "text": "Beurrer Colbert\n\nPreparation time: 1 minute\n\nIngredients\n\n2 tsp finely chopped tarragon,\n\n2 tbsp meat glaze,\n\n1 portion of Beurre Maître D’Hôtel.\n\nPreparation\n\n1. Add the tarragon and meat glaze to the Beurre Maître D’Hôtel.",
   "prepTime": "PT1M",
   "cookTime": "PT0M",
   "recipeIngredient": [

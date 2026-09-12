@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Quiche Lorraine - Hairy Bikers",
-  "text": "Quiche Lorraine - Hairy Bikers\n\nPreparation time: 30 mins to 1 hour\n\nCooking time: 10 to 30 mins\n\nYield: 4\n\nIngredients\n\nFor the pastry\n\n180g/6¼oz plain flour, plus extra for dusting\n\n100g/3½oz cold unsalted butter, cubed\n\n50g/2oz parmesan, grated\n\n2 tsp thyme, leaves only\n\n1 free-range egg yolk\n\n1 tsp chilled water (more if needed)\n\nFor the filling\n\n3 free-range eggs\n\n150g/5¼oz pancetta, cubed\n\n250ml/9fl oz crème fraîche\n\n150g/5¼oz Gruyère\n\nfreshly ground black pepper\n\nPreparation method\n\n1. Preheat the oven to 180C/350F/Gas 4.\n\n2. For the pastry, sieve the flour into a mixing bowl. Add the butter, parmesan and thyme and rub into the flour until the mixture resembles breadcrumbs.\n\n3. Add the egg yolk and the water and mix to form a firm dough. Wrap the dough in cling film and place in the fridge for 30 minutes.\n\n4. On a floured surface, roll out the pastry to fit one large flan tin. Line the tin with the pastry, then place a circle of baking paper over the pastry and fill with baking beans.\n\n5. Transfer to the oven and bake for 15 minutes. Remove the beans and paper and return to the oven for five minutes.\n\n6. For the filling, place all the ingredients (except 50g/2oz of the Gruyère) into a large bowl and mix gently, to avoid filling the mixture with air.\n\n7. Spoon the filling into the pastry case and sprinkle the remaining Gruyère on top.\n\n8. Bake the quiche for 15 minutes, or until the filling is set. Serve hot or cold with a green salad.",
+  "text": "Quiche Lorraine - Hairy Bikers\n\nYield: 4\n\nIngredients\n\nFor the pastry\n\n180g/6¼oz plain flour, plus extra for dusting\n\n100g/3½oz cold unsalted butter, cubed\n\n50g/2oz parmesan, grated\n\n2 tsp thyme, leaves only\n\n1 free-range egg yolk\n\n1 tsp chilled water (more if needed)\n\nFor the filling\n\n3 free-range eggs\n\n150g/5¼oz pancetta, cubed\n\n250ml/9fl oz crème fraîche\n\n150g/5¼oz Gruyère\n\nfreshly ground black pepper\n\nPreparation method\n\n1. Preheat the oven to 180C/350F/Gas 4.\n\n2. For the pastry, sieve the flour into a mixing bowl. Add the butter, parmesan and thyme and rub into the flour until the mixture resembles breadcrumbs.\n\n3. Add the egg yolk and the water and mix to form a firm dough. Wrap the dough in cling film and place in the fridge for 30 minutes.\n\n4. On a floured surface, roll out the pastry to fit one large flan tin. Line the tin with the pastry, then place a circle of baking paper over the pastry and fill with baking beans.\n\n5. Transfer to the oven and bake for 15 minutes. Remove the beans and paper and return to the oven for five minutes.\n\n6. For the filling, place all the ingredients (except 50g/2oz of the Gruyère) into a large bowl and mix gently, to avoid filling the mixture with air.\n\n7. Spoon the filling into the pastry case and sprinkle the remaining Gruyère on top.\n\n8. Bake the quiche for 15 minutes, or until the filling is set. Serve hot or cold with a green salad.",
   "recipeYield": "4",
   "recipeIngredient": [
     "For the pastry: 180g/6¼oz plain flour, plus extra for dusting",
@@ -61,5 +61,7 @@
       "@type": "Comment",
       "text": "Cooking time: 10 to 30 mins"
     }
-  ]
+  ],
+  "prepTime": "30 mins to 1 hour",
+  "cookTime": "10 to 30 mins"
 }

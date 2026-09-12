@@ -3,7 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Bloomer",
-  "text": "Bloomer\n\nPreparation time: 30 minutes, plus 4 hours waiting.\n\nCooking time: 25 minutes\n\nYield: 1 large loaf\n\nIngredients\n\n500g strong white flour,\n\n1 tbsp dried active yeast,\n\n1/2 tbsp salt,\n\n2 tbsp olive oil,\n\nwater.\n\nPreparation\n\n1. Put the flour in a large mixing bowl. Add the yeast to one side of the bowl, and the salt to the other. Add the oil.\n\n2. Add enough water to bring the dry ingredients together.\n\n3. Knead for 1o minutes on olive oil.\n\n4. Cover with cling film and let rise for 2 hours, or until doubled in size.\n\n5. Knock back and shape by stretching and folding.\n\n6. Put on a baking tray lined with a baking sheet covered with cling film, and let rise for another 2 hours.\n\n6. Spray with water, dust with flour, slash with a knife.\n\n7. Cook in a preheated oven at Gas 6 ( 220C), for 25 minutes.",
+  "text": "Bloomer\n\nYield: 1 large loaf\n\nIngredients\n\n500g strong white flour,\n\n1 tbsp dried active yeast,\n\n1/2 tbsp salt,\n\n2 tbsp olive oil,\n\nwater.\n\nPreparation\n\n1. Put the flour in a large mixing bowl. Add the yeast to one side of the bowl, and the salt to the other. Add the oil.\n\n2. Add enough water to bring the dry ingredients together.\n\n3. Knead for 1o minutes on olive oil.\n\n4. Cover with cling film and let rise for 2 hours, or until doubled in size.\n\n5. Knock back and shape by stretching and folding.\n\n6. Put on a baking tray lined with a baking sheet covered with cling film, and let rise for another 2 hours.\n\n6. Spray with water, dust with flour, slash with a knife.\n\n7. Cook in a preheated oven at Gas 6 ( 220C), for 25 minutes.",
   "cookTime": "PT25M",
   "recipeYield": "1 large loaf",
   "recipeIngredient": [
@@ -52,5 +52,6 @@
       "@type": "Comment",
       "text": "Preparation time: 30 minutes, plus 4 hours waiting."
     }
-  ]
+  ],
+  "prepTime": "30 minutes, plus 4 hours waiting."
 }
