@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Chicken Kebab",
   "cookTime": "PT10M",
+  "prepTime": "PT30M",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "200 g chicken thighs",
@@ -38,7 +39,6 @@
       "text": "Preparation time: 30 minutes (4 hours marinade)"
     }
   ],
-  "prepTime": "30 minutes (4 hours marinade)",
   "keywords": [
     "BBQ"
   ]

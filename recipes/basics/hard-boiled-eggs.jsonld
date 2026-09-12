@@ -31,7 +31,7 @@
       "text": "Cooking time: 10 minutes with 10 minutes waiting"
     }
   ],
-  "cookTime": "10 minutes with 10 minutes waiting",
+  "cookTime": "PT10M",
   "keywords": [
     "Basics"
   ]
