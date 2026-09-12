@@ -4,7 +4,6 @@ import { duration, filterDocuments } from './catalog';
 import {
   type Preferences,
   type DocumentEntry,
-  unitModes,
   temperatureUnits,
   type TemperatureUnit,
 } from './types';
@@ -28,7 +27,6 @@ import {
 import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
 import { densitySource } from './densities';
-import { cupModeFor } from './units';
 
 function readSettings() {
   try {
@@ -540,12 +538,6 @@ function Recipe({
     ).length > 0;
   const adjusted = factor !== 1 || units !== 'original';
   const citations = typeof entry.citation === 'string' ? [entry.citation] : entry.citation || [];
-  const summary =
-    info?.servings && effectiveYield
-      ? `${Number(effectiveYield.toPrecision(6))} servings`
-      : effectiveYield
-        ? `${Number(effectiveYield.toPrecision(6))} ${targetUnit?.name || info?.label || 'yield'}`
-        : `${Number(factor.toPrecision(6))}× original quantity`;
   return (
     <article className="recipe-page narrow-wide" key={resetVersion}>
       <div className="recipe-topbar">
@@ -624,24 +616,6 @@ function Recipe({
       )}
       {isRecipe && (
         <>
-          <div className="effective-summary" aria-live="polite">
-            <strong>{summary}</strong>
-            <span>
-              {unitModes[units]}
-              {adjusted ? ' · Quantities rounded for cooking' : ' · As written'}
-            </span>
-            {cupModeFor(units) && (
-              <span>
-                Cup:{' '}
-                {cupModeFor(units) === 'cups-metric'
-                  ? '250'
-                  : cupModeFor(units) === 'cups-us'
-                    ? '236.6'
-                    : '284.1'}{' '}
-                ml · spoons: {cupModeFor(units) === 'cups-us' ? 'US customary' : '15 / 5 ml'}
-              </span>
-            )}
-          </div>
           {options.error && (
             <p className="notice" role="alert">
               {options.error}
