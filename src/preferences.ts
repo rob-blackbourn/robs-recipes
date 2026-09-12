@@ -133,3 +133,7 @@ export function resolveOptions(
       : 'This yield is outside the supported numeric range. Original quantities are shown; choose a smaller adjustment.',
   };
 }
+
+export function temperatureForUnits(units: UnitMode, preferred: TemperatureUnit): TemperatureUnit {
+  return units === 'customary' || units === 'customary-cups' ? 'fahrenheit' : preferred;
+}

@@ -1,3 +1,4 @@
+import { temperatureForUnits } from './preferences';
 import { describe, expect, it } from 'vitest';
 import {
   decodePreferences,
@@ -130,4 +131,15 @@ describe('saved settings', () => {
   ])('safely defaults corrupt or unsupported data %s', (raw) =>
     expect(decodePreferences(raw)).toEqual(defaults),
   );
+});
+
+describe('temperature units for US Customary', () => {
+  it.each(['customary', 'customary-cups'] as const)('uses Fahrenheit for %s', (units) => {
+    expect(temperatureForUnits(units, 'celsius')).toBe('fahrenheit');
+    expect(temperatureForUnits(units, 'gas')).toBe('fahrenheit');
+  });
+  it('keeps the preferred temperature for other measurement systems', () => {
+    expect(temperatureForUnits('metric', 'celsius')).toBe('celsius');
+    expect(temperatureForUnits('imperial', 'gas')).toBe('gas');
+  });
 });

@@ -13,6 +13,7 @@ import {
   encodePreferences,
   storageKey,
   resolveOptions,
+  temperatureForUnits,
 } from './preferences';
 import { useRoute, navigate, recipeLink, safeReturn } from './navigation';
 import {
@@ -405,12 +406,19 @@ function Settings({
         <UnitSelect
           label="Preferred units"
           value={preferences.units}
-          onChange={(units) => save({ ...preferences, units })}
+          onChange={(units) =>
+            save({
+              ...preferences,
+              units,
+              temperatureUnit: temperatureForUnits(units, preferences.temperatureUnit),
+            })
+          }
         />
         <label className="field">
           <span>Preferred temperature unit</span>
           <select
-            value={preferences.temperatureUnit}
+            value={temperatureForUnits(preferences.units, preferences.temperatureUnit)}
+            disabled={preferences.units === 'customary' || preferences.units === 'customary-cups'}
             onChange={(event) =>
               save({ ...preferences, temperatureUnit: event.target.value as TemperatureUnit })
             }
@@ -423,8 +431,9 @@ function Settings({
             ))}
           </select>
           <small id="temperature-help">
-            Gas Marks are approximate conventional oven settings. Other temperatures, including
-            fan-only settings and temperatures outside the Gas Mark range, use Celsius.
+            US Customary uses Fahrenheit. Gas Marks are approximate conventional oven settings.
+            Other temperatures, including fan-only settings and temperatures outside the Gas Mark
+            range, use Celsius.
           </small>
         </label>
         <NumberField
@@ -550,258 +559,263 @@ function Recipe({
     ).length > 0;
   const citations = typeof entry.citation === 'string' ? [entry.citation] : entry.citation || [];
   return (
-    <article className="recipe-page narrow-wide" key={resetVersion}>
-      <div className="recipe-topbar">
-        <a className="back-link" href={safeReturn(params.get('from'))}>
-          ← Back to {isRecipe ? 'recipes' : 'references'}
-        </a>
-        <button onClick={() => window.print()}>
-          Print {isRecipe ? 'recipe' : 'reference'} <span aria-hidden="true">↗</span>
-        </button>
-      </div>
-      <header className="recipe-heading">
-        <span className="eyebrow">{folderLabel(entry.folder) || 'THE COLLECTION'}</span>
-        <h1>{entry.name}</h1>
-        {isRecipe && entry.description && (
-          <p>
-            <TemperatureText text={entry.description} />
-          </p>
-        )}
-        <dl className="recipe-meta">
-          {isRecipe && (
-            <NumberField
-              metadata
-              plain
-              label="Yield"
-              unit={
-                info ? (info.servings ? 'servings' : targetUnit?.name || info.label) : 'servings'
-              }
-              value={info ? effectiveYield : options.target}
-              hint={
-                !baseline
-                  ? 'This recipe has no known yield; ingredient quantities cannot be scaled.'
-                  : undefined
-              }
-              onChange={(value) => update({ yield: String(value), factor: null })}
-            />
-          )}
-          {[
-            ['Prep', entry.prepTime],
-            ['Cook', entry.cookTime],
-            ['Total', entry.totalTime],
-          ].map(
-            ([name, time]) =>
-              time && (
-                <div key={name}>
-                  <dt>{name}</dt>
-                  <dd>{duration(time)}</dd>
-                </div>
-              ),
-          )}
-          {isRecipe && (
-            <>
-              <UnitSelect metadata value={units} onChange={(value) => update({ units: value })} />
-              <div className="reset-meta">
-                <dt className="sr-only">Page controls</dt>
-                <dd>
-                  <button type="button" className="text-button" onClick={resetPage}>
-                    Reset page
-                  </button>
-                </dd>
-              </div>
-            </>
-          )}
-        </dl>
-      </header>
-      {entry.images.length > 0 && (
-        <div className="recipe-images">
-          {entry.images.map((url, i) => (
-            <img
-              src={url}
-              alt={`${entry.name}${entry.images.length > 1 ? ` — image ${i + 1}` : ''}`}
-              key={url}
-              loading="lazy"
-            />
-          ))}
+    <TemperatureUnitContext.Provider
+      value={temperatureForUnits(units, preferences.temperatureUnit)}
+    >
+      <article className="recipe-page narrow-wide" key={resetVersion}>
+        <div className="recipe-topbar">
+          <a className="back-link" href={safeReturn(params.get('from'))}>
+            ← Back to {isRecipe ? 'recipes' : 'references'}
+          </a>
+          <button onClick={() => window.print()}>
+            Print {isRecipe ? 'recipe' : 'reference'} <span aria-hidden="true">↗</span>
+          </button>
         </div>
-      )}
-      {isRecipe && (
-        <>
-          {options.error && (
-            <p className="notice" role="alert">
-              {options.error}
+        <header className="recipe-heading">
+          <span className="eyebrow">{folderLabel(entry.folder) || 'THE COLLECTION'}</span>
+          <h1>{entry.name}</h1>
+          {isRecipe && entry.description && (
+            <p>
+              <TemperatureText text={entry.description} />
             </p>
           )}
-          {factor !== 1 && (
-            <p className="notice">
-              Ingredient amounts are scaled. Cooking times, temperature settings, and quantities
-              mentioned in the method do not change with the yield.
-            </p>
-          )}
-          {issues > 0 && (
-            <p className="notice">
-              <WarningIcon /> {issues} ingredient{' '}
-              {issues === 1 ? 'quantity needs' : 'quantities need'} checking. Ingredients marked
-              with this icon could not be scaled or converted and remain as written.
-            </p>
-          )}
-          <div className="cooking-layout">
-            <section className="ingredients">
-              <div className="section-heading">
+          <dl className="recipe-meta">
+            {isRecipe && (
+              <NumberField
+                metadata
+                plain
+                label="Yield"
+                unit={
+                  info ? (info.servings ? 'servings' : targetUnit?.name || info.label) : 'servings'
+                }
+                value={info ? effectiveYield : options.target}
+                hint={
+                  !baseline
+                    ? 'This recipe has no known yield; ingredient quantities cannot be scaled.'
+                    : undefined
+                }
+                onChange={(value) => update({ yield: String(value), factor: null })}
+              />
+            )}
+            {[
+              ['Prep', entry.prepTime],
+              ['Cook', entry.cookTime],
+              ['Total', entry.totalTime],
+            ].map(
+              ([name, time]) =>
+                time && (
+                  <div key={name}>
+                    <dt>{name}</dt>
+                    <dd>{duration(time)}</dd>
+                  </div>
+                ),
+            )}
+            {isRecipe && (
+              <>
+                <UnitSelect metadata value={units} onChange={(value) => update({ units: value })} />
+                <div className="reset-meta">
+                  <dt className="sr-only">Page controls</dt>
+                  <dd>
+                    <button type="button" className="text-button" onClick={resetPage}>
+                      Reset page
+                    </button>
+                  </dd>
+                </div>
+              </>
+            )}
+          </dl>
+        </header>
+        {entry.images.length > 0 && (
+          <div className="recipe-images">
+            {entry.images.map((url, i) => (
+              <img
+                src={url}
+                alt={`${entry.name}${entry.images.length > 1 ? ` — image ${i + 1}` : ''}`}
+                key={url}
+                loading="lazy"
+              />
+            ))}
+          </div>
+        )}
+        {isRecipe && (
+          <>
+            {options.error && (
+              <p className="notice" role="alert">
+                {options.error}
+              </p>
+            )}
+            {factor !== 1 && (
+              <p className="notice">
+                Ingredient amounts are scaled. Cooking times, temperature settings, and quantities
+                mentioned in the method do not change with the yield.
+              </p>
+            )}
+            {issues > 0 && (
+              <p className="notice">
+                <WarningIcon /> {issues} ingredient{' '}
+                {issues === 1 ? 'quantity needs' : 'quantities need'} checking. Ingredients marked
+                with this icon could not be scaled or converted and remain as written.
+              </p>
+            )}
+            <div className="cooking-layout">
+              <section className="ingredients">
+                <div className="section-heading">
+                  <h2>
+                    <button
+                      className="section-toggle"
+                      aria-expanded={ingredientsOpen}
+                      aria-controls="ingredients-content"
+                      onClick={() => setIngredientsOpen((open) => !open)}
+                    >
+                      Ingredients <span aria-hidden="true">{ingredientsOpen ? '−' : '+'}</span>
+                    </button>
+                  </h2>
+                </div>
+                <div id="ingredients-content" className="cooking-content" hidden={!ingredientsOpen}>
+                  {!lines.length && <p className="notice">No ingredient list is available.</p>}
+                  <ul className="ingredient-list">
+                    {lines.map((line, index) => (
+                      <li
+                        key={index}
+                        className={checked.has(index) ? 'checked' : ''}
+                        onClick={(event) => {
+                          if ((event.target as HTMLElement).closest('details')) return;
+                          setChecked((previous) => {
+                            const next = new Set(previous);
+                            if (next.has(index)) next.delete(index);
+                            else next.add(index);
+                            return next;
+                          });
+                        }}
+                      >
+                        <button
+                          type="button"
+                          className="ingredient-toggle"
+                          aria-pressed={checked.has(index)}
+                        >
+                          <span>
+                            {line.density && <span aria-label="Approximate">≈ </span>}
+                            <TemperatureText text={line.text} allowGas={false} />
+                          </span>
+                          {line.issue && <WarningIcon message={`Check quantity: ${line.issue}`} />}
+                        </button>
+                        {line.note && <small className="ingredient-note">{line.note}</small>}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </section>
+              <section className="method">
                 <h2>
                   <button
                     className="section-toggle"
-                    aria-expanded={ingredientsOpen}
-                    aria-controls="ingredients-content"
-                    onClick={() => setIngredientsOpen((open) => !open)}
+                    aria-expanded={methodOpen}
+                    aria-controls="method-content"
+                    onClick={() => setMethodOpen((open) => !open)}
                   >
-                    Ingredients <span aria-hidden="true">{ingredientsOpen ? '−' : '+'}</span>
+                    Method <span aria-hidden="true">{methodOpen ? '−' : '+'}</span>
                   </button>
                 </h2>
-              </div>
-              <div id="ingredients-content" className="cooking-content" hidden={!ingredientsOpen}>
-                {!lines.length && <p className="notice">No ingredient list is available.</p>}
-                <ul className="ingredient-list">
-                  {lines.map((line, index) => (
-                    <li
-                      key={index}
-                      className={checked.has(index) ? 'checked' : ''}
-                      onClick={(event) => {
-                        if ((event.target as HTMLElement).closest('details')) return;
-                        setChecked((previous) => {
-                          const next = new Set(previous);
-                          if (next.has(index)) next.delete(index);
-                          else next.add(index);
-                          return next;
-                        });
-                      }}
-                    >
-                      <button
-                        type="button"
-                        className="ingredient-toggle"
-                        aria-pressed={checked.has(index)}
-                      >
-                        <span>
-                          {line.density && <span aria-label="Approximate">≈ </span>}
-                          <TemperatureText text={line.text} allowGas={false} />
-                        </span>
-                        {line.issue && <WarningIcon message={`Check quantity: ${line.issue}`} />}
-                      </button>
-                      {line.note && <small className="ingredient-note">{line.note}</small>}
+                <div id="method-content" className="cooking-content" hidden={!methodOpen}>
+                  {entry.recipeInstructions?.length ? (
+                    <Instructions steps={entry.recipeInstructions} />
+                  ) : (
+                    <p className="notice">No preparation steps are available.</p>
+                  )}
+                  {entry.tool?.length ? (
+                    <section className="notes">
+                      <h3>Equipment</h3>
+                      <ul>
+                        {entry.tool.map((tool, i) => (
+                          <li key={i}>
+                            <TemperatureText text={tool.name} allowGas={false} />
+                          </li>
+                        ))}
+                      </ul>
+                    </section>
+                  ) : null}
+                  {entry.comment?.length ? (
+                    <section className="notes">
+                      <h3>Recipe notes</h3>
+                      {entry.comment.map((comment, i) => (
+                        <p key={i}>
+                          <TemperatureText text={comment.text} />
+                        </p>
+                      ))}
+                    </section>
+                  ) : null}
+                </div>
+              </section>
+            </div>
+            {usedDensities.length > 0 && (
+              <details className="density-notes">
+                <summary>Approximate cup conversions used</summary>
+                <p>
+                  Ingredient weights vary with preparation and packing. These estimates use a US
+                  customary cup.
+                </p>
+                <ul>
+                  {usedDensities.map((d) => (
+                    <li key={d.name}>
+                      {d.name}: {d.gramsPerCup} g per US cup.
                     </li>
                   ))}
                 </ul>
-              </div>
-            </section>
-            <section className="method">
-              <h2>
-                <button
-                  className="section-toggle"
-                  aria-expanded={methodOpen}
-                  aria-controls="method-content"
-                  onClick={() => setMethodOpen((open) => !open)}
-                >
-                  Method <span aria-hidden="true">{methodOpen ? '−' : '+'}</span>
-                </button>
-              </h2>
-              <div id="method-content" className="cooking-content" hidden={!methodOpen}>
-                {entry.recipeInstructions?.length ? (
-                  <Instructions steps={entry.recipeInstructions} />
-                ) : (
-                  <p className="notice">No preparation steps are available.</p>
-                )}
-                {entry.tool?.length ? (
-                  <section className="notes">
-                    <h3>Equipment</h3>
-                    <ul>
-                      {entry.tool.map((tool, i) => (
-                        <li key={i}>
-                          <TemperatureText text={tool.name} allowGas={false} />
-                        </li>
-                      ))}
-                    </ul>
-                  </section>
-                ) : null}
-                {entry.comment?.length ? (
-                  <section className="notes">
-                    <h3>Recipe notes</h3>
-                    {entry.comment.map((comment, i) => (
-                      <p key={i}>
-                        <TemperatureText text={comment.text} />
-                      </p>
-                    ))}
-                  </section>
-                ) : null}
-              </div>
-            </section>
-          </div>
-          {usedDensities.length > 0 && (
-            <details className="density-notes">
-              <summary>Approximate cup conversions used</summary>
-              <p>
-                Ingredient weights vary with preparation and packing. These estimates use a US
-                customary cup.
-              </p>
-              <ul>
-                {usedDensities.map((d) => (
-                  <li key={d.name}>
-                    {d.name}: {d.gramsPerCup} g per US cup.
-                  </li>
-                ))}
-              </ul>
-              <a href={densitySource} target="_blank" rel="noreferrer">
-                Source: King Arthur Baking ingredient weight chart ↗
-              </a>
-            </details>
-          )}
-          {hasTemperatures && (
-            <details className="temperature-notes">
-              <summary>About temperature conversions</summary>
-              <p>
-                Your preferred temperature unit is selected in Settings and also used when printing.
-                Celsius is the recipe’s stored temperature. Fahrenheit values are rounded to the
-                nearest 10°F. Gas Marks are approximate conventional-oven settings, not frying or
-                internal food temperatures. Fan temperatures stay labelled separately.
-              </p>
-              <p>
-                Existing Celsius values take precedence where the original equivalents disagree.
-              </p>
-              <p>
-                <a href={temperatureSources.fahrenheit} target="_blank" rel="noreferrer">
-                  Celsius/Fahrenheit formula (NIST)
-                </a>{' '}
-                ·{' '}
-                <a href={temperatureSources.gas} target="_blank" rel="noreferrer">
-                  Oven settings (Delia)
-                </a>{' '}
-                ·{' '}
-                <a href={temperatureSources.lowGas} target="_blank" rel="noreferrer">
-                  Low Gas Marks (AEG)
+                <a href={densitySource} target="_blank" rel="noreferrer">
+                  Source: King Arthur Baking ingredient weight chart ↗
                 </a>
-              </p>
-            </details>
-          )}
-        </>
-      )}
-      {!isRecipe && (
-        <section className="reference-text">
-          <h2>Reference notes</h2>
-          <div className="source-text">{entry.description}</div>
-        </section>
-      )}
-      {citations.length > 0 && (
-        <section className="citations">
-          <h2>Sources</h2>
-          <ul>
-            {citations.map((citation, i) => (
-              <li key={i}>
-                <SourceLink text={citation} currentId={entry.id} />
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
-      <p className="recipe-end">From the collection · {entry.folder || 'Recipes'}</p>
-    </article>
+              </details>
+            )}
+            {hasTemperatures && (
+              <details className="temperature-notes">
+                <summary>About temperature conversions</summary>
+                <p>
+                  Your preferred temperature unit is selected in Settings and also used when
+                  printing. Celsius is the recipe’s stored temperature. Fahrenheit values are
+                  rounded to the nearest 10°F. Gas Marks are approximate conventional-oven settings,
+                  not frying or internal food temperatures. Fan temperatures stay labelled
+                  separately.
+                </p>
+                <p>
+                  Existing Celsius values take precedence where the original equivalents disagree.
+                </p>
+                <p>
+                  <a href={temperatureSources.fahrenheit} target="_blank" rel="noreferrer">
+                    Celsius/Fahrenheit formula (NIST)
+                  </a>{' '}
+                  ·{' '}
+                  <a href={temperatureSources.gas} target="_blank" rel="noreferrer">
+                    Oven settings (Delia)
+                  </a>{' '}
+                  ·{' '}
+                  <a href={temperatureSources.lowGas} target="_blank" rel="noreferrer">
+                    Low Gas Marks (AEG)
+                  </a>
+                </p>
+              </details>
+            )}
+          </>
+        )}
+        {!isRecipe && (
+          <section className="reference-text">
+            <h2>Reference notes</h2>
+            <div className="source-text">{entry.description}</div>
+          </section>
+        )}
+        {citations.length > 0 && (
+          <section className="citations">
+            <h2>Sources</h2>
+            <ul>
+              {citations.map((citation, i) => (
+                <li key={i}>
+                  <SourceLink text={citation} currentId={entry.id} />
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+        <p className="recipe-end">From the collection · {entry.folder || 'Recipes'}</p>
+      </article>
+    </TemperatureUnitContext.Provider>
   );
 }

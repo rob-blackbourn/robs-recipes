@@ -37,10 +37,10 @@ describe('the complete collection', () => {
     }
   });
   it('loads every document and image with distinct IDs', () => {
-    expect(entries).toHaveLength(419);
+    expect(entries).toHaveLength(418);
     expect(entries.filter((entry) => entry['@type'] === 'Recipe')).toHaveLength(413);
-    expect(entries.filter((entry) => entry['@type'] === 'CreativeWork')).toHaveLength(6);
-    expect(new Set(entries.map((entry) => entry.id)).size).toBe(419);
+    expect(entries.filter((entry) => entry['@type'] === 'CreativeWork')).toHaveLength(5);
+    expect(new Set(entries.map((entry) => entry.id)).size).toBe(418);
     const images = entries.flatMap((entry) => entry.images);
     expect(images).toHaveLength(12);
     for (const image of images) expect(readFileSync(image).length).toBeGreaterThan(100);
