@@ -148,7 +148,6 @@ export default function App() {
       </main>
       <footer className="site-footer">
         <span>Rob's Recipes</span>
-        <span>A place for good food, made your way.</span>
         <a href="#/settings">Your cooking preferences</a>
       </footer>
     </TemperatureUnitContext.Provider>
