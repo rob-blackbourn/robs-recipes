@@ -488,6 +488,8 @@ function Recipe({
 }) {
   const options = resolveOptions(entry.recipeYield, preferences, params);
   const { info, units, factor, conventions, baseline, targetUnit } = options;
+  const [ingredientsOpen, setIngredientsOpen] = useState(true);
+  const [methodOpen, setMethodOpen] = useState(true);
   const [checked, setChecked] = useState<Set<number>>(() => new Set());
   const [resetVersion, setResetVersion] = useState(0);
   const update = (changes: Record<string, string | null>) => {
@@ -744,88 +746,110 @@ function Recipe({
           <div className="cooking-layout">
             <section className="ingredients">
               <div className="section-heading">
-                <h2>Ingredients</h2>
+                <h2>
+                  <button
+                    className="section-toggle"
+                    aria-expanded={ingredientsOpen}
+                    aria-controls="ingredients-content"
+                    onClick={() => setIngredientsOpen((open) => !open)}
+                  >
+                    Ingredients <span aria-hidden="true">{ingredientsOpen ? '−' : '+'}</span>
+                  </button>
+                </h2>
                 {lines.length > 0 && (
                   <button className="text-button" onClick={() => setChecked(new Set())}>
                     Reset checks
                   </button>
                 )}
               </div>
-              {!lines.length && (
-                <p className="notice">
-                  No ingredient list is available. See the original text below.
-                </p>
-              )}
-              <ul className="ingredient-list">
-                {lines.map((line, index) => (
-                  <li key={index} className={checked.has(index) ? 'checked' : ''}>
-                    <label>
-                      <input
-                        type="checkbox"
-                        checked={checked.has(index)}
-                        onChange={() =>
-                          setChecked((previous) => {
-                            const next = new Set(previous);
-                            if (next.has(index)) next.delete(index);
-                            else next.add(index);
-                            return next;
-                          })
-                        }
-                      />
-                      <span>
-                        {line.density && <span aria-label="Approximate">≈ </span>}
-                        <TemperatureText text={line.text} allowGas={false} />
-                      </span>
-                    </label>
-                    {line.issue && (
-                      <span className="quantity-issue" title={line.issue}>
-                        Check quantity · {line.issue}
-                      </span>
-                    )}
-                    {line.note && <small className="ingredient-note">{line.note}</small>}
-                    {adjusted && line.text !== line.original && (
-                      <details className="original-line">
-                        <summary>As written</summary>
-                        <p>
-                          <TemperatureText text={line.original} allowGas={false} />
-                        </p>
-                      </details>
-                    )}
-                  </li>
-                ))}
-              </ul>
+              <div id="ingredients-content" className="cooking-content" hidden={!ingredientsOpen}>
+                {!lines.length && (
+                  <p className="notice">
+                    No ingredient list is available. See the original text below.
+                  </p>
+                )}
+                <ul className="ingredient-list">
+                  {lines.map((line, index) => (
+                    <li key={index} className={checked.has(index) ? 'checked' : ''}>
+                      <label>
+                        <input
+                          type="checkbox"
+                          checked={checked.has(index)}
+                          onChange={() =>
+                            setChecked((previous) => {
+                              const next = new Set(previous);
+                              if (next.has(index)) next.delete(index);
+                              else next.add(index);
+                              return next;
+                            })
+                          }
+                        />
+                        <span>
+                          {line.density && <span aria-label="Approximate">≈ </span>}
+                          <TemperatureText text={line.text} allowGas={false} />
+                        </span>
+                      </label>
+                      {line.issue && (
+                        <span className="quantity-issue" title={line.issue}>
+                          Check quantity · {line.issue}
+                        </span>
+                      )}
+                      {line.note && <small className="ingredient-note">{line.note}</small>}
+                      {adjusted && line.text !== line.original && (
+                        <details className="original-line">
+                          <summary>As written</summary>
+                          <p>
+                            <TemperatureText text={line.original} allowGas={false} />
+                          </p>
+                        </details>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </section>
             <section className="method">
-              <h2>Method</h2>
-              {entry.recipeInstructions?.length ? (
-                <Instructions steps={entry.recipeInstructions} />
-              ) : (
-                <p className="notice">
-                  No preparation steps are available. See the original text below.
-                </p>
-              )}
-              {entry.tool?.length ? (
-                <section className="notes">
-                  <h3>Equipment</h3>
-                  <ul>
-                    {entry.tool.map((tool, i) => (
-                      <li key={i}>
-                        <TemperatureText text={tool.name} allowGas={false} />
-                      </li>
+              <h2>
+                <button
+                  className="section-toggle"
+                  aria-expanded={methodOpen}
+                  aria-controls="method-content"
+                  onClick={() => setMethodOpen((open) => !open)}
+                >
+                  Method <span aria-hidden="true">{methodOpen ? '−' : '+'}</span>
+                </button>
+              </h2>
+              <div id="method-content" className="cooking-content" hidden={!methodOpen}>
+                {entry.recipeInstructions?.length ? (
+                  <Instructions steps={entry.recipeInstructions} />
+                ) : (
+                  <p className="notice">
+                    No preparation steps are available. See the original text below.
+                  </p>
+                )}
+                {entry.tool?.length ? (
+                  <section className="notes">
+                    <h3>Equipment</h3>
+                    <ul>
+                      {entry.tool.map((tool, i) => (
+                        <li key={i}>
+                          <TemperatureText text={tool.name} allowGas={false} />
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                ) : null}
+                {entry.comment?.length ? (
+                  <section className="notes">
+                    <h3>Recipe notes</h3>
+                    {entry.comment.map((comment, i) => (
+                      <p key={i}>
+                        <TemperatureText text={comment.text} />
+                      </p>
                     ))}
-                  </ul>
-                </section>
-              ) : null}
-              {entry.comment?.length ? (
-                <section className="notes">
-                  <h3>Recipe notes</h3>
-                  {entry.comment.map((comment, i) => (
-                    <p key={i}>
-                      <TemperatureText text={comment.text} />
-                    </p>
-                  ))}
-                </section>
-              ) : null}
+                  </section>
+                ) : null}
+              </div>
             </section>
           </div>
           {usedDensities.length > 0 && (
