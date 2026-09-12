@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Easter Lamb",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 kg lamb shoulder (roughly cut into 2 cm cubes),",
     "5 anchovy fillets,",

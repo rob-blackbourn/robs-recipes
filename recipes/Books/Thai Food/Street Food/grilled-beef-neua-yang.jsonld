@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Grilled Beef (neua yang)",
+  "recipeCategory": "Starter",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "150g rump steak,",
     "3-4 tbsp light soy sauce.",

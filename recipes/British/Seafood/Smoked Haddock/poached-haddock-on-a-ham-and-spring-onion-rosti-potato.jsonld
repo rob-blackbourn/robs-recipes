@@ -3,8 +3,9 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Poached Haddock on a Ham and Spring Onion Rosti Potato",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
-    "100ml whipping cream ,",
+    "100ml whipping cream,",
     "125g spring onions,",
     "9 asparagus spears,",
     "125g Orkney smoked cheese,",
@@ -54,11 +55,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Drain potatoes and cool, melt butter add flour and cook to a blond roux, put shallots, lemon and parsley in a  shallow greased dish and peel and grate potatoes add spring onions and ham and season."
+      "text": "Drain potatoes and cool, melt butter add flour and cook to a blond roux, put shallots, lemon and parsley in a shallow greased dish and peel and grate potatoes add spring onions and ham and season."
     },
     {
       "@type": "HowToStep",
-      "text": "Sieve fish stock, place haddock in a dish and season, add lemon, shallots, fish stock and wine and cover with  greased paper. Place in the oven."
+      "text": "Sieve fish stock, place haddock in a dish and season, add lemon, shallots, fish stock and wine and cover with greased paper. Place in the oven."
     },
     {
       "@type": "HowToStep",
@@ -66,11 +67,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Sauté rosti potatoes in a heavy frying pan with metal rings, put on asparagus to cook. Sieve velouté, add cream  and small amount of stock from fish dish, reduce and add cheese, check seasoning."
+      "text": "Sauté rosti potatoes in a heavy frying pan with metal rings, put on asparagus to cook. Sieve velouté, add cream and small amount of stock from fish dish, reduce and add cheese, check seasoning."
     },
     {
       "@type": "HowToStep",
-      "text": "Arrange potato on plate, drain asparagus and glaze with butter and put on top of potato. Nap the asparagus with  sauce and place haddock on top skin side up, put sauce on plate and finish with julienne of pepper and serve.  Whilst every care has been taken on the compilation of this publication, the publishers and promoters of this publication shall not be liable for any inaccuracies."
+      "text": "Arrange potato on plate, drain asparagus and glaze with butter and put on top of potato. Nap the asparagus with sauce and place haddock on top skin side up, put sauce on plate and finish with julienne of pepper and serve. Whilst every care has been taken on the compilation of this publication,the publishers and promoters of this publication shall not be liable for any inaccuracies."
     }
   ]
 }

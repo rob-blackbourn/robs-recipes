@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Shiozake",
+  "recipeYield": "1 fillet",
   "recipeIngredient": [
     "Fillet of salmon with the skin on,",
     "Maldon sea salt."

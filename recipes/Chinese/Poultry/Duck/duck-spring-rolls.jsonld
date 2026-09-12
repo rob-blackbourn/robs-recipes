@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "China",
   "name": "Duck Spring Rolls",
+  "recipeCategory": "Starter",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "500g beansprouts,",
     "500g cabbage (shredded),",

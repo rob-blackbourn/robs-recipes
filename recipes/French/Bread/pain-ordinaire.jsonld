@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Pain Ordinaire",
+  "recipeYield": "1 loaf",
   "recipeIngredient": [
     "350 ml warm water,",
     "15 g of fresh yeast or 2 tsp dried yeast,",

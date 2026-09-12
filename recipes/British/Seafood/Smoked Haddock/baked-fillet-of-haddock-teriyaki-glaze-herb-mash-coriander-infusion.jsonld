@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Baked Fillet of Haddock, Teriyaki Glaze, Herb Mash & Coriander Infusion",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "1 x 175-225g haddock fillet,",
     "3 large baking potatoes,",
@@ -22,23 +23,23 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "•\tUsing a sharp knife, trim edges of haddock. Take the tail and other end of the haddock and fold into the centre. Add salt and pepper seasoning, before baking in a moderate oven (150°C) for 10–13 minutes."
+      "text": "Using a sharp knife, trim edges of haddock. Take the tail and other end of the haddock and fold into the centre. Add salt and pepper seasoning, before baking in a moderate oven (150°C) for 10–13 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "•\tPeel potatoes and cut into 1/4, boil in salted water until soft. Sweat off finely diced shallot with butter in saucepan, add white wine, coriander and juice from lemon. Reduce the liquid for 30 seconds – 1 minute. Next add the double cream and bring to the boil, simmer for 1–2 minutes and season to taste. Take off the heat."
+      "text": "Peel potatoes and cut into 1/4, boil in salted water until soft. Sweat off finely diced shallot with butter in saucepan, add white wine, coriander and juice from lemon. Reduce the liquid for 30 seconds – 1 minute. Next add the double cream and bring to the boil, simmer for 1–2 minutes and season to taste. Take off the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "•\tFor the glaze, in a small saucepan combine the soya sauce, rice wine, sherry, sugar and the ginger. Simmer for 2–4 minutes until a light syrup forms. Let cool. Mash the baking potatoes and knob of butter and some chopped parsley, season to taste. Take haddock out of oven and brush with the glaze that has now cooled."
+      "text": "For the glaze, in a small saucepan combine the soya sauce, rice wine, sherry, sugar and the ginger. Simmer for 2–4 minutes until a light syrup forms. Let cool. Mash the baking potatoes and knob of butter and some chopped parsley, season to taste. Take haddock out of oven and brush with the glaze that has now cooled."
     },
     {
       "@type": "HowToStep",
-      "text": "•\tPlace under hot grill until golden brown colour. Place mash into the centre of plate in a plastic ring mould 6cm diameter/6cm deep (21/2” x 21/2”). Remove the mould and place haddock on top."
+      "text": "Place under hot grill until golden brown colour. Place mash into the centre of plate in a plastic ring mould 6cm diameter/6cm deep (21/2” x 21/2”). Remove the mould and place haddock on top."
     },
     {
       "@type": "HowToStep",
-      "text": "•\tReheat the sauce on low heat till hot.  Assembly  Place sauce round the potato and the haddock that’s on the plate. Garnish with sprigs of chervil and parsley on the top. Serve with a cold glass of chardonnay."
+      "text": "Reheat the sauce on low heat till hot. Assembly Place sauce round the potato and the haddock that’s on the plate. Garnish with sprigs of chervil and parsley on the top. Serve with a cold glass of chardonnay."
     }
   ]
 }

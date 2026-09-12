@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Grilled Liver (dap warn)",
+  "recipeCategory": "tapas",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "200g calves liver,",
     "1/2 - 1 tsp roasted chilli powder,",

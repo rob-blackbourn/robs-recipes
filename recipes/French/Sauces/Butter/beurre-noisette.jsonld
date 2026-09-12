@@ -5,6 +5,7 @@
   "name": "Beurre Noisette",
   "prepTime": "PT0M",
   "cookTime": "PT5M",
+  "recipeYield": "1 portion",
   "recipeIngredient": [
     "Butter"
   ],

@@ -3,8 +3,10 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Smoked Salmon Mousse",
+  "recipeCategory": "Starter",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
-    "1/2 lb (250 g) smoked salmon,",
+    "250 g smoked salmon,",
     "1 egg,",
     "100 ml double cream,",
     "1 tsp fresh chopped chives,",

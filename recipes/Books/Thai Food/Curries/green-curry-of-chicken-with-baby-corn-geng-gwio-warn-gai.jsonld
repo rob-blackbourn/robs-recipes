@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Green Curry of Chicken with Baby Corn (geng gwio warn gai)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "2 cups coconut cream,",
     "150g skinless chicken thigh fillets (sliced),",

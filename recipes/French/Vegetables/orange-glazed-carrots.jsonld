@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Orange Glazed Carrots",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "2 large carrots (peeled and thinly sliced diagonally),",
     "250ml chicken stock,",

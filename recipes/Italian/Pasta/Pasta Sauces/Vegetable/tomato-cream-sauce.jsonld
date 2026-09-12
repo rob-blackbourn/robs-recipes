@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Tomato Cream Sauce",
+  "recipeYield": "1 cup",
   "recipeIngredient": [
     "1 tbsp olive oil,",
     "2 big tomatoes,",

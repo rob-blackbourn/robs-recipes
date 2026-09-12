@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Pâte Sablée",
+  "recipeYield": "500 g",
   "recipeIngredient": [
     "250g plain flour,",
     "200g butter (cubed and slightly softened),",

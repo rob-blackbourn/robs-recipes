@@ -3,19 +3,20 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Smoked Haddock Croquette with Herb Salad & Sweet Mustard Dressing",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
-    "For the croquettes: 500g pale smoked haddock fillet,",
-    "For the croquettes: 700ml fish stock,",
-    "For the croquettes: 60g butter,",
-    "For the croquettes: 60g plain flour,",
-    "For the croquettes: 1 tbsp coarse grain mustard,",
-    "For the croquettes: 50g grated mature cheddar cheese,",
-    "For the croquettes: 1 tbsp chopped chives,",
-    "For the croquettes: Salt, pepper and nutmeg to season,",
-    "For the croquettes: 500g home-made bread crumbs,",
-    "For the croquettes: 200g flour (for coating),",
-    "For the croquettes: 3 whisked eggs (for coating),",
-    "For the croquettes: Mixed salad leaves and fresh herbs eg. dill, chives, fennel."
+    "500g pale smoked haddock fillet,",
+    "700ml fish stock,",
+    "60g butter,",
+    "60g plain flour,",
+    "1 tbsp coarse grain mustard,",
+    "50g grated mature cheddar cheese,",
+    "1 tbsp chopped chives,",
+    "Salt, pepper and nutmeg to season,",
+    "500g home-made bread crumbs,",
+    "200g flour (for coating),",
+    "3 whisked eggs (for coating),",
+    "Mixed salad leaves and fresh herbs eg. dill, chives, fennel."
   ],
   "recipeInstructions": [
     {
@@ -60,15 +61,15 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Melt the butter in a pan, add the flour and cook for 1 minute, remove from heat and add the fish stock from the first  stage. Put the pan back on a low heat and bring to the boil slowly. Simmer gently until a “thicker than sauce”  consistency has been achieved, stirring constantly."
+      "text": "Melt the butter in a pan, add the flour and cook for 1 minute, remove from heat and add the fish stock from the first stage. Put the pan back on a low heat and bring to the boil slowly. Simmer gently until a “thicker than sauce” consistency has been achieved, stirring constantly."
     },
     {
       "@type": "HowToStep",
-      "text": "Gently stir in the flaked haddock, chives, mustard and grated cheese and season to taste with salt, pepper and  nutmeg."
+      "text": "Gently stir in the flaked haddock, chives, mustard and grated cheese and season to taste with salt, pepper and nutmeg."
     },
     {
       "@type": "HowToStep",
-      "text": "Allow to cool then pipe into a continuous sausage shape of 3cm diameter on grease-proof paper, then refrigerate  overnight."
+      "text": "Allow to cool then pipe into a continuous sausage shape of 3cm diameter on grease-proof paper, then refrigerate overnight."
     },
     {
       "@type": "HowToStep",
@@ -76,11 +77,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Dip croquettes into the flour, then whisked egg and then finally into the breadcrumbs, ensuring they are totally  covered."
+      "text": "Dip croquettes into the flour, then whisked egg and then finally into the breadcrumbs, ensuring they are totally covered."
     },
     {
       "@type": "HowToStep",
-      "text": "Place in a deep fat fryer at 180°C until golden brown. (Test one first - if the croquettes are breaking repeat the  egg/breadcrumb step)."
+      "text": "Place in a deep fat fryer at 180°C until golden brown. (Test one first - if the croquettes are breaking repeat the egg/breadcrumb step)."
     },
     {
       "@type": "HowToSection",

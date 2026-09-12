@@ -5,6 +5,7 @@
   "name": "Montpellier Butter",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
+  "recipeYield": "250 g",
   "recipeIngredient": [
     "25 g watercress,",
     "25 g spinach,",

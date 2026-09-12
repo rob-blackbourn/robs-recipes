@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Green Curry Paste",
+  "recipeCategory": "pice Paste",
+  "recipeYield": "100 g",
   "recipeIngredient": [
     "15 large fresh green hot chilies",
     "3 shallots, sliced",

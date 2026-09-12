@@ -5,6 +5,7 @@
   "name": "Mushroom Butter",
   "prepTime": "PT5M",
   "cookTime": "PT0M",
+  "recipeYield": "400 g",
   "recipeIngredient": [
     "250 g unsalted butter,",
     "3 large cloves garlic (finely chopped),",

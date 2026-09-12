@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Home Cured Corned Beef",
   "cookTime": "PT3H",
+  "recipeYield": "8 servings",
   "recipeIngredient": [
     "Pickling spices: 1 Tbsp whole allspice berries",
     "Pickling spices: 1 Tbsp whole mustard seeds (brown or yellow)",
@@ -19,7 +20,7 @@
     "Brine: 5 teaspoons pink curing salt*",
     "Brine: 3 Tbsp pickling spices",
     "Brine: 1/2 cup brown sugar",
-    "Brisket: 1 4-5 pound beef brisket",
+    "Brisket: 1 beef brisket (2 kg)",
     "Brisket: 1 Tbsp pickling spices"
   ],
   "recipeInstructions": [

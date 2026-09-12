@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Smoked Haddock Risotto with Black Pudding & Leek",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "300g smoked haddock,",
     "85g butter,",
@@ -30,7 +31,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Cook for a further 4–5 minutes to ensure the rice is cooked, finish with chopped parsley, Mascarpone, grated Parmesan and seasoning.  Assembly  Serve in a large bowl with grated cheese and olive oil drizzled over the top."
+      "text": "Cook for a further 4–5 minutes to ensure the rice is cooked, finish with chopped parsley, Mascarpone, grated Parmesan and seasoning. Assembly Serve in a large bowl with grated cheese and olive oil drizzled over the top."
     }
   ]
 }

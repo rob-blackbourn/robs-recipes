@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Grilled Chicken (gai yang)",
+  "recipeYield": "1 small chicken",
   "recipeIngredient": [
     "3 coriander roots (scraped and chopped),",
     "pinch of salt,",

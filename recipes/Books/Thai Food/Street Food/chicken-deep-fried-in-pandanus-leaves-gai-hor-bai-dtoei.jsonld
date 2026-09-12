@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chicken Deep Fried in Pandanus Leaves (gai hor bai dtoei)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 skinless chicken thighs,",
     "2 coriander roots (scraped and chopped),",

@@ -5,6 +5,7 @@
   "name": "Mergeuz Sausages",
   "prepTime": "PT15M",
   "totalTime": "PT15M",
+  "recipeYield": "12 sausages",
   "recipeIngredient": [
     "250 g lamb,",
     "250 g beef,",

@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Mozzarella, anchovies, chilli, capers & parsley pizza topping",
+  "recipeCategory": "Pizza topping",
+  "recipeYield": "1 pizza topping",
   "recipeIngredient": [
     "4 anchovy fillets,",
     "½ fresh red chilli (sliced),",

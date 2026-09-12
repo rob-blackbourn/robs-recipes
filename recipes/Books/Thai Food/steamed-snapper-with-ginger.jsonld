@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Steamed Snapper with Ginger",
+  "recipeYield": "1 serving",
   "recipeIngredient": [
     "1 whole snapper (around 400g),",
     "3 tbsp light soy sauce,",

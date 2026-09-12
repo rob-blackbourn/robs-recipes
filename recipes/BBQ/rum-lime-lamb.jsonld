@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Rum & Lime Lamb",
+  "recipeYield": "1 serving",
   "recipeIngredient": [
     "220 g lamb neck fillet (cut into 1 inch cubes,",
     "1 tbsp olive oil,",

@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Fresh Haddock & Smoked Bacon with Celeriac Sage Fries",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "4 x 175g fillets of fresh haddock (skinned),",
     "Salt and pepper,",
@@ -32,7 +33,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Add a generous squeeze of lemon juice to the celeriac, along with 25g (1oz) butter, shaking it into the juice and cooking oil. This will emulsify quite smoothly, add the extra 25g (1oz) butter for a smoother, richer finish, if preferred. Season with salt and pepper, sprinkling over the chopped sage.  Assembly  Twist the cocktail stick(s) from the haddock, presenting on plates along with the celeriac sage fries. Serves 4 An alternative finish to the celeriac is to add the butter once they are completely fried, increasing the heat to create a bubbly nutbrown finish. Squeeze over the lemon juice and sprinkle on the sage, spooning the foaming butter over the fries.  An extra sweet warm twist can be added to this dish by mixing together a dessertspoon each of Dijon mustard and clear honey. This can now be brushed on the presentation side of the haddock fillet, before wrapping in the bacon."
+      "text": "Add a generous squeeze of lemon juice to the celeriac, along with 25g (1oz) butter, shaking it into the juice and cooking oil. This will emulsify quite smoothly, add the extra 25g (1oz) butter for a smoother, richer finish, if preferred. Season with salt and pepper, sprinkling over the chopped sage. Assembly Twist the cocktail stick(s) from the haddock, presenting on plates along with the celeriac sage fries.Serves 4An alternative finish to the celeriac is to add the butter once they are completely fried, increasing the heat to create a bubbly nutbrown finish. Squeeze over the lemon juice and sprinkle on the sage, spooning the foaming butter over the fries. An extra sweet warm twist can be added to this dish by mixing together a dessertspoon each of Dijon mustard and clear honey. This can now be brushed on the presentation side of the haddock fillet, before wrapping in the bacon."
     }
   ]
 }

@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Noodles with Crab, Prawn & Chilli Jam (kano jin nahm prik)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 cups coconut cream,",
     "3 tbsp roasted and ground mung beans,",

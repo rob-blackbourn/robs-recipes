@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Italy",
   "name": "Lamb with egg sauce",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "6 tbsp extra virgin olive oil,",
     "1 large onion (sliced),",

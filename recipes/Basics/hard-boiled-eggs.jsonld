@@ -3,8 +3,9 @@
   "@type": "Recipe",
   "name": "Hard Boiled Eggs",
   "prepTime": "PT0M",
+  "recipeYield": "4 eggs",
   "recipeIngredient": [
-    "eggs"
+    "4 eggs"
   ],
   "recipeInstructions": [
     {

@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Flan Pastry - Pate a Foncer",
+  "recipeYield": "400 g",
   "recipeIngredient": [
     "250 g plain flour,",
     "125 g butter (cut into small pieces and slightly softened,",

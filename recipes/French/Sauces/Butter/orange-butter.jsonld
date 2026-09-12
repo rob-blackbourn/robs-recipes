@@ -5,6 +5,7 @@
   "name": "Orange Butter",
   "prepTime": "PT5M",
   "cookTime": "PT0M",
+  "recipeYield": "125 g",
   "recipeIngredient": [
     "125 g unsalted butter,",
     "4 tsp Seville orange juice,",

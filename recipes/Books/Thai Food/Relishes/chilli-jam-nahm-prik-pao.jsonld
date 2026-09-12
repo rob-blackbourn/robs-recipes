@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chilli Jam (nahm prik pao)",
+  "recipeYield": "8 cups",
   "recipeIngredient": [
     "oil for deep frying,",
     "4 cups red shallots (sliced lengthwise),",

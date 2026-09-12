@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Red Curry of Scallops (chuu chii hoi shenn)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "500ml coconut cream,",
     "1 tbsp palm sugar,",

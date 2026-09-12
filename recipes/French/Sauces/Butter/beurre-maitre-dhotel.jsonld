@@ -5,6 +5,7 @@
   "name": "Beurre Maître D’Hôtel",
   "prepTime": "PT5M",
   "cookTime": "PT0M",
+  "recipeYield": "300 g",
   "recipeIngredient": [
     "250 g lightly salted butter,",
     "60-75 g chopped parsley,",

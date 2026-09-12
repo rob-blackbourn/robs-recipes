@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Kir Royal",
+  "recipeYield": "1 glass",
   "recipeIngredient": [
     "2 tsp cassis,",
     "Champagne."

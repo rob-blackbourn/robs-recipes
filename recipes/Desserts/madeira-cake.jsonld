@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Madeira cake",
   "prepTime": "PT30M",
+  "recipeCategory": "Dessert",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "175g / 6oz butter (at room temperature),",
     "175g/6oz caster sugar,",

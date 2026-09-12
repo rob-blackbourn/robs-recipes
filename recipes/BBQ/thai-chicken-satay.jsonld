@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Thai Chicken Satay",
   "cookTime": "PT8M",
+  "recipeYield": "4 Servings",
+  "recipeCategory": "Starter",
   "recipeIngredient": [
     "500g chicken breast ( cut into 1 in wide 3 in long)",
     "8-10 bamboo skewers.",

@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Gyudon",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "200g thinly sliced beef,",
     "1/2 onion (cut into thin wedges),",

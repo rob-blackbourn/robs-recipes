@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Tartelet de Mackerel avec Beurre Blanc",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 whole mackerel,",
     "rich shortcrust pastry.",

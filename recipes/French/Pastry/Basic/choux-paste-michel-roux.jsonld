@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Choux Paste - Michel Roux",
+  "recipeYield": "500 ml",
   "recipeIngredient": [
     "125ml Milk,",
     "125ml water,",

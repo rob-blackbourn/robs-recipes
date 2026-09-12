@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "Thailand",
   "name": "Red Curry Paste",
+  "recipeCategory": "Spice Paste",
+  "recipeYield": "100 g",
   "recipeIngredient": [
     "1 tbsp coriander seeds, roasted until brown",
     "2 cardamon pods, roasted until brown",

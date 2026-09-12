@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Steamed Fish Curry (hor mok pla)",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "200g fish fillets (whiting, blue eye cod, or perch),",
     "pinch of salt,",

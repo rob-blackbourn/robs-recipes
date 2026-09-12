@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Cucumber Relish",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 tbsp coconut vinegar or white vinegar,",
     "3 tbsp white sugar,",

@@ -3,8 +3,9 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Pate Brisee",
+  "recipeYield": "400g",
   "recipeIngredient": [
-    "250g plain flour,",
+    "250 g plain flour,",
     "150 g butter (cut into small pieces and slightly softened),",
     "1 tsp fine salt,",
     "pinch of caster sugar,",

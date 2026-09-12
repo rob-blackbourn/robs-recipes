@@ -5,6 +5,7 @@
   "name": "Tzatziki",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
+  "recipeYield": "500 ml",
   "recipeIngredient": [
     "Large pot of Greek yoghurt",
     "1/2 cucumber,",

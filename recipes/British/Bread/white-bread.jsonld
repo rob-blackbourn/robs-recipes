@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "White Bread",
+  "recipeYield": "1 loaf",
   "recipeIngredient": [
     "500g strong white bread flour,",
     "1 tsp sugar,",

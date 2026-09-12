@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Smoked Haddock Risotto with Roasted Baby Onions",
+  "recipeYield": "4 servings",
   "recipeIngredient": [
     "300g natural smoked haddock,",
     "250g Arborio rice,",
@@ -29,11 +30,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Heat a frying pan until very hot and drizzle with olive oil and butter. Add the peeled baby onions and sauté, then  place into the oven to cook."
+      "text": "Heat a frying pan until very hot and drizzle with olive oil and butter. Add the peeled baby onions and sauté, then place into the oven to cook."
     },
     {
       "@type": "HowToStep",
-      "text": "Mix the Mascarpone and Parmesan into the risotto with the parsley and season well.  Assembly  To serve, spoon the risotto on to the centre of the plate, top with the roasted shallots and serve immediately."
+      "text": "Mix the Mascarpone and Parmesan into the risotto with the parsley and season well. Assembly To serve, spoon the risotto on to the centre of the plate, top with the roasted shallots and serve immediately."
     }
   ]
 }

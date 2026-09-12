@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Onigiri",
+  "recipeCategory": "Snack",
+  "recipeYield": "1 serving",
   "recipeIngredient": [
     "Sushi rice,",
     "Nori seaweed sheets,",
