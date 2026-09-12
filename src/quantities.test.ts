@@ -8,7 +8,7 @@ describe('kitchen rounding', () => {
   it.each([
     [158, 160],
     [43, 45],
-    [12.6, 13],
+    [12.6, 15],
     [0.26, 0.3],
     [0.05, 0.1],
     [0.049, 0],
@@ -18,11 +18,15 @@ describe('kitchen rounding', () => {
     [22.5, 25],
     [99.9, 100],
     [100, 100],
-    [105, 110],
-    [995, 1000],
+    [105, 105],
+    [995, 995],
+    [997.5, 1000],
+    [7.5, 10],
+    [4, 4],
   ])('rounds %s to %s', (input, output) => expect(roundMetric(input)).toBe(output));
   it('promotes units after rounding and never displays positive zero', () => {
-    expect(metric(995, 'mass')).toBe('1 kg');
+    expect(metric(995, 'mass')).toBe('995 g');
+    expect(metric(997.5, 'mass')).toBe('1 kg');
     expect(metric(1580, 'volume')).toBe('1.58 l');
     expect(metric(0.00001, 'mass')).toBe('<0.1 g');
   });
@@ -48,7 +52,7 @@ describe('kitchen rounding', () => {
 
 describe('combined weight, cup and spoon modes', () => {
   it.each([
-    ['metric-cups', 250, 15, '450 g'],
+    ['metric-cups', 250, 15, '455 g'],
     ['imperial-cups', UK_PINT / 2, 15, '1 lb'],
     ['customary-cups', US_CUP, US_CUP / 16, '1 lb'],
   ] as const)('uses system weights and volume cups/spoons for %s', (mode, cup, spoon, weight) => {

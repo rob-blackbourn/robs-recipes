@@ -1201,10 +1201,10 @@ input[aria-invalid='true'] {
   padding: 0;
   border: 0;
   border-radius: 0;
-  background: transparent;
+  background: #fff9db;
   color: inherit;
   font: inherit;
-  font-style: italic;
+  font-style: normal;
   font-variant-numeric: tabular-nums;
 }
 .yield-meta .number-unit {

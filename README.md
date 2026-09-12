@@ -77,12 +77,11 @@ Calculations always start from original amounts with full internal precision. On
 
 | Amount in grams or millilitres | Increment |
 | ------------------------------ | --------- |
-| 100 and above                  | 10        |
-| 20 to below 100                | 5         |
-| 1 to below 20                  | 1         |
+| 5 and above                    | 5         |
+| 1 to below 5                   | 1         |
 | Below 1                        | 0.1       |
 
-For example, 158 g becomes 160 g, 43 ml becomes 45 ml, and 12.6 g becomes 13 g. Kilograms and litres are selected after rounding when the base amount reaches 1,000. Tiny positive amounts display as `<0.1 g` or `<0.1 ml`, never zero.
+For example, 158 g becomes 160 g, 43 ml becomes 45 ml, and 12.6 g becomes 15 g. Kilograms and litres are selected after rounding when the base amount reaches 1,000. Tiny positive amounts display as `<0.1 g` or `<0.1 ml`, never zero.
 
 Customary amounts and counts use whole/mixed numbers with fractional parts 1/8, 1/4, 1/3, 1/2, 2/3, 3/4, and 7/8. The nearest allowed value is selected, with ties rounded up. Cup output uses tablespoons below one cup, and teaspoons below one tablespoon. US cup mode uses US spoons; other cup modes use 15/5 ml spoons. Tiny positive measures display as `<1/8` of the smallest supported unit. Equivalent displayed range endpoints collapse to one amount. Original units at the original yield preserve source text exactly.
 

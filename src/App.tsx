@@ -458,9 +458,10 @@ function Settings({
           and 5 ml teaspoons; US Customary uses US spoons.
         </p>
         <p>
-          Metric quantities round to practical kitchen increments: 158 g becomes 160 g. Customary
-          quantities use simple fractions, including thirds. Weight-to-cup conversions are estimates
-          and are available only for recognised ingredients.
+          Metric quantities of 5 g or ml and above round to the nearest 5: 158 g becomes 160 g.
+          Smaller amounts retain finer precision. Customary quantities use simple fractions,
+          including thirds. Weight-to-cup conversions are estimates and are available only for
+          recognised ingredients.
         </p>
         <p>
           These preferences are stored on this browser only. There is no account or cloud syncing.
@@ -561,7 +562,7 @@ function Recipe({
             <NumberField
               metadata
               plain
-              label={info && !info.servings ? 'Required yield' : 'Required servings'}
+              label="Yield"
               unit={
                 info ? (info.servings ? 'servings' : targetUnit?.name || info.label) : 'servings'
               }

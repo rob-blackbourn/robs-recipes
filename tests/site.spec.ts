@@ -30,10 +30,10 @@ test('settings persist and affect explicit serving yields only', async ({ page }
   await expect(page.getByLabel('Preferred units')).toHaveValue('metric');
   await expect(page.getByLabel('Default servings')).toHaveValue('8');
   await page.goto('./' + chicken);
-  await expect(page.getByLabel('Required servings')).toHaveValue('8');
+  await expect(page.getByLabel('Yield')).toHaveValue('8');
   await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
-  await expect(page.getByText('Required servings', { exact: true })).toHaveCount(1);
-  await expect(page.getByLabel('Required servings')).toBeEditable();
+  await expect(page.getByText('Yield', { exact: true })).toHaveCount(1);
+  await expect(page.getByLabel('Yield')).toBeEditable();
   await expect(page.locator('.ingredient-list')).toContainText('560 g mushrooms');
   await page.goto('./' + nonServingYield);
   await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
@@ -52,23 +52,23 @@ test('settings persist and affect explicit serving yields only', async ({ page }
 
 test('recipe overrides and ingredient selection stability', async ({ page }) => {
   await page.goto('./' + chicken);
-  await page.getByLabel('Required servings').fill('6');
+  await page.getByLabel('Yield').fill('6');
   await page.getByLabel('Display units').selectOption('metric');
   await expect(page.locator('.ingredient-list')).toContainText('420 g mushrooms');
   await page.locator('.ingredient-toggle').first().click();
   await page.getByLabel('Display units').selectOption('cups-us');
   await expect(page.locator('.ingredient-toggle').first()).toHaveAttribute('aria-pressed', 'true');
   await page.reload();
-  await expect(page.getByLabel('Required servings')).toHaveValue('6');
+  await expect(page.getByLabel('Yield')).toHaveValue('6');
   await expect(page.getByLabel('Display units')).toHaveValue('cups-us');
   await expect(page.getByRole('region', { name: 'Adjust recipe' })).toHaveCount(0);
   await expect(page.getByText('COOK IT YOUR WAY')).toHaveCount(0);
-  await page.getByLabel('Required servings').fill('4');
+  await page.getByLabel('Yield').fill('4');
   await page.getByLabel('Display units').selectOption('original');
   await expect(page.locator('.ingredient-list')).toContainText('280g mushrooms');
-  await page.getByLabel('Required servings').fill('0');
+  await page.getByLabel('Yield').fill('0');
   await expect(page.getByText('Enter a number greater than zero.')).toBeVisible();
-  await page.getByLabel('Required servings').fill('4');
+  await page.getByLabel('Yield').fill('4');
 });
 
 test('mobile layout, references, images, unknown routes, and print', async ({ page }, testInfo) => {
@@ -144,7 +144,7 @@ test('temperature preferences persist and apply to recipes and printing independ
   await page.reload();
   await expect(page.getByLabel('Preferred temperature unit')).toHaveValue('fahrenheit');
   await page.goto('./#/recipe/' + encodeURIComponent('british/bread/bloomer'));
-  await page.getByLabel('Required yield', { exact: true }).fill('2');
+  await page.getByLabel('Yield', { exact: true }).fill('2');
   await page.getByLabel('Display units').selectOption('imperial');
   await expect(page.locator('.method')).toContainText('430°F');
   await expect(page.locator('.method')).not.toContainText('°C');
@@ -184,17 +184,17 @@ test('reset page restores preferences and clears completion and invalid input', 
   await page.locator('.method-toggle').first().click();
   await page.getByRole('button', { name: 'Ingredients', exact: true }).click();
   await page.getByRole('button', { name: 'Method', exact: true }).click();
-  await page.getByLabel('Required servings').fill('invalid');
+  await page.getByLabel('Yield').fill('invalid');
   await page.getByRole('button', { name: 'Reset page', exact: true }).click();
-  await expect(page.getByLabel('Required servings')).toHaveValue('8');
-  await expect(page.getByLabel('Required servings')).toHaveAttribute('aria-invalid', 'false');
+  await expect(page.getByLabel('Yield')).toHaveValue('8');
+  await expect(page.getByLabel('Yield')).toHaveAttribute('aria-invalid', 'false');
   await expect(page.getByLabel('Display units')).toHaveValue('metric');
   await expect(page.locator('.ingredient-toggle').first()).toBeVisible();
   await expect(page.locator('.ingredient-toggle').first()).toHaveAttribute('aria-pressed', 'false');
   await expect(page.locator('.method-toggle').first()).toBeVisible();
   await expect(page.locator('.method-toggle').first()).toHaveAttribute('aria-pressed', 'false');
   await expect(page.locator('.ingredient-list')).toContainText('560 g mushrooms');
-  await page.getByLabel('Required servings').fill('bad');
+  await page.getByLabel('Yield').fill('bad');
   await page.getByRole('button', { name: 'Reset page', exact: true }).click();
-  await expect(page.getByLabel('Required servings')).toHaveValue('8');
+  await expect(page.getByLabel('Yield')).toHaveValue('8');
 });

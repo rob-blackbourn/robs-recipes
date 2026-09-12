@@ -95,7 +95,7 @@ export function fraction(value: number): string {
 }
 
 export function roundMetric(value: number): number {
-  const increment = value >= 100 ? 10 : value >= 20 ? 5 : value >= 1 ? 1 : 0.1;
+  const increment = value >= 5 ? 5 : value >= 1 ? 1 : 0.1;
   return Number((Math.floor(value / increment + 0.5 + 1e-10) * increment).toFixed(1));
 }
 export function metric(value: number, dimension: Dimension): string {
