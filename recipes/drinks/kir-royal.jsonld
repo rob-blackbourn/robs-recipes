@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Kir Royal",
   "recipeYield": "1 glass",
+  "recipeCuisine": "Cocktail",
   "recipeIngredient": [
     "2 tsp cassis",
     "Champagne"

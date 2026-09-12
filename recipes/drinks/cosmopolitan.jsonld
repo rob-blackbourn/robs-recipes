@@ -3,10 +3,11 @@
   "@type": "Recipe",
   "name": "Cosmopolitan",
   "recipeYield": "1 glass",
+  "recipeCuisine": "Cocktail",
   "recipeIngredient": [
     "4 parts vodka",
-    "1.5 parts cointreau",
-    "1.5 parts lime juice",
+    "1 1/2 parts cointreau",
+    "1 1/2 parts lime juice",
     "3 parts cranberry juice"
   ],
   "recipeInstructions": [

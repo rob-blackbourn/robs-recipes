@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "French 75",
   "recipeYield": "1 glass",
+  "recipeCuisine": "Cocktail",
   "recipeIngredient": [
     "2 parts gin",
     "1 part lime juice",
