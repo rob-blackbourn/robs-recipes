@@ -28,6 +28,16 @@ import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
 import { densitySource } from './densities';
 
+function folderLabel(path: string) {
+  return path
+    .replaceAll('/', ' / ')
+    .replace(
+      /(^|[\s/-])([a-z])/g,
+      (_, prefix: string, letter: string) => prefix + letter.toUpperCase(),
+    )
+    .replace(/\bBbq\b/g, 'BBQ');
+}
+
 function readSettings() {
   try {
     return { preferences: decodePreferences(localStorage.getItem(storageKey)), available: true };
@@ -71,7 +81,7 @@ export default function App() {
     /* Unknown malformed link */
   }
   useEffect(() => {
-    document.title = `${entry?.name || (path === '/settings' ? 'Settings' : path === '/references' ? 'Reference shelf' : 'Recipes')} · Recipe Collection`;
+    document.title = `${entry?.name || (path === '/settings' ? 'Settings' : path === '/references' ? 'Reference shelf' : 'Recipes')} · Rob's Recipes`;
   }, [entry, path]);
   const listing = path === '/' || path === '' || path === '/references';
   return (
@@ -88,20 +98,18 @@ export default function App() {
       </a>
       <header className="site-header">
         <div className="header-inner">
-          <a className="brand" href="#/" aria-label="Recipe Collection home">
+          <a className="brand" href="#/" aria-label="Rob's Recipes home">
             <span className="brand-mark" aria-hidden="true">
-              rc<span>.</span>
+              rr<span>.</span>
             </span>
-            <span>
-              Recipe Collection<small>THE EVERYDAY COOKBOOK</small>
-            </span>
+            <span>Rob's Recipes</span>
           </a>
           <nav aria-label="Main navigation">
             <a className={path !== '/references' && path !== '/settings' ? 'active' : ''} href="#/">
               Recipes
             </a>
             <a className={path === '/references' ? 'active' : ''} href="#/references">
-              Reference shelf
+              Reference Shelf
             </a>
             <a className={path === '/settings' ? 'active' : ''} href="#/settings">
               Settings
@@ -138,7 +146,7 @@ export default function App() {
         )}
       </main>
       <footer className="site-footer">
-        <span>Recipe Collection</span>
+        <span>Rob's Recipes</span>
         <span>A place for good food, made your way.</span>
         <a href="#/settings">Your cooking preferences</a>
       </footer>
@@ -209,7 +217,7 @@ function Catalogue({
               }
               onClick={() => update('folder', root)}
             >
-              <span>{root}</span>
+              <span>{folderLabel(root)}</span>
               <span>
                 {
                   base.filter(
@@ -226,7 +234,7 @@ function Catalogue({
             <option value="">All folders</option>
             {folders.map((f) => (
               <option key={f} value={f}>
-                {f.replaceAll('/', ' / ')}
+                {folderLabel(f)}
               </option>
             ))}
           </select>
@@ -294,7 +302,7 @@ function Catalogue({
             {folder && (
               <>
                 {' '}
-                in <strong>{folder.replaceAll('/', ' / ')}</strong>
+                in <strong>{folderLabel(folder)}</strong>
               </>
             )}
           </p>
@@ -314,9 +322,7 @@ function Catalogue({
             {results.slice((page - 1) * 36, page * 36).map((entry) => (
               <a className="recipe-card" key={entry.id} href={recipeLink(entry.id, from)}>
                 <div className="recipe-card-body">
-                  <span className="card-folder">
-                    {entry.folder.replaceAll('/', ' / ') || 'Collection'}
-                  </span>
+                  <span className="card-folder">{folderLabel(entry.folder) || 'Collection'}</span>
                   <h2>{entry.name}</h2>
                   <div className="card-meta">
                     {entry.recipeYield && <span>Yield: {entry.recipeYield}</span>}
@@ -554,7 +560,7 @@ function Recipe({
         </button>
       </div>
       <header className="recipe-heading">
-        <span className="eyebrow">{entry.folder.replaceAll('/', ' / ') || 'THE COLLECTION'}</span>
+        <span className="eyebrow">{folderLabel(entry.folder) || 'THE COLLECTION'}</span>
         <h1>{entry.name}</h1>
         {isRecipe && entry.description && (
           <p>

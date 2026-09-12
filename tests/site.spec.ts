@@ -10,10 +10,10 @@ test('browse, combine filters, follow recipe, and return to search', async ({ pa
   await expect(page.getByRole('heading', { name: 'What’s cooking?' })).toBeVisible();
   await expect(page.locator('.recipe-card')).toHaveCount(36);
   await page.screenshot({ path: testInfo.outputPath('desktop.png') });
-  await page.getByRole('button', { name: /^british / }).click();
+  await page.getByRole('button', { name: /^British / }).click();
   await page.getByRole('searchbox', { name: 'Search recipes' }).fill('chicken');
   await expect(page.locator('.recipe-card').first()).toBeVisible();
-  await expect(page.locator('.recipe-card .card-folder').first()).toContainText('british');
+  await expect(page.locator('.recipe-card .card-folder').first()).toContainText('British');
   await expect(page.locator('.recipe-card').first()).toHaveAttribute(
     'href',
     /^#\/british\/.*\.jsonld\?/,

@@ -1,4 +1,4 @@
-# Recipe Collection
+# Rob's Recipes
 
 A static cookbook built with React, TypeScript, and Vite. Browse the JSON-LD collection, search by ingredient or folder, adjust yields, convert measurements, and print recipes. Settings are saved automatically in the current browser; no server or account is required.
 
