@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Ingen Goma-ae",
   "text": "Ingen Goma-ae\n\nPreparation time:\n\nCooking time:\n\nYield: 2\n\nIngredients\n\n100g string beans (trimmed and cut into two or three pieces),\n\n3 tbsp toasted white or black sesame seeds,\n\n2 tsp dashi stock,\n\n1 tsp sugar,\n\n1 tsp soy sauce.\n\nPreparation\n\n1. Boil in salted water for 2 minutes, then remove and strain.\n\n2. Lightly toast the sesame seeds in a dry frying pan, moving continually.\n\n3. Transfer to a mortar and grind to a rough texture.\n\n4. Add the sugar and soy sauce and mix.\n\n5. Add the dashi stock and mix into a dry paste.\n\n6. Add the beans and coat with the paste.",
   "recipeYield": "2",

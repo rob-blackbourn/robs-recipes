@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Tuna Teriyaki",
   "text": "Tuna Teriyaki\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1 tuna steak,\n\n120 ml teriyaki sauce.\n\nPreparation\n\n1. Dry fry one side of the tuna in a non-stick frying pan over a medium heat until golden brown.\n\n2. Turn and add the teriyaki sauce, a little at a time, basting the steak.",
   "recipeIngredient": [

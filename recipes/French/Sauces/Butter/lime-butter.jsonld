@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "France",
   "name": "Lime Butter",
   "text": "Lime Butter\n\nPreparation time: 5 minutes\n\nCooking time: none\n\nIngredients\n\n60 g lightly salted butter,\n\n2 tsp fresh lime juice,\n\n2 tsp lime zest,\n\n1 tsp chopped chives,\n\npinch of dried thyme,\n\nsmall pinch grated fresh ginger.\n\nPreparation\n\n1. Mix all the ingredients.",
   "prepTime": "PT5M",

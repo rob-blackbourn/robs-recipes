@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Italy",
   "name": "Fresh Coriander Sauce",
   "text": "Fresh Coriander Sauce\n\nPreparation time: 5 minutes\n\nCooking time: 5 minutes\n\nYield: 4\n\nIngredients\n\n1 large bunch of fresh coriander (leaves stripped from stalks),\n\n50 g (2 oz) pine nuts,\n\n1 1/2 tbsp olive oil,\n\n125 g (4 oz) shallots,\n\n250 g (8 oz) half fat cream cheese,\n\n125 ml (4 fl oz) milk or single cream,\n\nsalt and pepper.\n\nPreparation\n\n1. Set some of the coriander leaves aside for the garnish and chop the rest finely. Place them in a mortar with the pine nuts and crush with a pestle.\n\n2. Heat the oil in a saucepan. Add the shallots and fry for two minutes, stirring constantly. Lower the heat and stir in the coriander mixture with the cream cheese and then the milk or cream. Season with salt and pepper. Bring to the boil, then reduce the heat an simmer for 2 minutes or until thoroughly heated through.\n\n3. Garnish the reserved coriander leaves then serve.",
   "prepTime": "PT5M",

@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Tendon Sauce",
   "text": "Tendon Sauce\n\nPreparation time:\n\nCooking Time:\n\nYield: 2\n\nIngredients\n\n100ml dashi stock,\n\n2 tbsp soy sauce,\n\n2 tbsp mirin,\n\n1 tbsp sake,\n\n1 tbsp sugar.\n\nPreparation\n\n1. Add to a medium saucepan, dashi stock, mirin and sake.\n\n2. Bring to the boil, then add the sugar and soy sauce.\n\n3. Bring the sauce back to the boil, stirring until the sugar has dissolved, then remove from the heat.\n\n4. Cool to room temperature before serving.",
   "recipeYield": "2",

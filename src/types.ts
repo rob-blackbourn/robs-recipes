@@ -11,6 +11,7 @@ export interface RecipeDocument {
   name: string;
   text: string;
   description?: string;
+  recipeCuisine?: string;
   recipeYield?: string;
   prepTime?: string;
   cookTime?: string;

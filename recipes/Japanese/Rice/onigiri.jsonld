@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Onigiri",
   "text": "Onigiri\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\nSushi rice,\n\nNori seaweed sheets,\n\nFilling: shiozake (salted salmon, grilled and flaked), umeboshi (salty pickled plum), tarako (salty cod roe cooked and cut into small chunks), okaka (bonito flakes mixed with a little soy sauce), umukaka (bonito flakes mixed with umeboshi), limbo no tsukudani or ship Kombu (kombu seaweed cooked in soy sauce until tender and salty).\n\nPreparation\n\n1. Make the rice.\n\n2. Make a bowl of slightly salty water.\n\n3. Moisten your hands with the salty water and mold into shape.",
   "recipeIngredient": [

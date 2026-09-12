@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Yakisoba",
   "text": "Yakisoba\n\nPreparation time: 10 minutes\n\nCooking time: 20 minutes\n\nYield: 1\n\nIngredients\n\n150 g / 1 pack of Yakisoba Noodles,\n\n1/3 tbsp Sake,\n\n50 g sliced pork (cut into 1 1/2 inch pieces),\n\n75 g bean sprouts,\n\n1/2 cabbage leaf (40g, cut into 1 inch squares),\n\n1/2 long green onion or 2 spring onions (sliced diagonally)\n\n15 g carrot (sliced into 1 inch long thin sticks),\n\n1 clove garlic (crushed, root removed, and finely diced),\n\n1 tsp sesame oil,\n\nFor the Yakisoba Sauce\n\n1 tbsp oyster sauce,\n\n1/2~1 tsp soy sauce,\n\n1/2 tbsp sake or water,\n\nA pinch of Salt and Pepper\n\nToppings\n\nKatsuobushi Shavings - Bonito Flakes\n\nAonori - Green Laver\n\nBeni Shoga - Pickled Ginger\n\nPreparation\n\n1. Make the yakisoba sauce by combining the soy sauce and sake with the oyster sauce.\n\n2. Put the fresh noodles on a griddle, and pour the sake over the noodles.\n\n3. Press the noodles into the surface with a spatula. When the underside begins to brown, turn, divide into 4 pieces, and move to the edge of the griddle.\n\n4. Add sesame oil to the griddle, and fry the pork and garlic in the oil.\n\n5. When the pork is brown add the cabbage, onion, carrot, and beansprouts, then season with salt and pepper.\n\n6. When the vegetables are almost cooked, mix with the noodles.\n\n7. Pour the yakisoba sauce over the noodles and mix again.",
   "prepTime": "PT10M",

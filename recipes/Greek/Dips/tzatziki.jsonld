@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Greece",
   "name": "Tzatziki",
   "text": "Tzatziki\n\nPreparation time: 10 minutes\n\nCooking time: None\n\nYield:\n\nIngredients\n\nLarge pot of Greek yoghurt\n\n1/2 cucumber,\n\nFresh mint (finely chopped),\n\n1 tbsp lemon juice,\n\n1 clove of garlic (crushed),\n\n1 tbsp extra virgin olive oil,\n\nSalt and pepper,\n\n1 tsp sugar,\n\npaprika (for sprinkling)\n\nPreparation\n\n1. Place a sieve over a glass bowl and grate the cucumber into the bowl. Push out as much water as possible.\n\n2.  Combine the yoghurt, cucumber, lemon juice and garlic. Add a dash of olive oil and sprinkle with paprika.\n\n3. Season with sugar, salt and pepper.",
   "prepTime": "PT10M",

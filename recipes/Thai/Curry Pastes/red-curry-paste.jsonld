@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Thailand",
   "name": "Red Curry Paste",
   "text": "Red Curry Paste\n\nIngredients\n\n1 tbsp coriander seeds, roasted until brown\n\n2 cardamon pods, roasted until brown\n\n½ tsp black peppercorns\n\n½ tsp salt\n\n10 big dried red chilies, seeds removed and soaked in water for at least 10 minutes and then finely chopped\n\n1 tsp galangal, skin removed, chopped\n\n2 tsp lemongrass, lower third only, chopped\n\n1 tsp kaffir lime peel, chopped\n\n1 tbsp coriander root, chopped\n\n3 tbsp shallots, chopped\n\n3 tbsp garlic, crushed\n\n1 tsp Thai shrimp paste\n\n10 small fresh red chili peppers (prik kee noo)\n\nPreparation\n\nPut the coriander seeds, cardamon pods and black peppercorns in a granite mortar and grind into a powder with a pestle. Add the rest of the ingredients and pound using a pestle for about 10 minutes until the paste is smooth. All the ingredients for the paste can also be put into a blender and liquidized. If the paste is too dry, you may need to add a bit of water.",
   "recipeIngredient": [

@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Thailand",
   "name": "Thai Satay Sauce",
   "text": "Thai Satay Sauce\n\nPrep Time: 15 minutes\n\nCooking Time: 0 minutes\n\nTotal Time: 15 minutes\n\nYield: 4\n\nStatus: Too sweet, contains untried changes..\n\nIngredients\n\n150g  unsalted roasted peanuts,\n\n1/3 cup (80ml) water,\n\n2 cloves garlic,\n\n1/2 tbsp dark soy sauce,\n\n2 tsp sesame oil,\n\n1½ tbsp brown sugar,\n\n2 tbsp fish sauce (for vegetarians substitute 3 tbsp light soy sauce),\n\n1/2 tsp tamarind paste,\n\n1/2 tsp cayenne pepper,\n\n1/3 cup coconut milk.\n\nPreparation\n\n1. Place all ingredients in a blender. Blend or process until smooth.",
   "prepTime": "PT15M",

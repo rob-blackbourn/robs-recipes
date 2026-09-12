@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "United Kingdom",
   "name": "Kedgeree",
   "text": "Kedgeree\n\nPreparation time: 10 minutes\n\nCooking time: 15 minutes\n\nYield: 3\n\nIngredients\n\n1 1/2 fillets of smoked haddock,\n\n1 medium onion (sliced),\n\n2 tbsp olive oil,\n\n2 scant tsp curry powder.\n\n2 tbsp sultanas,\n\n125 g basmati rice,\n\n2 hard boiled eggs,\n\nchopped parsley,\n\nlemon wedges and mango chutney.\n\nPreparation\n\n1. Pour boiling water over the haddock, leave for 3 minutes, drain, skin, and flake.\n\n2. Cook the onion until pale yellow in the oil in a saute pan.\n\n3. Stir in the curry powder and cook for a minute, stirring.\n\n4. Add the sultanas and rice, plus 600 ml water.\n\n5. Bring to the boil and simmer for 10 minutes.\n\n6. Put in the haddock and season.\n\n7. Continue cooking until the rice is soft, and the water absorbed.\n\n8. Serve with hard boiled eggs and parsley on top, and lemon wedges and mango chutney on the side.",
   "prepTime": "PT10M",

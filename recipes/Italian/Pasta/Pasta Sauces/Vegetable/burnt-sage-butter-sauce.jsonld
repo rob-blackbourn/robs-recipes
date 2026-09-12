@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Italy",
   "name": "Burnt Sage Butter Sauce",
   "text": "Burnt Sage Butter Sauce\n\nPreparation time: 5 minutes\n\nCooking time: 5 minutes\n\nYield: 4\n\nIngredients\n\n50 g (2 oz) butter,\n\n50 g (2 oz) pine nuts,\n\n15 sage leaves (sliced),\n\n2 tbsp lemon juice,\n\nsalt.\n\nPreparation\n\n1. Heat the butter in a frying pan over a medium heat and add the pine nuts and sage. Stir until the nuts are light brown and the butter is pale golden.\n\n2. Have the lemon juice to hand and, once the butter is pale golden, turn off the heat and quickly pour in the lemon juice.\n\n3. Season the butter with salt and serve.",
   "prepTime": "PT5M",

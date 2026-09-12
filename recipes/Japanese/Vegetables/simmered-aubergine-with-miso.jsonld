@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Simmered Aubergine with Miso",
   "text": "Simmered Aubergine with Miso\n\nPreparation time:\n\nCooking time:\n\nYield: 1\n\nIngredients\n\n100g Aubergine (cut into bite sized pieces),\n\n1 tbsp miso,\n\n1 tbsp mirin,\n\n3 tbsp sake,\n\n1 chilli pepper.\n\nPreparation\n\n1. Put all the ingredients into a saucepan and bring to the boil.\n\n2. Reduce the heat and cook for 8 minutes.",
   "recipeYield": "1",

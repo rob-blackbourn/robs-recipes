@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Italy",
   "name": "Herby all’Arrabiata Sauce",
   "text": "Herby all’Arrabiata Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 40 minutes\n\nYield: 4\n\nIngredients\n\n2 x 400 g (13 oz) cans of plum tomatoes (drained),\n\n25 g (1 oz) butter,\n\n1 onion (finely chopped),\n\n125 g (4 oz) streaky bacon (rind removed and diced),\n\n2 cloves of garlic (finely chopped),\n\n1-2 red chilies (finely chopped),\n\n1 tbsp chopped oregano,\n\n1 tbsp chopped thyme,\n\nsalt and pepper,\n\n1 tbsp chopped parsley to garnish,\n\n125 g (4 oz) Parmesan cheese (freshly grated) to serve.\n\nPreparation\n\n1. Puree the tomatoes in a food processor.\n\n2. Melt the butter in a large saucepan over a moderate heat. Add the onion and bacon then cook, stirring for 5 minutes. Add the garlic and chilies then cook, stirring occasionally for another 5 minutes until the onion is tender.\n\n3. Add the tomatoes, oregano and thyme and season to taste with salt and pepper. Cover the sauce, bring to the boil then reduce the heat and simmer for about 30 minutes. Garnish with parsley and serve with grated Parmesan cheese.",
   "prepTime": "PT10M",

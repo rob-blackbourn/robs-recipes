@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Argentina",
   "name": "Empanada Dough",
   "text": "Empanada Dough\n\nPreparation time: 10 Minutes\n\nYield: 1 kg\n\nIngredients\n\n2 cups of water,\n\n1 tbsp coarse salt,\n\n4 tbsp lard lard (56.7 g),\n\n7 cups plain flour (840g).\n\nEquipment\n\nSmall saucepan\n\nRolling pin,\n\nPreparation\n\nIn a small saucepan bring 2 cups of water to the boil and add 1 tbsp salt and 4 tbsp lard.\n\nOnce the lard has melted, let the liquid cool.\n\nMix the liquid with 7 cups of plain flour and knead it till dry and a little hard.\n\nRoll out the dough and cut into 5 circles the size of side plates.\n\nPut the dough into the fridge to chill.",
   "prepTime": "PT10M",

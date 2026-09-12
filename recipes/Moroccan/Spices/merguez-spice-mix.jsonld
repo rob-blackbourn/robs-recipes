@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Morocco",
   "name": "Merguez Spice Mix",
   "text": "Merguez Spice Mix\n\nPreparation time: 10 minutes\n\nCooking time: None\n\nYield:\n\nIngredients\n\n4 tbsp sweet paprika\n\n2 tbsp ground fennel seeds\n\n2 tbsp ground cumin\n\n1 tbsp ground coriander seeds\n\n2 tbsp salt\n\n1 tsp ground cinnamon\n\n1 tsp cayenne pepper\n\n3/4 tsp black pepper\n\nPreparation\n\n1. Combine the ingredients in a pestle and mortar and grind to a powder.",
   "prepTime": "PT10M",

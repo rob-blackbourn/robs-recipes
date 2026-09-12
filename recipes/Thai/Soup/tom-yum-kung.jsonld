@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Thailand",
   "name": "Tom Yum Kung",
   "text": "Tom Yum Kung\n\nYield: 2\n\nIngredients\n\n2 cups chicken stock,\n\n5 slices young galangal,\n\n2 stalks lemongrass (diagonally sliced),\n\n2 kaffir lime leaves (torn),\n\n10 tiger prawns (shelled, deveined, with tails),\n\n15 straw mushrooms (halved),\n\n3 tbsp fish sauce,\n\n3 tbsp lime juice,\n\n1 tbsp roasted chilli paste,\n\n6 hot chilies (lightly crushed),\n\n2 bunches coriander (cut to 1 cm long),\n\nKaffir lime leaves, coriander sprig and diagonally sliced lemongrass for granish.\n\nPreparation\n\n1. Bring the stock to the boil over a medium heat.\n\n2. Add galangal, lemongrass, and kaffir lime leaves. Cook until fragrant.\n\n3. Add the prawns and mushroom. Cook until done.\n\n4. Season with fish sauce, lime juice, and roasted chili paste.\n\n5. Add hot chili and coriander. Remove from heat.",
   "recipeYield": "2",

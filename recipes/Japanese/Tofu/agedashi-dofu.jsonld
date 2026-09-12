@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Japan",
   "name": "Agedashi Dofu",
   "text": "Agedashi Dofu\n\nPreparation time:\n\nCooking time: 10 minutes\n\nYield: 2\n\nIngredients\n\n200g firm tofu,\n\nGrated white radish (daikon)\n\nSpring onions, chopped\n\nBonito Flakes\n\nCornflour or potato starch,\n\nVegetable oil\n\nSauce\n\n1/2 cup dashi soup stock (konbu dashi)\n\n1/2 tbsp mirin\n\n1/2 tbsp light soy sauce\n\nPreparation\n\n1. Wrap tofu in paper towels and squeeze out excess water.\n\n2. Cut the tofu into 4 small squares.\n\n3. Coat the tofu cubes with cornflour evenly.\n\n4. Deep fry the tofu in pre-heated oil (170C, 340F) for about 4 minutes or until light golden brown.\n\n5. Drain the deep fried tofu on tempura papers and then place them on serving plates.\n\nIn a saucepan, bring the ingredients for the sauce to a boil. Pour the hot sauce over the tofu.\n\n6. Top each tofu with grated radish, bonito flakes and spring onions.",
   "cookTime": "PT10M",

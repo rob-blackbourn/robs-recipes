@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Morocco",
   "name": "Ras-el-Hanout",
   "text": "Ras-el-Hanout\n\nPreparation time: 5 minutes\n\nCooking time: 0 minutes\n\nYield: 5 tsp\n\nIngredients\n\n2 tsp ground cinnamon\n\n1 tsp ground turmeric\n\n1 tsp coriander seeds\n\n½ tsp freshly ground black pepper\n\n¼ tsp freshly grated nutmeg, or to taste\n\n¼ tsp freshly ground cardamom seeds\n\n¼ tsp freshly ground cloves\n\nPreparation\n\nMix all of the ingredients together until well combined. Grind in a spice grinder or coffee grinder to a fine powder. Store in an airtight jar.",
   "prepTime": "PT5M",

@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Italy",
   "name": "Ciociara-Style Sauce",
   "text": "Ciociara-Style Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 8 minutes\n\nYield: 4\n\nIngredients\n\n125 g (4 oz) frozen peas,\n\n50 g (2 oz) butter,\n\n250 g (8 oz) button mushrooms (thinly sliced),\n\n200 ml (7 fl oz) single cream,\n\n125 g (4 oz) piece of lean cooked ham (thinly sliced),\n\n125 g (4 oz) Parmesan cheese (freshly grated),\n\nsalt.\n\nPreparation\n\n1. Place the peas in a pan of salted boiling water and cook according to the packet instructions until tender.\n\n2. Meanwhile, melt half of the butter in a frying pan, add the mushrooms and saute gently until just tender, adding salt to taste.\n\n3. Put the remaining butter in a saucepan with the cream and heat gently without allowing the mixture to boil. Add the mushrooms with their juice, the peas and the cooked ham.\n\n4. Stir a ladle of boiling water and a third of the Parmesan into the sauce, then serve with the remaining cheese.",
   "prepTime": "PT10M",

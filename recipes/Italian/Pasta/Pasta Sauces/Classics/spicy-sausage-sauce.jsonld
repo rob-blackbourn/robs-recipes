@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "Italy",
   "name": "Spicy Sausage Sauce",
   "text": "Spicy Sausage Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 20 minutes,\n\nYield: 4\n\nIngredients\n\n2 tsp cardamom pods,\n\n1 tsp cumin seeds,\n\n1 tsp fennel seeds,\n\n2 tbsp olive oil,\n\n1 red onion (thinly sliced),\n\n500 g sausages (skins removed),\n\n50 g pine nuts,\n\n3 tbsp chopped herbs (parsley, fennel, coriander),\n\n150 g green cabbage (very finely shredded),\n\n300 ml single cream,\n\nSalt & pepper.\n\nPreparation\n\n1. Crush the cardamom pods to release the seeds. Discard the shells and add to the cumin and fennel seeds. Crush until lighty ground.\n\n2. Heat the oil in a large frying pan and fry the onion for 3 minutes. Ass the skinned sausages and fry gently, breaking them up into small pieces with a wooden spoon, for 6-8 minutes, until cooked through.\n\n3. Add the pine nuts and the crushed seeds to the pan and cook gently for 3-5 minutes stirring frequently. Add the herbs and cabbage and fry for 2 minutes.\n\n4. Pour in the cream and heat through for a further 2 minutes. Season to taste with salt and pepper.",
   "prepTime": "PT10M",

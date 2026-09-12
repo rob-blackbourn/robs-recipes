@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCuisine": "France",
   "name": "Roast Mallard",
   "text": "Roast Mallard\n\nPreparation time:\n\nCooking time:\n\nYield: 2\n\nIngredients\n\n1 wild mallard duck,\n\nSalt\n\nFreshly ground black pepper\n\nA little soft lard or butter\n\nPreparation\n\nPreheat the oven to 230°C/450°F/Gas Mark 8.\n\nSeason the mallard with salt and freshly ground pepper, running some lard or butter over the carcass to keep it moist.\n\nTip: For heavier birds of 1kg, double the cooking time to 60 minutes.\n\nPlace in a baking tray and roast for 10 mins. Reduce the temperature to 180°C/350°F/Gas Mark 4 and cook for 30 minutes. Remove from the oven and leave to rest in a warm place for 10 to 15 minutes. The meat should be slightly pink to serve, but if you prefer the meat less pink add 5-7 minutes onto the cooking time.",
   "recipeYield": "2",
