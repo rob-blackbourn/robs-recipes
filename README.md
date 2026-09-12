@@ -1,0 +1,84 @@
+# Recipe Collection
+
+A static cookbook built with React, TypeScript, and Vite. Browse the JSON-LD collection, search by ingredient or folder, adjust yields, convert measurements, and print recipes. Settings are saved automatically in the current browser; no server or account is required.
+
+## Run locally
+
+Use Node.js 24 LTS (minimum 22.12).
+
+```sh
+npm ci
+npm run dev
+```
+
+Open the address printed by Vite. For a production build:
+
+```sh
+npm run build
+npm run preview
+```
+
+The distributable site is `dist/`. For hosting under a subdirectory, build with `BASE_PATH=/your-repository/ npm run build`. Recipe and settings links use hash routes, so refreshing a deep link needs no server rewrite.
+
+## Adding content
+
+Keep `.jsonld` documents inside `recipes/`. Vite includes them in the next build. `Recipe` documents appear in the cookbook; `CreativeWork` documents appear on the reference shelf. Keep `name`, `text`, and `@type`, and use the existing schema.org fields for ingredients, instructions, yield, and metadata. `HowToSection` instruction groups are supported recursively.
+
+Image paths are relative to the document, pointing into adjacent `.assets` folders. PNG, JPG, JPEG, and WebP are supported; both literal and percent-encoded filenames work. Missing image files fail the build. Spreadsheets are not published.
+
+The document's relative path is its link ID. Duplicate titles remain distinct; moving or renaming a file changes its link. Original source text is always available on the detail page. The application never rewrites recipe files.
+
+The collection tests currently assert 413 recipes, six references, and 12 images. Update these expected counts when intentionally adding or removing content.
+
+## Preferences and scaling
+
+Settings contains preferred output units and an optional default serving count. Valid changes save immediately under the versioned `recipe-collection.preferences.v1` localStorage key. Invalid entries do not overwrite saved values. Corrupt or unknown storage versions fall back to defaults. If storage is disabled, preferences remain available until the page is reloaded.
+
+Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. These and missing yields can be adjusted manually with a target, an explicit baseline, or a multiplier. Compatible mass and volume yields support changing the target unit.
+
+Explicit recipe URL overrides take precedence over preferences, then original values. `Use my defaults` removes overrides. `Show original recipe` explicitly selects original units and a multiplier of one, restoring exact source wording. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
+
+Scaling changes ingredient quantities only. Package counts change while package sizes remain fixed. Cooking times, temperatures, preparation dimensions, and quantities in instruction text remain as written. Unrecognised or contradictory quantities are retained and flagged when scaling. Qualitative amounts such as “a handful” require judgement.
+
+## Measurement conventions
+
+Output modes: Original, Metric, Imperial, Cups — 250 ml, Cups — imperial (284.130625 ml), and Cups — US (236.5882365 ml).
+
+Unspecified source cups default to 250 ml, tablespoons to 15 ml, teaspoons to 5 ml, and liquid ounces/pints/quarts/gallons to UK imperial. A recipe's source controls independently allow US/imperial cups, UK/US liquids, and metric/US/Australian spoons (Australian tablespoons are 20 ml). Explicit source-system labels take precedence. Changing preferred output units does not reinterpret source measures.
+
+Mass and volume conversions use conventional definitions (avoirdupois ounce: 28.349523125 g; UK pint: 568.26125 ml; US customary cup: 236.5882365 ml). See [NIST conversion tables](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b8).
+
+Weight-to-volume conversions require a recognised ingredient. The bundled approximate table covers specified flour and sugar varieties, butter, honey, and rolled oats, with values from the [King Arthur Baking ingredient weight chart](https://www.kingarthurbaking.com/learn/ingredient-weight-chart). Packing and preparation matter: plain “flour”, unspecified brown sugar, clarified butter, and ambiguous alternatives do not receive inferred densities. Each estimate identifies its ingredient and grams per US customary cup. Unsupported weights remain weights in cup mode. This table is local and makes no runtime requests.
+
+### Rounding
+
+Calculations always start from original amounts with full internal precision. Only the displayed result is rounded:
+
+| Amount in grams or millilitres | Increment |
+| ------------------------------ | --------- |
+| 100 and above                  | 10        |
+| 20 to below 100                | 5         |
+| 1 to below 20                  | 1         |
+| Below 1                        | 0.1       |
+
+For example, 158 g becomes 160 g, 43 ml becomes 45 ml, and 12.6 g becomes 13 g. Kilograms and litres are selected after rounding when the base amount reaches 1,000. Tiny positive amounts display as `<0.1 g` or `<0.1 ml`, never zero.
+
+Customary amounts and counts use whole/mixed numbers with fractional parts 1/8, 1/4, 1/3, 1/2, 2/3, 3/4, and 7/8. The nearest allowed value is selected, with ties rounded up. Cup output uses tablespoons below one cup, and teaspoons below one tablespoon. US cup mode uses US spoons; other cup modes use 15/5 ml spoons. Tiny positive measures display as `<1/8` of the smallest supported unit. Equivalent displayed range endpoints collapse to one amount. Original units at the original yield preserve source text exactly.
+
+## Checks
+
+```sh
+npm run typecheck
+npm test
+npm run build
+npx playwright install chromium
+npm run test:e2e
+```
+
+Browser tests build and serve the production site under `/test-kitchen/`, verifying repository-path hosting as well as desktop/mobile browsing, preferences, recipe overrides, images, printing, and keyboard access. To use an installed Chromium-compatible browser, set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/path/to/browser` when running browser tests. The browser test build replaces `dist/`; run `npm run build` again before deploying it manually at a different base path.
+
+## GitHub Pages
+
+Connect this repository to GitHub, push the files, and enable **Settings → Pages → Source → GitHub Actions**. The included workflow checks pull requests and builds/deploys pushes to `main` (also available through manual dispatch on `main`). It obtains the deployment base path from Pages configuration, runs unit and browser tests, then publishes the production artifact. See [Vite's Pages deployment guide](https://vite.dev/guide/static-deploy).
+
+The application has no backend, editing interface, account, favourites, cloud preference syncing, or manual density overrides.

@@ -1,0 +1,7 @@
+recipes/
+CONVERSION.md
+node_modules/
+dist/
+package-lock.json
+playwright-report/
+test-results/
