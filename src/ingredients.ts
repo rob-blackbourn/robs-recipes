@@ -23,6 +23,7 @@ const unicodeFractions: Record<string, number> = {
   '⅞': 7 / 8,
 };
 const glyphs = Object.keys(unicodeFractions).join('');
+const numericQuantity = new RegExp(`[0-9${glyphs}]`);
 export const numberPattern = `(?:\\d+\\s+\\d+\\s*[/⁄]\\s*\\d+|\\d+\\s*[/⁄]\\s*\\d+|\\d*\\s*[${glyphs}]|\\d+(?:\\.\\d+)?|\\.\\d+)`;
 const rangePattern = `(${numberPattern})(?:\\s*(?:[-–—]|to|or)\\s*(${numberPattern}))?`;
 
@@ -188,6 +189,7 @@ export function transformIngredient(
   mode: UnitMode,
   conventions = defaultConventions,
 ): IngredientResult {
+  if (!numericQuantity.test(original)) return { text: original, original };
   if (!Number.isFinite(factor) || factor <= 0)
     return { text: original, original, issue: 'Invalid scaling factor.' };
   if (mode === 'original' && factor === 1) return { text: original, original };
@@ -200,9 +202,7 @@ export function transformIngredient(
         parsed?.issue ||
         (factor !== 1
           ? 'Quantity could not be scaled automatically.'
-          : /\d|[¼½¾⅓⅔⅛⅜⅝⅞]/.test(original)
-            ? 'Quantity could not be converted automatically.'
-            : undefined),
+          : 'Quantity could not be converted automatically.'),
     };
   const { prefix, suffix } = parsed;
   let amount = parsed.amount;

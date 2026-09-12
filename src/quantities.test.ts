@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { defaultConventions as conventions } from './types';
+import { defaultConventions as conventions, unitModes, type UnitMode } from './types';
 import { displayQuantity, fraction, metric, roundMetric, unitFor, US_CUP, UK_PINT } from './units';
 import { parseAmount, parseIngredient, parseNumber, transformIngredient } from './ingredients';
 import { matchDensity } from './densities';
@@ -159,7 +159,6 @@ describe('ingredient parsing and scaling', () => {
       '100 g (10 oz) flour',
       '1 kg-2 kg lamb',
       '1 heaped tbsp salt',
-      'a handful of rocket',
       '1 cup plus 2 tbsp flour',
       '1 beef fillet, about 800g-1kg',
       '3 tomatoes (or 400g can crushed tomatoes)',
@@ -171,6 +170,21 @@ describe('ingredient parsing and scaling', () => {
       expect(result.text).toBe(text);
       expect(result.issue, text).toBeTruthy();
     }
+  });
+  it.each([
+    'Salt and peper for seasoning',
+    'a handful of rocket',
+    'olive oil for frying',
+    'For the sauce: water as needed',
+  ])('leaves nonnumeric ingredients unchanged without warnings: %s', (text) => {
+    for (const mode of Object.keys(unitModes) as UnitMode[]) {
+      for (const factor of [1, 2, 0.5]) {
+        expect(transformIngredient(text, factor, mode)).toEqual({ text, original: text });
+      }
+    }
+  });
+  it('still scales numeric Unicode fractions', () => {
+    expect(transformIngredient('⅕ cup water', 2, 'metric').text).toBe('100 ml water');
   });
   it('rejects malformed fractions and partial numbers', () => {
     expect(parseAmount('1/0 cup milk')).toBeNull();
