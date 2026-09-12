@@ -5,27 +5,27 @@
   "name": "Steak & Ale Pie",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "225g/8oz plain flour (plus extra for rolling out) (For the rough puff pastry)",
+    "225 g plain flour (plus extra for rolling out) (For the rough puff pastry)",
     "½ tsp fine salt,",
-    "250g/9oz unsalted butter, cold but not rock hard (or you can use half butter, half lard)",
-    "150ml/¼ pint ice-cold water",
+    "250 g unsalted butter, cold but not rock hard (or you can use half butter, half lard)",
+    "150 ml ice-cold water",
     "1 free-range egg, beaten, to glaze",
-    "1 kg/2lb 4oz braising steak, cut into matchbox-sized pieces",
+    "1 kg braising steak, cut into matchbox-sized pieces",
     "3 tbsp plain flour (For the filling)",
     "Salt and pepper for seasoning",
     "3 tbsp olive oil",
-    "300ml/½ pint brown ale",
+    "300 ml brown ale",
     "2 garlic cloves",
     "2 onions",
-    "250g/9oz carrots",
+    "250 g carrots",
     "2 sticks celery",
     "1 fresh or dried bay leaf",
     "handful fresh thyme sprigs",
-    "300ml/½ pint good quality beef stock",
+    "300 ml good quality beef stock",
     "1 tbsp tomato purée",
     "1 tbsp balsamic vinegar",
-    "500g/1lb 2oz chestnut or white mushrooms",
-    "knob of butter"
+    "500 g chestnut or white mushrooms",
+    "a knob of butter"
   ],
   "recipeInstructions": [
     {
@@ -50,11 +50,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Lightly flour the work surface and the pastry. Roll out the pastry in one direction until it’s about 1cm thick and three times as long as it is wide, or about 45x15cm/18x6in. Straighten up the sides with your hands now and again, and try to keep the top and bottom edges as square as possible."
+      "text": "Lightly flour the work surface and the pastry. Roll out the pastry in one direction until it’s about 1cm thick and three times as long as it is wide, or about 45x15cm Straighten up the sides with your hands now and again, and try to keep the top and bottom edges as square as possible."
     },
     {
       "@type": "HowToStep",
-      "text": "Fold the bottom third of the pastry up, then the top third down, to make a block about 15x15cm/6x6in. It doesn’t matter if the pastry isn’t exactly the right size - the important thing is that the corners are nice and square."
+      "text": "Fold the bottom third of the pastry up, then the top third down, to make a block about 15x15cm It doesn’t matter if the pastry isn’t exactly the right size - the important thing is that the corners are nice and square."
     },
     {
       "@type": "HowToStep",

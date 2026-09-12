@@ -5,13 +5,13 @@
   "name": "Mixed Haddock Supper for Two",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "A piece of fresh haddock about 225g (7–8oz),",
+    "A piece of fresh haddock about 225 g,",
     "A piece of smoked haddock about the same weight,",
     "A good handful of button mushrooms wiped not washed, sliced,",
     "Tablespoon capers,",
-    "50g (2oz) lump of butter to sauté mushrooms,",
-    "25g (1oz) flour,",
-    "150ml (1/4 pt) milk,",
+    "50 g lump of butter to sauté mushrooms,",
+    "25 g flour,",
+    "150 ml milk,",
     "Glass of white wine,",
     "Pinch of salt to taste,",
     "A good shake of Parmesan cheese or grated Gruyere"
@@ -27,11 +27,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Don’t forget the smoked fish has already been cooked so can be lifted first. Remember the golden rule for any  kind of fish – DO NOT OVER COOK."
+      "text": "Don’t forget the smoked fish has already been cooked so can be lifted first. Remember the golden rule for any kind of fish – DO NOT OVER COOK."
     },
     {
       "@type": "HowToStep",
-      "text": "Lift fish from stock and flake away from skin into a flat gratin dish.  Sauce"
+      "text": "Lift fish from stock and flake away from skin into a flat gratin dish. Sauce"
     },
     {
       "@type": "HowToStep",
@@ -43,7 +43,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Give a sprinkle of cheese, pop into a fairly hot oven – not to cook – just to brown the top.  8.  Serve with peas, broccoli or spinach and a few new potatoes."
+      "text": "Give a sprinkle of cheese, pop into a fairly hot oven – not to cook – just to brown the top. 8. Serve with peas, broccoli or spinach and a few new potatoes."
     }
   ],
   "keywords": [

@@ -5,16 +5,16 @@
   "name": "Quiche Lorraine - Hairy Bikers",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "180g/6¼oz plain flour, plus extra for dusting",
-    "100g/3½oz cold unsalted butter, cubed",
-    "50g/2oz parmesan, grated",
+    "180 g plain flour, plus extra for dusting",
+    "100 g cold unsalted butter, cubed",
+    "50 g parmesan, grated",
     "2 tsp thyme, leaves only",
     "1 free-range egg yolk",
     "1 tsp chilled water (more if needed)",
     "3 free-range eggs",
-    "150g/5¼oz pancetta, cubed",
-    "250ml/9fl oz crème fraîche",
-    "150g/5¼oz Gruyère",
+    "150 g pancetta, cubed",
+    "250 ml crème fraîche",
+    "150 g Gruyère",
     "freshly ground black pepper"
   ],
   "recipeInstructions": [
@@ -40,7 +40,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "For the filling, place all the ingredients (except 50g/2oz of the Gruyère) into a large bowl and mix gently, to avoid filling the mixture with air."
+      "text": "For the filling, place all the ingredients (except 50g of the Gruyère) into a large bowl and mix gently, to avoid filling the mixture with air."
     },
     {
       "@type": "HowToStep",

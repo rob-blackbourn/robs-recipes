@@ -7,15 +7,15 @@
   "cookTime": "PT30M",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "30g butter (For the béchamel)",
-    "30g flour",
-    "400ml milk",
+    "30 g butter (For the béchamel)",
+    "30 g flour",
+    "400 ml milk",
     "6 free-range egg yolks (beaten),",
     "Salt and pepper for seasoning",
-    "40g butter (softened) (For the soufflé)",
-    "110g gruyère (finely grated),",
-    "125g smoked haddock fillet,",
-    "300ml oz double cream,",
+    "40 g butter (softened) (For the soufflé)",
+    "110 g gruyère (finely grated),",
+    "125 g smoked haddock fillet,",
+    "300 ml double cream,",
     "8 free-range egg whites,",
     "1 tbsp fresh dill (roughly chopped),",
     "4 quail's eggs (poached),",
@@ -48,7 +48,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Meanwhile, grease the insides of four individual soufflé dishes or ramekins (10cm/4in in diameter and 6.5cm/2½in deep) with softened butter."
+      "text": "Meanwhile, grease the insides of four individual soufflé dishes or ramekins (10cm in diameter and 6.5cm deep) with softened butter."
     },
     {
       "@type": "HowToStep",

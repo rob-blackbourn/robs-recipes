@@ -6,18 +6,18 @@
   "recipeCategory": "Dessert",
   "recipeYield": "6 servings",
   "recipeIngredient": [
-    "175g / 6oz butter (at room temperature),",
-    "175g/6oz caster sugar,",
+    "175 g butter (at room temperature),",
+    "175 g caster sugar,",
     "3 free-range eggs,",
-    "250g/9oz self-raising flour,",
-    "2-3 tbsp milk,",
+    "250 g self-raising flour,",
+    "2 tbsp milk,",
     "1 lemon, zest only,",
-    "1-2 thin pieces of candied citron or lemon peel, to decorate."
+    "1 thin pieces of candied citron or lemon peel, to decorate."
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Pre-heat the oven to 180°C. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper."
+      "text": "Pre-heat the oven to 180°C. Grease an 18cm round cake tin, line the base with greaseproof paper and grease the paper."
     },
     {
       "@type": "HowToStep",

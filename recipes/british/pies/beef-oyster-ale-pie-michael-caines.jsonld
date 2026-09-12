@@ -5,25 +5,25 @@
   "name": "Beef, Oyster & Ale Pie - Michael Caines",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "1kg/2lb 2oz beef braising steak, chopped",
+    "1 kg beef braising steak, chopped",
     "Salt and pepper for seasoning",
-    "50ml/2floz vegetable oil",
-    "175g/6oz smoked bacon, cut into large lardons",
-    "125g/4½oz onion, chopped",
-    "125g/4½oz carrots, peeled, cut into batons",
-    "1-2 garlic cloves, peeled, chopped",
-    "125g/4½oz baby button mushrooms",
-    "25g/1oz plain flour",
-    "500ml/17½fl oz dark ale",
+    "50 ml vegetable oil",
+    "175 g smoked bacon, cut into large lardons",
+    "125 g onion, chopped",
+    "125 g carrots, peeled, cut into batons",
+    "1 garlic clove, peeled, chopped",
+    "125 g baby button mushrooms",
+    "25 g plain flour",
+    "500 ml dark ale",
     "1 tbsp chicken bouillon powder",
-    "2 litres/3½ pints boiling water",
+    "2 litres boiling water",
     "1 large bouquet garni (bay leaves, parsley and thyme, tied together with",
     "kitchen string)",
     "1 tbsp wholegrain mustard",
-    "350g/12oz new potatoes, larger ones halved",
+    "350 g new potatoes, larger ones halved",
     "1 tsp tarragon, leaves only, chopped",
     "12 large fresh oysters, shucked",
-    "250g/9oz ready-rolled puff pastry",
+    "250 g ready-rolled puff pastry",
     "1 free-range egg, plus 1 egg yolk, beaten together with a pinch of salt"
   ],
   "recipeInstructions": [
@@ -49,7 +49,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Spoon the beef mixture into a 20cm x 15cm/8in x 6in pie dish and add the oysters, folding them gently into the beef mixture."
+      "text": "Spoon the beef mixture into a 20cm x 15cm pie dish and add the oysters, folding them gently into the beef mixture."
     },
     {
       "@type": "HowToStep",

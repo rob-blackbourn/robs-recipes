@@ -7,13 +7,13 @@
   "recipeIngredient": [
     "1/8 tsp dried yeast (For the starter)",
     "7 tbsp warm water (For the starter)",
-    "150 g (5 1/2 oz) strong white bread flour (For the starter)",
+    "150 g strong white bread flour (For the starter)",
     "1/2 tsp dried yeast (For the bread)",
     "2 tbsp warm milk,",
-    "280 g (10 oz) strong white bread flour (For the bread)",
+    "280 g strong white bread flour (For the bread)",
     "1 1/2 tsp salt,",
     "1 tbsp olive oil,",
-    "150 ml (5 fl oz) warm water (For the bread)"
+    "150 ml warm water (For the bread)"
   ],
   "recipeInstructions": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Knock back the dough and turn out onto a lightly floured surface. Cut the dough in half and form into rough oval shapes, about 25cm (10 inches) long."
+      "text": "Knock back the dough and turn out onto a lightly floured surface. Cut the dough in half and form into rough oval shapes, about 25cm long."
     },
     {
       "@type": "HowToStep",

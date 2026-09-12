@@ -5,19 +5,19 @@
   "name": "Steak & Kidney Pudding - Antony Worrall Thompson",
   "recipeYield": "8 servings",
   "recipeIngredient": [
-    "675 g chuck steak, cut into 2.5cm/1in cubes",
-    "225g/8oz ox kidney, cut into 2.5cm1in cubes",
+    "675 g chuck steak, cut into 2.5cm cubes",
+    "225 g ox kidney, cut into 2.5cm cubes",
     "1 small onion, peeled and finely chopped",
     "a large pinch celery salt",
     "Salt and pepper for seasoning",
     "1 tsp fresh thyme leaves",
     "2 tbsp plain flour",
-    "150ml/¼pt fresh beef stock",
-    "400g/14oz self-raising flour",
-    "200g/7oz beef or vegetarian suet",
-    "½ tsp salt",
+    "150 ml fresh beef stock",
+    "400 g self-raising flour",
+    "200 g beef or vegetarian suet",
+    "1/2 tsp salt",
     "freshly ground black pepper",
-    "290ml/½ pint cold water"
+    "290 ml cold water"
   ],
   "recipeInstructions": [
     {
@@ -38,11 +38,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "On a lightly floured work surface roll out the pastry into a round disc approximately 0.5-1cm/¼-½in) thick. Cut out about a quarter of the pastry mixture for the lid and set aside."
+      "text": "On a lightly floured work surface roll out the pastry into a round disc approximately 0.5-1cm) thick. Cut out about a quarter of the pastry mixture for the lid and set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "Use the remainder of the pastry to line a well buttered 1.75l/3pt pudding basin, leaving at least 1cm½in of the pastry hanging over the edge."
+      "text": "Use the remainder of the pastry to line a well buttered 1.75l pudding basin, leaving at least 1cm of the pastry hanging over the edge."
     },
     {
       "@type": "HowToStep",

@@ -5,24 +5,24 @@
   "name": "Chicken & Wild Mushroom Pie - Hairy Bikers",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "450g/1lb plain flour, plus extra for dusting",
+    "450g plain flour, plus extra for dusting",
     "2 tsp baking powder",
     "½ tsp salt",
-    "120g/4½oz unsalted butter, plus extra for greasing",
+    "120 g unsalted butter, plus extra for greasing",
     "1 free-range egg yolk",
-    "120ml/4fl oz water (For the pastry)",
+    "120 ml water (For the pastry)",
     "4 tbsp olive oil",
     "2 chicken breasts, bone and skin removed, flesh cut into pieces",
-    "500g/1lb 2oz chicken thighs, bone and skin removed, flesh cut into",
+    "500 g chicken thighs, bone and skin removed, flesh cut into",
     "pieces",
-    "100ml/3½fl oz dry white wine",
-    "100ml/3½fl oz water (For the filling)",
+    "100 ml dry white wine",
+    "100 ml water (For the filling)",
     "2 tsp chopped fresh tarragon",
     "2 tsp chopped fresh thyme",
     "Salt and pepper for seasoning",
-    "200g/7oz fresh wild mushrooms, roughly chopped",
-    "50ml/2fl oz soured cream",
-    "1 free-range egg, beaten"
+    "200 g fresh wild mushrooms, roughly chopped",
+    "50 ml soured cream",
+    "1 egg, beaten"
   ],
   "recipeInstructions": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 180°C. Grease a deep 20cm/8in pie tin with butter. Add a small amount of flour, then turn the tin to coat the base and sides, shaking out any excess."
+      "text": "Preheat the oven to 180°C. Grease a deep 20cm pie tin with butter. Add a small amount of flour, then turn the tin to coat the base and sides, shaking out any excess."
     },
     {
       "@type": "HowToStep",

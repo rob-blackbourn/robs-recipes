@@ -5,24 +5,24 @@
   "name": "Beef and oyster pie - Hairy Bikers",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "900g/2lb stewing beef, trimmed, cut into rough 3cm/1¼in cubes",
-    "2-3 tbsp sunflower oil",
+    "900 g stewing beef, trimmed, cut into rough 3 cm cubes",
+    "2 tbsp sunflower oil",
     "3 long shallots, quartered",
     "2 garlic cloves, finely chopped",
-    "125g/4½oz smoked, rindless, streaky bacon rashers, cut into 1cm/½in",
+    "125 g smoked, rindless, streaky bacon rashers, cut into 1cm",
     "strips",
     "1 tbsp roughly chopped thyme leaves",
     "2 bay leaves",
-    "330ml/11fl oz stout",
-    "400ml/14fl oz beef stock (made with one stock cube)",
+    "330 ml stout",
+    "400 ml beef stock (made with one stock cube)",
     "Salt and pepper for seasoning",
     "2 tbsp cornflour, blended with 2 tbsp water to make a smooth paste",
     "8 oysters, freshly shucked",
     "For the pastry",
-    "400g/14oz plain flour, plus extra for rolling",
-    "¼ tsp salt",
-    "250g/9oz butter, frozen for at least 2 hours",
-    "1 free-range egg, beaten, to glaze"
+    "400 g plain flour, plus extra for rolling",
+    "1/4 tsp salt",
+    "250 g butter, frozen for at least 2 hours",
+    "1 egg, beaten, to glaze"
   ],
   "recipeInstructions": [
     {
@@ -47,11 +47,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid."
+      "text": "flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325 ml cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250 g for the pie lid."
     },
     {
       "@type": "HowToStep",
-      "text": "Roll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg."
+      "text": "Roll the rest of the pastry out until about 2cm larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg."
     },
     {
       "@type": "HowToStep",

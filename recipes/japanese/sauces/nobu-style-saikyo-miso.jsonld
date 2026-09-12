@@ -5,10 +5,10 @@
   "name": "Nobu-Style Saikyo Miso",
   "recipeYield": "800 g",
   "recipeIngredient": [
-    "3/4 cup (150ml) sake,",
-    "3/4 cup (150ml) mirin,",
-    "2 cups (450g) wihte miso paste,",
-    "1 1/4 cups (225 g) granulated sugar."
+    "150ml sake,",
+    "150ml mirin,",
+    "450g wihte miso paste,",
+    "225 g granulated sugar."
   ],
   "recipeInstructions": [
     {
@@ -31,7 +31,7 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Original yield: 3 cups (800 g)"
+      "text": "Original yield: 800 g"
     }
   ],
   "keywords": [

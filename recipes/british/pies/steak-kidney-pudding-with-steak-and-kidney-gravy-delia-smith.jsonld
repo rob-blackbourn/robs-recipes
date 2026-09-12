@@ -5,12 +5,12 @@
   "name": "Steak & Kidney Pudding with Steak and Kidney Gravy - Delia Smith",
   "recipeYield": "6 servings",
   "recipeIngredient": [
-    "350g/12oz self-raising flour",
+    "350 g self-raising flour",
     "Salt and pepper for seasoning",
-    "175g/6oz shredded beef suet",
+    "175 g shredded beef suet",
     "cold water, to mix (For the suet crust pastry)",
     "560 g chuck steak",
-    "225g/8oz ox kidney after trimming (so buy 275g/10oz)",
+    "225 g ox kidney after trimming (so buy 275 g)",
     "2 tbsp plain flour, seasoned with salt and freshly ground black pepper",
     "1 medium onion, sliced (For the filling)",
     "cold water (For the filling)",
@@ -18,7 +18,7 @@
     "Salt and pepper for seasoning",
     "meat trimmings from the steak and kidney",
     "1 onion, halved (For the gravy)",
-    "570ml/1 pint water",
+    "570 ml water",
     "1 tsp beef dripping",
     "2 tbsp flour",
     "few drops Worcestershire sauce",
@@ -31,7 +31,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "After that, take a quarter of the dough for the lid, then roll the rest out fairly thickly. What you need is a circle, about 32.5cm/13in in diameter. Now line the bowl with the pastry, pressing it well all around. Next chop the steak and kidney into fairly small cubes (reserving the trimmings for the gravy), toss them in the seasoned flour, then add them to the pastry-lined basin with the slices of onion. Add enough cold water to reach almost the top of the meat and sprinkle in a few drops of Worcestershire sauce and another seasoning of salt and pepper."
+      "text": "After that, take a quarter of the dough for the lid, then roll the rest out fairly thickly. What you need is a circle, about 32.5cm in diameter. Now line the bowl with the pastry, pressing it well all around. Next chop the steak and kidney into fairly small cubes (reserving the trimmings for the gravy), toss them in the seasoned flour, then add them to the pastry-lined basin with the slices of onion. Add enough cold water to reach almost the top of the meat and sprinkle in a few drops of Worcestershire sauce and another seasoning of salt and pepper."
     },
     {
       "@type": "HowToStep",

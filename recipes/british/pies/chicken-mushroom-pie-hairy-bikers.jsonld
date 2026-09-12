@@ -5,18 +5,18 @@
   "name": "Chicken & Mushroom Pie - Hairy Bikers",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "550g/1lb 4oz lard, plus extra for greasing",
-    "1.15kg/3lb 5oz plain flour, plus extra for dusting",
+    "550 g lard, plus extra for greasing",
+    "1.15 kg plain flour, plus extra for dusting",
     "1½ tsp salt",
-    "300ml/½ pint water",
-    "300ml/½ pint sunflower oil",
-    "4kg/9lb chicken thighs, boned and skin removed, flesh cut into pieces",
-    "100g/3½oz chopped fresh thyme",
-    "1kg/2lb 4oz mushrooms, roughly chopped",
-    "100g/3½oz chopped fresh tarragon",
-    "500ml/18fl oz soured cream",
+    "300 ml water",
+    "300 ml sunflower oil",
+    "4 kg chicken thighs, boned and skin removed, flesh cut into pieces",
+    "100 g chopped fresh thyme",
+    "1 kg mushrooms, roughly chopped",
+    "100 g chopped fresh tarragon",
+    "500 ml soured cream",
     "milk, to glaze",
-    "Salt and pepper for seasoning"
+    "salt and pepper for seasoning"
   ],
   "recipeInstructions": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Meanwhile, for the filling, heat half of the oil in a large saucepan over a medium heat, add the chicken pieces and cook for 4-5 minutes, or until browned (you may need to do this in batches). Add 1.5 litre/2¾ pints water and the thyme, and season, to taste, with salt and freshly ground black pepper. Bring the mixture to the boil, reduce the heat, and simmer for 15-20 minutes, or until the volume of liquid has reduced by a third and the chicken is cooked through."
+      "text": "Meanwhile, for the filling, heat half of the oil in a large saucepan over a medium heat, add the chicken pieces and cook for 4-5 minutes, or until browned (you may need to do this in batches). Add 1.5 litre water and the thyme, and season, to taste, with salt and freshly ground black pepper. Bring the mixture to the boil, reduce the heat, and simmer for 15-20 minutes, or until the volume of liquid has reduced by a third and the chicken is cooked through."
     },
     {
       "@type": "HowToStep",

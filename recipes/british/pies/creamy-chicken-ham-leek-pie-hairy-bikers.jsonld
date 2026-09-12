@@ -5,22 +5,21 @@
   "name": "Creamy Chicken, Ham & Leek Pie - Hairy Bikers",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "450ml/16fl oz chicken stock,",
+    "450 ml chicken stock,",
     "3 chicken breasts (skinned),",
-    "75g/3oz butter (For the filling)",
-    "2 leeks (trimmed and cut into 1cm/½in slices),",
+    "75 g butter (For the filling)",
+    "2 leeks (trimmed and cut into 1cm slices),",
     "2 garlic cloves (crushed),",
-    "50g/2oz plain flour (For the filling)",
-    "200ml/7fl oz milk,",
+    "50 g plain flour (For the filling)",
+    "200 ml milk,",
     "2-3 tbsp white wine (optional),",
-    "150ml/3fl oz double cream,",
-    "150g/5oz piece thickly carved ham (cut into 2cm chunks)",
+    "150 ml double cream,",
+    "150 g piece thickly carved ham (cut into 2cm chunks)",
     "sea salt flakes,",
     "freshly ground black pepper.",
-    "350g/12oz plain flour (For the pastry)",
-    "200g/7oz butter (For the pastry)",
-    "1 free-range egg beaten with 1 tbsp cold water, plus 1 free-range egg,",
-    "beaten, to glaze."
+    "350 g plain flour (For the pastry)",
+    "200 g butter (For the pastry)",
+    "1 free-range egg beaten with 1 tbsp cold water, plus 1 free-range egg, beaten, to glaze."
   ],
   "recipeInstructions": [
     {
@@ -29,11 +28,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Melt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly."
+      "text": "Melt 25 g of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly."
     },
     {
       "@type": "HowToStep",
-      "text": "Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes."
+      "text": "Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250 ml of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes."
     },
     {
       "@type": "HowToStep",
@@ -45,15 +44,15 @@
     },
     {
       "@type": "HowToStep",
-      "text": "For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid."
+      "text": "For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250 g of pastry for the lid."
     },
     {
       "@type": "HowToStep",
-      "text": "Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides."
+      "text": "Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm thick and 4cm larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides."
     },
     {
       "@type": "HowToStep",
-      "text": "Cut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid."
+      "text": "Cut the chicken breasts into 3cm pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid."
     },
     {
       "@type": "HowToStep",
@@ -71,7 +70,7 @@
   "tool": [
     {
       "@type": "HowToTool",
-      "name": "23cm/9in round pie dish."
+      "name": "23cm round pie dish."
     }
   ],
   "comment": [

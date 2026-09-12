@@ -5,18 +5,18 @@
   "name": "Chicken & Tarragon Pie",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "500g plain flour (For the shortcrust pastry)",
-    "125g unsalted butter (For the shortcrust pastry)",
-    "125g lard",
+    "500 g plain flour (For the shortcrust pastry)",
+    "125 g unsalted butter (For the shortcrust pastry)",
+    "125 g lard",
     "a pinch salt",
     "1 tsp white wine vinegar",
     "1 egg, beaten",
-    "75g/3oz unsalted butter (For the filling)",
-    "50g/2oz plain flour (For the filling)",
-    "350ml/12fl oz whole milk, warmed",
+    "75 g unsalted butter (For the filling)",
+    "50 g plain flour (For the filling)",
+    "350 ml whole milk, warmed",
     "Salt and pepper for seasoning",
     "2 x 150g chicken breasts, cut into chunks",
-    "125g good-quality ham, cut into strips",
+    "125 g good-quality ham, cut into strips",
     "2 large leeks",
     "5 tbsp chopped fresh tarragon"
   ],
@@ -35,7 +35,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Meanwhile, for the filling heat 25g/1oz of the butter in a frying pan and cook the chicken for 5-6 minutes, then add the leeks and continue to cook for a further 3-4 minutes, or until just soft. Transfer the mixture to a large bowl, then season and set aside."
+      "text": "Meanwhile, for the filling heat 25 g of the butter in a frying pan and cook the chicken for 5-6 minutes, then add the leeks and continue to cook for a further 3-4 minutes, or until just soft. Transfer the mixture to a large bowl, then season and set aside."
     },
     {
       "@type": "HowToStep",
@@ -51,7 +51,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Roll one of the pieces of pastry thinly and use it to line a 25cm/10in pie plate. Trim the edges. Spoon in the chicken mixture and brush the edges of the pastry with the beaten egg."
+      "text": "Roll one of the pieces of pastry thinly and use it to line a 25cm pie plate. Trim the edges. Spoon in the chicken mixture and brush the edges of the pastry with the beaten egg."
     },
     {
       "@type": "HowToStep",

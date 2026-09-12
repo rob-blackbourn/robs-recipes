@@ -5,16 +5,16 @@
   "name": "Asian-flavoured beef shin with papaya salad",
   "recipeYield": "8 servings",
   "recipeIngredient": [
-    "3kg/6lb 8oz beef shin (on the bone),",
+    "3 kg beef shin (on the bone),",
     "4 tbsp sunflower oil,",
     "Salt and pepper for seasoning",
-    "600g/1lb 5oz chopped white onions (about 4 onions),",
+    "600 g chopped white onions (about 4 onions),",
     "1 piece root ginger (finely chopped),",
-    "½ red chilli (chopped),",
-    "20g/¾oz miso paste,",
-    "½ tsp Chinese five-spice powder",
-    "20g/¾oz clear honey",
-    "20g/¾oz sweet soy sauce",
+    "1/2 red chilli (chopped),",
+    "20 g miso paste,",
+    "1/2 tsp Chinese five-spice powder",
+    "20 g clear honey",
+    "20 g sweet soy sauce",
     "3 tbsp dark soy sauce",
     "4 tbsp mirin",
     "3 kaffir lime leaves, torn (optional)",
@@ -24,18 +24,14 @@
     "2 limes, juice only",
     "2 tbsp fish sauce",
     "2 tsp palm sugar, grated",
-    "For the salad",
-    "150g/5½oz papaya, unripe green, cut in half, peeled and sliced into",
-    "2mm fine strips",
-    "150g/5½ cucumber, seeds removed, cut in half, sliced into thin strips",
+    "150 g papaya, unripe green, cut in half, peeled and sliced into",
+    "2 mm fine strips",
+    "150 g cucumber, seeds removed, cut in half, sliced into thin strips",
     "3 spring onions, finely sliced at an angle, 2mm",
     "1 handful coriander, roughly chopped, plus a few torn leaves to garnish",
-    "1 handful mint (spearmint or Vietnamese mint), roughly chopped, plus a",
-    "few torn leaves to garnish",
-    "40g/1¼oz pomegranate seeds, pith removed (half reserved for the",
-    "garnish) (optional)",
-    "60g/2¼oz peanuts, unsalted, dry roasted, roughly chopped (20g/¾oz",
-    "reserved for the garnish)"
+    "1 handful mint (spearmint or Vietnamese mint), roughly chopped, plus a few torn leaves to garnish",
+    "40 g pomegranate seeds, pith removed (half reserved for the garnish) (optional)",
+    "60 g peanuts, unsalted, dry roasted, roughly chopped reserved for the garnish"
   ],
   "recipeInstructions": [
     {
@@ -52,7 +48,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the honey, soy sauces, mirin and 500g/1lb 2oz water and bring to the boil."
+      "text": "Stir in the honey, soy sauces, mirin and 500g water and bring to the boil."
     },
     {
       "@type": "HowToStep",
