@@ -55,5 +55,8 @@
     }
   ],
   "prepTime": "30 minutes plus 2 hours for the marinade",
-  "cookTime": "PT1H30M"
+  "cookTime": "PT1H30M",
+  "keywords": [
+    "BBQ"
+  ]
 }
