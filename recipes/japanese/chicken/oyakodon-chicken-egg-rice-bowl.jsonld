@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "recipeCuisine": "Japan",
+  "name": "Oyakodon - Chicken & Egg Rice Bowl",
+  "recipeYield": "2 servings",
+  "recipeIngredient": [
+    "6 tbsp dashi,",
+    "2 tbsp soy sauce,",
+    "1 tbsp mirin,",
+    "1 tbsp sake,",
+    "1 tbsp sugar,",
+    "150g chicken thigh filet (diced),",
+    "1 small onion (sliced),",
+    "4 eggs,",
+    "chopped mitsuba (or coriander, or spring onion) to garnish,",
+    "1 cup cooked Japanese rice."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the dashi in a small saucepan over medium heat until it is simmering, then add the soy sauce, mirin, sake and sugar and stir until the sugar has dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Then add the chicken and onion and cook, uncovered, for 3 to 4 minutes, or until the onions have wilted and the chicken is cooked through.  While this is cooking, gently beat the eggs very well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the cooked onion and chicken mixture into a frying pan and heat it over medium-heat until it is simmering. Pour the beaten eggs into the center of the skillet and cook until the edges of the omelet begin to set. Simmer for 3 to 4 minutes, then garnish, and cook for an additional minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide the rice among 2 bowls and then place one quarter of the omelet over the rice in each bowl.  Pour any seasoned broth that may remain in the pan over the omelets and serve."
+    }
+  ],
+  "image": [
+    "oyakodon - chicken %26 egg rice bowl.assets/image1.png"
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1REqN4CHP5wws7DraOUMLb5WGEIx2Ow1HJHdx3sxS0E0/edit?usp=sharing"
+  ],
+  "keywords": [
+    "Chicken"
+  ]
+}

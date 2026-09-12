@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Katsuobushi",
+  "description": "Katsuobushi is dried bonito flakes. The flakes are made by shaving wispy thin flakes with a special tool from a bonito fish that has been filleted, boned, boiled, smoked, and dried in the sun.",
+  "image": [
+    "katsuobushi.assets/image2.jpg",
+    "katsuobushi.assets/image1.jpg"
+  ]
+}

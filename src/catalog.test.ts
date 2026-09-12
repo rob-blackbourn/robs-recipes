@@ -33,9 +33,9 @@ describe('the complete collection', () => {
       }
   });
   it('combines hierarchical folder filtering and case-insensitive search', () => {
-    const result = filterDocuments(entries, 'recipes', 'CHICKEN', 'British');
+    const result = filterDocuments(entries, 'recipes', 'CHICKEN', 'british');
     expect(result.length).toBeGreaterThan(0);
-    expect(result.every((entry) => entry.folder.startsWith('British'))).toBe(true);
+    expect(result.every((entry) => entry.folder.startsWith('british'))).toBe(true);
     expect(filterDocuments(entries, 'recipes', 'nonexistent-ingredient-xyz', '')).toHaveLength(0);
     expect(filterDocuments(entries, 'references', '250', '')[0].name).toBe('Cups & Spoons');
   });

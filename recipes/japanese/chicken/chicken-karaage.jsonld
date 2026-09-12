@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "recipeCuisine": "Japan",
+  "name": "Chicken Karaage",
+  "recipeYield": "2 servings",
+  "recipeIngredient": [
+    "300g boneless chicken thigh (with skin),",
+    "½ tsp soy sauce,",
+    "½ tbsp sake,",
+    "¼ tsp salt,",
+    "pepper,",
+    "1 tsp grated root ginger,",
+    "1 tsp grated garlic,",
+    "½ tsp sesame oil,",
+    "½ beaten egg,",
+    "2½ tbsp potato starch (or corn flour),",
+    "lettuce leaves,",
+    "parsley leaves,",
+    "vegetable oil for deep frying."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prick the skin side of the chicken thigh using the tip of a knife. Turn over and trim off the fat. Cut through the tougher sinews. Prick with the tip of a knife. Cut into large bite size pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the chicken in a bowl and add 1/2 tsp soy sauce, 1/2 tbsp sake, 1/4 tsp salt, 1 tsp grated ginger, 1 tsp grated garlic, 1/2 tsp sesame oil, and a little pepper. Mix well, then put in the fridge for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the beaten egg to the chicken a little at a time, mixing with your fingers."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the potato starch and lightly mix until the chicken is coated with the flour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the chicken in the pan of oil at a relatively low temperature (160°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wait until the batter is firm before turning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the pieces are lightly brown remove onto a draining rack."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil to high (180°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the chicken back into the oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove when brown and crispy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve on a plate with the lettuce and parsley."
+    }
+  ],
+  "image": [
+    "chicken karaage.assets/image1.png"
+  ],
+  "keywords": [
+    "Chicken"
+  ]
+}

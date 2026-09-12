@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "recipeCuisine": "Japan",
+  "name": "Kaki Fry",
+  "recipeYield": "1 servings",
+  "recipeIngredient": [
+    "5 Large Oysters",
+    "Batter",
+    "½ Egg",
+    "2 tbsp Flour",
+    "A sprinkle of Water (approx. 1 tbsp)",
+    "Soft Bread Crumbs (approx. 300ml or 1¼ cups)",
+    "Vegetable Oil: 180°C, 2 cm deep"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil to 180°C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the oysters in a bowl of salty water, removing any sand. Put on a paper towle to dry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the flour in a bowl and add the beaten egg. Mix until smooth. Add water until the batter has the consistency of light cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the flour on a shallow dish or plate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the breadcrumbs on a tray."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Flour the oysters, dip them in the batter, then coat with breadcrumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Deep fry for 3 minutes, turning once."
+    }
+  ],
+  "image": [
+    "kaki fry.assets/image1.png"
+  ],
+  "keywords": [
+    "Seafood",
+    "Osyter"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "recipeCuisine": "Japan",
+  "name": "Ebi Fry",
+  "recipeYield": "2 servings",
+  "recipeIngredient": [
+    "6 black tiger prawns,",
+    "a pinch of salt,",
+    "1 tbsp potato starch,",
+    "water",
+    "1 egg",
+    "? tbsp water,",
+    "2 tbsp flour,",
+    "80g Nama Panko (moist bread crumbs)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Shell the prawns, leaving the tail. Pierce the back of the prawn with a skewer, and remove the salt vein. Remove the sharp pointed scales from the tail and trim."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add a little salt to the prawns, dust with potato starch, add water and mix."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the prawns."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dry the prawns on a paper towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Score the stomach of the prawns diagonally and, from the back, break the resistance of the body with your fingers to stop them curling when cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the prawns with salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Beat the egg in a bowl and add a little water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll the prawns in the flour, dip in the egg and coat with breadcrumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Deep fry."
+    }
+  ],
+  "image": [
+    "ebi fry.assets/image1.png"
+  ],
+  "keywords": [
+    "Seafood",
+    "Prawn"
+  ]
+}

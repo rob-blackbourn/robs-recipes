@@ -1,9 +1,0 @@
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "Kombu",
-  "description": "Kombu is a type of kelp that is harvested and dried in the sun.",
-  "image": [
-    "Kombu.assets/image1.jpg"
-  ]
-}
