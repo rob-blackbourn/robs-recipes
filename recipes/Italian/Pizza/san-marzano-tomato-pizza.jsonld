@@ -5,19 +5,19 @@
   "name": "San Marzano tomato pizza",
   "recipeYield": "4 pizzas",
   "recipeIngredient": [
-    "For the pizza dough: 800 g '00' flour,",
-    "For the pizza dough: 200 g semolina flour,",
-    "For the pizza dough: 1 tsp salt,",
-    "For the pizza dough: 1 tbsp caster sugar,",
-    "For the pizza dough: 14g dried yeast,",
-    "For the pizza dough: 4 tbsp extra virgin olive oil,",
-    "For the pizza dough: 650 ml water,",
-    "For the topping: 2 x 400g tins San Marzano tomatoes,",
-    "For the topping: 2 large cow’s milk mozzarella balls (grated),",
-    "For the topping: 3 tbsp olive oil,",
-    "For the topping: 3 tbsp peanut oil,",
-    "For the topping: sea salt and freshly ground black pepper,",
-    "For the topping: 1 large handful basil leaves."
+    "800 g '00' flour,",
+    "200 g semolina flour,",
+    "1 tsp salt,",
+    "1 tbsp caster sugar,",
+    "14g dried yeast,",
+    "4 tbsp extra virgin olive oil,",
+    "650 ml water,",
+    "2 x 400g tins San Marzano tomatoes,",
+    "2 large cow’s milk mozzarella balls (grated),",
+    "3 tbsp olive oil,",
+    "3 tbsp peanut oil,",
+    "sea salt and freshly ground black pepper,",
+    "1 large handful basil leaves."
   ],
   "recipeInstructions": [
     {

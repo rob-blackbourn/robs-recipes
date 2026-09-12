@@ -5,15 +5,15 @@
   "name": "Ciabatta",
   "recipeYield": "2 loaves",
   "recipeIngredient": [
-    "For the starter: 1/8 tsp dried yeast,",
-    "For the starter: 7 tbsp warm water,",
-    "For the starter: 150 g (5 1/2 oz) strong white bread flour.",
-    "For the bread: 1/2 tsp dried yeast,",
-    "For the bread: 2 tbsp warm milk,",
-    "For the bread: 280 g (10 oz) strong white bread flour,",
-    "For the bread: 1 1/2 tsp salt,",
-    "For the bread: 1 tbsp olive oil,",
-    "For the bread: 150 ml (5 fl oz) warm water."
+    "1/8 tsp dried yeast (For the starter)",
+    "7 tbsp warm water (For the starter)",
+    "150 g (5 1/2 oz) strong white bread flour (For the starter)",
+    "1/2 tsp dried yeast (For the bread)",
+    "2 tbsp warm milk,",
+    "280 g (10 oz) strong white bread flour (For the bread)",
+    "1 1/2 tsp salt,",
+    "1 tbsp olive oil,",
+    "150 ml (5 fl oz) warm water (For the bread)"
   ],
   "recipeInstructions": [
     {
