@@ -23,6 +23,7 @@ import {
   SourceLink,
   TemperatureText,
   TemperatureUnitContext,
+  WarningIcon,
 } from './components';
 import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
@@ -739,8 +740,9 @@ function Recipe({
           )}
           {issues > 0 && (
             <p className="notice">
-              {issues} ingredient {issues === 1 ? 'quantity needs' : 'quantities need'} checking.
-              Flagged lines remain as written.
+              <WarningIcon /> {issues} ingredient{' '}
+              {issues === 1 ? 'quantity needs' : 'quantities need'} checking. Ingredients marked
+              with this icon could not be scaled or converted and remain as written.
             </p>
           )}
           <div className="cooking-layout">
@@ -788,12 +790,8 @@ function Recipe({
                           {line.density && <span aria-label="Approximate">≈ </span>}
                           <TemperatureText text={line.text} allowGas={false} />
                         </span>
+                        {line.issue && <WarningIcon message={`Check quantity: ${line.issue}`} />}
                       </button>
-                      {line.issue && (
-                        <span className="quantity-issue" title={line.issue}>
-                          Check quantity · {line.issue}
-                        </span>
-                      )}
                       {line.note && <small className="ingredient-note">{line.note}</small>}
                       {adjusted && line.text !== line.original && (
                         <details className="original-line">

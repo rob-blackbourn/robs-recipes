@@ -701,11 +701,17 @@ input[aria-invalid='true'] {
   font-size: 0.72rem;
   margin: 0 0 6px;
 }
-.quantity-issue {
-  display: block;
+.warning-icon {
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  margin-right: 0.35em;
+  vertical-align: -0.15em;
   color: #906527;
-  font-size: 0.73rem;
-  margin: 0 0 5px;
+}
+.ingredient-toggle > .warning-icon {
+  margin-right: 0;
+  margin-left: 0.35em;
 }
 .original-line {
   margin: 0 0 5px;
@@ -1190,8 +1196,7 @@ input[aria-invalid='true'] {
   .ingredient-toggle {
     padding: 0;
   }
-  .ingredient-note,
-  .quantity-issue {
+  .ingredient-note {
     margin-left: 0;
   }
   .method-toggle[aria-pressed='true'],
