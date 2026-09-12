@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "White Bread",
+  "prepTime": "PT2H",
+  "cookTime": "PT10M",
   "recipeYield": "1 loaf",
   "recipeIngredient": [
     "500g strong white bread flour",
