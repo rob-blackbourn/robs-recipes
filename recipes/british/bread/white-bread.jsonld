@@ -5,11 +5,11 @@
   "name": "White Bread",
   "recipeYield": "1 loaf",
   "recipeIngredient": [
-    "500g strong white bread flour,",
-    "1 tsp sugar,",
-    "1 tbsp dried yeast,",
-    "2 tsp salt,",
-    "1 tbsp oil,"
+    "500g strong white bread flour",
+    "1 tsp sugar",
+    "1 tbsp dried yeast",
+    "2 tsp salt",
+    "1 tbsp oil"
   ],
   "recipeInstructions": [
     {
