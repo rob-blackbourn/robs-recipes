@@ -27,7 +27,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 170C/325F/Gas 3."
+      "text": "Preheat the oven to 170°C."
     },
     {
       "@type": "HowToStep",
@@ -59,7 +59,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Increase the heat of the oven to 220C/425F/Gas 7."
+      "text": "Increase the heat of the oven to 220°C."
     },
     {
       "@type": "HowToStep",

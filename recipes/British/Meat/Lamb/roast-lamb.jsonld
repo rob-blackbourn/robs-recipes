@@ -17,7 +17,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 190C/Gas 5."
+      "text": "Preheat the oven to 190°C."
     },
     {
       "@type": "HowToStep",
@@ -25,7 +25,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Put in the oven for 20 mins per 500g plus 20 mins, or until the internal temperature has reached 52C for rare, 60C for medium, 75C for rare."
+      "text": "Put in the oven for 20 mins per 500g plus 20 mins, or until the internal temperature has reached 52°C for rare, 60°C for medium, 75°C for rare."
     }
   ]
 }

@@ -32,7 +32,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 180C (gas 4)"
+      "text": "Preheat the oven to 180°C"
     },
     {
       "@type": "HowToStep",

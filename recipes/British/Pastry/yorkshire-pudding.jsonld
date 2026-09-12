@@ -22,7 +22,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 220C/425F/Gas 7."
+      "text": "Preheat the oven to 220°C."
     },
     {
       "@type": "HowToStep",
@@ -34,7 +34,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Turn the oven down to 190C/375F/Gas 5 and cook for a further 10 minutes to set the bottom of the puddings."
+      "text": "Turn the oven down to 190°C and cook for a further 10 minutes to set the bottom of the puddings."
     }
   ],
   "comment": [

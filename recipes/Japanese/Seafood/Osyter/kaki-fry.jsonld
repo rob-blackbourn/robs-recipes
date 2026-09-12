@@ -12,12 +12,12 @@
     "2 tbsp Flour",
     "A sprinkle of Water (approx. 1 tbsp)",
     "Soft Bread Crumbs (approx. 300ml or 1¼ cups)",
-    "Vegetable Oil: 180 °C, 2 cm deep"
+    "Vegetable Oil: 180°C, 2 cm deep"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Heat the oil to 180 °C."
+      "text": "Heat the oil to 180°C."
     },
     {
       "@type": "HowToStep",

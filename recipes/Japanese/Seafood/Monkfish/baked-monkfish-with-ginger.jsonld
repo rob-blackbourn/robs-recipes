@@ -21,7 +21,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Heat the oven to 180C/Gas 4/350F."
+      "text": "Heat the oven to 180°C."
     },
     {
       "@type": "HowToStep",

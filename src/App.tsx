@@ -10,7 +10,8 @@ import {
   resolveOptions,
 } from './preferences';
 import { useRoute, navigate, recipeLink, safeReturn } from './navigation';
-import { UnitSelect, NumberField, Instructions, SourceLink } from './components';
+import { UnitSelect, NumberField, Instructions, SourceLink, TemperatureText } from './components';
+import { temperatureGroups, temperatureSources } from './temperatures';
 import { transformIngredient } from './ingredients';
 import { densitySource } from './densities';
 
@@ -485,6 +486,16 @@ function Recipe({
     ).values(),
   ];
   const isRecipe = entry['@type'] === 'Recipe';
+  const hasTemperatures =
+    temperatureGroups(
+      JSON.stringify([
+        entry.recipeInstructions,
+        entry.recipeIngredient,
+        entry.comment,
+        entry.description,
+        entry.tool,
+      ]),
+    ).length > 0;
   const adjusted = factor !== 1 || units !== 'original';
   const citations = typeof entry.citation === 'string' ? [entry.citation] : entry.citation || [];
   const summary =
@@ -506,7 +517,11 @@ function Recipe({
       <header className="recipe-heading">
         <span className="eyebrow">{entry.folder.replaceAll('/', ' / ') || 'THE COLLECTION'}</span>
         <h1>{entry.name}</h1>
-        {entry.description && <p>{entry.description}</p>}
+        {entry.description && (
+          <p>
+            <TemperatureText text={entry.description} />
+          </p>
+        )}
         <dl className="recipe-meta">
           {entry.recipeYield && (
             <div>
@@ -683,8 +698,8 @@ function Recipe({
           )}
           {factor !== 1 && (
             <p className="notice">
-              Ingredient amounts are scaled. Cooking times, temperatures, and quantities mentioned
-              in the method remain as written.
+              Ingredient amounts are scaled. Cooking times, temperature settings, and quantities
+              mentioned in the method do not change with the yield.
             </p>
           )}
           {issues > 0 && (
@@ -726,7 +741,7 @@ function Recipe({
                       />
                       <span>
                         {line.density && <span aria-label="Approximate">≈ </span>}
-                        {line.text}
+                        <TemperatureText text={line.text} allowGas={false} />
                       </span>
                     </label>
                     {line.issue && (
@@ -738,7 +753,9 @@ function Recipe({
                     {adjusted && line.text !== line.original && (
                       <details className="original-line">
                         <summary>As written</summary>
-                        <p>{line.original}</p>
+                        <p>
+                          <TemperatureText text={line.original} allowGas={false} />
+                        </p>
                       </details>
                     )}
                   </li>
@@ -759,7 +776,9 @@ function Recipe({
                   <h3>Equipment</h3>
                   <ul>
                     {entry.tool.map((tool, i) => (
-                      <li key={i}>{tool.name}</li>
+                      <li key={i}>
+                        <TemperatureText text={tool.name} allowGas={false} />
+                      </li>
                     ))}
                   </ul>
                 </section>
@@ -768,7 +787,9 @@ function Recipe({
                 <section className="notes">
                   <h3>Recipe notes</h3>
                   {entry.comment.map((comment, i) => (
-                    <p key={i}>{comment.text}</p>
+                    <p key={i}>
+                      <TemperatureText text={comment.text} />
+                    </p>
                   ))}
                 </section>
               ) : null}
@@ -791,6 +812,33 @@ function Recipe({
               <a href={densitySource} target="_blank" rel="noreferrer">
                 Source: King Arthur Baking ingredient weight chart ↗
               </a>
+            </details>
+          )}
+          {hasTemperatures && (
+            <details className="temperature-notes">
+              <summary>About temperature conversions</summary>
+              <p>
+                Celsius is the recipe’s stored temperature. Fahrenheit equivalents are rounded to
+                the nearest degree. Gas Marks are approximate conventional-oven settings, not frying
+                or internal food temperatures. Fan temperatures stay labelled separately.
+              </p>
+              <p>
+                Existing Celsius values take precedence where the original equivalents disagree. The
+                complete original text below preserves those source values.
+              </p>
+              <p>
+                <a href={temperatureSources.fahrenheit} target="_blank" rel="noreferrer">
+                  Celsius/Fahrenheit formula (NIST)
+                </a>{' '}
+                ·{' '}
+                <a href={temperatureSources.gas} target="_blank" rel="noreferrer">
+                  Oven settings (Delia)
+                </a>{' '}
+                ·{' '}
+                <a href={temperatureSources.lowGas} target="_blank" rel="noreferrer">
+                  Low Gas Marks (AEG)
+                </a>
+              </p>
             </details>
           )}
         </>

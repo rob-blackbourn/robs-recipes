@@ -787,6 +787,27 @@ input[aria-invalid='true'] {
 .density-notes p {
   margin-top: 15px;
 }
+.temperature {
+  font-variant-numeric: tabular-nums;
+}
+.temperature-equivalent {
+  color: #526354;
+  font-size: 0.86em;
+}
+.temperature-notes {
+  padding: 17px 0;
+  border-top: 1px solid var(--line);
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+.temperature-notes summary {
+  font-weight: 550;
+  color: var(--green);
+  cursor: pointer;
+}
+.temperature-notes p {
+  margin-top: 15px;
+}
 .source-text {
   white-space: pre-wrap;
   overflow-wrap: anywhere;

@@ -13,8 +13,9 @@
     "build": "npm run typecheck && vite build",
     "preview": "vite preview",
     "test:e2e": "playwright test",
-    "format": "prettier --write src tests *.ts *.json index.html README.md .github/workflows/pages.yml",
-    "format:check": "prettier --check src tests *.ts *.json index.html README.md .github/workflows/pages.yml"
+    "normalize:temperatures": "node --experimental-strip-types scripts/normalize-temperatures.mjs",
+    "format": "prettier --write src tests scripts *.ts *.json index.html README.md .github/workflows/pages.yml",
+    "format:check": "prettier --check src tests scripts *.ts *.json index.html README.md .github/workflows/pages.yml"
   },
   "dependencies": {
     "react": "^19.2.0",

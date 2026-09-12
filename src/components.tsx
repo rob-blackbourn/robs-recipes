@@ -1,6 +1,24 @@
 import { useEffect, useId, useState } from 'react';
 import { positive } from './preferences';
 import { unitModes, type UnitMode, type Step } from './types';
+import { temperatureParts } from './temperatures';
+
+export function TemperatureText({ text, allowGas = true }: { text: string; allowGas?: boolean }) {
+  return (
+    <>
+      {temperatureParts(text, allowGas).map((part, index) =>
+        part.equivalents ? (
+          <span className="temperature" key={index}>
+            {part.text}
+            <span className="temperature-equivalent"> ({part.equivalents})</span>
+          </span>
+        ) : (
+          <span key={index}>{part.text}</span>
+        ),
+      )}
+    </>
+  );
+}
 
 export function UnitSelect({
   value,
@@ -84,11 +102,19 @@ export function Instructions({ steps }: { steps: Step[] }) {
           {step['@type'] === 'HowToSection' ? (
             <>
               <h3>{step.name || 'Preparation'}</h3>
-              {step.text && <p>{step.text}</p>}
+              {step.text && (
+                <p>
+                  <TemperatureText text={step.text} />
+                </p>
+              )}
               <Instructions steps={step.itemListElement || []} />
             </>
           ) : (
-            <p>{(step.text || step.name)?.replace(/^\s*\d+(?:\.\d+)*[.)]\s+/, '')}</p>
+            <p>
+              <TemperatureText
+                text={(step.text || step.name || '').replace(/^\s*\d+(?:\.\d+)*[.)]\s+/, '')}
+              />
+            </p>
           )}
         </li>
       ))}

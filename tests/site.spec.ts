@@ -133,3 +133,30 @@ test('storage failure and keyboard skip link remain usable', async ({ page }) =>
   await expect(page.locator('main')).toBeFocused();
   await expect(page.getByRole('heading', { name: 'Ingredients', exact: true })).toBeVisible();
 });
+
+test('temperatures show Celsius, Fahrenheit and oven Gas Marks without yield scaling', async ({
+  page,
+}) => {
+  await page.goto('./#/recipe/' + encodeURIComponent('British/Bread/bloomer'));
+  await expect(page.locator('.method')).toContainText('220°C');
+  await expect(page.locator('.method')).toContainText('428°F; approx. Gas Mark 7');
+  await page.getByLabel('Multiplier', { exact: true }).fill('2');
+  await page.getByLabel('Display units').selectOption('imperial');
+  await expect(page.locator('.method')).toContainText('220°C');
+  await expect(page.locator('.method')).not.toContainText('440°C');
+  await page.emulateMedia({ media: 'print' });
+  await expect(page.locator('.method .temperature-equivalent').first()).toBeVisible();
+  await page.emulateMedia({ media: 'screen' });
+  await page.goto('./#/recipe/' + encodeURIComponent('British/Meat/Beef/beef-wellington'));
+  await expect(page.locator('.method')).toContainText('190°C');
+  await expect(page.locator('.method')).toContainText('170°C fan');
+  await expect(page.locator('.method')).toContainText('338°F fan');
+  await page.goto('./#/recipe/' + encodeURIComponent('Japanese/Tofu/agedashi-dofu'));
+  await expect(page.locator('.method')).toContainText('170°C');
+  await expect(page.locator('.method')).toContainText('338°F');
+  await expect(page.locator('.method')).not.toContainText('Gas Mark');
+  await page.goto('./#/recipe/' + encodeURIComponent('French/Suasages/french-merguez-sausages'));
+  await expect(page.locator('.method')).toContainText('65.6°C');
+  await expect(page.locator('.method')).toContainText('150°F');
+  await expect(page.locator('.method')).not.toContainText('Gas Mark');
+});

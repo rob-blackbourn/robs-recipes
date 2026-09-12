@@ -20,7 +20,7 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Heat oven to 200C/180C fan/gas 6."
+      "text": "Heat oven to 200°C / 180°C fan."
     },
     {
       "@type": "HowToStep",
