@@ -472,16 +472,6 @@ function Settings({
   );
 }
 
-const adjustmentKeys = [
-  'yield',
-  'baseline',
-  'factor',
-  'units',
-  'cup',
-  'liquid',
-  'spoon',
-  'yieldUnit',
-];
 function Recipe({
   entry,
   preferences,
@@ -495,10 +485,10 @@ function Recipe({
 }) {
   const options = resolveOptions(entry.recipeYield, preferences, params);
   const { info, units, factor, conventions, baseline, targetUnit } = options;
+  const [resetVersion, setResetVersion] = useState(0);
   const [ingredientsOpen, setIngredientsOpen] = useState(true);
   const [methodOpen, setMethodOpen] = useState(true);
   const [checked, setChecked] = useState<Set<number>>(() => new Set());
-  const [resetVersion, setResetVersion] = useState(0);
   const update = (changes: Record<string, string | null>) => {
     const next = new URLSearchParams(params);
     Object.entries(changes).forEach(([key, value]) =>
@@ -506,14 +496,24 @@ function Recipe({
     );
     navigate(path, next, true);
   };
-  const reset = (original: boolean) => {
-    const changes = Object.fromEntries(adjustmentKeys.map((key) => [key, null])) as Record<
-      string,
-      string | null
-    >;
-    if (original) Object.assign(changes, { units: 'original', factor: '1' });
-    update(changes);
-    setResetVersion((value) => value + 1);
+  const resetPage = () => {
+    const next = new URLSearchParams(params);
+    for (const key of [
+      'yield',
+      'baseline',
+      'factor',
+      'units',
+      'cup',
+      'liquid',
+      'spoon',
+      'yieldUnit',
+    ])
+      next.delete(key);
+    navigate(path, next, true);
+    setChecked(new Set());
+    setIngredientsOpen(true);
+    setMethodOpen(true);
+    setResetVersion((version) => version + 1);
   };
   const effectiveYield = baseline
     ? baseline * factor * (info?.unit && targetUnit ? info.unit.factor / targetUnit.factor : 1)
@@ -547,7 +547,7 @@ function Recipe({
         ? `${Number(effectiveYield.toPrecision(6))} ${targetUnit?.name || info?.label || 'yield'}`
         : `${Number(factor.toPrecision(6))}× original quantity`;
   return (
-    <article className="recipe-page narrow-wide">
+    <article className="recipe-page narrow-wide" key={resetVersion}>
       <div className="recipe-topbar">
         <a className="back-link" href={safeReturn(params.get('from'))}>
           ← Back to {isRecipe ? 'recipes' : 'references'}
@@ -567,7 +567,6 @@ function Recipe({
         <dl className="recipe-meta">
           {isRecipe && (
             <NumberField
-              key={resetVersion}
               metadata
               plain
               label={info && !info.servings ? 'Required yield' : 'Required servings'}
@@ -575,6 +574,11 @@ function Recipe({
                 info ? (info.servings ? 'servings' : targetUnit?.name || info.label) : 'servings'
               }
               value={info ? effectiveYield : options.target}
+              hint={
+                !baseline
+                  ? 'This recipe has no known yield; ingredient quantities cannot be scaled.'
+                  : undefined
+              }
               onChange={(value) => update({ yield: String(value), factor: null })}
             />
           )}
@@ -592,7 +596,17 @@ function Recipe({
               ),
           )}
           {isRecipe && (
-            <UnitSelect metadata value={units} onChange={(value) => update({ units: value })} />
+            <>
+              <UnitSelect metadata value={units} onChange={(value) => update({ units: value })} />
+              <div className="reset-meta">
+                <dt className="sr-only">Page controls</dt>
+                <dd>
+                  <button type="button" className="text-button" onClick={resetPage}>
+                    Reset page
+                  </button>
+                </dd>
+              </div>
+            </>
           )}
         </dl>
       </header>
@@ -610,108 +624,6 @@ function Recipe({
       )}
       {isRecipe && (
         <>
-          <section className="adjustment-panel" aria-label="Adjust recipe">
-            <div className="panel-heading">
-              <div>
-                <span className="eyebrow">COOK IT YOUR WAY</span>
-                <h2>Adjust this recipe</h2>
-              </div>
-              <a href="#/settings">Edit defaults ↗</a>
-            </div>
-            <div className="adjustment-fields" key={resetVersion}>
-              {!info && (
-                <NumberField
-                  label="Recipe servings (before scaling)"
-                  value={baseline}
-                  onChange={(value) => update({ baseline: String(value), factor: null })}
-                />
-              )}
-              {info?.unit && (
-                <label className="field">
-                  <span>Yield unit</span>
-                  <select
-                    value={targetUnit?.name}
-                    onChange={(event) => update({ yieldUnit: event.target.value, factor: null })}
-                  >
-                    {(info.unit.dimension === 'mass'
-                      ? ['g', 'kg', 'oz', 'lb']
-                      : [
-                          'ml',
-                          'cl',
-                          'l',
-                          'tsp',
-                          'tbsp',
-                          'cup',
-                          'UK fl oz',
-                          'US fl oz',
-                          'UK pint',
-                          'US pint',
-                          'UK quart',
-                          'US quart',
-                          'UK gallon',
-                          'US gallon',
-                        ]
-                    ).map((unit) => (
-                      <option value={unit} key={unit}>
-                        {unit}
-                      </option>
-                    ))}
-                  </select>
-                </label>
-              )}
-            </div>
-            {!info && (
-              <p className="help">
-                {entry.recipeYield
-                  ? `The original yield “${entry.recipeYield}” needs a baseline.`
-                  : 'This recipe has no stated yield.'}{' '}
-                Enter the recipe’s starting servings and your required servings to scale the
-                ingredients.
-              </p>
-            )}
-            <div className="adjustment-actions">
-              <button onClick={() => reset(false)}>Use my defaults</button>
-              <button onClick={() => reset(true)}>Show original recipe</button>
-            </div>
-            <details className="source-controls">
-              <summary>Original measurement conventions</summary>
-              <p className="help">
-                Unlabelled source measures use these conventions. Explicit US or UK labels take
-                precedence.
-              </p>
-              <div className="adjustment-fields">
-                <label className="field">
-                  <span>Source cups</span>
-                  <select value={conventions.cup} onChange={(e) => update({ cup: e.target.value })}>
-                    <option value="metric">250 ml</option>
-                    <option value="imperial">Imperial · 284.1 ml</option>
-                    <option value="us">US · 236.6 ml</option>
-                  </select>
-                </label>
-                <label className="field">
-                  <span>Source liquid measures</span>
-                  <select
-                    value={conventions.liquid}
-                    onChange={(e) => update({ liquid: e.target.value })}
-                  >
-                    <option value="uk">UK imperial</option>
-                    <option value="us">US customary</option>
-                  </select>
-                </label>
-                <label className="field">
-                  <span>Source spoons</span>
-                  <select
-                    value={conventions.spoon}
-                    onChange={(e) => update({ spoon: e.target.value })}
-                  >
-                    <option value="metric">Metric · 15 / 5 ml</option>
-                    <option value="us">US · 14.8 / 4.9 ml</option>
-                    <option value="australian">Australian · 20 / 5 ml</option>
-                  </select>
-                </label>
-              </div>
-            </details>
-          </section>
           <div className="effective-summary" aria-live="polite">
             <strong>{summary}</strong>
             <span>

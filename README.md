@@ -34,9 +34,9 @@ The collection tests currently assert 413 recipes, six references, and 12 images
 
 Settings contains preferred output units and an optional default serving count. Valid changes save immediately under the versioned `recipe-collection.preferences.v1` localStorage key. Invalid entries do not overwrite saved values. Corrupt or unknown storage versions fall back to defaults. If storage is disabled, preferences remain available until the page is reloaded.
 
-Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. These and missing yields can be adjusted manually with a target and an explicit baseline. Compatible mass and volume yields support changing the target unit.
+Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. The recipe header provides editable required yield and display units. Recipes without a known baseline cannot be scaled. Advanced baseline and yield-unit overrides remain supported in URLs.
 
-Explicit recipe URL overrides take precedence over preferences, then original values. `Use my defaults` removes overrides. `Show original recipe` explicitly selects original units and the original yield, restoring exact source wording. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
+Explicit recipe URL overrides take precedence over preferences, then original values. Opening a recipe without URL overrides uses saved preferences. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
 
 Scaling changes ingredient quantities only. Package counts change while package sizes remain fixed. Cooking times, temperature settings, preparation dimensions, and quantities in instruction text do not change with the yield. Unrecognised or contradictory quantities are retained and flagged when scaling. Qualitative amounts such as “a handful” require judgement.
 
@@ -65,7 +65,7 @@ The three “with cups and spoons” modes preserve weights in their selected sy
 
 US customary output uses pounds and ounces for weight, and US gallons, quarts, pints, cups, fluid ounces, tablespoons, or teaspoons for volume, with simple fractions. Unlike Cups — US, it keeps weights as weights.
 
-Unspecified source cups default to 250 ml, tablespoons to 15 ml, teaspoons to 5 ml, and liquid ounces/pints/quarts/gallons to UK imperial. A recipe's source controls independently allow US/imperial cups, UK/US liquids, and metric/US/Australian spoons (Australian tablespoons are 20 ml). Explicit source-system labels take precedence. Changing preferred output units does not reinterpret source measures.
+Unspecified source cups default to 250 ml, tablespoons to 15 ml, teaspoons to 5 ml, and liquid ounces/pints/quarts/gallons to UK imperial. Recipe URL overrides independently allow US/imperial cups, UK/US liquids, and metric/US/Australian spoons (Australian tablespoons are 20 ml). Explicit source-system labels take precedence. Changing preferred output units does not reinterpret source measures.
 
 Mass and volume conversions use conventional definitions (avoirdupois ounce: 28.349523125 g; UK pint: 568.26125 ml; US customary cup: 236.5882365 ml). See [NIST conversion tables](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b8).
 

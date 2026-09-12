@@ -558,73 +558,6 @@ input[aria-invalid='true'] {
   object-fit: contain;
   border-radius: 8px;
 }
-.adjustment-panel {
-  background: #edf2eb;
-  border: 1px solid #d8e2d5;
-  border-radius: 9px;
-  padding: 23px 25px 14px;
-  margin-bottom: 22px;
-}
-.panel-heading {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  align-items: center;
-  margin-bottom: 18px;
-}
-.panel-heading .eyebrow {
-  font-size: 0.6rem;
-  margin-bottom: 5px;
-}
-.panel-heading h2 {
-  font-size: 1.15rem;
-  margin: 0;
-}
-.panel-heading a {
-  font-size: 0.78rem;
-}
-.adjustment-fields {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-}
-.adjustment-fields > .field {
-  flex: 1 1 140px;
-}
-.adjustment-fields input,
-.adjustment-fields select {
-  padding: 8px 10px;
-  font-size: 0.9rem;
-}
-.adjustment-panel > .help {
-  margin: 14px 0;
-}
-.adjustment-actions {
-  display: flex;
-  gap: 10px;
-  margin: 16px 0;
-}
-.adjustment-actions button {
-  background: transparent;
-  border-color: #b8c9b6;
-  font-size: 0.76rem;
-  padding: 6px 10px;
-}
-.source-controls {
-  border-top: 1px solid #d2dfce;
-  padding-top: 12px;
-  color: var(--muted);
-  font-size: 0.77rem;
-}
-.source-controls .help {
-  margin: 15px 0;
-}
-.source-controls[open] {
-  padding-bottom: 12px;
-}
-.source-controls summary {
-  cursor: pointer;
-}
 .effective-summary {
   display: flex;
   gap: 7px 18px;
@@ -1018,12 +951,6 @@ input[aria-invalid='true'] {
   .settings-panel {
     padding: 22px;
   }
-  .adjustment-panel {
-    padding: 20px;
-  }
-  .adjustment-fields {
-    gap: 12px;
-  }
   .recipe-meta {
     gap: 18px 30px;
   }
@@ -1103,18 +1030,6 @@ input[aria-invalid='true'] {
   .recipe-meta {
     padding-top: 12px;
   }
-  .adjustment-panel {
-    padding: 17px;
-  }
-  .panel-heading a {
-    font-size: 0.73rem;
-  }
-  .adjustment-fields > .field {
-    flex-basis: 120px;
-  }
-  .adjustment-fields > .field:last-child {
-    flex-basis: 100%;
-  }
   .effective-summary {
     align-items: flex-start;
     flex-direction: column;
@@ -1150,7 +1065,6 @@ input[aria-invalid='true'] {
   .site-footer,
   .skip-link,
   .recipe-topbar,
-  .adjustment-panel,
   .original-line,
   .section-heading button,
   .recipe-end {
@@ -1335,4 +1249,14 @@ input[aria-invalid='true'] {
   color: inherit;
   font: inherit;
   cursor: pointer;
+}
+
+.reset-meta {
+  align-self: center;
+  margin-left: auto;
+}
+@media print {
+  .reset-meta {
+    display: none;
+  }
 }
