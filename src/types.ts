@@ -35,6 +35,7 @@ export const unitModes = {
   original: 'Original',
   metric: 'Metric',
   imperial: 'Imperial',
+  customary: 'US customary',
   'cups-metric': 'Cups — 250 ml',
   'cups-imperial': 'Cups — imperial',
   'cups-us': 'Cups — US',

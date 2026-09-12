@@ -46,6 +46,28 @@ describe('kitchen rounding', () => {
   });
 });
 
+describe('US customary output', () => {
+  it.each([
+    [US_CUP * 16, '1 US gallon'],
+    [US_CUP * 6, '1 1/2 US quart'],
+    [US_CUP * 2, '1 US pint'],
+    [US_CUP, '1 US cup'],
+    [US_CUP / 4, '2 US fl oz'],
+    [US_CUP / 16, '1 US tbsp'],
+    [US_CUP / 96, '1/2 US tsp'],
+  ])('converts %s ml to %s', (amount, expected) => {
+    expect(displayQuantity(amount, unitFor('ml', conventions)!, 'customary')).toBe(expected);
+  });
+  it('scales weights without converting them to cups', () => {
+    expect(transformIngredient('453.59237 g flour', 2, 'customary').text).toBe('2 lb flour');
+    expect(transformIngredient('28.349523125 g flour', 0.5, 'customary').text).toBe('1/2 oz flour');
+  });
+  it('preserves the source liquid convention independently of output', () => {
+    expect(transformIngredient('1 pint water', 1, 'customary').text).toBe('1 1/4 US pint water');
+    expect(transformIngredient('1 US pint water', 1, 'customary').text).toBe('1 US pint water');
+  });
+});
+
 describe('unit definitions', () => {
   it('distinguishes weight ounces and fluid ounces', () => {
     expect(unitFor('oz', conventions)?.dimension).toBe('mass');

@@ -112,7 +112,21 @@ export function displayQuantity(base: number, unit: Unit, mode: UnitMode): strin
   if (mode === 'metric' || (mode === 'original' && unit.metric))
     return metric(base, unit.dimension);
   if (mode === 'original') return `${fraction(base / unit.factor)} ${unit.name}`;
-  if (mode === 'imperial') {
+  if (mode === 'customary' && unit.dimension === 'volume') {
+    const measures = [
+      { factor: US_CUP * 16, name: 'US gallon' },
+      { factor: US_CUP * 4, name: 'US quart' },
+      { factor: US_CUP * 2, name: 'US pint' },
+      { factor: US_CUP, name: 'US cup' },
+      { factor: US_CUP / 8, name: 'US fl oz' },
+      { factor: US_CUP / 16, name: 'US tbsp' },
+      { factor: US_CUP / 48, name: 'US tsp' },
+    ];
+    const target =
+      measures.find((measure) => base >= measure.factor - 1e-9) ?? measures[measures.length - 1];
+    return `${fraction(base / target.factor)} ${target.name}`;
+  }
+  if (mode === 'imperial' || mode === 'customary') {
     const target =
       unit.dimension === 'mass'
         ? base >= ounce * 16

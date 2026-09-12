@@ -83,6 +83,13 @@ describe('serving preferences', () => {
   });
 });
 describe('saved settings', () => {
+  it('saves customary units and accepts recipe overrides', () => {
+    const preferences = { ...defaults, units: 'customary' as const };
+    expect(decodePreferences(encodePreferences(preferences))).toEqual(preferences);
+    expect(
+      resolveOptions('4 servings', defaults, new URLSearchParams('units=customary')).units,
+    ).toBe('customary');
+  });
   it.each([undefined, 'invalid'])(
     'preserves older preferences with a missing or invalid temperature unit',
     (temperatureUnit) => {

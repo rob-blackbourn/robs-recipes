@@ -59,7 +59,9 @@ The check exits nonzero if changes are needed; `--details` lists affected fields
 
 ## Measurement conventions
 
-Output modes: Original, Metric, Imperial, Cups — 250 ml, Cups — imperial (284.130625 ml), and Cups — US (236.5882365 ml).
+Output modes: Original, Metric, Imperial, US customary, Cups — 250 ml, Cups — imperial (284.130625 ml), and Cups — US (236.5882365 ml).
+
+US customary output uses pounds and ounces for weight, and US gallons, quarts, pints, cups, fluid ounces, tablespoons, or teaspoons for volume, with simple fractions. Unlike Cups — US, it keeps weights as weights.
 
 Unspecified source cups default to 250 ml, tablespoons to 15 ml, teaspoons to 5 ml, and liquid ounces/pints/quarts/gallons to UK imperial. A recipe's source controls independently allow US/imperial cups, UK/US liquids, and metric/US/Australian spoons (Australian tablespoons are 20 ml). Explicit source-system labels take precedence. Changing preferred output units does not reinterpret source measures.
 
