@@ -221,3 +221,16 @@ test('reset page restores preferences and clears completion and invalid input', 
   await page.getByRole('button', { name: 'Reset page', exact: true }).click();
   await expect(page.getByLabel('Yield')).toHaveValue('8');
 });
+
+test('Kir Royal recognizes its glass yield and scales ingredients', async ({ page }) => {
+  await page.goto('./#/drinks/kir-royal.jsonld');
+  await expect(page.getByLabel('Yield', { exact: true })).toHaveValue('1');
+  await expect(page.locator('.yield-meta .number-unit')).toHaveText('glass');
+  await expect(
+    page.getByText('This recipe has no known yield; ingredient quantities cannot be scaled.'),
+  ).toHaveCount(0);
+  await page.getByLabel('Yield', { exact: true }).fill('3');
+  await expect(page.locator('.ingredient-list')).toContainText('6 tsp cassis');
+  await expect(page.locator('.ingredient-list')).toContainText('Champagne');
+  await expect(page.locator('.ingredient-list .warning-icon')).toHaveCount(0);
+});

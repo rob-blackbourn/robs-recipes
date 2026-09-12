@@ -26,6 +26,20 @@ describe('serving preferences', () => {
   ])('does not automatically scale %s', (raw) =>
     expect(resolveOptions(raw, preferences, new URLSearchParams()).factor).toBe(1),
   );
+  it.each(['1 drink', '2 drinks', '1 glass', '2 glasses', '1 cocktail', '2 cocktails'])(
+    'recognizes beverage yields and scales them: %s',
+    (raw) => {
+      const count = Number(raw.split(' ')[0]);
+      expect(parseYield(raw)).toEqual({ value: count, label: raw.slice(2), servings: false });
+      const result = resolveOptions(
+        raw,
+        preferences,
+        new URLSearchParams({ yield: String(count * 3) }),
+      );
+      expect(result.baseline).toBe(count);
+      expect(result.factor).toBe(3);
+    },
+  );
   it('allows manual scaling of bare yields and other counts', () => {
     expect(resolveOptions('4', preferences, new URLSearchParams('yield=6')).factor).toBe(1.5);
     expect(resolveOptions('20 pieces', preferences, new URLSearchParams('yield=10')).factor).toBe(

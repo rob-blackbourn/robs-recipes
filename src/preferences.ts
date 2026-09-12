@@ -75,7 +75,7 @@ export function parseYield(
   )
     return { value: amount.low, label: 'servings', servings: true };
   if (
-    /^(?:(?:small|medium|large)\s+)?(?:pieces?|loaves?|loafs?|skewers?|chickens?|meringues?|baguettes?|pizzas?|pies?|cakes?|pitta breads?|duck|curries|starters|portions?)?$/i.test(
+    /^(?:(?:small|medium|large)\s+)?(?:drinks?|glass(?:es)?|cocktails?|bowls?|pieces?|loaves?|loafs?|skewers?|chickens?|meringues?|baguettes?|pizzas?|pies?|cakes?|pitta breads?|duck|curries|starters|portions?)?$/i.test(
       rest,
     )
   )
