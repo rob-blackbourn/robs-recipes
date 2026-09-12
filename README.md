@@ -22,7 +22,7 @@ The distributable site is `dist/`. For hosting under a subdirectory, build with 
 
 ## Adding content
 
-Keep `.jsonld` documents inside `recipes/`. Vite includes them in the next build. `Recipe` documents appear in the cookbook; `CreativeWork` documents appear on the reference shelf. Keep `name`, `text`, and `@type`, and use the existing schema.org fields for ingredients, instructions, yield, and metadata. `HowToSection` instruction groups are supported recursively.
+Keep `.jsonld` documents inside `recipes/`, using lowercase kebab-case filenames (for example, `chicken-cacciatore.jsonld`). Vite includes them in the next build. `Recipe` documents appear in the cookbook; `CreativeWork` documents appear on the reference shelf. Keep `name`, `text`, and `@type`, and use the existing schema.org fields for ingredients, instructions, yield, and metadata. `HowToSection` instruction groups are supported recursively.
 
 Image paths are relative to the document, pointing into adjacent `.assets` folders. PNG, JPG, JPEG, and WebP are supported; both literal and percent-encoded filenames work. Missing image files fail the build. Spreadsheets are not published.
 

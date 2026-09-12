@@ -8,25 +8,25 @@ Validation: all 419 outputs parsed successfully; extracted source text was check
 
 ## Reference documents
 
-- Recipes/Appendix/Cups & Spoons.jsonld
-- Recipes/Drinks/Cider/Notes.jsonld
-- Recipes/French/Sauces/Butter/Savoury Butters.jsonld
-- Recipes/Japanese/Ingredients/Katsuobushi.jsonld
-- Recipes/Japanese/Ingredients/Kombu.jsonld
-- Recipes/Japanese/Ingredients/Niboshi.jsonld
+- recipes/Appendix/cups-spoons.jsonld
+- recipes/Drinks/Cider/notes.jsonld
+- recipes/French/Sauces/Butter/savoury-butters.jsonld
+- recipes/Japanese/Ingredients/katsuobushi.jsonld
+- recipes/Japanese/Ingredients/kombu.jsonld
+- recipes/Japanese/Ingredients/niboshi.jsonld
 
 ## Incomplete source recipes
 
 These originals lack an ingredient list or preparation instructions; the converted files retain the available content.
 
-- Recipes/French/Seafood/Dover Sole/Fillets of Sole with Cream and Mushroom Sauce.jsonld
-- Recipes/French/Suasages/Mergeuz Spice Blend.jsonld
-- Recipes/French/Suasages/Merguez Sausages 2.jsonld
-- Recipes/Italian/Salsa/Tomato Salsa.jsonld
-- Recipes/Japanese/Gyoza with Pan Roasted Duck Breast.jsonld
-- Recipes/Japanese/Pork/Gyoza.jsonld
-- Recipes/Japanese/Tempura/Asparagus.jsonld
-- Recipes/Japanese/Tempura/Aubergine.jsonld
-- Recipes/Japanese/Tempura/Sweet potato.jsonld
+- recipes/French/Seafood/Dover Sole/fillets-of-sole-with-cream-and-mushroom-sauce.jsonld
+- recipes/French/Suasages/mergeuz-spice-blend.jsonld
+- recipes/French/Suasages/merguez-sausages-2.jsonld
+- recipes/Italian/Salsa/tomato-salsa.jsonld
+- recipes/Japanese/gyoza-with-pan-roasted-duck-breast.jsonld
+- recipes/Japanese/Pork/gyoza.jsonld
+- recipes/Japanese/Tempura/asparagus.jsonld
+- recipes/Japanese/Tempura/aubergine.jsonld
+- recipes/Japanese/Tempura/sweet-potato.jsonld
 
 The green chicken curry from Books/Thai Food has an empty “Make the paste” heading in the source. It is retained in the full text; no preparation steps have been invented.

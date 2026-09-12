@@ -1,7 +1,7 @@
 import { expect, test } from '@playwright/test';
 
-const chicken = '#/recipe/' + encodeURIComponent('Pressure Cooker/Chicken Cacciatore');
-const bareYield = '#/recipe/' + encodeURIComponent('BBQ/Jerked Chicken Kebabs');
+const chicken = '#/recipe/' + encodeURIComponent('Pressure Cooker/chicken-cacciatore');
+const bareYield = '#/recipe/' + encodeURIComponent('BBQ/jerked-chicken-kebabs');
 
 test('browse, combine filters, follow recipe, and return to search', async ({ page }, testInfo) => {
   await page.goto('./');
@@ -87,7 +87,7 @@ test('mobile layout, references, images, unknown routes, and print', async ({ pa
   await page.getByRole('searchbox').fill('250');
   await page.locator('.recipe-card').click();
   await expect(page.locator('.source-text')).toContainText('1 cup = 250 ml');
-  await page.goto('./#/recipe/' + encodeURIComponent('Japanese/Tofu/Agedashi Dofu'));
+  await page.goto('./#/recipe/' + encodeURIComponent('Japanese/Tofu/agedashi-dofu'));
   await expect(page.locator('.recipe-images img')).toBeVisible();
   expect(
     await page
