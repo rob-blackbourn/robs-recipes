@@ -1,7 +1,9 @@
 import { expect, test } from '@playwright/test';
 
-const chicken = '#/recipe/' + encodeURIComponent('pressure cooker/chicken-cacciatore');
-const nonServingYield = '#/recipe/' + encodeURIComponent('bbq/thai-satay-beef');
+const chicken =
+  '#/' + 'pressure cooker/chicken-cacciatore.jsonld'.split('/').map(encodeURIComponent).join('/');
+const nonServingYield =
+  '#/' + 'bbq/thai-satay-beef.jsonld'.split('/').map(encodeURIComponent).join('/');
 
 test('browse, combine filters, follow recipe, and return to search', async ({ page }, testInfo) => {
   await page.goto('./');
@@ -12,6 +14,10 @@ test('browse, combine filters, follow recipe, and return to search', async ({ pa
   await page.getByRole('searchbox', { name: 'Search recipes' }).fill('chicken');
   await expect(page.locator('.recipe-card').first()).toBeVisible();
   await expect(page.locator('.recipe-card .card-folder').first()).toContainText('british');
+  await expect(page.locator('.recipe-card').first()).toHaveAttribute(
+    'href',
+    /^#\/british\/.*\.jsonld\?/,
+  );
   await page.locator('.recipe-card').first().click();
   await expect(page.getByRole('heading', { name: 'Ingredients', exact: true })).toBeVisible();
   await page.getByRole('link', { name: 'Back to recipes' }).click();
@@ -85,7 +91,9 @@ test('mobile layout, references, images, unknown routes, and print', async ({ pa
   await page.getByRole('searchbox').fill('250');
   await page.locator('.recipe-card').click();
   await expect(page.locator('.source-text')).toContainText('1 cup = 250 ml');
-  await page.goto('./#/recipe/' + encodeURIComponent('japanese/tofu/agedashi-dofu'));
+  await page.goto(
+    './#/' + 'japanese/tofu/agedashi-dofu.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.recipe-images img')).toBeVisible();
   expect(
     await page
@@ -99,7 +107,8 @@ test('mobile layout, references, images, unknown routes, and print', async ({ pa
   await page.emulateMedia({ media: 'print' });
   await expect(page.locator('.site-header')).toBeHidden();
   await expect(page.getByRole('button', { name: 'Print recipe' })).toBeHidden();
-  await expect(page.locator('.effective-summary')).toContainText('6 servings');
+  await expect(page.getByLabel('Yield', { exact: true })).toHaveValue('6');
+  await expect(page.locator('.yield-meta')).toBeVisible();
   await expect(page.locator('.ingredient-list')).toContainText('420 g mushrooms');
   await page.emulateMedia({ media: 'screen' });
   await page.goto('./#/recipe/missing');
@@ -135,7 +144,9 @@ test('storage failure and keyboard skip link remain usable', async ({ page }) =>
 test('temperature preferences persist and apply to recipes and printing independently of yield', async ({
   page,
 }) => {
-  await page.goto('./#/recipe/' + encodeURIComponent('british/bread/bloomer'));
+  await page.goto(
+    './#/' + 'british/bread/bloomer.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.method')).toContainText('220°C');
   await expect(page.locator('.method')).not.toContainText('°F');
   await expect(page.locator('.method')).not.toContainText('Gas Mark');
@@ -143,7 +154,9 @@ test('temperature preferences persist and apply to recipes and printing independ
   await page.getByLabel('Preferred temperature unit').selectOption('fahrenheit');
   await page.reload();
   await expect(page.getByLabel('Preferred temperature unit')).toHaveValue('fahrenheit');
-  await page.goto('./#/recipe/' + encodeURIComponent('british/bread/bloomer'));
+  await page.goto(
+    './#/' + 'british/bread/bloomer.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await page.getByLabel('Yield', { exact: true }).fill('2');
   await page.getByLabel('Display units').selectOption('imperial');
   await expect(page.locator('.method')).toContainText('430°F');
@@ -153,19 +166,29 @@ test('temperature preferences persist and apply to recipes and printing independ
   await expect(page.locator('.method .temperature').first()).toBeVisible();
   await expect(page.locator('.method .temperature').first()).toHaveText('430°F');
   await page.emulateMedia({ media: 'screen' });
-  await page.goto('./#/recipe/' + encodeURIComponent('british/meat/beef/beef-wellington'));
+  await page.goto(
+    './#/' +
+      'british/meat/beef/beef-wellington.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.method')).toContainText('340°F fan');
   await expect(page.locator('.method')).not.toContainText('°C');
   await page.goto('./#/settings');
   await page.getByLabel('Preferred temperature unit').selectOption('gas');
-  await page.goto('./#/recipe/' + encodeURIComponent('british/bread/bloomer'));
+  await page.goto(
+    './#/' + 'british/bread/bloomer.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.method')).toContainText('Gas Mark 7');
   await expect(page.locator('.method')).not.toContainText('°C');
   await expect(page.locator('.method')).not.toContainText('°F');
-  await page.goto('./#/recipe/' + encodeURIComponent('japanese/tofu/agedashi-dofu'));
+  await page.goto(
+    './#/' + 'japanese/tofu/agedashi-dofu.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.method')).toContainText('170°C');
   await expect(page.locator('.method')).not.toContainText('Gas Mark');
-  await page.goto('./#/recipe/' + encodeURIComponent('french/suasages/french-merguez-sausages'));
+  await page.goto(
+    './#/' +
+      'french/suasages/french-merguez-sausages.jsonld'.split('/').map(encodeURIComponent).join('/'),
+  );
   await expect(page.locator('.method')).toContainText('65.6°C');
   await expect(page.locator('.method')).not.toContainText('Gas Mark');
   await page.goto('./#/settings');

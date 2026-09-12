@@ -1,6 +1,7 @@
 import { globSync, readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import { makeEntry, filterDocuments, duration } from './catalog';
+import { recipeLink } from './navigation';
 import { transformIngredient } from './ingredients';
 import { unitModes, type UnitMode } from './types';
 
@@ -12,6 +13,15 @@ const entries = globSync('recipes/**/*.jsonld').map((path) =>
 );
 
 describe('the complete collection', () => {
+  it('uses complete relative file paths in recipe links', () => {
+    for (const entry of entries) {
+      expect(entry.id).toMatch(/\.jsonld$/);
+      expect(readFileSync(`recipes/${entry.id}`, 'utf8')).toBeTruthy();
+      const link = recipeLink(entry.id, '#/');
+      expect(decodeURIComponent(link.split('?')[0].slice(2))).toBe(entry.id);
+      expect(link.split('?')[0]).not.toContain('%2F');
+    }
+  });
   it('loads every document and image with distinct IDs', () => {
     expect(entries).toHaveLength(419);
     expect(entries.filter((entry) => entry['@type'] === 'Recipe')).toHaveLength(413);

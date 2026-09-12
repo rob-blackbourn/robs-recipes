@@ -18,7 +18,7 @@ export function makeEntry(
   });
   return {
     ...data,
-    id: relative.replace(/\.jsonld$/, ''),
+    id: relative,
     folder,
     images,
     search: [

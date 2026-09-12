@@ -61,7 +61,12 @@ export default function App() {
   }, [path]);
   let entry: DocumentEntry | undefined;
   try {
-    if (path.startsWith('/recipe/')) entry = entryById.get(decodeURIComponent(path.slice(8)));
+    const relativePath = decodeURIComponent(path.replace(/^\//, ''));
+    entry = entryById.get(relativePath);
+    if (!entry && path.startsWith('/recipe/')) {
+      const legacyPath = decodeURIComponent(path.slice(8));
+      entry = entryById.get(legacyPath.endsWith('.jsonld') ? legacyPath : `${legacyPath}.jsonld`);
+    }
   } catch {
     /* Unknown malformed link */
   }

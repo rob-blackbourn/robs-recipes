@@ -18,7 +18,7 @@ npm run build
 npm run preview
 ```
 
-The distributable site is `dist/`. For hosting under a subdirectory, build with `BASE_PATH=/your-repository/ npm run build`. Recipe and settings links use hash routes, so refreshing a deep link needs no server rewrite.
+The distributable site is `dist/`. For hosting under a subdirectory, build with `BASE_PATH=/your-repository/ npm run build`. Recipe links use the complete file path relative to `recipes/`, for example `#/british/bread/bloomer.jsonld`. Folder separators stay visible and spaces are URL-encoded. Hash routes keep deep links refreshable on static hosting without server rewrites. Older `#/recipe/...` links still resolve.
 
 ## Adding content
 

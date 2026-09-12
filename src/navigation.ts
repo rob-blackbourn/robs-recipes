@@ -22,7 +22,7 @@ export function navigate(path: string, params = new URLSearchParams(), replace =
   } else window.location.hash = hash;
 }
 export function recipeLink(id: string, from: string) {
-  return `#/recipe/${encodeURIComponent(id)}?${new URLSearchParams({ from })}`;
+  return `#/${id.split('/').map(encodeURIComponent).join('/')}?${new URLSearchParams({ from })}`;
 }
 export function safeReturn(raw: string | null) {
   return raw && /^#\/(?:references)?(?:\?|$)/.test(raw) ? raw : '#/';
