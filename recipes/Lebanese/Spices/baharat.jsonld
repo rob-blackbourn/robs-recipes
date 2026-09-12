@@ -21,5 +21,8 @@
   ],
   "description": "Cooking time: 0\nPreparation time: 10 minutes",
   "prepTime": "PT10M",
-  "cookTime": "PT0M"
+  "cookTime": "PT0M",
+  "keywords": [
+    "Spices"
+  ]
 }

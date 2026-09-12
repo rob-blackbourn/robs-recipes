@@ -46,5 +46,8 @@
       "text": "Cooking time: 30 - 40 minutes"
     }
   ],
-  "cookTime": "30 - 40 minutes"
+  "cookTime": "30 - 40 minutes",
+  "keywords": [
+    "Desserts"
+  ]
 }

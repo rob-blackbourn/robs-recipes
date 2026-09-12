@@ -50,5 +50,8 @@
       "text": "Cooking time: 30 mins to 1 hour"
     }
   ],
-  "cookTime": "30 mins to 1 hour"
+  "cookTime": "30 mins to 1 hour",
+  "keywords": [
+    "Poultry"
+  ]
 }

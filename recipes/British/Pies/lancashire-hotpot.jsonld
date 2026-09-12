@@ -53,5 +53,8 @@
       "text": "Cooking time: 30 minutes to 1 hour"
     }
   ],
-  "cookTime": "30 minutes to 1 hour"
+  "cookTime": "30 minutes to 1 hour",
+  "keywords": [
+    "Pies"
+  ]
 }

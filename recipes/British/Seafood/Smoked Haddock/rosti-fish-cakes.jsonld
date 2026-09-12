@@ -5,7 +5,7 @@
   "name": "Rosti Fish Cakes",
   "recipeYield": "10 cakes",
   "recipeIngredient": [
-    "500g waxy potatoes  (unpeeled weight),",
+    "500g waxy potatoes (unpeeled weight),",
     "500g haddock fillets (cut into large chunks),",
     "15g chives (chopped),",
     "1 medium egg,",
@@ -22,11 +22,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Using the pulse button, process briefly until combined - do not overprocess or  you will have a gluey paste."
+      "text": "Using the pulse button, process briefly until combined - do not over-process or you will have a gluey paste."
     },
     {
       "@type": "HowToStep",
-      "text": "Mix this with the potatoes then divide into 9–10 balls."
+      "text": "Mix this with the potatoes then divide into 9 to 10 balls."
     },
     {
       "@type": "HowToStep",
@@ -38,15 +38,19 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Heat the oil in a frying pan and, once very hot, brown the fishcakes for 3–4 minutes then turn and brown the other  side."
+      "text": "Heat the oil in a frying pan and, once very hot, brown the fishcakes for 3 to 4 minutes then turn and brown the other side."
     },
     {
       "@type": "HowToStep",
-      "text": "Place them on a baking sheet and cook in a low oven (150°C) for about 30 minutes or until piping hot  and cooked through."
+      "text": "Place them on a baking sheet and cook in a low oven (150°C) for about 30 minutes or until piping hot and cooked through."
     },
     {
       "@type": "HowToStep",
       "text": "Serve warm."
     }
+  ],
+  "keywords": [
+    "Seafood",
+    "Smoked Haddock"
   ]
 }

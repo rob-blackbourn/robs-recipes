@@ -49,5 +49,9 @@
   ],
   "description": "Preparation time: 30 mins\nCooking time: 1 hour\nYield: 4",
   "prepTime": "PT30M",
-  "cookTime": "PT1H"
+  "cookTime": "PT1H",
+  "keywords": [
+    "Meat",
+    "Lamb"
+  ]
 }

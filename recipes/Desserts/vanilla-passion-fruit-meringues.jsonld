@@ -30,5 +30,8 @@
       "text": "Cooking time: 1 1/2 hours"
     }
   ],
-  "cookTime": "PT1H30M"
+  "cookTime": "PT1H30M",
+  "keywords": [
+    "Desserts"
+  ]
 }

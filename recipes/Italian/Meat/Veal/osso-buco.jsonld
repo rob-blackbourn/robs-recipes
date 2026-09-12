@@ -57,5 +57,9 @@
       "text": "Cooking time: 2 1/2 hours"
     }
   ],
-  "cookTime": "PT2H30M"
+  "cookTime": "PT2H30M",
+  "keywords": [
+    "Meat",
+    "Veal"
+  ]
 }

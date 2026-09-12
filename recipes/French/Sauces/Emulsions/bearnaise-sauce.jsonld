@@ -50,5 +50,9 @@
       "text": "Cooking time: 12-15 minutes"
     }
   ],
-  "cookTime": "12-15 minutes"
+  "cookTime": "12-15 minutes",
+  "keywords": [
+    "Sauces",
+    "Emulsions"
+  ]
 }

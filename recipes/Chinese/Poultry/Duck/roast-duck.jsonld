@@ -67,5 +67,9 @@
     }
   ],
   "prepTime": "5 minutes then 2 hours wait, then 10 minutes.",
-  "cookTime": "PT2H30M"
+  "cookTime": "PT2H30M",
+  "keywords": [
+    "Poultry",
+    "Duck"
+  ]
 }

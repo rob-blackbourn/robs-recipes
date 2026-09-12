@@ -37,5 +37,9 @@
       "text": "Cooking time: less than 10 minutes"
     }
   ],
-  "cookTime": "less than 10 minutes"
+  "cookTime": "less than 10 minutes",
+  "keywords": [
+    "Pasta",
+    "Pasta Dough"
+  ]
 }
