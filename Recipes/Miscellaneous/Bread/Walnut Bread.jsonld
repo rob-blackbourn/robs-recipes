@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Walnut Bread",
+  "text": "Walnut Bread\n\nYield: 1 small loaf\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n2 tsp dried active yeast,\n\n1 cup strong wholemeal bread flour,\n\n1/2 cup strong white bread flour,\n\n1 tbsp olive oil,\n\n165 ml warm water,\n\n1 tsp salt,\n\n1/4 cup walnut pieces.\n\nPreparation\n\n1. Mix the yeast with 4 tbsp warm water.\n\n2. Put the flour in a large mixing bowl.\n\n3. Add the salt and mix thoroughly.\n\n4. Add the oil and yeast and make a dough, adding extra water if necessary.\n\n5. Knead for 10 minutes.\n\n6. Set aside to prove for 40 minutes\n\n7. Add the walnuts.\n\n8. Knock down and knead for another 5 minutes.\n\n9. Set aside for 30 mins or until doubled in size.\n\n10. Cook on Gas 7 for 25 minutes.",
+  "recipeYield": "1 small loaf",
+  "recipeIngredient": [
+    "2 tsp dried active yeast,",
+    "1 cup strong wholemeal bread flour,",
+    "1/2 cup strong white bread flour,",
+    "1 tbsp olive oil,",
+    "165 ml warm water,",
+    "1 tsp salt,",
+    "1/4 cup walnut pieces."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Mix the yeast with 4 tbsp warm water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Put the flour in a large mixing bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the salt and mix thoroughly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the oil and yeast and make a dough, adding extra water if necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Knead for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Set aside to prove for 40 minutes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add the walnuts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Knock down and knead for another 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Set aside for 30 mins or until doubled in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Cook on Gas 7 for 25 minutes."
+    }
+  ]
+}

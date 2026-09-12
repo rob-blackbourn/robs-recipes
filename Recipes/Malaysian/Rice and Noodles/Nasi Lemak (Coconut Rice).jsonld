@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Nasi Lemak (Coconut Rice)",
+  "text": "Nasi Lemak (Coconut Rice)\n\nPrep time: ?\n\nCooking time: ?\n\nTotal time: ?\n\nYield: ?\n\nStatus: untried\n\nIngredients\n\n2 cups basmati rice,\n\n½ cup water,\n\n1½ cups coconut milk,\n\n1 tbsp ginger root, 2 inches long (peeled and cut into julienne strips),\n\n2 star anise,\n\n1 cinnamon bark about 2” long,\n\n4 cardamom seeds,\n\n1 pandan leaf tied in a knot,\n\n½ tsp salt,\n\n1 tsp white sugar.\n\nPreparation\n\n1. Wash and rinse the rice in a pot about three times or until the water runs clear.\n\n2. Add all the ingredients, including coconut milk, and stir.\n\n3. Cook on a medium heat, bringing it to the boil. Once boiled, turn down the heat, letting it simmer until the rice has gone fluffy.\n\n4. Stir it with a wooden or plastic spoon.\n\n5. Take off the heat and set aside for 10 minutes before serving.",
+  "recipeYield": "?",
+  "recipeIngredient": [
+    "2 cups basmati rice,",
+    "½ cup water,",
+    "1½ cups coconut milk,",
+    "1 tbsp ginger root, 2 inches long (peeled and cut into julienne strips),",
+    "2 star anise,",
+    "1 cinnamon bark about 2” long,",
+    "4 cardamom seeds,",
+    "1 pandan leaf tied in a knot,",
+    "½ tsp salt,",
+    "1 tsp white sugar."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Wash and rinse the rice in a pot about three times or until the water runs clear."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add all the ingredients, including coconut milk, and stir."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Cook on a medium heat, bringing it to the boil. Once boiled, turn down the heat, letting it simmer until the rice has gone fluffy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Stir it with a wooden or plastic spoon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Take off the heat and set aside for 10 minutes before serving."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Prep time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Total time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Status: untried"
+    }
+  ]
+}

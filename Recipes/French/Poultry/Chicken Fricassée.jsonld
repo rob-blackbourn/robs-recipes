@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Fricassée",
+  "text": "Chicken Fricassée\n\nPreparation time: 30 mins\n\nCooking time: 30 mins to 1 hour\n\nYield: 4\n\nIngredients\n\n2.5 kg chicken (cut into pieces),\n\n60 ml olive oil,\n\n2 cloves garlic (skin on)\n\n150 g shallots (cut in half),\n\n125 g mixed peppers,\n\n2 carrots (peeled and sliced),\n\n200 g button mushrooms,\n\n600 ml Brown chicken stock,\n\n1 bay leaf,\n\nSprig of fresh thyme,\n\n6 peppercorns.\n\nPreparation\n\n1. Heat the oven to 190C/Gas 5.\n\n2. Season the chicken and colour quickly in oil.\n\n3. Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves.\n\n4. Sauté the vegetables together until lightly Brown. Place them in with the chicken.\n\n5. Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken.\n\n6. Place in the oven until the chicken is cooked through.",
+  "prepTime": "PT30M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "2.5 kg chicken (cut into pieces),",
+    "60 ml olive oil,",
+    "2 cloves garlic (skin on)",
+    "150 g shallots (cut in half),",
+    "125 g mixed peppers,",
+    "2 carrots (peeled and sliced),",
+    "200 g button mushrooms,",
+    "600 ml Brown chicken stock,",
+    "1 bay leaf,",
+    "Sprig of fresh thyme,",
+    "6 peppercorns."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oven to 190C/Gas 5."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Season the chicken and colour quickly in oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Remove the chicken and place in a roasting pan with the bay leaf, peppercorns, fresh thyme, and garlic cloves."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Sauté the vegetables together until lightly Brown. Place them in with the chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Swill out the sauté pan with the chicken stock. Bring to the boil, season, and add to the chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Place in the oven until the chicken is cooked through."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 30 mins to 1 hour"
+    }
+  ]
+}

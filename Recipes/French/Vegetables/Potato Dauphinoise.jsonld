@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Potato Dauphinoise",
+  "text": "Potato Dauphinoise\n\nPreparation Time: 10 minutes\n\nCooking Time: 1 1/2 hours\n\nYield: 2\n\nIngredients\n\n1 clove of garlic (crushed),\n\n250g Maris Piper potatoes (thinly sliced),\n\n150ml double cream,\n\n150ml whole milk,\n\nsalt & black pepper.\n\nPreparation\n\nPut the oven on Gas 3/170C.\n\nPut the thinly sliced potato in a gratin dish in layers, seasoning each layer with salt and pepper.\n\nPut the crushed garlic in the cream.\n\nPour the cream and garlic mixture over the potatoes.\n\nTop up with milk, so that the liquid is just below the surface of the potatoes.\n\nCook for between 1 and 1 1/2 hours. Turn the oven up a notch for the last 15 minutes to brown the top.",
+  "prepTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "1 clove of garlic (crushed),",
+    "250g Maris Piper potatoes (thinly sliced),",
+    "150ml double cream,",
+    "150ml whole milk,",
+    "salt & black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put the oven on Gas 3/170C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the thinly sliced potato in a gratin dish in layers, seasoning each layer with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the crushed garlic in the cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the cream and garlic mixture over the potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top up with milk, so that the liquid is just below the surface of the potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook for between 1 and 1 1/2 hours. Turn the oven up a notch for the last 15 minutes to brown the top."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking Time: 1 1/2 hours"
+    }
+  ]
+}

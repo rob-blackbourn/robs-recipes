@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Mackerel and Mustard Tart",
+  "text": "Mackerel and Mustard Tart\n\nIngredients\n\nFor the pastry\n\n125 g butter, cubed, plus extra for greasing\n\n250 g plain flour, plus extra for dusting\n\na pinch of salt\n\n1 egg yolk\n\n50ml cold water\n\nFor the filling\n\n3 smoked mackerel fillet\n\n3 whole eggs\n\n6 egg yolks\n\n250 ml double cream\n\n1-2 tsp coarse wholegrain mustard\n\n1 bunch watercress, chopped\n\n1 handful grated extra mature cheddar, or other sharp-tasting cheese\n\nTo serve\n\ndressed salad leaves, to serve\n\nPreparation\n\n1. For the pastry: put the butter, flour and a pinch of salt in a food processor and blend until the mixture resembles fine breadcrumbs. Mix the egg yolk with 50ml cold water, add to the mixer and continue processing until a dough is formed. Wrap it in cling film and chill for at least 1 hour, removing it from the refrigerator 15 minutes before you want to roll it.\n\n2. Preheat the oven to 170C.\n\n3. Butter a 25cm spring-form tart tin and sprinkle with a little flour. Lightly dust the dough with flour and roll out to a thickness of 3mm. Carefully lift the dough and lay it over the tart tin, then gently press down into the base. Trim the edges, leaving a rim of pastry above the rim of the tin to allow for shrinkage. Prick the base with a fork, then chill for 30 minutes. Line the pastry with a sheet of greaseproof paper, then fill with dried peas or beans and bake for 12 minutes.\n\n4. Preheat the oven to 180C.\n\nFor the filling: skin the mackerel fillets, cut them in half lengthways and flake the flesh, removing any bones. Beat together the whole eggs, egg yolks, cream, mustard and some salt and pepper. Scatter the mackerel and watercress over the base of the part-cooked tart shell. Place the pastry case in the oven. Carefully pour in the egg mixture, stopping when the liquid reaches the rim of the case – be careful not to let it overflow. Top with grated cheese then bake for 30-40 minutes, until the filling has set. Remove the tart from the oven. Trim off any excess pastry around the rim then cut into wedges and serve with dressed salad leaves.",
+  "recipeIngredient": [
+    "For the pastry: 125 g butter, cubed, plus extra for greasing",
+    "For the pastry: 250 g plain flour, plus extra for dusting",
+    "For the pastry: a pinch of salt",
+    "For the pastry: 1 egg yolk",
+    "For the pastry: 50ml cold water",
+    "For the filling: 3 smoked mackerel fillet",
+    "For the filling: 3 whole eggs",
+    "For the filling: 6 egg yolks",
+    "For the filling: 250 ml double cream",
+    "For the filling: 1-2 tsp coarse wholegrain mustard",
+    "For the filling: 1 bunch watercress, chopped",
+    "For the filling: 1 handful grated extra mature cheddar, or other sharp-tasting cheese",
+    "To serve: dressed salad leaves, to serve"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. For the pastry: put the butter, flour and a pinch of salt in a food processor and blend until the mixture resembles fine breadcrumbs. Mix the egg yolk with 50ml cold water, add to the mixer and continue processing until a dough is formed. Wrap it in cling film and chill for at least 1 hour, removing it from the refrigerator 15 minutes before you want to roll it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Preheat the oven to 170C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Butter a 25cm spring-form tart tin and sprinkle with a little flour. Lightly dust the dough with flour and roll out to a thickness of 3mm. Carefully lift the dough and lay it over the tart tin, then gently press down into the base. Trim the edges, leaving a rim of pastry above the rim of the tin to allow for shrinkage. Prick the base with a fork, then chill for 30 minutes. Line the pastry with a sheet of greaseproof paper, then fill with dried peas or beans and bake for 12 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Preheat the oven to 180C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "For the filling: skin the mackerel fillets, cut them in half lengthways and flake the flesh, removing any bones. Beat together the whole eggs, egg yolks, cream, mustard and some salt and pepper. Scatter the mackerel and watercress over the base of the part-cooked tart shell. Place the pastry case in the oven. Carefully pour in the egg mixture, stopping when the liquid reaches the rim of the case – be careful not to let it overflow. Top with grated cheese then bake for 30-40 minutes, until the filling has set. Remove the tart from the oven. Trim off any excess pastry around the rim then cut into wedges and serve with dressed salad leaves."
+    }
+  ]
+}

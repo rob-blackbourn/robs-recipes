@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Shiraae",
+  "text": "Shiraae\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n150g Firm or Soft Tofu (5.3 oz)\n\n½ tsp Dashi Soy Sauce or substitute: mentsuyu or soy sauce\n\n2 tbsp Toasted White Sesame Seeds\n\n½ tbsp Sugar\n\n¼ tsp Salt\n\n100g Nanohana (Broccolini or substitute: broccoli, snap bean pods or spinach),\n\n20g Carrot,\n\n30g Shimeji Mushrooms,\n\n4 tbsp water,\n\n½ tsp dashi soy sauce or substitute: mentsuyu or soy sauce\n\nPreparation\n\n1.",
+  "recipeIngredient": [
+    "150g Firm or Soft Tofu (5.3 oz)",
+    "½ tsp Dashi Soy Sauce or substitute: mentsuyu or soy sauce",
+    "2 tbsp Toasted White Sesame Seeds",
+    "½ tbsp Sugar",
+    "¼ tsp Salt",
+    "100g Nanohana (Broccolini or substitute: broccoli, snap bean pods or spinach),",
+    "20g Carrot,",
+    "30g Shimeji Mushrooms,",
+    "4 tbsp water,",
+    "½ tsp dashi soy sauce or substitute: mentsuyu or soy sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1."
+    }
+  ]
+}

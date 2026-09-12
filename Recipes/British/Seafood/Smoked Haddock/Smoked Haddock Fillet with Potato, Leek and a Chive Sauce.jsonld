@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Smoked Haddock Fillet with Potato, Leek and a Chive Sauce",
+  "text": "Smoked Haddock Fillet with Potato, Leek and a Chive Sauce\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n2 x 90g smoked haddock fillets,\n\n300g peeled potato,\n\n60g chopped leek (white part only),\n\n150ml vegetable stock for cooking vegetables,\n\nSalt/pepper,\n\nChopped chives for garnish.\n\nFor the chive sauce\n\n30g unsalted butter,\n\n150ml vegetable stock,\n\n75ml double cream,\n\n60g unsalted butter diced,\n\n1 level dessertspoon chopped chives,\n\nSalt/pepper.\n\nPreparation\n\n1. Thinly slice potatoes on mandolin, chop leeks in rounds.\n\n2. Lightly butter a small baking dish then layer potatoes and leek alternatively seasoning lightly each layer.\n\n3. Pour over vegetable stock (this will not cover vegetables, just enough to cook them).\n\n4. Cover dish with foil, place in a preheated oven (425 ̊F/200 ̊C) and cook until tender, about 30 minutes.\n\n5. Remove foil then dot with remainder of butter and cook for a further 5 minutes.\n\n6. To make the sauce, put vegetable stock and cream in saucepan, bring to boil, whisk in diced butter until all is  incorporated in sauce. Add chopped chives, check seasoning, adjust as necessary.\n\n7. Cut haddock fillets in half across fillet.\n\n8. Put a little oil in sauté pan, place on heat.\n\n9. When almost smoking, place fillets in pan and cook for 11/2 minutes then turn over and cook for further 30 seconds  (cooking times may vary depending on thickness of fish but fish should be undercooked).  Assembly  Spoon potato/leek mixture onto centre of warm plate. Cut fillet diagonally in half then place on top of potato/leek, spoon sauce around. Sprinkle chopped chives over and place two snipped chives on top of fish. Serve immediately.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "2 x 90g smoked haddock fillets,",
+    "300g peeled potato,",
+    "60g chopped leek (white part only),",
+    "150ml vegetable stock for cooking vegetables,",
+    "Salt/pepper,",
+    "Chopped chives for garnish.",
+    "For the chive sauce: 30g unsalted butter,",
+    "For the chive sauce: 150ml vegetable stock,",
+    "For the chive sauce: 75ml double cream,",
+    "For the chive sauce: 60g unsalted butter diced,",
+    "For the chive sauce: 1 level dessertspoon chopped chives,",
+    "For the chive sauce: Salt/pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Thinly slice potatoes on mandolin, chop leeks in rounds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Lightly butter a small baking dish then layer potatoes and leek alternatively seasoning lightly each layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Pour over vegetable stock (this will not cover vegetables, just enough to cook them)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Cover dish with foil, place in a preheated oven (425 ̊F/200 ̊C) and cook until tender, about 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Remove foil then dot with remainder of butter and cook for a further 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. To make the sauce, put vegetable stock and cream in saucepan, bring to boil, whisk in diced butter until all is  incorporated in sauce. Add chopped chives, check seasoning, adjust as necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Cut haddock fillets in half across fillet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Put a little oil in sauté pan, place on heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. When almost smoking, place fillets in pan and cook for 11/2 minutes then turn over and cook for further 30 seconds  (cooking times may vary depending on thickness of fish but fish should be undercooked).  Assembly  Spoon potato/leek mixture onto centre of warm plate. Cut fillet diagonally in half then place on top of potato/leek, spoon sauce around. Sprinkle chopped chives over and place two snipped chives on top of fish. Serve immediately."
+    }
+  ]
+}

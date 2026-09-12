@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Stock",
+  "text": "Chicken Stock\n\nYield: 1.5 l\n\nPreparation time: 15 minutes\n\nCooking time: 1¾ hours\n\nIngredients\n\n1 chicken (1.5 kg, blanched and refreshed),\n\n200 g carrots (cut into chunks),\n\n2 leeks (white part, cut into chunks),\n\n1 celery stalk (coarsely chopped),\n\n1 onion studded with 2 cloves,\n\n150 g button mushrooms (thinely sliced),\n\n1 bouquet garni.\n\nPreparation\n\n1. Put chicken in a large saucepan and cover with 2.5 l cold water.\n\n2. Bring to the boil on a high heat, then immediately lower to a simmer.\n\n3. After 5 minutes skim and add the other ingredients.\n\n4. Cook gently for 1 ½ hours without boiling, skimming when necessary.\n\n5. Strain and cool as quickly as possible.",
+  "recipeYield": "1.5 l",
+  "prepTime": "PT15M",
+  "recipeIngredient": [
+    "1 chicken (1.5 kg, blanched and refreshed),",
+    "200 g carrots (cut into chunks),",
+    "2 leeks (white part, cut into chunks),",
+    "1 celery stalk (coarsely chopped),",
+    "1 onion studded with 2 cloves,",
+    "150 g button mushrooms (thinely sliced),",
+    "1 bouquet garni."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put chicken in a large saucepan and cover with 2.5 l cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Bring to the boil on a high heat, then immediately lower to a simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. After 5 minutes skim and add the other ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Cook gently for 1 ½ hours without boiling, skimming when necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Strain and cool as quickly as possible."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 1¾ hours"
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1ApMSfXhCOThtVDLk7fhTr1J_yzvej9FlOwQg1WIuu7M/edit"
+  ]
+}

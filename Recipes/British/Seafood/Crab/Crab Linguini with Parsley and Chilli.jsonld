@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Crab Linguini with Parsley and Chilli",
+  "text": "Crab Linguini with Parsley and Chilli\n\nPreparation time: 15 minutes\n\nCooking time: 10 minutes\n\nYield: 2\n\nIngredients\n\n160 g dried linguine,\n\n2 skinned deseeded and chopped vine ripened tomatoes,\n\n100 g white crab meat,\n\n1/2 tbsp chopped parsley,\n\n3/4 tbsp lemon juice,\n\n25 ml extra virgin olive oil,\n\npinch dried chilli flakes,\n\n1/2 finely chopped clove of garlic.\n\nPreparation\n\n1. Cook the pasta in a large pan of salted boiling water.\n\n2. Put the remaining ingredients into a small pan and warm through.\n\n3. Drain the pasta and mix with the sauce.",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "160 g dried linguine,",
+    "2 skinned deseeded and chopped vine ripened tomatoes,",
+    "100 g white crab meat,",
+    "1/2 tbsp chopped parsley,",
+    "3/4 tbsp lemon juice,",
+    "25 ml extra virgin olive oil,",
+    "pinch dried chilli flakes,",
+    "1/2 finely chopped clove of garlic."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cook the pasta in a large pan of salted boiling water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Put the remaining ingredients into a small pan and warm through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Drain the pasta and mix with the sauce."
+    }
+  ]
+}

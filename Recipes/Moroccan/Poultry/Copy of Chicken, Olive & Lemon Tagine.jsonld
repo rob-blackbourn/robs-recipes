@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken, Olive & Lemon Tagine",
+  "text": "Chicken, Olive & Lemon Tagine\n\nPreparation time: 15 minutes\n\nCooking time: 45 minutes\n\nYield: 2\n\nIngredients\n\n1 red onion - finely diced,\n\n1 garlic clove - crushed,\n\n2cm of of fresh ginger - peeled and cut into fine match sticks,\n\nPinch saffron in warm water,\n\n1/2 tsp cinnamon or 1 stick,\n\nJuice of 1/4 lemon,\n\n2 small preserved lemons,\n\n1 tbsp chopped parsley,\n\n2 tbsp chopped coriander,\n\n3 chicken thighs,\n\n1 1/2 tbsp purple olives.\n\nPreparation\n\n1. Fry the onion and garlic over a medium heat.\n\n2. Add ginger, saffron and cinnamon, followed by the lemon juice, and coarsely chop the pulp of one preserved lemon and the rind of both, cut into slivers. Add the parsley and 2 tbsp chopped coriander and mix well.\n\n3. Arrange the chicken on top and scatter over the olives. Pour 80ml water into the pan and simmer for 40 mins.\n\n4. Season and garnish with coriander.",
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "1 red onion - finely diced,",
+    "1 garlic clove - crushed,",
+    "2cm of of fresh ginger - peeled and cut into fine match sticks,",
+    "Pinch saffron in warm water,",
+    "1/2 tsp cinnamon or 1 stick,",
+    "Juice of 1/4 lemon,",
+    "2 small preserved lemons,",
+    "1 tbsp chopped parsley,",
+    "2 tbsp chopped coriander,",
+    "3 chicken thighs,",
+    "1 1/2 tbsp purple olives."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Fry the onion and garlic over a medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add ginger, saffron and cinnamon, followed by the lemon juice, and coarsely chop the pulp of one preserved lemon and the rind of both, cut into slivers. Add the parsley and 2 tbsp chopped coriander and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Arrange the chicken on top and scatter over the olives. Pour 80ml water into the pan and simmer for 40 mins."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Season and garnish with coriander."
+    }
+  ]
+}

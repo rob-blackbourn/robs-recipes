@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Tagine with Oranges",
+  "text": "Beef Tagine with Oranges\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n1-2 tbsp ghee or 1 tbsp olive oil + 1 tbsp butter,\n\n3-4 garlic cloves (crushed),\n\n1 red onion (halved and sliced),\n\n5cm/2” fresh ginger (peeled and finely chopped or grated),\n\n1 fresh red chilli (deseeded and sliced),\n\n2 tsp coriander seeds,\n\n2 cinamon sticks,\n\n2-4 beetroot (peeled and quartered),\n\n500g beef (cubed or cut in strips),\n\n2 thin skinned oranges (cut into segments),\n\n1 tbsp dark clear honey,\n\n1-2 tbsp orange flower water,\n\n1 tbsp butter,\n\n2-3 tbsp shelled pistachios,\n\nleaves from a small bunch of fresh flat leaf parsley (roughly chopped).\n\nPreparation\n\n1.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1-2 tbsp ghee or 1 tbsp olive oil + 1 tbsp butter,",
+    "3-4 garlic cloves (crushed),",
+    "1 red onion (halved and sliced),",
+    "5cm/2” fresh ginger (peeled and finely chopped or grated),",
+    "1 fresh red chilli (deseeded and sliced),",
+    "2 tsp coriander seeds,",
+    "2 cinamon sticks,",
+    "2-4 beetroot (peeled and quartered),",
+    "500g beef (cubed or cut in strips),",
+    "2 thin skinned oranges (cut into segments),",
+    "1 tbsp dark clear honey,",
+    "1-2 tbsp orange flower water,",
+    "1 tbsp butter,",
+    "2-3 tbsp shelled pistachios,",
+    "leaves from a small bunch of fresh flat leaf parsley (roughly chopped)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1."
+    }
+  ]
+}

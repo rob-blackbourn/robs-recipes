@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Shiozake",
+  "text": "Shiozake\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\nFillet of salmon with the skin on,\n\nMaldon sea salt.\n\nPreparation\n\n1. Dry the salmon with kitchen towel.\n\n2. Salt both sides.\n\n3. Wrap in kitchen towel and put in a sieve over a bowl.\n\n4. Refridgerate for 24 hours.\n\n5. Unwrap and either dry fry or grill.",
+  "recipeIngredient": [
+    "Fillet of salmon with the skin on,",
+    "Maldon sea salt."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Dry the salmon with kitchen towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Salt both sides."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Wrap in kitchen towel and put in a sieve over a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Refridgerate for 24 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Unwrap and either dry fry or grill."
+    }
+  ]
+}

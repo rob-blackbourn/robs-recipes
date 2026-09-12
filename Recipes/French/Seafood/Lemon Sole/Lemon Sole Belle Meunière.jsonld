@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Lemon Sole Belle Meunière",
+  "text": "Lemon Sole Belle Meunière\n\nPreparation time: 10 minutes\n\nCooking time: 15 minutes\n\nYield: 4\n\nIngredients\n\n250 g fresh or frozen soft herring roes,\n\n300 ml milk,\n\n1 bay leaf,\n\n1 sprig thyme,\n\nsunflower oil for frying,\n\n4 x 180 g skinned lemon sole fillets,\n\nplain flour for dusting,\n\n125 g brown shrimps or prawns (peeled and cooked),\n\n150 g unsalted butter,\n\n1/2 bunch flat leaf pasrley,\n\njuice of 1/5 lemon,\n\nSalt & freshly ground black pepper.\n\nPreparation\n\n1. Put the herring roes in a saucepan with the milk, bay leaf, thyme and a pinch of salt. Bring to the boil and simmer for 2 minutes. Remove roes and drain on kitchen paper.\n\n2. Heat oil in a non stick frying pan. Add the lemon sole and fry for 3 minutes on each side until golden brown. Remove and keep warm.\n\n3. Lightly flour the herring roes. Wipe the frying pan with kitchen roll, heat some more oil and fry the roes until golden brown. Add the brown shrimps, butter, flat leaf parsley and lemon juice. Season. This should take no longer than 5 minutes.\n\n4. Place the lemon sole in the middle of a warm plate. Spoon the herring roes on top and pour the shrimp and parsley butter over the top and around the fish to finish.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "250 g fresh or frozen soft herring roes,",
+    "300 ml milk,",
+    "1 bay leaf,",
+    "1 sprig thyme,",
+    "sunflower oil for frying,",
+    "4 x 180 g skinned lemon sole fillets,",
+    "plain flour for dusting,",
+    "125 g brown shrimps or prawns (peeled and cooked),",
+    "150 g unsalted butter,",
+    "1/2 bunch flat leaf pasrley,",
+    "juice of 1/5 lemon,",
+    "Salt & freshly ground black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put the herring roes in a saucepan with the milk, bay leaf, thyme and a pinch of salt. Bring to the boil and simmer for 2 minutes. Remove roes and drain on kitchen paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat oil in a non stick frying pan. Add the lemon sole and fry for 3 minutes on each side until golden brown. Remove and keep warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Lightly flour the herring roes. Wipe the frying pan with kitchen roll, heat some more oil and fry the roes until golden brown. Add the brown shrimps, butter, flat leaf parsley and lemon juice. Season. This should take no longer than 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Place the lemon sole in the middle of a warm plate. Spoon the herring roes on top and pour the shrimp and parsley butter over the top and around the fish to finish."
+    }
+  ]
+}

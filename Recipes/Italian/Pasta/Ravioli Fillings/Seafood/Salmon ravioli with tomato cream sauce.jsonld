@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salmon ravioli with tomato cream sauce",
+  "text": "Salmon ravioli with tomato cream sauce\n\nPreparation time: 15 minutes\n\nCooking time: 40-45 minutes\n\nYield:\n\nIngredients\n\n4 oz fresh pasta,\n\n1 egg,\n\n1 salmon fillet,\n\n5 oz ricotta cheese,\n\n1 tbsp lemon zest,\n\nsalt and pepper.\n\nFor the sauce\n\n2 cups cherry tomatoes,\n\n1 tbsp extra virgin olive oil,\n\n1 clove finely chopped garlic,\n\n1 tbsp finely chopped sage leaves,\n\n3 anchovy fillets,\n\n1/4 cup white wine,\n\n1/2 cup double cream,\n\nsalt and freshly ground black pepper,\n\n1/2 cup freshly grated Parmesan,\n\nPreparation\n\n1. Preheat oven to 375 F.\n\n2. Toss cherry tomatoes with an olive oil, chopped garlic, sea salt and sage leaves.\n\n3. Put them on a baking sheet and bake for 15-20 min until tender.\n\n4. Transfer roasted tomatoes with a juice in a small sauce pan, add chopped anchovy fillet and add the white wine.\n\n5. Bring to a simmer, then reduce heat to a medium-low and continue simmering 5 min.\n\n6. Pour the tomatoes with all the juice in a blender and puree until smooth.\n\n7. Pour tomato mixture through a sieve and return to a sauce pan over a medium heat.\n\n8. Stir in cream and simmer until slightly thickened, about 2 minutes.\n\n9. Add 2-3 tablespoons of Parmesan, season with salt and black pepper to taste.\n\n10. Remove from the heat.\n\n11. In a food processor combine salmon fillet, ricotta and lemon, then process until smooth.\n\n12. Season with salt and pepper.\n\n13. In a small bowl lightly beat an egg.\n\n14. Fill the ravioli, using the egg wash to seal.\n\n15. Drop ravioli into a salted boiling water and cook until they float.\n\n16. Serve ravioli with a hot tomato cream sauce and grated Parmesan.",
+  "prepTime": "PT15M",
+  "recipeIngredient": [
+    "4 oz fresh pasta,",
+    "1 egg,",
+    "1 salmon fillet,",
+    "5 oz ricotta cheese,",
+    "1 tbsp lemon zest,",
+    "salt and pepper.",
+    "For the sauce: 2 cups cherry tomatoes,",
+    "For the sauce: 1 tbsp extra virgin olive oil,",
+    "For the sauce: 1 clove finely chopped garlic,",
+    "For the sauce: 1 tbsp finely chopped sage leaves,",
+    "For the sauce: 3 anchovy fillets,",
+    "For the sauce: 1/4 cup white wine,",
+    "For the sauce: 1/2 cup double cream,",
+    "For the sauce: salt and freshly ground black pepper,",
+    "For the sauce: 1/2 cup freshly grated Parmesan,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Preheat oven to 375 F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Toss cherry tomatoes with an olive oil, chopped garlic, sea salt and sage leaves."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Put them on a baking sheet and bake for 15-20 min until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Transfer roasted tomatoes with a juice in a small sauce pan, add chopped anchovy fillet and add the white wine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Bring to a simmer, then reduce heat to a medium-low and continue simmering 5 min."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Pour the tomatoes with all the juice in a blender and puree until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Pour tomato mixture through a sieve and return to a sauce pan over a medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Stir in cream and simmer until slightly thickened, about 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Add 2-3 tablespoons of Parmesan, season with salt and black pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Remove from the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. In a food processor combine salmon fillet, ricotta and lemon, then process until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. Season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13. In a small bowl lightly beat an egg."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "14. Fill the ravioli, using the egg wash to seal."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "15. Drop ravioli into a salted boiling water and cook until they float."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "16. Serve ravioli with a hot tomato cream sauce and grated Parmesan."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 40-45 minutes"
+    }
+  ]
+}

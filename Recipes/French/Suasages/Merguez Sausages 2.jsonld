@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Merguez Sausages 2",
+  "text": "Merguez Sausages 2\n\nIngredients\n\nFor the Sausage\n\n1 kilo ground shoulder and leg\n\n250 grams finely diced hard fat\n\n4 cloves garlic, mashed with 1 tablespoon salt\n\n1 teaspoon harissa\n\n1 tablespoon finely minced cilantro\n\n1 tablespoon merguez spice blend\n\nFor the spice blend\n\n1 part Cumin\n\n1/4 part turmeric\n\n1/8 part caraway\n\n1/6 coriander\n\n1/16 fennel\n\n1/8 dried thyme (zaatar)\n\n¼ sumac\n\n1/4 sweet paprika\n\n1/8 ancho chile powder\n\n1/4 cayenne\n\n1/32 black pepper\n\n1/32 white pepper\n\n1/32 pink pepper\n\nPreparation",
+  "recipeIngredient": [
+    "For the Sausage: 1 kilo ground shoulder and leg",
+    "For the Sausage: 250 grams finely diced hard fat",
+    "For the Sausage: 4 cloves garlic, mashed with 1 tablespoon salt",
+    "For the Sausage: 1 teaspoon harissa",
+    "For the Sausage: 1 tablespoon finely minced cilantro",
+    "For the Sausage: 1 tablespoon merguez spice blend",
+    "For the spice blend: 1 part Cumin",
+    "For the spice blend: 1/4 part turmeric",
+    "For the spice blend: 1/8 part caraway",
+    "For the spice blend: 1/6 coriander",
+    "For the spice blend: 1/16 fennel",
+    "For the spice blend: 1/8 dried thyme (zaatar)",
+    "For the spice blend: ¼ sumac",
+    "For the spice blend: 1/4 sweet paprika",
+    "For the spice blend: 1/8 ancho chile powder",
+    "For the spice blend: 1/4 cayenne",
+    "For the spice blend: 1/32 black pepper",
+    "For the spice blend: 1/32 white pepper",
+    "For the spice blend: 1/32 pink pepper"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Empanada",
+  "text": "Beef Empanada\n\nPreparation time: 30 Minutes\n\nCooking time: 10-15 Minutes\n\nYield: 12 servings\n\nIngredients\n\n1 kg of empanada dough\n\n4 onions chopped,\n\n2 tsp salt,\n\n1 tbsp smoked paprika,\n\n1 tbsp chilli flakes,\n\n1 tbsp cumin,\n\noregano,\n\n500g sirloin chopped into 1cm cubes.\n\n3 spring onions chopped,\n\n3 eggs - boiled and roughly chopped.\n\nEggwash\n\nBlack olives (optional)\n\nEquipment\n\nParchment paper.\n\nPreparation\n\nPut some lard in a medium frying pan on a medium heat, add four chopped onions and fry till soft.\n\nSeason with 2 tsp salt, 1 tbsp smoked paprika, 1 tbsp chilli flakes,  1 tbsp cumin.\n\nEmpty the pan into a bowl.\n\nAdd some more lard and sear 500g sirloin chopped into 1cm cubes.\n\nAdd the meat to the bowl with the onions.\n\nAdd to the mixture, 3 chopped spring onions, and 3 roughly chopped boiled eggs.\n\nChill the mixture in the fridge.\n\nAfter the mixture is cooled fill the empanada with 2 tbsp per circle of pstry.\n\nBake them in the oven at 200C for 10-15 minutes.",
+  "prepTime": "PT30M",
+  "recipeYield": "12 servings",
+  "recipeIngredient": [
+    "1 kg of empanada dough",
+    "4 onions chopped,",
+    "2 tsp salt,",
+    "1 tbsp smoked paprika,",
+    "1 tbsp chilli flakes,",
+    "1 tbsp cumin,",
+    "oregano,",
+    "500g sirloin chopped into 1cm cubes.",
+    "3 spring onions chopped,",
+    "3 eggs - boiled and roughly chopped.",
+    "Eggwash",
+    "Black olives (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put some lard in a medium frying pan on a medium heat, add four chopped onions and fry till soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with 2 tsp salt, 1 tbsp smoked paprika, 1 tbsp chilli flakes,  1 tbsp cumin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Empty the pan into a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add some more lard and sear 500g sirloin chopped into 1cm cubes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the meat to the bowl with the onions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add to the mixture, 3 chopped spring onions, and 3 roughly chopped boiled eggs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill the mixture in the fridge."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After the mixture is cooled fill the empanada with 2 tbsp per circle of pstry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake them in the oven at 200C for 10-15 minutes."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Parchment paper."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 10-15 Minutes"
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1Z_F5LCE9dZte9On_BPv-BabMrcnndg4fbwVhZb0oUY0/edit?usp=sharing"
+  ]
+}

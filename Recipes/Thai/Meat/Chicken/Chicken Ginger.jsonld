@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Ginger",
+  "text": "Chicken Ginger\n\nPreparation time: 10 minutes\n\nCooking time: 8 minutes\n\nYield: 2\n\nIngredients\n\n2 cloves of garlic - finely chopped,\n\n25mm ginger - julienned,\n\n2 skinless chicken breasts - sliced into bite sized pieces,\n\n3 spring onions cut into 25mm lengths,\n\n1/2 carrot - julienned,\n\n1/2 onion - sliced,\n\n1/2 green pepper - sliced,\n\n1/2 red pepper - sliced,\n\n6 king oyster mushrooms - thickly sliced,\n\nSmall bunch of Thai celery (or European celery leaves) - chopped,\n\n1 tbsp fish sauce,\n\n1/2 tbsp palm sugar (or caster sugar),\n\n1/2 tbsp oyster sauce,\n\n1/2 tbsp dark soy sauce,\n\n1 tbsp groundnut oil.\n\nPreparation\n\nAdd oil to the wook.\n\nOn a low heat, add the ginger and garlic and fry to 30 seconds. It should become fragrant.\n\nAdd the chicken. Increase to a medium heat. Fry for 2 minutes until slightly undercooked. The chicken should be white on the outside, but still slightly pink in the center.\n\nAdd the remaining vegetables except the Thai celery , and fry for 1 minute.\n\nAdd the oyster sauce, soy sauce, fish sauce, and sugar and cook for a further minute.\n\nAdd the Thai celery, mix, and serve.",
+  "prepTime": "PT10M",
+  "cookTime": "PT8M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "2 cloves of garlic - finely chopped,",
+    "25mm ginger - julienned,",
+    "2 skinless chicken breasts - sliced into bite sized pieces,",
+    "3 spring onions cut into 25mm lengths,",
+    "1/2 carrot - julienned,",
+    "1/2 onion - sliced,",
+    "1/2 green pepper - sliced,",
+    "1/2 red pepper - sliced,",
+    "6 king oyster mushrooms - thickly sliced,",
+    "Small bunch of Thai celery (or European celery leaves) - chopped,",
+    "1 tbsp fish sauce,",
+    "1/2 tbsp palm sugar (or caster sugar),",
+    "1/2 tbsp oyster sauce,",
+    "1/2 tbsp dark soy sauce,",
+    "1 tbsp groundnut oil."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add oil to the wook."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "On a low heat, add the ginger and garlic and fry to 30 seconds. It should become fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chicken. Increase to a medium heat. Fry for 2 minutes until slightly undercooked. The chicken should be white on the outside, but still slightly pink in the center."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining vegetables except the Thai celery , and fry for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the oyster sauce, soy sauce, fish sauce, and sugar and cook for a further minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the Thai celery, mix, and serve."
+    }
+  ]
+}

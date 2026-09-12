@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Stir-Fried Minced Beef with Chillies & Holy Basil",
+  "text": "Stir-Fried Minced Beef with Chillies & Holy Basil\n\n(neau pat bai grapao)\n\nPreparation time: 30 minutes\n\nCooking time: 10 minutes\n\nYield: 2\n\nIngredients\n\n4 garlic cloves,\n\n4-10 birds eye chilies,\n\ngood pinch of salt,\n\n3-4 tbsp oil,\n\n2 eggs,\n\n200g coarsely minced beef,\n\n2 tbsp fish sauce,\n\nlarge pinch white sugar,\n\n1/4 cup stock or water,\n\n2 handfuls of holy basil,\n\nPreparation\n\n1. Coarsely chop the garlic with the chillies and salt.\n\n2. Heat a well-seasoned wok over a high heat then turn down the heat and add 2 tablespoons of the oil. Crack in one of the eggs and fry gently, shuffling the egg to prevent it from sticking, until it has cooked to your preference – I like mine with a runny yolk but with crispy, frazzled edges. Spoon some of the hot oil over the egg to ensure the yolk cooks evenly. Carefully lift out the egg with a spatula and place it on a warmed plate, then fry the other egg. Keep the eggs warm while you cook the beef.\n\n3. Add more oil – you’ll need about 4 tablespoons of oil all up in the wok. When the oil is hot, fry the garlic and chillies for a moment, but don’t let it colour. Add the beef and continue to stir-fry for a minute until just cooked. Season to taste with the fish sauce and sugar but be careful not to make it too salty.\n\n4. Add the stock or water and simmer for a moment. Don’t let it boil or stew for too long, otherwise the meat will toughen and too much liquid will evaporate – there should be enough to form a sauce. Stir in the holy basil and as soon as it is wilted, remove from the heat. It should taste rich, hot, salty and spicy from the basil.\n\n5. Serve on two plates with plenty of steamed jasmine rice, a fried egg on top and a bowl of chillies in fish sauce on the side.",
+  "prepTime": "PT30M",
+  "cookTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "4 garlic cloves,",
+    "4-10 birds eye chilies,",
+    "good pinch of salt,",
+    "3-4 tbsp oil,",
+    "2 eggs,",
+    "200g coarsely minced beef,",
+    "2 tbsp fish sauce,",
+    "large pinch white sugar,",
+    "1/4 cup stock or water,",
+    "2 handfuls of holy basil,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Coarsely chop the garlic with the chillies and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat a well-seasoned wok over a high heat then turn down the heat and add 2 tablespoons of the oil. Crack in one of the eggs and fry gently, shuffling the egg to prevent it from sticking, until it has cooked to your preference – I like mine with a runny yolk but with crispy, frazzled edges. Spoon some of the hot oil over the egg to ensure the yolk cooks evenly. Carefully lift out the egg with a spatula and place it on a warmed plate, then fry the other egg. Keep the eggs warm while you cook the beef."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add more oil – you’ll need about 4 tablespoons of oil all up in the wok. When the oil is hot, fry the garlic and chillies for a moment, but don’t let it colour. Add the beef and continue to stir-fry for a minute until just cooked. Season to taste with the fish sauce and sugar but be careful not to make it too salty."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the stock or water and simmer for a moment. Don’t let it boil or stew for too long, otherwise the meat will toughen and too much liquid will evaporate – there should be enough to form a sauce. Stir in the holy basil and as soon as it is wilted, remove from the heat. It should taste rich, hot, salty and spicy from the basil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Serve on two plates with plenty of steamed jasmine rice, a fried egg on top and a bowl of chillies in fish sauce on the side."
+    }
+  ],
+  "description": "(neau pat bai grapao)"
+}

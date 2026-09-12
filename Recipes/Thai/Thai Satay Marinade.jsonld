@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Satay Marinade",
+  "text": "Thai Satay Marinade\n\nPrep time: 10 minutes\n\nCooking time: 0 minutes\n\nTotal time: 10 minutes\n\nYield: Makes enough marinade for 500g of beef or chicken.\n\nStatus: Successful\n\nIngredients\n\n1/4 cup chopped fresh lemongrass stalks,\n\n2 roughly chopped shallots,\n\n4 cloves garlic,\n\n1 fresh red chilli,\n\n1 chopped thumb-size piece galangal,\n\n1/2 tsp turmeric,\n\n2 tbsp ground coriander,\n\n2 tsp cumin,\n\n3 tbsp dark soy sauce,\n\n4 tbsp fish sauce,\n\n5 tbsp brown sugar,\n\n2 tbsp vegetable oil,\n\n3 cardamom pods.\n\nPreparation\n\n1. Place all marinade ingredients in a blender and whizz until smooth.\n\n2. Leave the meat in the marinade for 4-18 hours.",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "Makes enough marinade for 500g of beef or chicken.",
+  "recipeIngredient": [
+    "1/4 cup chopped fresh lemongrass stalks,",
+    "2 roughly chopped shallots,",
+    "4 cloves garlic,",
+    "1 fresh red chilli,",
+    "1 chopped thumb-size piece galangal,",
+    "1/2 tsp turmeric,",
+    "2 tbsp ground coriander,",
+    "2 tsp cumin,",
+    "3 tbsp dark soy sauce,",
+    "4 tbsp fish sauce,",
+    "5 tbsp brown sugar,",
+    "2 tbsp vegetable oil,",
+    "3 cardamom pods."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place all marinade ingredients in a blender and whizz until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Leave the meat in the marinade for 4-18 hours."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Status: Successful"
+    }
+  ]
+}

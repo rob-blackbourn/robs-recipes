@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Smoked Salmon Mousse",
+  "text": "Smoked Salmon Mousse\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1/2 lb (250 g) smoked salmon,\n\n1 egg,\n\n100 ml double cream,\n\n1 tsp fresh chopped chives,\n\npepper.\n\nPreparation\n\n1. Puree the smoked salmon and egg until smooth.\n\n2. Add the cream, chives and a little pepper.",
+  "recipeIngredient": [
+    "1/2 lb (250 g) smoked salmon,",
+    "1 egg,",
+    "100 ml double cream,",
+    "1 tsp fresh chopped chives,",
+    "pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Puree the smoked salmon and egg until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the cream, chives and a little pepper."
+    }
+  ]
+}

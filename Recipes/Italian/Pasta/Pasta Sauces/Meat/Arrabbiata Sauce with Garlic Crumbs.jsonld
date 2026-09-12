@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Arrabbiata Sauce with Garlic Crumbs",
+  "text": "Arrabbiata Sauce with Garlic Crumbs\n\nPreparation time: 5 minutes\n\nCooking time: 30 minutes\n\nYield: 4\n\nIngredients\n\n3 tbsp olive oil,\n\n3 shallots (finely chopped),\n\n8 slices of unsmoked pancetta (chopped),\n\n2 tsp crushed dried chilli flakes,\n\n500g tinned chopped tomatoes,\n\nSalt & pepper,\n\nMollica\n\n6 slices of white bread, crusts removed,\n\n125g butter,\n\n2 cloves of garlic (finely chopped)\n\nPreparation\n\n1. Heat the oil in a large saucepan and gently fry the shallots and pancetta for 6-8 minutes until the shallots are golden. Add the chilli flakes and chopped tomatoes, bring to the boil, then half-cover the pan, reduce the heat and simmer for 20 minutes until the sauce is thick and has reduced. Season to taste with salt and pepper.\n\n2. Meanwhile, make the mollica. Put the bread into a food processor and reduce to crumbs. Heat the butter in a frying pan, add the garlic and the breadcrumbs and stir fry until golden and crisp (don’t let the crumbs catch or burn or the dish will be ruined).\n\n3. Scatter the tomato sauce with the garlic crumbs and garnish with parsley.",
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "3 tbsp olive oil,",
+    "3 shallots (finely chopped),",
+    "8 slices of unsmoked pancetta (chopped),",
+    "2 tsp crushed dried chilli flakes,",
+    "500g tinned chopped tomatoes,",
+    "Salt & pepper,",
+    "Mollica: 6 slices of white bread, crusts removed,",
+    "Mollica: 125g butter,",
+    "Mollica: 2 cloves of garlic (finely chopped)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil in a large saucepan and gently fry the shallots and pancetta for 6-8 minutes until the shallots are golden. Add the chilli flakes and chopped tomatoes, bring to the boil, then half-cover the pan, reduce the heat and simmer for 20 minutes until the sauce is thick and has reduced. Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Meanwhile, make the mollica. Put the bread into a food processor and reduce to crumbs. Heat the butter in a frying pan, add the garlic and the breadcrumbs and stir fry until golden and crisp (don’t let the crumbs catch or burn or the dish will be ruined)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Scatter the tomato sauce with the garlic crumbs and garnish with parsley."
+    }
+  ]
+}

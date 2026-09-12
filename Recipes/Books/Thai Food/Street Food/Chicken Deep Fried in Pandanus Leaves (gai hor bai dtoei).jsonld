@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Deep Fried in Pandanus Leaves (gai hor bai dtoei)",
+  "text": "Chicken Deep Fried in Pandanus Leaves (gai hor bai dtoei)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n3 skinless chicken thighs,\n\n2 coriander roots (scraped and chopped),\n\npinch of salt,\n\n3 garlic cloves (peeled),\n\n2cm piece of ginger (peeled),\n\npinch of ground star anise (optional),\n\n10 white peppercorns,\n\n1/2 cup kecap manis,\n\n5 tbsp palm sugar,\n\n3 tbsp chinese red vinegar,\n\n2 tbsp sesame oil,\n\n2 tbsp Worcestershire sauce,\n\n15 large pandanus leaves,\n\noil for deep frying,\n\npinch of sesame seeds (roasted).\n\nPreparation\n\n1. Cut each chicken thigh into 5 pieces.\n\n2. Using a pestle and mortar, pound coriander roots with salt, garlic, ginger, star anise (if using), and peppercorns into a fine paste.\n\n3. Stir in the soy sauce, palm sugar, vinegar, sesame oil and Worcestershire sauce.\n\n4. Use half of the mixture to marinate the chicken overnight (or up to 3 days) refrigerated.\n\n5. When ready to cook dilute the remaining mixture with a tablespoon or so of water to make a dipping sauce.\n\n6. Remove the chicken from the marinade and wrap each peice in a pandanus leaf.\n\n7. Deep fry in oil over a medium heat being careful not to burn.\n\n8. Drain then rest for a minute.\n\n9. Serve sprinkled with the roasted sesame seeds, with the dipping sauce.",
+  "recipeIngredient": [
+    "3 skinless chicken thighs,",
+    "2 coriander roots (scraped and chopped),",
+    "pinch of salt,",
+    "3 garlic cloves (peeled),",
+    "2cm piece of ginger (peeled),",
+    "pinch of ground star anise (optional),",
+    "10 white peppercorns,",
+    "1/2 cup kecap manis,",
+    "5 tbsp palm sugar,",
+    "3 tbsp chinese red vinegar,",
+    "2 tbsp sesame oil,",
+    "2 tbsp Worcestershire sauce,",
+    "15 large pandanus leaves,",
+    "oil for deep frying,",
+    "pinch of sesame seeds (roasted)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cut each chicken thigh into 5 pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Using a pestle and mortar, pound coriander roots with salt, garlic, ginger, star anise (if using), and peppercorns into a fine paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Stir in the soy sauce, palm sugar, vinegar, sesame oil and Worcestershire sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Use half of the mixture to marinate the chicken overnight (or up to 3 days) refrigerated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. When ready to cook dilute the remaining mixture with a tablespoon or so of water to make a dipping sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Remove the chicken from the marinade and wrap each peice in a pandanus leaf."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Deep fry in oil over a medium heat being careful not to burn."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Drain then rest for a minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Serve sprinkled with the roasted sesame seeds, with the dipping sauce."
+    }
+  ]
+}

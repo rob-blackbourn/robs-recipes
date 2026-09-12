@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Roast Duck",
+  "text": "Roast Duck\n\nYield: 6\n\nPreparation time: 5 minutes then 2 hours wait, then 10 minutes.\n\nCooking time: 2 1/2 hours\n\nIngredients\n\n1.8 kg Duck,\n\n5 cm piece of fresh ginger,\n\n2 tbsp dark soy sauce,\n\n1 tbsp honey,\n\n1 1/2 tsp Chinese five spice,\n\n1/2 tsp freshly ground white pepper,\n\n2 spring onions (chopped),\n\nSesame oil or vegetable oil for basting.\n\nPreparation\n\n1. Remove the giblets from the duck and rinse well.\n\n2. Pour boiling water over the skin and set aside to dry for 2 hours.\n\n3. Grate 1/2 the ginger and squeeze the liquid into a small mixing bowl.\n\n4. Add the honey, soy sauce, five spice powder and pepper to the bowl and mix well.\n\n5. Paint 3/4 of the mixture over the duck skin.\n\n6. Place the spring onions and the remaining ginger into the cavity.\n\n7. Brush a large piece of foil with oil and set the duck in the centre and wrap well.\n\n8. Place the duck in an oven dish and bake for 2 hours at Gas Mark 3 (160C, 320F).\n\n9. Remove the foil and prick the skin to release fat. Brush with the reserved marinade, then with oil.\n\n10. Bake uncovered for 30 minutes, turning once.",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "1.8 kg Duck,",
+    "5 cm piece of fresh ginger,",
+    "2 tbsp dark soy sauce,",
+    "1 tbsp honey,",
+    "1 1/2 tsp Chinese five spice,",
+    "1/2 tsp freshly ground white pepper,",
+    "2 spring onions (chopped),",
+    "Sesame oil or vegetable oil for basting."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Remove the giblets from the duck and rinse well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Pour boiling water over the skin and set aside to dry for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Grate 1/2 the ginger and squeeze the liquid into a small mixing bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the honey, soy sauce, five spice powder and pepper to the bowl and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Paint 3/4 of the mixture over the duck skin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Place the spring onions and the remaining ginger into the cavity."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Brush a large piece of foil with oil and set the duck in the centre and wrap well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Place the duck in an oven dish and bake for 2 hours at Gas Mark 3 (160C, 320F)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Remove the foil and prick the skin to release fat. Brush with the reserved marinade, then with oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Bake uncovered for 30 minutes, turning once."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 5 minutes then 2 hours wait, then 10 minutes."
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 2 1/2 hours"
+    }
+  ]
+}

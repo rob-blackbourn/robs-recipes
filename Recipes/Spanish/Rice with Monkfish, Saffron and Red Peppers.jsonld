@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Rice with Monkfish, Saffron and Red Peppers",
+  "text": "Rice with Monkfish, Saffron and Red Peppers\n\nPreparation time: less than 30 mins\n\nCooking time: 10 to 30 mins\n\nYield: serves 4\n\nIngredients\n\nOlive oil,\n\n2 banana shallots (finely chopped),\n\n3 garlic cloves separated (finely chopped),\n\n½ tsp smoked paprika (plus extra for seasoning the fish),\n\npinch crushed dried chilies,\n\n4 vine tomatoes,\n\n500ml fish stock,\n\n500 ml chicken stock,\n\n½ tsp loosely packed saffron strands\n\n400g paella rice,\n\n1 large roasted red pepper,\n\n500g monkfish fillet (cut into 1cm thick slices).\n\nPreparation\n\n1. Grate the halved tomatoes, pressing the fleshy, cut face of the tomato against the grater. (As you grate each tomato half, the skin will flatten out and be left behind.) Discard the skin.\n\n2. Heat two tablespoons of the olive oil in a shallow flameproof casserole, add the shallot and fry gently for 10 minutes or until soft and sweet but not browned. Add the garlic, pimentón and chillies and fry for 2-3 more minutes, then stir in the tomatoes and cook until they have broken down into a thick sauce.\n\n3. Stir in the stock, saffron and 1 tsp of salt and bring to the boil. Sprinkle in the rice, stir once, then leave to simmer vigorously over a medium-high heat for 5-6 minutes.\n\n4. Meanwhile, cut the roasted red pepper into 1cm wide strips, removing and discarding any skin or seeds. Sprinkle them over the top of the rice and shake the pan briefly so they sink into the mixture a little. Lower the heat and leave to simmer gently for another 12 minutes. At the end of this time almost all the liquid should be absorbed and the rice will be pitted with small holes.\n\n5. Shortly before the rice is ready, pat the monkfish pieces dry on kitchen paper and season well with salt and a little pimentón. Heat the remaining two tablespoons of oil in a non-stick frying pan. Add the monkfish slices a few at a time and fry over a high heat for one minute on either side until very lightly coloured and almost cooked through.\n\n6. Lay the pieces of fish on top of the rice, turn off the heat and cover the casserole with a clean tea towel, opened-out newspaper or lid. Leave to rest for five minutes, during which time the monkfish will finish cooking through.",
+  "recipeYield": "serves 4",
+  "recipeIngredient": [
+    "Olive oil,",
+    "2 banana shallots (finely chopped),",
+    "3 garlic cloves separated (finely chopped),",
+    "½ tsp smoked paprika (plus extra for seasoning the fish),",
+    "pinch crushed dried chilies,",
+    "4 vine tomatoes,",
+    "500ml fish stock,",
+    "500 ml chicken stock,",
+    "½ tsp loosely packed saffron strands",
+    "400g paella rice,",
+    "1 large roasted red pepper,",
+    "500g monkfish fillet (cut into 1cm thick slices)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Grate the halved tomatoes, pressing the fleshy, cut face of the tomato against the grater. (As you grate each tomato half, the skin will flatten out and be left behind.) Discard the skin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat two tablespoons of the olive oil in a shallow flameproof casserole, add the shallot and fry gently for 10 minutes or until soft and sweet but not browned. Add the garlic, pimentón and chillies and fry for 2-3 more minutes, then stir in the tomatoes and cook until they have broken down into a thick sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Stir in the stock, saffron and 1 tsp of salt and bring to the boil. Sprinkle in the rice, stir once, then leave to simmer vigorously over a medium-high heat for 5-6 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Meanwhile, cut the roasted red pepper into 1cm wide strips, removing and discarding any skin or seeds. Sprinkle them over the top of the rice and shake the pan briefly so they sink into the mixture a little. Lower the heat and leave to simmer gently for another 12 minutes. At the end of this time almost all the liquid should be absorbed and the rice will be pitted with small holes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Shortly before the rice is ready, pat the monkfish pieces dry on kitchen paper and season well with salt and a little pimentón. Heat the remaining two tablespoons of oil in a non-stick frying pan. Add the monkfish slices a few at a time and fry over a high heat for one minute on either side until very lightly coloured and almost cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Lay the pieces of fish on top of the rice, turn off the heat and cover the casserole with a clean tea towel, opened-out newspaper or lid. Leave to rest for five minutes, during which time the monkfish will finish cooking through."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: less than 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 10 to 30 mins"
+    }
+  ]
+}

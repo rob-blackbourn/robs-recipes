@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Montpellier Butter",
+  "text": "Montpellier Butter\n\nPreparation time: 10 minutes\n\nCooking time: none\n\nIngredients\n\n25 g watercress,\n\n25 g spinach,\n\n25 g tarragon leaves,\n\n25 g parsley,\n\n25 g chervil,\n\n6 anchovy fillets,\n\n2 tbsp capers,\n\n4 miniature gherkins,\n\n1 egg yolk,\n\n3 hard boiled egg yolk,\n\n125 g softened butter,\n\n5-6 tbsp olive oil,\n\nlemon juice.\n\nPreparation\n\n1. Pour boiling water over the herbs, leave for 1 minute, then drain and dry as completely as possible.\n\n2. Put the herbs in a food processor with the anchovy fillets, capers, gherkins and egg yolks, and process until smooth.\n\n3. Transfer to a bowl and mash in the softened the butter.\n\n4. Sieve the mixture.\n\n5. Mix in the olive oil gradually.\n\n6. Sharpen with a little lemon juice.",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "recipeIngredient": [
+    "25 g watercress,",
+    "25 g spinach,",
+    "25 g tarragon leaves,",
+    "25 g parsley,",
+    "25 g chervil,",
+    "6 anchovy fillets,",
+    "2 tbsp capers,",
+    "4 miniature gherkins,",
+    "1 egg yolk,",
+    "3 hard boiled egg yolk,",
+    "125 g softened butter,",
+    "5-6 tbsp olive oil,",
+    "lemon juice."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Pour boiling water over the herbs, leave for 1 minute, then drain and dry as completely as possible."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Put the herbs in a food processor with the anchovy fillets, capers, gherkins and egg yolks, and process until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Transfer to a bowl and mash in the softened the butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Sieve the mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Mix in the olive oil gradually."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Sharpen with a little lemon juice."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beurre Blanc with Cream",
+  "text": "Beurre Blanc with Cream\n\nPreparation time: 10 minutes\n\nCooking time: 15 minutes\n\nYield: 6\n\nIngredients\n\n2 tbsp water,\n\n2 tbsp white wine vinegar,\n\n2 tbsp white wine,\n\n1 shallot (finely chopped),\n\n2 tbsp double cream,\n\n125g butter (chilled and diced),\n\nPreparation\n\n1. Put the shallot, water, wine and vinegar into a small saucepan and reduce until almost all the liquid has gone.\n\n2. Remove from the heat and allow to cool a little.\n\n3. Whisk in the cold butter a piece at a time until the sauce has a custard like consistency, returning the sauce to the heat from time to time to keep warm.\n\n4. Season.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "2 tbsp water,",
+    "2 tbsp white wine vinegar,",
+    "2 tbsp white wine,",
+    "1 shallot (finely chopped),",
+    "2 tbsp double cream,",
+    "125g butter (chilled and diced),"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put the shallot, water, wine and vinegar into a small saucepan and reduce until almost all the liquid has gone."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Remove from the heat and allow to cool a little."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Whisk in the cold butter a piece at a time until the sauce has a custard like consistency, returning the sauce to the heat from time to time to keep warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Season."
+    }
+  ]
+}

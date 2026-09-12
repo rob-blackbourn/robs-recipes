@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Mayonnaise",
+  "text": "Mayonnaise\n\nYield: 4\n\nPreparation time: 5 minutes\n\nIngredients\n\n2 egg yolks,\n\n1 tbsp strong Dijon mustard,\n\n250 ml groundnut oil,\n\n1 tbsp white wine vinegar (warmed) or 1 tbsp cold lemon juice,\n\nSalt and freshly ground pepper.\n\nPreparation\n\n1. In a bowl combine the egg yolks, mustard and a little salt and pepper.\n\n2. Pour in the oil in a thin stream. whisking continually.\n\n3. When it is all incorporated, whisk more vigorously for 30 seconds until glossy.\n\n4. Add the hot vinegar or cold lemon juice.\n\n5. Check the seasoning.",
+  "recipeYield": "4",
+  "prepTime": "PT5M",
+  "recipeIngredient": [
+    "2 egg yolks,",
+    "1 tbsp strong Dijon mustard,",
+    "250 ml groundnut oil,",
+    "1 tbsp white wine vinegar (warmed) or 1 tbsp cold lemon juice,",
+    "Salt and freshly ground pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. In a bowl combine the egg yolks, mustard and a little salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Pour in the oil in a thin stream. whisking continually."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. When it is all incorporated, whisk more vigorously for 30 seconds until glossy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the hot vinegar or cold lemon juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Check the seasoning."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Lamb Pie - Hairy Bikers",
+  "text": "Lamb Pie - Hairy Bikers\n\nPreparation time: 1-2 hours\n\nCooking time: 1 to 2 hours\n\nYield: 6\n\nIngredients\n\nFor the pie filling\n\n3 tbsp plain flour\n\n½ tsp flaked sea salt, plus extra, to taste\n\nfreshly ground black pepper, to taste\n\n1kg/2lb 2oz lamb neck fillet (preferably Gloucestershire) excess fat\n\ntrimmed, cut into bite-sized pieces\n\n2-3 tbsp rapeseed oil\n\n2 onions, peeled, halved and sliced\n\n½ tsp freshly grated nutmeg\n\n¼ tsp ground allspice\n\n1 sprig fresh rosemary, leaves only, finely chopped\n\n500ml/17½fl oz fresh chicken or lamb stock\n\n300ml/10½fl oz cold water\n\n1 Bramley apple, peeled, quartered, core removed, sliced\n\n2 crisp eating apples, such as Cox, peeled, quartered, core removed, sliced\n\n4-5 large fresh sage leaves, finely sliced\n\nFor the pastry\n\n300g/10½oz plain flour, plus extra for dusting\n\ngood pinch salt\n\n75g/2½oz cold lard, cut into small pieces\n\n75g/2½oz cold butter, cut into small pieces\n\n1 free-range egg\n\n1 tbsp cold water\n\nTo serve\n\nmashed potatoes\n\nseasonal vegetables\n\nPreparation method\n\n1. For the filling, place the flour, sea salt and a good grinding of black pepper into a large bowl and mix well. Add the lamb pieces and toss well together until the meat is lightly coated with the seasoned flour.\n\n2. Heat the rapeseed oil in a large frying pan and fry the lamb pieces for 3-4 minutes, in small batches, until golden-brown all over. Transfer the seared lamb meat to a large, heavy-based pan or flame-proof casserole and set aside.\n\n3. Return the frying pan to the heat, adding more oil if necessary, then fry the onions for 5-6 minutes, or until golden-brown. Add the onions to the casserole with the lamb.\n\n4. Add the nutmeg, allspice and rosemary to the casserole, then pour over the stock and the water. Bring to the boil, then reduce the heat and leave to simmer for 40 minutes, or until the lamb is just tender and the liquid has reduced to a the consistency of gravy. Season, to taste, with salt and freshly ground black pepper, then remove the pan from the heat, cover and leave to cool for 30 minutes.\n\n5. Mix the apples together with the chopped sage and season with freshly ground black pepper. Set aside.\n\n6. Meanwhile, for the pastry, sift the flour and salt into a bowl and rub in the lard and butter with your fingertips until the mixture resembles breadcrumbs.\n\n7. Lightly whisk the egg together with the water, then place two tablespoons of the mixture into a separate bowl to use as a glaze for the pastry.\n\n8. Make a well in the centre of the flour, lard and butter mixture and add the egg. Stir with a wooden spoon until the mixture comes together to form a dough, then shape into a ball. Lightly flour the work surface and knead the dough lightly, then flatten slightly into a round and wrap in cling film. Chill in the fridge for 30 minutes.\n\n9. Preheat the oven to 200C/400F/Gas 6.\n\n10. For the pie, spoon half of the lamb mixture into a 2.2 litre pie dish. Top with half the apples and cover with the remaining lamb mixture. Finish with a final layer of apples, piling them up above the edge of the dish. Ease a pie funnel into the centre of the pie to help support the pastry and set aside.\n\n11. Unwrap the pastry and roll out into a large oval shape roughly 5cm/2in larger than the pie dish. Cut a 2cm/1in wide ring of pastry from around the edge of this oval.\n\n12. Brush the rim of the pie dish with the reserved egg and water mixture. Press the pastry ring onto the rim of the pie dish, overlapping slightly at the end join. Brush lightly with a little more egg and then cover the pie completely with the rolled pastry, making a small hole for the top of the pie funnel.\n\n13. Press the edges firmly to seal, then trim the pastry and flute all the way around. Brush the pastry with the remaining egg mixture and place the pie dish on a baking tray. Bake the pie in the centre of the oven for 25 minutes, or until the pastry is golden-brown and crisp.\n\n14. Serve the pie piping hot with creamy mashed potatoes and seasonal vegetables.",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "For the pie filling: 3 tbsp plain flour",
+    "For the pie filling: ½ tsp flaked sea salt, plus extra, to taste",
+    "For the pie filling: freshly ground black pepper, to taste",
+    "For the pie filling: 1kg/2lb 2oz lamb neck fillet (preferably Gloucestershire) excess fat",
+    "For the pie filling: trimmed, cut into bite-sized pieces",
+    "For the pie filling: 2-3 tbsp rapeseed oil",
+    "For the pie filling: 2 onions, peeled, halved and sliced",
+    "For the pie filling: ½ tsp freshly grated nutmeg",
+    "For the pie filling: ¼ tsp ground allspice",
+    "For the pie filling: 1 sprig fresh rosemary, leaves only, finely chopped",
+    "For the pie filling: 500ml/17½fl oz fresh chicken or lamb stock",
+    "For the pie filling: 300ml/10½fl oz cold water",
+    "For the pie filling: 1 Bramley apple, peeled, quartered, core removed, sliced",
+    "For the pie filling: 2 crisp eating apples, such as Cox, peeled, quartered, core removed, sliced",
+    "For the pie filling: 4-5 large fresh sage leaves, finely sliced",
+    "For the pastry: 300g/10½oz plain flour, plus extra for dusting",
+    "For the pastry: good pinch salt",
+    "For the pastry: 75g/2½oz cold lard, cut into small pieces",
+    "For the pastry: 75g/2½oz cold butter, cut into small pieces",
+    "For the pastry: 1 free-range egg",
+    "For the pastry: 1 tbsp cold water",
+    "To serve: mashed potatoes",
+    "To serve: seasonal vegetables"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. For the filling, place the flour, sea salt and a good grinding of black pepper into a large bowl and mix well. Add the lamb pieces and toss well together until the meat is lightly coated with the seasoned flour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat the rapeseed oil in a large frying pan and fry the lamb pieces for 3-4 minutes, in small batches, until golden-brown all over. Transfer the seared lamb meat to a large, heavy-based pan or flame-proof casserole and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Return the frying pan to the heat, adding more oil if necessary, then fry the onions for 5-6 minutes, or until golden-brown. Add the onions to the casserole with the lamb."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the nutmeg, allspice and rosemary to the casserole, then pour over the stock and the water. Bring to the boil, then reduce the heat and leave to simmer for 40 minutes, or until the lamb is just tender and the liquid has reduced to a the consistency of gravy. Season, to taste, with salt and freshly ground black pepper, then remove the pan from the heat, cover and leave to cool for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Mix the apples together with the chopped sage and season with freshly ground black pepper. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Meanwhile, for the pastry, sift the flour and salt into a bowl and rub in the lard and butter with your fingertips until the mixture resembles breadcrumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Lightly whisk the egg together with the water, then place two tablespoons of the mixture into a separate bowl to use as a glaze for the pastry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Make a well in the centre of the flour, lard and butter mixture and add the egg. Stir with a wooden spoon until the mixture comes together to form a dough, then shape into a ball. Lightly flour the work surface and knead the dough lightly, then flatten slightly into a round and wrap in cling film. Chill in the fridge for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Preheat the oven to 200C/400F/Gas 6."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. For the pie, spoon half of the lamb mixture into a 2.2 litre pie dish. Top with half the apples and cover with the remaining lamb mixture. Finish with a final layer of apples, piling them up above the edge of the dish. Ease a pie funnel into the centre of the pie to help support the pastry and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Unwrap the pastry and roll out into a large oval shape roughly 5cm/2in larger than the pie dish. Cut a 2cm/1in wide ring of pastry from around the edge of this oval."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. Brush the rim of the pie dish with the reserved egg and water mixture. Press the pastry ring onto the rim of the pie dish, overlapping slightly at the end join. Brush lightly with a little more egg and then cover the pie completely with the rolled pastry, making a small hole for the top of the pie funnel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13. Press the edges firmly to seal, then trim the pastry and flute all the way around. Brush the pastry with the remaining egg mixture and place the pie dish on a baking tray. Bake the pie in the centre of the oven for 25 minutes, or until the pastry is golden-brown and crisp."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "14. Serve the pie piping hot with creamy mashed potatoes and seasonal vegetables."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 1-2 hours"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 1 to 2 hours"
+    }
+  ]
+}

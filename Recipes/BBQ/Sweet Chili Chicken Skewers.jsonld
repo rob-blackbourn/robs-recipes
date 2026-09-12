@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sweet Chili Chicken Skewers",
+  "text": "Sweet Chili Chicken Skewers\n\nPreparation time: 10 minutes\n\nCooking time: 10 minutes\n\nYield: 6\n\nIngredients\n\n1 tbsp coriander leaves,\n\n20ml vegetable oil,\n\n1 tsp Asian hot chilli sauce, such as Sriracha,\n\n1 tsp light brown sugar,\n\n1 tsp soy sauce,\n\n1 cloves garlic,\n\n1 cm fresh ginger (peeled and roughly chopped),\n\n1/2 small onion (roughly chopped),\n\nsea salt,\n\n200 g boneless, skinless chicken thighs (cut into twelve 3 1/2 to 4-inch strips),\n\nSweet chilli dipping sauce (to serve),\n\nPreparation\n\n1. Combine the coriander, oil, chilli sauce, sugar, soy sauce, garlic, ginger, onions and 1/2 tsp salt in a mini food processor and process until smooth.\n\n2. Drain the skewers and thread a piece of chicken onto each skewer. Place the skewers in a large nonreactive baking dish and rub with the marinade mixture. Cover and marinate in the refrigerator 1 to 2 hours.\n\n3. Preheat a grill or grill pan over medium-high heat. Remove the skewers from the baking dish and discard the marinade.\n\n4. Cook the chicken, turning once, until well charred and cooked through, 4 to 6 minutes per side.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "1 tbsp coriander leaves,",
+    "20ml vegetable oil,",
+    "1 tsp Asian hot chilli sauce, such as Sriracha,",
+    "1 tsp light brown sugar,",
+    "1 tsp soy sauce,",
+    "1 cloves garlic,",
+    "1 cm fresh ginger (peeled and roughly chopped),",
+    "1/2 small onion (roughly chopped),",
+    "sea salt,",
+    "200 g boneless, skinless chicken thighs (cut into twelve 3 1/2 to 4-inch strips),",
+    "Sweet chilli dipping sauce (to serve),"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine the coriander, oil, chilli sauce, sugar, soy sauce, garlic, ginger, onions and 1/2 tsp salt in a mini food processor and process until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Drain the skewers and thread a piece of chicken onto each skewer. Place the skewers in a large nonreactive baking dish and rub with the marinade mixture. Cover and marinate in the refrigerator 1 to 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Preheat a grill or grill pan over medium-high heat. Remove the skewers from the baking dish and discard the marinade."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Cook the chicken, turning once, until well charred and cooked through, 4 to 6 minutes per side."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bolognese Sauce",
+  "text": "Bolognese Sauce\n\nPreparation time: 15 minutes\n\nCooking time: 75 minutes\n\nYield: 6\n\nIngredients\n\n25 g (1 oz) butter,\n\n2 tbsp olive oil,\n\n1 onion (finely chopped),\n\n2 celery sticks (finely chopped),\n\n2 cloves of garlic (crushed),\n\n500 g (1 lb) lean minced beef,\n\n200 g (7 oz) spicy Italian sausage (skinned),\n\n300 ml (1/2 pint) red or white wine,\n\n400 g (13  oz) can of chopped tomatoes,\n\n1 tsp caster sugar,\n\n2 bay leaves,\n\n1 tsp dried oregano,\n\n2 tbsp  sun dried tomato paste,\n\nsalt and pepper.\n\nPreparation\n\n1. Melt the butter with the oil in a large heavy based saucepan and gently fry the onion and celery for 5 minutes.\n\n2. Add the garlic, beef and the skinned sausage, and cook until they are lightly coloured, breaking up the mince and sausage with a wooden spoon.\n\n3. Add the wine and allow it to bubble for 2 minutes until slightly evaporated. Add the tomatoes, sugar, bay leaves, oregano, tomato paste, and a little salt and pepper, and bring to the boil. Reduce the heat to it’s lowest setting, cover the pan with a lid and cook for 1 hour, stirring occasionally, until thick and pulpy.",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H15M",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "25 g (1 oz) butter,",
+    "2 tbsp olive oil,",
+    "1 onion (finely chopped),",
+    "2 celery sticks (finely chopped),",
+    "2 cloves of garlic (crushed),",
+    "500 g (1 lb) lean minced beef,",
+    "200 g (7 oz) spicy Italian sausage (skinned),",
+    "300 ml (1/2 pint) red or white wine,",
+    "400 g (13  oz) can of chopped tomatoes,",
+    "1 tsp caster sugar,",
+    "2 bay leaves,",
+    "1 tsp dried oregano,",
+    "2 tbsp  sun dried tomato paste,",
+    "salt and pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Melt the butter with the oil in a large heavy based saucepan and gently fry the onion and celery for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the garlic, beef and the skinned sausage, and cook until they are lightly coloured, breaking up the mince and sausage with a wooden spoon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the wine and allow it to bubble for 2 minutes until slightly evaporated. Add the tomatoes, sugar, bay leaves, oregano, tomato paste, and a little salt and pepper, and bring to the boil. Reduce the heat to it’s lowest setting, cover the pan with a lid and cook for 1 hour, stirring occasionally, until thick and pulpy."
+    }
+  ]
+}

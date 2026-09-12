@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Basic Tomato Sauce",
+  "text": "Basic Tomato Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 60 minutes\n\nYield: 4\n\nIngredients\n\n2 x 400 g cans of plum tomatoes (drained and roughly chopped),\n\n1 onion (finely chopped),\n\n2 cloves garlic (chopped),\n\n4 basil leaves (bruised),\n\n125 ml olive oil.\n\nEquipment\n\nLarge saucepan\n\nBlender or food processor\n\nPreparation\n\n1. Place the tomatoes in a large saucepan with the onions and garlic. Cover the pan, bring to the boil, then cook slowly for 25 minutes.\n\n2. Uncover the pan and simmer for another 15-20 minutes to evaporate any extra liquid, as the sauce should be quite thick.\n\n3. Puree the sauce in a blender, then sieve it to remove any seeds and skin. Stir in the basil and oil.",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "2 x 400 g cans of plum tomatoes (drained and roughly chopped),",
+    "1 onion (finely chopped),",
+    "2 cloves garlic (chopped),",
+    "4 basil leaves (bruised),",
+    "125 ml olive oil."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place the tomatoes in a large saucepan with the onions and garlic. Cover the pan, bring to the boil, then cook slowly for 25 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Uncover the pan and simmer for another 15-20 minutes to evaporate any extra liquid, as the sauce should be quite thick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Puree the sauce in a blender, then sieve it to remove any seeds and skin. Stir in the basil and oil."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Large saucepan"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Blender or food processor"
+    }
+  ]
+}

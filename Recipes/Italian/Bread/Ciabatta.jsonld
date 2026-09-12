@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ciabatta",
+  "text": "Ciabatta\n\nPreparation time:\n\nCooking time:\n\nYield: 2 loaves\n\nIngredients\n\nFor the starter\n\n1/8 tsp dried yeast,\n\n7 tbsp warm water,\n\n150 g (5 1/2 oz) strong white bread flour.\n\nFor the bread\n\n1/2 tsp dried yeast,\n\n2 tbsp warm milk,\n\n280 g (10 oz) strong white bread flour,\n\n1 1/2 tsp salt,\n\n1 tbsp olive oil,\n\n150 ml (5 fl oz) warm water.\n\nPreparation\n\n1. Make the starter by dissolving the yeast in 2 tbsp of warm water and leave it to stand for 10 minutes, or until it is creamy and starting to froth. Add the remaining water and flour. Stir for 4 minutes then cover the bowl with cling film. Leave at room temperature for at least 12 and up to 24 hours.\n\n2. To make the bread, stir together the yeast and warm milk and leave to stand for 10 minutes or until creamy.\n\n3. In a large bowl, combine the flour and salt, making a well in the centre. Add the starter, yeast mixture, oil and sufficient water to make a soft dough. Turn out onto a lightly floured surface and knead for 10 minutes or until the dough is smooth and elastic in texture.\n\n4. Put the dough in a lightly oiled bowl, cover with a damp tea towel and leave in a warm place to rise for about 1 1/2 hours or until it has doubled in size. After this first rise the dough will be sticky and full of air bubbles.\n\n5. Knock back the dough and turn out onto a lightly floured surface. Cut the dough in half and form into rough oval shapes, about 25cm (10 inches) long.\n\n6. Put the loaves on two baking trays lined with baking parchment and make dimples on the surface using floured fingertips. Dust the tops with flour, cover with a damp tea towel and leave to rise in a warm place for 1 1/2 to 2 hours or until it has doubled in size.\n\n7. Preheat the oven to 220C/420F/Gas 7.\n\n8. Bake the loaves for 20 minutes until golden brown. Leave them to cool in a warm place before serving.",
+  "recipeYield": "2 loaves",
+  "recipeIngredient": [
+    "For the starter: 1/8 tsp dried yeast,",
+    "For the starter: 7 tbsp warm water,",
+    "For the starter: 150 g (5 1/2 oz) strong white bread flour.",
+    "For the bread: 1/2 tsp dried yeast,",
+    "For the bread: 2 tbsp warm milk,",
+    "For the bread: 280 g (10 oz) strong white bread flour,",
+    "For the bread: 1 1/2 tsp salt,",
+    "For the bread: 1 tbsp olive oil,",
+    "For the bread: 150 ml (5 fl oz) warm water."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Make the starter by dissolving the yeast in 2 tbsp of warm water and leave it to stand for 10 minutes, or until it is creamy and starting to froth. Add the remaining water and flour. Stir for 4 minutes then cover the bowl with cling film. Leave at room temperature for at least 12 and up to 24 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. To make the bread, stir together the yeast and warm milk and leave to stand for 10 minutes or until creamy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. In a large bowl, combine the flour and salt, making a well in the centre. Add the starter, yeast mixture, oil and sufficient water to make a soft dough. Turn out onto a lightly floured surface and knead for 10 minutes or until the dough is smooth and elastic in texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Put the dough in a lightly oiled bowl, cover with a damp tea towel and leave in a warm place to rise for about 1 1/2 hours or until it has doubled in size. After this first rise the dough will be sticky and full of air bubbles."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Knock back the dough and turn out onto a lightly floured surface. Cut the dough in half and form into rough oval shapes, about 25cm (10 inches) long."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Put the loaves on two baking trays lined with baking parchment and make dimples on the surface using floured fingertips. Dust the tops with flour, cover with a damp tea towel and leave to rise in a warm place for 1 1/2 to 2 hours or until it has doubled in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Preheat the oven to 220C/420F/Gas 7."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Bake the loaves for 20 minutes until golden brown. Leave them to cool in a warm place before serving."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "French Merguez Sausages",
+  "text": "French Merguez Sausages\n\nPreparation Time:\n\nCooking time:\n\nYield: 10 lb\n\nIngredients\n\n7 lbs lean lamb, trimmed and cubed\n\n3 lbs fatback, cubed\n\n3 oz salt\n\n5 tsp granulated sugar\n\n1/2 tsp ground white pepper*\n\n1/2 tsp ground cloves*\n\n1/2 tsp ground ginger*\n\n1 1/2 tsp crushed red pepper flakes\n\n1/4 cup minced garlic, sautï¿½ed and cooled\n\n1 1/2 lb roasted red bell peppers, peeled, seeded, and small diced\n\n1 cup very cold dry red wine or 1 cup ice cold water\n\n38 feet sheep casings, rinsed\n\nPreparation\n\n1. Toss the lamb, fatback, and dry seasonings together, then chill well (at least 2 hours).\n\n2. Grind meat mixture through grinder using a medium plate (1/4-inch) into a mixing bowl over an ice bath.\n\n3. Mix and develop protein: in an electric mixer, mix on low speed for 1 minute, adding the red wine a little at a time. Mix on medium speed for 15 to 20 seconds, or until the sausage mixture is sticky to the touch.\n\n4. Make a tester: make a test patty and pan fry. Adjust the seasoning and consistency if necessary before putting sausage into casings.\n\n5. Stuff the sausage into the prepared casings and twist into 15-inch links. Cut into individual links. Make a spiral with each link and secure with a 6-inch skewer.\n\n6. The sausage is now ready to prepare for eating by pan frying, baking, grilling, or broiling to an internal temperature of 150 degrees F, or hold under refrigeration for up to 7 days.",
+  "recipeYield": "10 lb",
+  "recipeIngredient": [
+    "7 lbs lean lamb, trimmed and cubed",
+    "3 lbs fatback, cubed",
+    "3 oz salt",
+    "5 tsp granulated sugar",
+    "1/2 tsp ground white pepper*",
+    "1/2 tsp ground cloves*",
+    "1/2 tsp ground ginger*",
+    "1 1/2 tsp crushed red pepper flakes",
+    "1/4 cup minced garlic, sautï¿½ed and cooled",
+    "1 1/2 lb roasted red bell peppers, peeled, seeded, and small diced",
+    "1 cup very cold dry red wine or 1 cup ice cold water",
+    "38 feet sheep casings, rinsed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Toss the lamb, fatback, and dry seasonings together, then chill well (at least 2 hours)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Grind meat mixture through grinder using a medium plate (1/4-inch) into a mixing bowl over an ice bath."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Mix and develop protein: in an electric mixer, mix on low speed for 1 minute, adding the red wine a little at a time. Mix on medium speed for 15 to 20 seconds, or until the sausage mixture is sticky to the touch."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Make a tester: make a test patty and pan fry. Adjust the seasoning and consistency if necessary before putting sausage into casings."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Stuff the sausage into the prepared casings and twist into 15-inch links. Cut into individual links. Make a spiral with each link and secure with a 6-inch skewer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. The sausage is now ready to prepare for eating by pan frying, baking, grilling, or broiling to an internal temperature of 150 degrees F, or hold under refrigeration for up to 7 days."
+    }
+  ]
+}

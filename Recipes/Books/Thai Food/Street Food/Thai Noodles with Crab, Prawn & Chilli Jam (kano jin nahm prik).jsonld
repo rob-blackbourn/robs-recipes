@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Noodles with Crab, Prawn & Chilli Jam (kano jin nahm prik)",
+  "text": "Thai Noodles with Crab, Prawn & Chilli Jam (kano jin nahm prik)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n3 cups coconut cream,\n\n3 tbsp roasted and ground mung beans,\n\n2 tbsp chilli jam,\n\n3 tbsp palm sugar,\n\n2 tbsp tamarind water,\n\n3 tbsp fish sauce,\n\n100g minced uncooked prawns,\n\n50g cooked crab meat,\n\n3 tbsp shredded sour snakeskin pear or green mango,\n\n2 tbsp kaffir lime juice,\n\n1 kaffir lime (cut in half),\n\n1 tbsp deep fried shallots,\n\n1 tbsp deep fried garlic,\n\n2 coils kanom jin rice noodles (about 100g).\n\nFor the paste\n\n3 red shallots,\n\n4 cloves garlic,\n\n2 slices galangal (chopped),\n\npinch of salt,\n\n2 coriander roots (scraped and chopped),\n\n1 tsp gapi shrimp paste (roasted).\n\nPreparation\n\n1. First, make the paste: roast shallots, garlic, and galangal; when cool enough to handle peel shallots and garlic. Gradual pound the ingredients together using a pestle and mortar, adding one by one, until smooth.\n\n2. Bring coconut cream to the boil and add paste, ground mung beans and chilli jam. Simmer for a few minutes, then season with ugar, tamarind water, and fish sauce. The sauce should taste smoky, rich, salty and sweet.\n\n3. Add minced prawns and stir to prevent clumping.\n\n4. When cooked (about 5 minutes), add crab, snakeskin pear or green mango, kaffir lime juice and kaffir lime. The sauce should now taste fragrant sour, salty, sweet, yet slightly bitter.\n\n5. Pour into a bowl, sprinkle with deep fried shallots and garlic. Serve alongside the noodles.",
+  "recipeIngredient": [
+    "3 cups coconut cream,",
+    "3 tbsp roasted and ground mung beans,",
+    "2 tbsp chilli jam,",
+    "3 tbsp palm sugar,",
+    "2 tbsp tamarind water,",
+    "3 tbsp fish sauce,",
+    "100g minced uncooked prawns,",
+    "50g cooked crab meat,",
+    "3 tbsp shredded sour snakeskin pear or green mango,",
+    "2 tbsp kaffir lime juice,",
+    "1 kaffir lime (cut in half),",
+    "1 tbsp deep fried shallots,",
+    "1 tbsp deep fried garlic,",
+    "2 coils kanom jin rice noodles (about 100g).",
+    "For the paste",
+    "3 red shallots,",
+    "4 cloves garlic,",
+    "2 slices galangal (chopped),",
+    "pinch of salt,",
+    "2 coriander roots (scraped and chopped),",
+    "1 tsp gapi shrimp paste (roasted)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. First, make the paste: roast shallots, garlic, and galangal; when cool enough to handle peel shallots and garlic. Gradual pound the ingredients together using a pestle and mortar, adding one by one, until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Bring coconut cream to the boil and add paste, ground mung beans and chilli jam. Simmer for a few minutes, then season with ugar, tamarind water, and fish sauce. The sauce should taste smoky, rich, salty and sweet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add minced prawns and stir to prevent clumping."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. When cooked (about 5 minutes), add crab, snakeskin pear or green mango, kaffir lime juice and kaffir lime. The sauce should now taste fragrant sour, salty, sweet, yet slightly bitter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Pour into a bowl, sprinkle with deep fried shallots and garlic. Serve alongside the noodles."
+    }
+  ]
+}

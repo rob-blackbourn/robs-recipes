@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chocolate Brownie",
+  "text": "Chocolate Brownie\n\nYield:\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n140g/5oz dark chocolate,\n\n225g/8oz butter,\n\n5 eggs,\n\n450g/1lb caster sugar,\n\n110g/4oz plain flour,\n\n55g/2oz cocoa powder,\n\n1 tsp baking powder.\n\nPreparation\n\n1. Heat the oven to 190C/375F/Gas 5. Line a 20x30cm/8x12in roasting tin with baking parchment.\n\n2. Melt the chocolate in a large mixing bowl over simmering water.\n\n3. Add the butter.\n\n4. Add the sugar.\n\n3. Take off the heat and beat in the rest of the ingredients.\n\n4. Turn into the roasting tin and bake for 30-40 minutes until the top of the brownie is firm but the inside still feels soft.\n\n5. Take out of the oven and cool in the tin. Cut into 5cm/2in squares when cool.",
+  "recipeIngredient": [
+    "140g/5oz dark chocolate,",
+    "225g/8oz butter,",
+    "5 eggs,",
+    "450g/1lb caster sugar,",
+    "110g/4oz plain flour,",
+    "55g/2oz cocoa powder,",
+    "1 tsp baking powder."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oven to 190C/375F/Gas 5. Line a 20x30cm/8x12in roasting tin with baking parchment."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Melt the chocolate in a large mixing bowl over simmering water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the sugar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Take off the heat and beat in the rest of the ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Turn into the roasting tin and bake for 30-40 minutes until the top of the brownie is firm but the inside still feels soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Take out of the oven and cool in the tin. Cut into 5cm/2in squares when cool."
+    }
+  ]
+}

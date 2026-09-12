@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Roasted Vegetable Sauce",
+  "text": "Roasted Vegetable Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 60 minutes\n\nYield: 4\n\nIngredients\n\n500 g aubergine (roughly chopped),\n\n300 g courgette (roughly chopped),\n\n3 red peppers (cored deseeded, and cut into chunks),\n\n2 red onions (chopped),\n\n2 tsp chopped rosemary,\n\n125 ml olive oil,\n\n1 tbsp balsamic vinegar,\n\n1 tbsp clear honey,\n\nSalt & pepper,\n\nFreshly ground Parmesan cheese.\n\nPreparation\n\n1. Whiz the aubergines in a food processor until chopped into small uneven pieces and tip into a large roasting tin.whiz the courgettes and peppers and add to the tin. Stir in the onions and rosemary and drizzle with 100 ml of olive oil.\n\n2. Roast the vegetables in a preheated oven 200C/400F/Gas 6, for 1 hour, turning frequently until they are deep golden and beginning to caramelise.\n\n3. Blend the remaining oil with the balsamic vinegar and honey. Drizzle this over the vegetables, season lightly and mix well. Serve with grated Parmesan.",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "500 g aubergine (roughly chopped),",
+    "300 g courgette (roughly chopped),",
+    "3 red peppers (cored deseeded, and cut into chunks),",
+    "2 red onions (chopped),",
+    "2 tsp chopped rosemary,",
+    "125 ml olive oil,",
+    "1 tbsp balsamic vinegar,",
+    "1 tbsp clear honey,",
+    "Salt & pepper,",
+    "Freshly ground Parmesan cheese."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Whiz the aubergines in a food processor until chopped into small uneven pieces and tip into a large roasting tin.whiz the courgettes and peppers and add to the tin. Stir in the onions and rosemary and drizzle with 100 ml of olive oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Roast the vegetables in a preheated oven 200C/400F/Gas 6, for 1 hour, turning frequently until they are deep golden and beginning to caramelise."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Blend the remaining oil with the balsamic vinegar and honey. Drizzle this over the vegetables, season lightly and mix well. Serve with grated Parmesan."
+    }
+  ]
+}

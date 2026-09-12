@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Smoked Ham & Haddie Souffle",
+  "text": "Smoked Ham & Haddie Souffle\n\nPreparation time:\n\nCooking time:\n\nYield: 8\n\nIngredients\n\n225g smoked haddock fillet,\n\n50g finely chopped smoked ham,\n\n300ml milk,\n\n2 sprigs of parsley including the stalk,\n\n1 bay leaf,\n\nFreshly ground black pepper,\n\nFreshly grated nutmeg ,\n\nFinely grated rind of half a large lemon,\n\n1 small onion (finely chopped),\n\n1 tbsp finely chopped parsley or mixed herbs such as chervil, lemon balm and dill,\n\n4 large eggs,\n\n40g plain flour,\n\n40g butter.\n\nPreparation\n\n1. Pre-heat oven to Gas mark 5, 375 ̊F, 190 ̊C. Pour hot water into the roasting tin to a depth of approximately 2cm. Place the roasting tin on the top shelf of the oven. The water should be piping hot by the time you put the soufflé in the oven. Butter 8 size 1 ramekins liberally. Coat the base and sides of the dishes with a half-and-half mixture of fine white breadcrumbs and very finely grated Parmesan cheese. Put the dishes to chill in the refrigerator before using.\n\n2. Put all the ingredients, except the haddie, into a wide saucepan. Bring gently to simmering point and lay the fillets of fish into the milk mixture. Cover with a lid and leave the fish to poach very gently in the milk, over a low heat. This will take 5-10 minutes, depending on the thickness of the fish. When it is ready, the fish will begin to flake apart easily. Try not to let the milk overheat and curdle.\n\n3. Lift the fish out of the pan and leave aside to cool. Strain the milk through a sieve and discard the parsley and bay leaf. Retain the onion with the lemon rind. Pour the milk into a measuring jug. You need 300mls to make the sauce. Top up the quantity, if necessary, with a splash of extra milk or cream. Remove any skin or small bones etc from the fish and break it up with a fork. Tip the onion into the bowl with the flaked fish. Add the chopped ham, plus the extra freshly chopped herbs and mix everything together.\n\n4. Melt the butter in a saucepan and stir in the sieved flour to make a roux. Gradually stir in the milk, which the fish was cooked in, stirring all the time until you have a thick sauce. Leave this on a very low heat to cook gently for 10 minutes.\n\n5. Separate the eggs and beat the yolks into the sauce. Add the flaked smoked fish, lemon rind, onion and chopped ham. Stir well. Check seasoning. As smoked fish and ham are salty, you may not need to add any more salt, just a few twists of freshly ground black pepper. Last of all, whisk the egg whites in a clean grease free bowl, until they reach the soft-peak stage. Stir one spoonful of the whites into the fish mixture to loosen it. Fold the remaining egg whites into the fish mixture with a large metal spoon, with a cutting and folding motion.\n\n6. Divide the mixture into the ramekins. Mixture should fill the dishes to just below the indent of the rim. Place the dishes in the hot water in the roasting tin in the pre-heated oven. Be careful, as the water will be hot. They will take 15/20 minutes on the top shelf. The soufflés will rise and look golden brown on the surface. They should be slightly crisp on top and soft in the centre. Some may rise more evenly than others but don’t worry about it. Serve them immediately from the oven, as they sink very quickly.",
+  "recipeYield": "8",
+  "recipeIngredient": [
+    "225g smoked haddock fillet,",
+    "50g finely chopped smoked ham,",
+    "300ml milk,",
+    "2 sprigs of parsley including the stalk,",
+    "1 bay leaf,",
+    "Freshly ground black pepper,",
+    "Freshly grated nutmeg ,",
+    "Finely grated rind of half a large lemon,",
+    "1 small onion (finely chopped),",
+    "1 tbsp finely chopped parsley or mixed herbs such as chervil, lemon balm and dill,",
+    "4 large eggs,",
+    "40g plain flour,",
+    "40g butter."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Pre-heat oven to Gas mark 5, 375 ̊F, 190 ̊C. Pour hot water into the roasting tin to a depth of approximately 2cm. Place the roasting tin on the top shelf of the oven. The water should be piping hot by the time you put the soufflé in the oven. Butter 8 size 1 ramekins liberally. Coat the base and sides of the dishes with a half-and-half mixture of fine white breadcrumbs and very finely grated Parmesan cheese. Put the dishes to chill in the refrigerator before using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Put all the ingredients, except the haddie, into a wide saucepan. Bring gently to simmering point and lay the fillets of fish into the milk mixture. Cover with a lid and leave the fish to poach very gently in the milk, over a low heat. This will take 5-10 minutes, depending on the thickness of the fish. When it is ready, the fish will begin to flake apart easily. Try not to let the milk overheat and curdle."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Lift the fish out of the pan and leave aside to cool. Strain the milk through a sieve and discard the parsley and bay leaf. Retain the onion with the lemon rind. Pour the milk into a measuring jug. You need 300mls to make the sauce. Top up the quantity, if necessary, with a splash of extra milk or cream. Remove any skin or small bones etc from the fish and break it up with a fork. Tip the onion into the bowl with the flaked fish. Add the chopped ham, plus the extra freshly chopped herbs and mix everything together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Melt the butter in a saucepan and stir in the sieved flour to make a roux. Gradually stir in the milk, which the fish was cooked in, stirring all the time until you have a thick sauce. Leave this on a very low heat to cook gently for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Separate the eggs and beat the yolks into the sauce. Add the flaked smoked fish, lemon rind, onion and chopped ham. Stir well. Check seasoning. As smoked fish and ham are salty, you may not need to add any more salt, just a few twists of freshly ground black pepper. Last of all, whisk the egg whites in a clean grease free bowl, until they reach the soft-peak stage. Stir one spoonful of the whites into the fish mixture to loosen it. Fold the remaining egg whites into the fish mixture with a large metal spoon, with a cutting and folding motion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Divide the mixture into the ramekins. Mixture should fill the dishes to just below the indent of the rim. Place the dishes in the hot water in the roasting tin in the pre-heated oven. Be careful, as the water will be hot. They will take 15/20 minutes on the top shelf. The soufflés will rise and look golden brown on the surface. They should be slightly crisp on top and soft in the centre. Some may rise more evenly than others but don’t worry about it. Serve them immediately from the oven, as they sink very quickly."
+    }
+  ]
+}

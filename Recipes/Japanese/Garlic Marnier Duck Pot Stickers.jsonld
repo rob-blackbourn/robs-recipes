@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Garlic Marnier Duck Pot Stickers",
+  "text": "Garlic Marnier Duck Pot Stickers\n\nTotal Time: 2 hr 21 min\n\nPrep: 45 min\n\nCook: 1 hr 35 min\n\nYield: 6 servings\n\nIngredients\n\nMarinated Duck Breast:\n\n7 ounces skinless, boneless duck breast (one whole breast)\n\n1/3 cup orange liqueur\n\n1 cup orange juice\n\n1/2 teaspoon cornstarch\n\n1/4 teaspoon granulated garlic\n\nSalt\n\nDuck Pot Stickers:\n\n15 to 20 roasted garlic cloves\n\n4 scallions, both white part and 2 inches of green part\n\n1 stalk celery\n\n1 medium carrot, cleaned and cut into 1 inch pieces\n\n1/2 cup cilantro\n\n1 (2-inch) piece fresh ginger, peeled and cut into 2 pieces\n\n1 1/2 teaspoons Chinese hot oil\n\n5 tablespoons plum sauce\n\n1 teaspoon soy sauce\n\nSalt\n\n3 teaspoons toasted sesame seeds, reserved\n\n1 tablespoon olive oil\n\n1/2 teaspoon orange liqueur\n\n1 small orange, zested\n\n1 package pot sticker wrappers\n\n1 cup olive oil\n\n1/2 cup soy sauce\n\n1/4 cup white vinegar\n\nDirections\n\nLightly score both sides of the duck breast with a sharp knife. Place in a shallow dish or plastic bag. In a small bowl whisk together orange liqueur, orange juice, cornstarch, garlic, and salt. Pour over duck breast and marinate for 1 hour.\n\nPlace the garlic, scallions, celery, carrot, cilantro, and ginger in the food processor and pulse until finely chopped. Place in medium mixing bowl. Add Chinese hot oil, plum sauce, soy sauce, salt, and sesame seeds and set aside.\n\nCoat the bottom of a medium skillet with 1 tablespoon of olive oil. Heat over medium heat until very hot. Remove the duck breast from the marinade. Add to the hot skillet along with 1 or 2 tablespoons of the marinade. Lower heat to medium, cover and cook for 20 minutes, turning often until cooked through and well glazed. Transfer to a cutting board and allow to cool slightly. Remove all but 1 tablespoon of the duck fat from the skillet. Mince the cooked duck breast and return it to the skillet adding a pinch of salt and 1/2 teaspoon orange liqueur. Cook over high heat until browned. Remove from heat and add to the reserved vegetable mixture. Add the orange zest and stir until well mixed.\n\nSeparate 24 pot sticker wrappers. To fill the pot stickers, place 1 heaping teaspoon of filling on each wrapper. Avoid getting any of the filling on the edges or the wrapper will not seal properly. Wet edges with water, fold wrapper in half to form a half moon shape. Seal the top center of the wrapper by pressing between the fingers. Make 2 pleats, working towards the bottom left corner. Repeat working towards the bottom right corner. Set aside. Repeat with remaining ingredients.\n\nHeat 1 cup of olive oil in a deep frying pan. Add half of the pot stickers to the hot oil and cook until browned and crisp. Remove to a platter and keep hot until ready to serve. Repeat with the remaining pot stickers.\n\nMix together soy sauce and white vinegar to use as a dip for the warm pot stickers",
+  "totalTime": "PT2H21M",
+  "prepTime": "PT45M",
+  "cookTime": "PT1H35M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "Marinated Duck Breast: 7 ounces skinless, boneless duck breast (one whole breast)",
+    "Marinated Duck Breast: 1/3 cup orange liqueur",
+    "Marinated Duck Breast: 1 cup orange juice",
+    "Marinated Duck Breast: 1/2 teaspoon cornstarch",
+    "Marinated Duck Breast: 1/4 teaspoon granulated garlic",
+    "Marinated Duck Breast: Salt",
+    "Duck Pot Stickers: 15 to 20 roasted garlic cloves",
+    "Duck Pot Stickers: 4 scallions, both white part and 2 inches of green part",
+    "Duck Pot Stickers: 1 stalk celery",
+    "Duck Pot Stickers: 1 medium carrot, cleaned and cut into 1 inch pieces",
+    "Duck Pot Stickers: 1/2 cup cilantro",
+    "Duck Pot Stickers: 1 (2-inch) piece fresh ginger, peeled and cut into 2 pieces",
+    "Duck Pot Stickers: 1 1/2 teaspoons Chinese hot oil",
+    "Duck Pot Stickers: 5 tablespoons plum sauce",
+    "Duck Pot Stickers: 1 teaspoon soy sauce",
+    "Duck Pot Stickers: Salt",
+    "Duck Pot Stickers: 3 teaspoons toasted sesame seeds, reserved",
+    "Duck Pot Stickers: 1 tablespoon olive oil",
+    "Duck Pot Stickers: 1/2 teaspoon orange liqueur",
+    "Duck Pot Stickers: 1 small orange, zested",
+    "Duck Pot Stickers: 1 package pot sticker wrappers",
+    "Duck Pot Stickers: 1 cup olive oil",
+    "Duck Pot Stickers: 1/2 cup soy sauce",
+    "Duck Pot Stickers: 1/4 cup white vinegar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Lightly score both sides of the duck breast with a sharp knife. Place in a shallow dish or plastic bag. In a small bowl whisk together orange liqueur, orange juice, cornstarch, garlic, and salt. Pour over duck breast and marinate for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the garlic, scallions, celery, carrot, cilantro, and ginger in the food processor and pulse until finely chopped. Place in medium mixing bowl. Add Chinese hot oil, plum sauce, soy sauce, salt, and sesame seeds and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Coat the bottom of a medium skillet with 1 tablespoon of olive oil. Heat over medium heat until very hot. Remove the duck breast from the marinade. Add to the hot skillet along with 1 or 2 tablespoons of the marinade. Lower heat to medium, cover and cook for 20 minutes, turning often until cooked through and well glazed. Transfer to a cutting board and allow to cool slightly. Remove all but 1 tablespoon of the duck fat from the skillet. Mince the cooked duck breast and return it to the skillet adding a pinch of salt and 1/2 teaspoon orange liqueur. Cook over high heat until browned. Remove from heat and add to the reserved vegetable mixture. Add the orange zest and stir until well mixed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Separate 24 pot sticker wrappers. To fill the pot stickers, place 1 heaping teaspoon of filling on each wrapper. Avoid getting any of the filling on the edges or the wrapper will not seal properly. Wet edges with water, fold wrapper in half to form a half moon shape. Seal the top center of the wrapper by pressing between the fingers. Make 2 pleats, working towards the bottom left corner. Repeat working towards the bottom right corner. Set aside. Repeat with remaining ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat 1 cup of olive oil in a deep frying pan. Add half of the pot stickers to the hot oil and cook until browned and crisp. Remove to a platter and keep hot until ready to serve. Repeat with the remaining pot stickers."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together soy sauce and white vinegar to use as a dip for the warm pot stickers"
+    }
+  ]
+}

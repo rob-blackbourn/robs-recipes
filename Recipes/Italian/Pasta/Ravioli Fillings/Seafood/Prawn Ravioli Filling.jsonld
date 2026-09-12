@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Prawn Ravioli Filling",
+  "text": "Prawn Ravioli Filling\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n1 tbsp Butter\n\n1tbsp Olive Oil\n\n450g/1lb Raw Prawns (shrimp), Shelled and deveined\n\n1 Garlic Clove, chopped\n\n4 Spring Onions (Scallion), chopped\n\nSalt and black pepper\n\nInstructions\n\n1. Heat the butter and oil in a large frying pan, add the prawns, garlic and spring onions and stir fry for a few minutes until the prawns turn pink and are just cooked through.\n\n2. Transfer the mixture to a food processor, season with salt and pepper and process until finely chopped but not too smooth. Allow to cool before using.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1 tbsp Butter",
+    "1tbsp Olive Oil",
+    "450g/1lb Raw Prawns (shrimp), Shelled and deveined",
+    "1 Garlic Clove, chopped",
+    "4 Spring Onions (Scallion), chopped",
+    "Salt and black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the butter and oil in a large frying pan, add the prawns, garlic and spring onions and stir fry for a few minutes until the prawns turn pink and are just cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Transfer the mixture to a food processor, season with salt and pepper and process until finely chopped but not too smooth. Allow to cool before using."
+    }
+  ]
+}

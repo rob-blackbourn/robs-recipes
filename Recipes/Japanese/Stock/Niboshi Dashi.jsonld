@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Niboshi Dashi",
+  "text": "Niboshi Dashi\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n4 cups water,\n\n1/2 cup niboshi,\n\nsmall piece of kombu (optional).\n\nPreparation\n\n1. Soak the niboshi in water for 30 minutes. Optionally add a small piece of kombu; remove before heating.\n\n2. Bring to the boil, then simmer for 5 minutes.\n\n3. Strain through a paper towel.",
+  "recipeIngredient": [
+    "4 cups water,",
+    "1/2 cup niboshi,",
+    "small piece of kombu (optional)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak the niboshi in water for 30 minutes. Optionally add a small piece of kombu; remove before heating."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Bring to the boil, then simmer for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Strain through a paper towel."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Nanban",
+  "text": "Chicken Nanban\n\nPreparation time: 10 minutes\n\nCooking time: 15 minutes\n\nYield: 2\n\nIngredients\n\nFor the chicken\n\n300g Chicken Thigh,\n\n1 tbsp Sake,\n\n1/2 tbsp Soy Sauce,\n\n1 tsp Ginger Juice,\n\n2 tbsp Potato Starch.\n\nFor the vegetables\n\n70g Onion (cut into thin strips),\n\n20g carrot (cut into matchsticks),\n\n2 green Peppers (cut into rings,\n\n3 lettuce leaves (to serve on),\n\n1/2 tsp Cooking Oil.\n\nFor the sauce\n\n4 tbsp Water,\n\n4cm x 4cm Kombu Kelp (cut into thin strips),\n\n4 tbsp Vinegar,\n\n1 tbsp Soy Sauce,\n\n1 1/2 tbsp Sugar,\n\n1/8 tsp Salt,\n\n1/2 dried red chili (deseeded and cut into thin rings),\n\nToasted White Sesame Seeds.\n\nPreparation\n\n1.Put the water in a small saucepan and add the Kombu, vinegar, soy sauce, sugar, and salt.\n\n2. Mix well, bring to the boil, then remove from the heat and transfer to a small glass bowl.\n\n3. Add the chili.\n\n4. Put a small frying pan on a medium heat with a little oil and add the onion and carrot. Fry for 1 1/2 minutes until softened, then transfer to the glass bowl.\n\n5. Add the green pepper and mix well.\n\n6. Prick the chicken thigh. Cut in half, the cut each half into four pieces. Put in a bowl and add the soy sauce, sake and ginger juice. Massage until the liquid is absorbed, and leave for 10 minutes.\n\n7. Dry the chicken with kitchen towel and dust with potato starch.\n\n8. Deep fry until golden brown.\n\n9. Transfer the chicken to the vegetables and suave, mix quickly, then drain the sauce into separate dipping bowls.\n\n10. Serve the chicken and vegetables on a lettuce leaf with and scatter on a few sesame seeds.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "For the chicken: 300g Chicken Thigh,",
+    "For the chicken: 1 tbsp Sake,",
+    "For the chicken: 1/2 tbsp Soy Sauce,",
+    "For the chicken: 1 tsp Ginger Juice,",
+    "For the chicken: 2 tbsp Potato Starch.",
+    "For the vegetables: 70g Onion (cut into thin strips),",
+    "For the vegetables: 20g carrot (cut into matchsticks),",
+    "For the vegetables: 2 green Peppers (cut into rings,",
+    "For the vegetables: 3 lettuce leaves (to serve on),",
+    "For the vegetables: 1/2 tsp Cooking Oil.",
+    "For the sauce: 4 tbsp Water,",
+    "For the sauce: 4cm x 4cm Kombu Kelp (cut into thin strips),",
+    "For the sauce: 4 tbsp Vinegar,",
+    "For the sauce: 1 tbsp Soy Sauce,",
+    "For the sauce: 1 1/2 tbsp Sugar,",
+    "For the sauce: 1/8 tsp Salt,",
+    "For the sauce: 1/2 dried red chili (deseeded and cut into thin rings),",
+    "For the sauce: Toasted White Sesame Seeds."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1.Put the water in a small saucepan and add the Kombu, vinegar, soy sauce, sugar, and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Mix well, bring to the boil, then remove from the heat and transfer to a small glass bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the chili."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Put a small frying pan on a medium heat with a little oil and add the onion and carrot. Fry for 1 1/2 minutes until softened, then transfer to the glass bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the green pepper and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Prick the chicken thigh. Cut in half, the cut each half into four pieces. Put in a bowl and add the soy sauce, sake and ginger juice. Massage until the liquid is absorbed, and leave for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Dry the chicken with kitchen towel and dust with potato starch."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Deep fry until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Transfer the chicken to the vegetables and suave, mix quickly, then drain the sauce into separate dipping bowls."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Serve the chicken and vegetables on a lettuce leaf with and scatter on a few sesame seeds."
+    }
+  ]
+}

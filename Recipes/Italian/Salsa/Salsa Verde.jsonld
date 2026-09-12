@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salsa Verde",
+  "text": "Salsa Verde\n\nPreparation time: 10 minutes\n\nCooking time: 30 minutes (to combine)\n\nYield: 2\n\nIngredients\n\n4 anchovy fillets,\n\n1 tbsp capers,\n\n1 clove garlic,\n\n1/2 lemon (zest and juice only),\n\n90ml olive oil,\n\n2 tbsp flat leaf parsley (chopped),\n\n1 tbsp basil (chopped),\n\nSalt & freshly ground black pepper.\n\nPreparation\n\n1. Place the anchovy fillets, capers and garlic into a mortar and pestle and pound until broken down.\n\n2. Add the lemon zest and juice.\n\n3. Add the olive oil in a steady stream, whisking to combine.\n\n4. Stir in the parsley and basil then season with salt and pepper.",
+  "prepTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "4 anchovy fillets,",
+    "1 tbsp capers,",
+    "1 clove garlic,",
+    "1/2 lemon (zest and juice only),",
+    "90ml olive oil,",
+    "2 tbsp flat leaf parsley (chopped),",
+    "1 tbsp basil (chopped),",
+    "Salt & freshly ground black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place the anchovy fillets, capers and garlic into a mortar and pestle and pound until broken down."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the lemon zest and juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the olive oil in a steady stream, whisking to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Stir in the parsley and basil then season with salt and pepper."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 30 minutes (to combine)"
+    }
+  ]
+}

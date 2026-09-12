@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken with Cashew Nuts",
+  "text": "Chicken with Cashew Nuts\n\nKai Phat Met Muang Himaphaan\n\nYield: 4\n\nPreparation time: 24 minutes\n\nCooking time:\n\nStatus: Not hot enough - instructions changed.\n\nIngredients\n\n2 dried red long chilies (deseeded and cut into 1 cm pieces),\n\n1 tbsp fish sauce,\n\n2 tbsp oyster sauce,\n\n3 tbsp chicken stock or water,\n\n1 tbsp sugar,\n\n4 tbsp vegetable oil,\n\n80 g cashew nuts,\n\n5 cloves of garlic (finely chopped),\n\n500 g chicken breast (thinly sliced),\n\n1/2 red pepper (cut into thin strips),\n\n1/2 carrot (thinly sliced diagonally),\n\n1 small onion (cut into 6 wedges),\n\n2 spring onions (cut into 1 cm lengths),\n\nGround white pepper (to sprinkle).\n\nPreparation\n\n1. Mix the fish sauce, oyster sauce, stock, and sugar in a small bowl.\n\n2. Heat the oil in the wok over a medium heat and stir fry the cashew nuts until light brown (2-3 minutes), then remove and drain on paper towels.\n\n3.  Stir fry the chilli and chopped garlic until the garlic is light brown. Add the chicken and stir fry until cooked (4-5 minutes).\n\n4. Add the red pepper, carrot, onion, and the sauce mixture and continue to stir fry for another minute.\n\n5. Add the cashew nuts, chilies, and spring onions and toss well.\n\n6. Sprinkle with white pepper and serve.",
+  "recipeYield": "4",
+  "prepTime": "PT24M",
+  "recipeIngredient": [
+    "2 dried red long chilies (deseeded and cut into 1 cm pieces),",
+    "1 tbsp fish sauce,",
+    "2 tbsp oyster sauce,",
+    "3 tbsp chicken stock or water,",
+    "1 tbsp sugar,",
+    "4 tbsp vegetable oil,",
+    "80 g cashew nuts,",
+    "5 cloves of garlic (finely chopped),",
+    "500 g chicken breast (thinly sliced),",
+    "1/2 red pepper (cut into thin strips),",
+    "1/2 carrot (thinly sliced diagonally),",
+    "1 small onion (cut into 6 wedges),",
+    "2 spring onions (cut into 1 cm lengths),",
+    "Ground white pepper (to sprinkle)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Mix the fish sauce, oyster sauce, stock, and sugar in a small bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat the oil in the wok over a medium heat and stir fry the cashew nuts until light brown (2-3 minutes), then remove and drain on paper towels."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3.  Stir fry the chilli and chopped garlic until the garlic is light brown. Add the chicken and stir fry until cooked (4-5 minutes)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the red pepper, carrot, onion, and the sauce mixture and continue to stir fry for another minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the cashew nuts, chilies, and spring onions and toss well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Sprinkle with white pepper and serve."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Status: Not hot enough - instructions changed."
+    }
+  ],
+  "description": "Kai Phat Met Muang Himaphaan"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kombu no tsukudani",
+  "text": "Kombu no tsukudani\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n100g Kombu,\n\n4 tbsp dark soy sauce,\n\n2 tbsp rice vinegar,\n\n2 tbsp mirin,\n\n2 tbsp sugar,\n\n1 tsp grated ginger juice (optional).\n\nPreparation\n\n1. Soak the Kombu in enough water to cover it until it is soft enough to cut.\n\n2. Reserve the water and cut into bite size pieces, and return to the water.\n\n3. Add the vinegar and leave for at least 1 hour.\n\n4. Add the other ingredients, bring the pan to a simmer, then lower the heat.\n\n5. Add liquid if necessary.\n\n6. Cook until soft, shiny, caramalised, and transluscent.",
+  "recipeIngredient": [
+    "100g Kombu,",
+    "4 tbsp dark soy sauce,",
+    "2 tbsp rice vinegar,",
+    "2 tbsp mirin,",
+    "2 tbsp sugar,",
+    "1 tsp grated ginger juice (optional)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak the Kombu in enough water to cover it until it is soft enough to cut."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Reserve the water and cut into bite size pieces, and return to the water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the vinegar and leave for at least 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the other ingredients, bring the pan to a simmer, then lower the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add liquid if necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Cook until soft, shiny, caramalised, and transluscent."
+    }
+  ]
+}

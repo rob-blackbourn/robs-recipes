@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bearnaise Sauce",
+  "text": "Bearnaise Sauce\n\nYield: 6\n\nPreparation time: 20 minutes\n\nCooking time: 12-15 minutes\n\nIngredients\n\n2 tbsp white wine vinegar,\n\n3 tbsp snipped tarragon,\n\n30 g shallots (finely chopped),\n\n10 peppercorns (crushed),\n\n4 egg yolks,\n\n4 tbsp cold water,\n\n3 tbsp cold water,\n\n250 g freshly clarified butter (cooled to tepid),\n\n2 tbsp snipped chervil,\n\nJuice of ½ lemon,\n\nSalt and freshly ground pepper.\n\nPreparation\n\n1. Combine the vinegar, 2 tbsp tarragon, the shallot and peppercorns in a small thick bottomed saucepan, and reduce by half over a low heat. Set aside to cool.\n\n2. When cool add the vinegar reduction to the egg yolks and cold water.\n\n3. Set the bowl over a pan of boiling water and whisk continuously.\n\n4. Gently increase the heat until creamy (8-10 minutes).\n\n5. Turn off the heat and add the clarified butter, initially a drop at a time, then in increasing quantities.\n\n6. Season with salt and pepper.",
+  "recipeYield": "6",
+  "prepTime": "PT20M",
+  "recipeIngredient": [
+    "2 tbsp white wine vinegar,",
+    "3 tbsp snipped tarragon,",
+    "30 g shallots (finely chopped),",
+    "10 peppercorns (crushed),",
+    "4 egg yolks,",
+    "4 tbsp cold water,",
+    "3 tbsp cold water,",
+    "250 g freshly clarified butter (cooled to tepid),",
+    "2 tbsp snipped chervil,",
+    "Juice of ½ lemon,",
+    "Salt and freshly ground pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine the vinegar, 2 tbsp tarragon, the shallot and peppercorns in a small thick bottomed saucepan, and reduce by half over a low heat. Set aside to cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. When cool add the vinegar reduction to the egg yolks and cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Set the bowl over a pan of boiling water and whisk continuously."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Gently increase the heat until creamy (8-10 minutes)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Turn off the heat and add the clarified butter, initially a drop at a time, then in increasing quantities."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Season with salt and pepper."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 12-15 minutes"
+    }
+  ]
+}

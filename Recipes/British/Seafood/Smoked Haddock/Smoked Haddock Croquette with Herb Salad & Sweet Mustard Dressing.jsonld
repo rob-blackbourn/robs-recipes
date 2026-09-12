@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Smoked Haddock Croquette with Herb Salad & Sweet Mustard Dressing",
+  "text": "Smoked Haddock Croquette with Herb Salad & Sweet Mustard Dressing\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\nFor the croquettes\n\n500g pale smoked haddock fillet,\n\n700ml fish stock,\n\n60g butter,\n\n60g plain flour,\n\n1 tbsp coarse grain mustard,\n\n50g grated mature cheddar cheese,\n\n1 tbsp chopped chives,\n\nSalt, pepper and nutmeg to season,\n\n500g home-made bread crumbs,\n\n200g flour (for coating),\n\n3 whisked eggs (for coating),\n\nMixed salad leaves and fresh herbs eg. dill, chives, fennel.\n\nFor the mustard dressing\n\nIngredients:\n\n2 egg yolks,\n\n4 tablespoon white wine vinegar,\n\n1 tablespoon caster sugar,\n\n1 teaspoon English mustard,\n\n2 tablespoon coarse grain mustard,\n\n200ml sunflower oil,\n\nSalt, pepper and lukewarm water.\n\nPreparation\n\n1. Bring 500ml of your fish stock to boiling point, add the haddock and then remove from heat to cool down.\n\n2. When cooled, remove haddock from fish stock then flake the haddock.\n\n3. Top up the juices with fish stock until you have 500ml again, set aside for next stage.\n\n4. Melt the butter in a pan, add the flour and cook for 1 minute, remove from heat and add the fish stock from the first  stage. Put the pan back on a low heat and bring to the boil slowly. Simmer gently until a “thicker than sauce”  consistency has been achieved, stirring constantly.\n\n5. Gently stir in the flaked haddock, chives, mustard and grated cheese and season to taste with salt, pepper and  nutmeg.\n\n6. Allow to cool then pipe into a continuous sausage shape of 3cm diameter on grease-proof paper, then refrigerate  overnight.\n\n7. Cut into 10cm logs and prepare a breadcrumb station.\n\n8. Dip croquettes into the flour, then whisked egg and then finally into the breadcrumbs, ensuring they are totally  covered.\n\n9. Place in a deep fat fryer at 180°C until golden brown. (Test one first - if the croquettes are breaking repeat the  egg/breadcrumb step).\n\nFor the mustard dressing\n\n10. Put egg yolks in a liquidiser, add sugar, English mustard, vinegar and salt and pepper.\n\n11. Turn on the machine and pour in the oil very slowly until you have a thick emulsion.\n\n12. Add coarse grain mustard and use some lukewarm water to get the right pouring consistency.",
+  "recipeIngredient": [
+    "For the croquettes: 500g pale smoked haddock fillet,",
+    "For the croquettes: 700ml fish stock,",
+    "For the croquettes: 60g butter,",
+    "For the croquettes: 60g plain flour,",
+    "For the croquettes: 1 tbsp coarse grain mustard,",
+    "For the croquettes: 50g grated mature cheddar cheese,",
+    "For the croquettes: 1 tbsp chopped chives,",
+    "For the croquettes: Salt, pepper and nutmeg to season,",
+    "For the croquettes: 500g home-made bread crumbs,",
+    "For the croquettes: 200g flour (for coating),",
+    "For the croquettes: 3 whisked eggs (for coating),",
+    "For the croquettes: Mixed salad leaves and fresh herbs eg. dill, chives, fennel."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "2 egg yolks,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4 tablespoon white wine vinegar,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1 tablespoon caster sugar,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1 teaspoon English mustard,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2 tablespoon coarse grain mustard,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "200ml sunflower oil,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Salt, pepper and lukewarm water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1. Bring 500ml of your fish stock to boiling point, add the haddock and then remove from heat to cool down."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. When cooled, remove haddock from fish stock then flake the haddock."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Top up the juices with fish stock until you have 500ml again, set aside for next stage."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Melt the butter in a pan, add the flour and cook for 1 minute, remove from heat and add the fish stock from the first  stage. Put the pan back on a low heat and bring to the boil slowly. Simmer gently until a “thicker than sauce”  consistency has been achieved, stirring constantly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Gently stir in the flaked haddock, chives, mustard and grated cheese and season to taste with salt, pepper and  nutmeg."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Allow to cool then pipe into a continuous sausage shape of 3cm diameter on grease-proof paper, then refrigerate  overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Cut into 10cm logs and prepare a breadcrumb station."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Dip croquettes into the flour, then whisked egg and then finally into the breadcrumbs, ensuring they are totally  covered."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Place in a deep fat fryer at 180°C until golden brown. (Test one first - if the croquettes are breaking repeat the  egg/breadcrumb step)."
+    },
+    {
+      "@type": "HowToSection",
+      "name": "For the mustard dressing",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "10. Put egg yolks in a liquidiser, add sugar, English mustard, vinegar and salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "11. Turn on the machine and pour in the oil very slowly until you have a thick emulsion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "12. Add coarse grain mustard and use some lukewarm water to get the right pouring consistency."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Syracuse Sauce",
+  "text": "Syracuse Sauce\n\nPreparation time: 15 minutes\n\nCooking time: 35 minutes\n\nYield: 6\n\nIngredients\n\n2 medium onions (sliced),\n\n2 cloves of garlic (crushed),\n\n500 g (1 lb) courgettes (chopped),\n\n2 green peppers (cored, deseeded, and chopped),\n\n400 g (13 oz) can of plum tomatoes (drained and roughly chopped),\n\n250 g (4 oz) pitted black olives,\n\n4 anchovy fillets (finely chopped),\n\n1 tbsp parsley (chopped),\n\n2 tsp chopped marjoram,\n\nsalt and pepper,\n\na few sprigs of flat leaf parsley to garnish.\n\nPreparation\n\n1. Heat the large frying pan and fry the onion and garlic in a little oil for 3-6 minutes, turning constantly, until soft. Add the courgettes and cook for another 10 minutes.\n\n2. Add the green pepper, tomatoes, olives, anchovies and herbs. Bring to the boil, stirring, then cover the pan and simmer for 15 minutes. Season to taste with salt and pepper and garnish with parsley.",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "2 medium onions (sliced),",
+    "2 cloves of garlic (crushed),",
+    "500 g (1 lb) courgettes (chopped),",
+    "2 green peppers (cored, deseeded, and chopped),",
+    "400 g (13 oz) can of plum tomatoes (drained and roughly chopped),",
+    "250 g (4 oz) pitted black olives,",
+    "4 anchovy fillets (finely chopped),",
+    "1 tbsp parsley (chopped),",
+    "2 tsp chopped marjoram,",
+    "salt and pepper,",
+    "a few sprigs of flat leaf parsley to garnish."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the large frying pan and fry the onion and garlic in a little oil for 3-6 minutes, turning constantly, until soft. Add the courgettes and cook for another 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the green pepper, tomatoes, olives, anchovies and herbs. Bring to the boil, stirring, then cover the pan and simmer for 15 minutes. Season to taste with salt and pepper and garnish with parsley."
+    }
+  ]
+}

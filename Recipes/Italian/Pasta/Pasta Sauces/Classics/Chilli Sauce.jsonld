@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chilli Sauce",
+  "text": "Chilli Sauce\n\nPreparation time: 15 minutes\n\nCooking time: 45 minutes\n\nYield: 4\n\nIngredients\n\n1-2 tbsp olive oil,\n\n1 large onion (finely chopped),\n\n2 cloves garlic (crushed),\n\n125 g rindless streaky bacon (chopped),\n\n1-2 fresh red or green chilies (chopped),\n\n400 g can of chopped tomatoes,\n\n50-75 g pecorino or Parmesan cheese (shaved),\n\nSalt & pepper,\n\nPreparation\n\n1. Heat the oil in a pan and cook the onion, garlic and bacon until lightly coloured.\n\n2. Add the chilies, tomatoes, and 25 g of the cheese. Cook over a gentle heat for 30-40 minutes until the sauce thickens. Season to taste with salt and pepper.\n\n3. Server at once, sprinkled with the remaining cheese.",
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1-2 tbsp olive oil,",
+    "1 large onion (finely chopped),",
+    "2 cloves garlic (crushed),",
+    "125 g rindless streaky bacon (chopped),",
+    "1-2 fresh red or green chilies (chopped),",
+    "400 g can of chopped tomatoes,",
+    "50-75 g pecorino or Parmesan cheese (shaved),",
+    "Salt & pepper,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil in a pan and cook the onion, garlic and bacon until lightly coloured."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the chilies, tomatoes, and 25 g of the cheese. Cook over a gentle heat for 30-40 minutes until the sauce thickens. Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Server at once, sprinkled with the remaining cheese."
+    }
+  ]
+}

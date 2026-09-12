@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Saba Misoni",
+  "text": "Saba Misoni\n\nPreparation time: 5 minutes\n\nCooking time: 15 minutes\n\nYield: 2\n\nIngredients\n\n1 mackerel fillet (bines removed, halved, with a diagonal cut in the skin on each half),\n\n1 bell pepper, (seeded and quartered),\n\nwhite part of a long green onion (shredded),\n\n180 ml water,\n\n3 tbsp sake,\n\n1 tbsp sugar,\n\n1 tbsp mirin,\n\n1½ tbsp brown miso,\n\n3 slices of ginger root,\n\n10cm green part of long green onion\n\nwooden drop-lid (otoshi buta).\n\nPreparation\n\n1. Prepare a bowl of iced water, large enough to take the fish pieces.\n\n1. Bring a pan to the boil.\n\n2. Add a ladle of cold water to the boiling (to slightly reduce the temperature), then using a mesh strainer, add the first piece of mackerel, skin side up.\n\n3. When the surface turns white, remove and plug into iced water.\n\n4. Repeat with the other piece of mackerel.\n\n5. Gently wash the fillet in the ticed water, then dry on a paper towel.\n\n6. Into a cold small frying pan add the water, sake, sugar, mirin and half of the miso (using the ladle method).\n\n7. Turn on the heat, and bring to the boil.\n\n8. Put the fish in the pan, skin side up.\n\n9. Bring the mixture to a simmer, removing any scum before adding the ginger and green part of the onion.\n\n10. Place a dampened otoshi buta onto the fish to help it cook evenly.\n\n11. Simmer for 5 minutes on medium heat.\n\n12. Uncover and remove the long green onion.\n\n13. Carefully dissolve the rest of the miso, and add the bell pepper.\n\n14. Cover with the otoshi buta and simmer for 2-3 minutes.\n\n15. Uncover, and remove the bell pepper before it’s colour fades.\n\n16. Baste the fish, and leave uncovered to reduce the sauce.\n\n17. Serve on a plate with the pepper, and some shredded green onion.",
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "1 mackerel fillet (bines removed, halved, with a diagonal cut in the skin on each half),",
+    "1 bell pepper, (seeded and quartered),",
+    "white part of a long green onion (shredded),",
+    "180 ml water,",
+    "3 tbsp sake,",
+    "1 tbsp sugar,",
+    "1 tbsp mirin,",
+    "1½ tbsp brown miso,",
+    "3 slices of ginger root,",
+    "10cm green part of long green onion",
+    "wooden drop-lid (otoshi buta)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Prepare a bowl of iced water, large enough to take the fish pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1. Bring a pan to the boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add a ladle of cold water to the boiling (to slightly reduce the temperature), then using a mesh strainer, add the first piece of mackerel, skin side up."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. When the surface turns white, remove and plug into iced water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Repeat with the other piece of mackerel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Gently wash the fillet in the ticed water, then dry on a paper towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Into a cold small frying pan add the water, sake, sugar, mirin and half of the miso (using the ladle method)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Turn on the heat, and bring to the boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Put the fish in the pan, skin side up."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Bring the mixture to a simmer, removing any scum before adding the ginger and green part of the onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Place a dampened otoshi buta onto the fish to help it cook evenly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Simmer for 5 minutes on medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. Uncover and remove the long green onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13. Carefully dissolve the rest of the miso, and add the bell pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "14. Cover with the otoshi buta and simmer for 2-3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "15. Uncover, and remove the bell pepper before it’s colour fades."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "16. Baste the fish, and leave uncovered to reduce the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "17. Serve on a plate with the pepper, and some shredded green onion."
+    }
+  ]
+}

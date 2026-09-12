@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pat Thai (pat thai)",
+  "text": "Pat Thai (pat thai)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\na good handful of dried thin rice noodles,\n\n1 tbsp palm sugar,\n\n1 tbsp white sugar,\n\n1 tbsp tamarind water,\n\n2 tbsp fish sauce,\n\n1 small bunch Chinese chives,\n\n1 tsp oil,\n\n2 red shallots (coarsely chopped with a pinch of salt),\n\n1 egg.\n\n50g firm bean curd (deep fried and cut into 1/2cm cubes),\n\n1 tbsp dried shrimps (rinsed and dried),\n\n1 tsp shredded white radish (rinsed and dried),\n\npinch of roasted chilli powder,\n\nhandful of bean sprouts,\n\n1 tbsp crushed roasted peanuts,\n\n1 lime wedge,\n\nextra 1 tsp roasted chilli powder.\n\nPreparation\n\n1. Soak noodles in water for 2 hours until soft, then drain.\n\n2. Simmer the palm sugar and white sugar with tamarind water and fish sauce for 1-2 minutes until dissolved.\n\n3. Chop most of the chinese chives into 2cm lengths, reserving a few chopped into 5cm lengths for garnish.\n\n4. Heat the oil in a wok over a medium heat and fry the shallots until fragrant and beggining to colour.\n\n5. Crack in the egg, turn down the heat and stir.\n\n6. Mix in the bean curd, dried prawns and white radish, then add the noodles. Turn up the heat and stir fry for about a minute, allowing the noodles to brown a little.\n\n7. Add the prepared sauce and a pinch of chilli powder, then simmer for another 30 seconds - 1 minute until wilted.\n\n8. Finally add most of the bean sprouts and chinese chives and cook for another 30 seconds until wilted.\n\n9. Check the seasoning: the noodles should taste sweet, sour and salty.\n\n10. Pile on a plate and top with the reserved bean sprouts and chinese chives. Serve with crushed roasted peanuts, a lime wedge, and roasted chilli powder on the side of the plate.",
+  "recipeIngredient": [
+    "a good handful of dried thin rice noodles,",
+    "1 tbsp palm sugar,",
+    "1 tbsp white sugar,",
+    "1 tbsp tamarind water,",
+    "2 tbsp fish sauce,",
+    "1 small bunch Chinese chives,",
+    "1 tsp oil,",
+    "2 red shallots (coarsely chopped with a pinch of salt),",
+    "1 egg.",
+    "50g firm bean curd (deep fried and cut into 1/2cm cubes),",
+    "1 tbsp dried shrimps (rinsed and dried),",
+    "1 tsp shredded white radish (rinsed and dried),",
+    "pinch of roasted chilli powder,",
+    "handful of bean sprouts,",
+    "1 tbsp crushed roasted peanuts,",
+    "1 lime wedge,",
+    "extra 1 tsp roasted chilli powder."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak noodles in water for 2 hours until soft, then drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Simmer the palm sugar and white sugar with tamarind water and fish sauce for 1-2 minutes until dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Chop most of the chinese chives into 2cm lengths, reserving a few chopped into 5cm lengths for garnish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Heat the oil in a wok over a medium heat and fry the shallots until fragrant and beggining to colour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Crack in the egg, turn down the heat and stir."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Mix in the bean curd, dried prawns and white radish, then add the noodles. Turn up the heat and stir fry for about a minute, allowing the noodles to brown a little."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add the prepared sauce and a pinch of chilli powder, then simmer for another 30 seconds - 1 minute until wilted."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Finally add most of the bean sprouts and chinese chives and cook for another 30 seconds until wilted."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Check the seasoning: the noodles should taste sweet, sour and salty."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Pile on a plate and top with the reserved bean sprouts and chinese chives. Serve with crushed roasted peanuts, a lime wedge, and roasted chilli powder on the side of the plate."
+    }
+  ]
+}

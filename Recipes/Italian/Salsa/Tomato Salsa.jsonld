@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tomato Salsa",
+  "text": "Tomato Salsa\n\nPreparation time: 10 minutes\n\nCooking time: 30 minutes (to combine)\n\nYield: 2\n\nPreparation\n\n1 vine tomatoes (de-seeded and chopped),\n\n1handful fresh basil leaves (torn),\n\n1 garlic clove (crushed to a paste with a knife),\n\n3tbsp olive oil,\n\n1 courgette (cut into ribbons with a potato peeler or mandolin),\n\n1 tbsp white wine vinegar,",
+  "prepTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "1 vine tomatoes (de-seeded and chopped),",
+    "1handful fresh basil leaves (torn),",
+    "1 garlic clove (crushed to a paste with a knife),",
+    "3tbsp olive oil,",
+    "1 courgette (cut into ribbons with a potato peeler or mandolin),",
+    "1 tbsp white wine vinegar,"
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 30 minutes (to combine)"
+    }
+  ]
+}

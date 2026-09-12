@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken in Pandanus Leaves",
+  "text": "Chicken in Pandanus Leaves\n\nYield: 18\n\nIngredients\n\n300g chicken breast (thickly sliced across the breast),\n\n8 cloves garlic,\n\n½ tsp pepper,\n\n1½ tbsp light soy sauce,\n\n½ tbsp chinese wine,\n\n1 tsp sesame oil,\n\n⅛ tsp sea salt,\n\n1 tbsp palm sugar,\n\n4 cups vegetable oil,\n\nPandanus leaves,\n\nCocktail sticks.\n\nPreparation\n\n1. Wash and slice the chicken.\n\n2. Combine the rest of the ingredients in a food processor or grind with a pestle and mortar.\n\n3. Marinate the chicken for at least an hour.\n\n4. Clean the pandanus leaves and pat dry.Wrap the chicken in the leaves in triangular packets, and secure with a cocktail stick.\n\n5. Fry in some oil.",
+  "recipeYield": "18",
+  "recipeIngredient": [
+    "300g chicken breast (thickly sliced across the breast),",
+    "8 cloves garlic,",
+    "½ tsp pepper,",
+    "1½ tbsp light soy sauce,",
+    "½ tbsp chinese wine,",
+    "1 tsp sesame oil,",
+    "⅛ tsp sea salt,",
+    "1 tbsp palm sugar,",
+    "4 cups vegetable oil,",
+    "Pandanus leaves,",
+    "Cocktail sticks."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Wash and slice the chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Combine the rest of the ingredients in a food processor or grind with a pestle and mortar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Marinate the chicken for at least an hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Clean the pandanus leaves and pat dry.Wrap the chicken in the leaves in triangular packets, and secure with a cocktail stick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Fry in some oil."
+    }
+  ]
+}

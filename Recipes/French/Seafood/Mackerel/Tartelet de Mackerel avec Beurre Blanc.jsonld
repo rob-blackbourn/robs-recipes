@@ -1,0 +1,137 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tartelet de Mackerel avec Beurre Blanc",
+  "text": "Tartelet de Mackerel avec Beurre Blanc\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1 whole mackerel,\n\nrich shortcrust pastry.\n\nFor the mouse\n\nwhiting,\n\n1 egg white,\n\ndouble cream.\n\nFor the tomato fondue\n\n1 shallot (finely chopped),\n\n1 clove of garlic (crush and finely chopped),\n\noil,\n\n1/2 tbsp tomato paste,\n\n2 fresh tomatoes (skinned, deseeded and cubed)\n\nFor the beurre blanc\n\n1 portion of beurre blanc,\n\nchives.\n\nPreparation\n\nPoaching the mackerel\n\n1. Take the head and fins off the mackerel.\n\n2. Poach in a court bouillon.\n\nPreparing the mouse\n\n3. Add the egg white to the whiting.\n\n4. Puree in a blender.\n\n5. Pass through a sieve.\n\n6. Beat in the double cream until it has the texture of mash potato.\n\n7. Season.\n\nFor the pastry case\n\n8. Roll out the pastry to 3mm thick.\n\n9. Blind bake the tartlet (about 4”) without trimming the edges.\n\nFor the tomato fondue\n\n10. Sweat the shallot and garlic.\n\n11. Add the tomato paste.\n\n12. Add the tomato.\n\n13. Season with the emphasis on pepper.\n\nFor the tartlet\n\n14. Flake the fish.\n\n15. Pipe the mousse into the blind baked pastry case.\n\n16. Add the flaked mackerel.\n\n17. Top with the tomato fondue.\n\n18. Return to the oven to bake.\n\nFor the Beurre blanc\n\n19. Make the beurre blanc..",
+  "recipeIngredient": [
+    "1 whole mackerel,",
+    "rich shortcrust pastry.",
+    "For the mouse: whiting,",
+    "For the mouse: 1 egg white,",
+    "For the mouse: double cream.",
+    "For the tomato fondue: 1 shallot (finely chopped),",
+    "For the tomato fondue: 1 clove of garlic (crush and finely chopped),",
+    "For the tomato fondue: oil,",
+    "For the tomato fondue: 1/2 tbsp tomato paste,",
+    "For the tomato fondue: 2 fresh tomatoes (skinned, deseeded and cubed)",
+    "For the beurre blanc: 1 portion of beurre blanc,",
+    "For the beurre blanc: chives."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Poaching the mackerel",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "1. Take the head and fins off the mackerel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "2. Poach in a court bouillon."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Preparing the mouse",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "3. Add the egg white to the whiting."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "4. Puree in a blender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "5. Pass through a sieve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "6. Beat in the double cream until it has the texture of mash potato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "7. Season."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "For the pastry case",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "8. Roll out the pastry to 3mm thick."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "9. Blind bake the tartlet (about 4”) without trimming the edges."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "For the tomato fondue",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "10. Sweat the shallot and garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "11. Add the tomato paste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "12. Add the tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "13. Season with the emphasis on pepper."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "For the tartlet",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "14. Flake the fish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "15. Pipe the mousse into the blind baked pastry case."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "16. Add the flaked mackerel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "17. Top with the tomato fondue."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "18. Return to the oven to bake."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "For the Beurre blanc",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "19. Make the beurre blanc.."
+        }
+      ]
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1GqT2cw74uRLbc_jRyKAjEyrTJovbVQdmUS2f9Dg8dGM/edit?usp=sharing"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chilies in Fish Sauce",
+  "text": "Chilies in Fish Sauce\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1/4 cup fish sauce,\n\n10-15 birds eye chilies (finely sliced),\n\n2 garlic cloves (finely sliced),\n\n1 tbsp lime juice,\n\ngood pinch of chopped coriander.\n\nPreparation\n\n1. Combine the fish sauce, chillies and garlic in a bowl and set aside. It keeps for some time – in fact it becomes richer and milder as it settles for a day. Make sure it is covered if you are making it in advance – and if the fish sauce evaporates, add an equivalent amount of water to refresh it. Just before serving, stir through the lime juice and coriander.",
+  "recipeIngredient": [
+    "1/4 cup fish sauce,",
+    "10-15 birds eye chilies (finely sliced),",
+    "2 garlic cloves (finely sliced),",
+    "1 tbsp lime juice,",
+    "good pinch of chopped coriander."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine the fish sauce, chillies and garlic in a bowl and set aside. It keeps for some time – in fact it becomes richer and milder as it settles for a day. Make sure it is covered if you are making it in advance – and if the fish sauce evaporates, add an equivalent amount of water to refresh it. Just before serving, stir through the lime juice and coriander."
+    }
+  ]
+}

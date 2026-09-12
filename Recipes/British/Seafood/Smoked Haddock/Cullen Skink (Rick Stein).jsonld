@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Cullen Skink (Rick Stein)",
+  "text": "Cullen Skink (Rick Stein)\n\nPreparation time:\n\nCooking time:\nYield: 4\n\nIngredients\n\n25g butter,\n\n1/2 onion (finely chopped),\n\n600ml whole milk,\n\n375g floury potatoes (peeled and diced),\n\n225g smoked haddock fillet,\n\n1 tbsp chopped parsley plus a little extra to garnish,\n\nSalt and freshly ground black pepper.\n\nPreparation\n\n1. Melt the butter in a pan, add the onion and cook gently for 7 - 8 minutes until it is soft but not browned.\n\n2. Pour in the milk and bring to the boil.\n\n3. Add the diced potatoes and simmer for 20 minutes until they are really soft.\n\n4. Add the smoked haddock and simmer for 3 - 4 minutes, until it is cooked and will flake easily.\n\n5. Carefully lift the fish out onto a plate and leave to cool slightly.\n\n6. Meanwhile crush some of the cooked potatoes up against the side of the pan with the wooden spoon to thicken the soup a little.\n\n7. When the smoked haddock is cool enough to handle, break the fish into flakes, discarding the skin and any bones.\n\n8. Return fish to the pan and stir in the parsley and some seasoning to taste.\n\n9. Serve garnished with a little more chopped parsley.",
+  "recipeIngredient": [
+    "25g butter,",
+    "1/2 onion (finely chopped),",
+    "600ml whole milk,",
+    "375g floury potatoes (peeled and diced),",
+    "225g smoked haddock fillet,",
+    "1 tbsp chopped parsley plus a little extra to garnish,",
+    "Salt and freshly ground black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Melt the butter in a pan, add the onion and cook gently for 7 - 8 minutes until it is soft but not browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Pour in the milk and bring to the boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the diced potatoes and simmer for 20 minutes until they are really soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the smoked haddock and simmer for 3 - 4 minutes, until it is cooked and will flake easily."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Carefully lift the fish out onto a plate and leave to cool slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Meanwhile crush some of the cooked potatoes up against the side of the pan with the wooden spoon to thicken the soup a little."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. When the smoked haddock is cool enough to handle, break the fish into flakes, discarding the skin and any bones."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Return fish to the pan and stir in the parsley and some seasoning to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Serve garnished with a little more chopped parsley."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time:\nYield: 4"
+    }
+  ]
+}

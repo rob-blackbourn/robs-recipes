@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Cauliflower soup",
+  "text": "Cauliflower soup\n\nPreparation time: less than 30 mins\n\nCooking time: less than 10 mins\n\nYield: Serves 2\n\nIngredients\n\n15g/½oz butter,\n\n½ onion (chopped),\n\n150g/5½oz cauliflower (trimmed and chopped),\n\n150ml/5fl oz vegetable stock,\n\n85g/3oz Stilton (crumbled),\n\nPreparation\n\n1. Melt the butter in a saucepan over a medium heat and fry the onion, until softened.\n\n2. Add the cauliflower and vegetable stock, bring to the boil and simmer for 5-6 minutes, or until the cauliflower is cooked.\n\n3. Transfer into a food processor, add the Stilton and blend until smooth.\n\n4. Pour into bowls and serve.",
+  "recipeYield": "Serves 2",
+  "recipeIngredient": [
+    "15g/½oz butter,",
+    "½ onion (chopped),",
+    "150g/5½oz cauliflower (trimmed and chopped),",
+    "150ml/5fl oz vegetable stock,",
+    "85g/3oz Stilton (crumbled),"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Melt the butter in a saucepan over a medium heat and fry the onion, until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the cauliflower and vegetable stock, bring to the boil and simmer for 5-6 minutes, or until the cauliflower is cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Transfer into a food processor, add the Stilton and blend until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Pour into bowls and serve."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: less than 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: less than 10 mins"
+    }
+  ]
+}

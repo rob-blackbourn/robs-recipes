@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salad Nicoise (With Anchovies)",
+  "text": "Salad Nicoise (With Anchovies)\n\nPreparation time: 30 minutes\n\nCooking time: 45 minutes\n\nYield: 2\n\nIngredients\n\n2 eggs\n\n500g broad bean pods or 50g French beans\n\n4 ripe tomatoes\n\n¼ cucumber\n\n2 spring onions, finely chopped\n\n½ red pepper, thinly sliced\n\n50g small black olives, pitted\n\n1 tbsp capers\n\n4 anchovies, cut into slivers\n\nA few basil leaves, roughly torn\n\nFor the dressing:\n\n1 small clove of garlic\n\nPinch of coarse salt\n\n2 anchovies, finely chopped\n\nSmall handful of basil leaves, torn\n\n4 tbsp extra virgin olive oil\n\n½ tbsp red wine vinegar\n\nBlack pepper\n\nPreparation\n\n1. Put the eggs in a pan of cold water and bring slowly to the boil. Simmer for 7½ minutes, then decant into a bowl of iced water. Meanwhile, pod and then peel the broad beans (if using French beans, top and tail them, then cook in salted boiling water until just tender and decant into iced water) and drop the tomatoes into boiling water for 15 seconds, then peel, slice and deseed them. Peel the cucumber in stripes, then deseed and cut into half moons.\n\n2. Make the dressing by pounding the garlic to a paste in a pestle and mortar along with a pinch of coarse salt. Add the anchovies and then the basil, and pound to a paste, adding the olive oil and the vinegar as you go. Season with black pepper.\n\n3. To put the salad together, toss the beans, tomatoes, cucumber, spring onion and red pepper together with two-thirds of the dressing and decant on to a plate. Peel and quarter the eggs and arrange on top, along with the olives, capers, anchovy strips and basil leaves. Spoon the remaining dressing over the salad and serve immediately.",
+  "prepTime": "PT30M",
+  "cookTime": "PT45M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "2 eggs",
+    "500g broad bean pods or 50g French beans",
+    "4 ripe tomatoes",
+    "¼ cucumber",
+    "2 spring onions, finely chopped",
+    "½ red pepper, thinly sliced",
+    "50g small black olives, pitted",
+    "1 tbsp capers",
+    "4 anchovies, cut into slivers",
+    "A few basil leaves, roughly torn",
+    "For the dressing: 1 small clove of garlic",
+    "For the dressing: Pinch of coarse salt",
+    "For the dressing: 2 anchovies, finely chopped",
+    "For the dressing: Small handful of basil leaves, torn",
+    "For the dressing: 4 tbsp extra virgin olive oil",
+    "For the dressing: ½ tbsp red wine vinegar",
+    "For the dressing: Black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put the eggs in a pan of cold water and bring slowly to the boil. Simmer for 7½ minutes, then decant into a bowl of iced water. Meanwhile, pod and then peel the broad beans (if using French beans, top and tail them, then cook in salted boiling water until just tender and decant into iced water) and drop the tomatoes into boiling water for 15 seconds, then peel, slice and deseed them. Peel the cucumber in stripes, then deseed and cut into half moons."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Make the dressing by pounding the garlic to a paste in a pestle and mortar along with a pinch of coarse salt. Add the anchovies and then the basil, and pound to a paste, adding the olive oil and the vinegar as you go. Season with black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. To put the salad together, toss the beans, tomatoes, cucumber, spring onion and red pepper together with two-thirds of the dressing and decant on to a plate. Peel and quarter the eggs and arrange on top, along with the olives, capers, anchovy strips and basil leaves. Spoon the remaining dressing over the salad and serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kedgeree",
+  "text": "Kedgeree\n\nPrep Time: 30 minutes\n\nTotal Time: 30 minutes\n\nYield: 6\n\nIngredients\n\n½ onion (finely chopped),\n\n55g butter,\n\n300g basmati rice,\n\n1 tsp madras curry powder,\n\nfreshly grated nutmeg,\n\n200ml milk,\n\n110ml double cream,\n\n300g smoked haddock (picked over, bones removed and flesh cut into chunks),\n\nsea salt and cracked black pepper,\n\nsmall bunch parsley (chopped),\n\n3 hard-boiled eggs (shelled and halved),\n\ngood pinch cayenne and freshly ground nutmeg (optional)\n\nTo serve\n\nknob of butter\n\nwedges of lemon\n\nPreparation method\n\nCook the onion gently in the butter for a few minutes, then add the rice.\n\nContinue cooking gently and stirring, adding the curry powder and nutmeg. After a few minutes, add the milk, cream and 250ml water.\n\nWhen the mixture begins to simmer, add the fish and continue simmering, stirring occasionally until the rice is cooked. Add water if the mixture becomes dry.\n\nSeason, add the parsley and stir. Add the eggs and garnish with cayenne and nutmeg if using. Serve topped with a knob of butter and wedges of lemon.",
+  "prepTime": "PT30M",
+  "totalTime": "PT30M",
+  "recipeYield": "6",
+  "recipeIngredient": [
+    "½ onion (finely chopped),",
+    "55g butter,",
+    "300g basmati rice,",
+    "1 tsp madras curry powder,",
+    "freshly grated nutmeg,",
+    "200ml milk,",
+    "110ml double cream,",
+    "300g smoked haddock (picked over, bones removed and flesh cut into chunks),",
+    "sea salt and cracked black pepper,",
+    "small bunch parsley (chopped),",
+    "3 hard-boiled eggs (shelled and halved),",
+    "good pinch cayenne and freshly ground nutmeg (optional)",
+    "To serve: knob of butter",
+    "To serve: wedges of lemon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the onion gently in the butter for a few minutes, then add the rice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue cooking gently and stirring, adding the curry powder and nutmeg. After a few minutes, add the milk, cream and 250ml water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the mixture begins to simmer, add the fish and continue simmering, stirring occasionally until the rice is cooked. Add water if the mixture becomes dry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season, add the parsley and stir. Add the eggs and garnish with cayenne and nutmeg if using. Serve topped with a knob of butter and wedges of lemon."
+    }
+  ]
+}

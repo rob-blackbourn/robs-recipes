@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kir Royal",
+  "text": "Kir Royal\n\nIngredients\n\n2 tsp cassis,\n\nChampagne.\n\nPreparation\n\n1. Add the cassis to a champagne glass and top up with champagne.",
+  "recipeIngredient": [
+    "2 tsp cassis,",
+    "Champagne."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Add the cassis to a champagne glass and top up with champagne."
+    }
+  ]
+}

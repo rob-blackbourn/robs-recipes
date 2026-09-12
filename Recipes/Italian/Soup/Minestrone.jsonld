@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Minestrone",
+  "text": "Minestrone\n\nPreparation time: 15 minutes\n\nCooking time: 30 minutes\n\nYield: Serves 4\n\nIngredients\n\n2 tbsp olive oil,\n\nknob of butter,\n\n1 sprig of fresh thyme,\n\n1 clove garlic (crushed),\n\n2 carrots (diced),\n\n1 large onion (diced),\n\n2 celery sticks (diced),\n\n1 head of fennel (diced),\n\n750 ml chicken or vegetable stock,\n\n1 potato (diced),\n\n1 courgette (diced),\n\nditalini pasta,\n\n1 tbsp fresh parsley (finely chopped),\n\nhandful of freshly grated parmesan to serve,\n\nsalt & pepper.\n\nPreparation\n\n1. Heat the oil and butter in a saucepan.\n\n2. Add the thyme, garlic, carrots onion, celery and fennel. Cook over a medium heat for 8-10 minutes without colouring, stirring constantly, until soft.\n\n3. Add enough stock to cover the vegetables, reduce the heat and simmer for 8-10 more minutes.\n\n4. Add the potato and cook for a further 10 minutes.\n\n5. Add the courgette, pasta and parsley and warm through.\n\n6. Season and serve with parmesan.",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "recipeYield": "Serves 4",
+  "recipeIngredient": [
+    "2 tbsp olive oil,",
+    "knob of butter,",
+    "1 sprig of fresh thyme,",
+    "1 clove garlic (crushed),",
+    "2 carrots (diced),",
+    "1 large onion (diced),",
+    "2 celery sticks (diced),",
+    "1 head of fennel (diced),",
+    "750 ml chicken or vegetable stock,",
+    "1 potato (diced),",
+    "1 courgette (diced),",
+    "ditalini pasta,",
+    "1 tbsp fresh parsley (finely chopped),",
+    "handful of freshly grated parmesan to serve,",
+    "salt & pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil and butter in a saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the thyme, garlic, carrots onion, celery and fennel. Cook over a medium heat for 8-10 minutes without colouring, stirring constantly, until soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add enough stock to cover the vegetables, reduce the heat and simmer for 8-10 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the potato and cook for a further 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the courgette, pasta and parsley and warm through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Season and serve with parmesan."
+    }
+  ]
+}

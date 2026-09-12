@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Brown Roux",
+  "text": "Brown Roux\n\nYield: 100g\n\nPreparation time: 3 minutes\n\nCooking time: 9 minutes\n\nIngredients\n\n50 g clarified butter,\n\n50 g flour (sifted).\n\nPreparation\n\n1. Heat the clarified butter in a saucepan.\n\n2. Take the pan off the heat and stir in the flour using a small whisk or spatual.\n\n3. Cook the roux over a medium heat for 8 minutes, stirring continuously until it becomes chestnut brown.\n\n4. Transfer to a bowl and cover with cling film.",
+  "recipeYield": "100g",
+  "prepTime": "PT3M",
+  "cookTime": "PT9M",
+  "recipeIngredient": [
+    "50 g clarified butter,",
+    "50 g flour (sifted)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the clarified butter in a saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Take the pan off the heat and stir in the flour using a small whisk or spatual."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Cook the roux over a medium heat for 8 minutes, stirring continuously until it becomes chestnut brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Transfer to a bowl and cover with cling film."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Green Curry Paste - SD Books",
+  "text": "Green Curry Paste - SD Books\n\nYield:1/2 cup\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n3 tbsp green hot chillies,\n\n5 green spur chillies (sliced),\n\n1 tsp sea salt,\n\n1 tsp mature galangal (finely sliced),\n\n1 tbsp lemongrass (sliced),\n\n½ tsp kaffir lime rind (finely sliced),\n\n1 tsp coriander root (finely sliced),\n\n2 tbsp small garlic (peeled),\n\n¼ cup shallot (sliced),\n\n5 peppercorns,\n\n1 tbsp coriander seeds (roasted and ground),\n\n1 tsp shrimp paste.\n\nPreparation\n\n1. Add both kinds of chilli to a food processor, with the salt, and process.\n\n2. Add the galangal, lemongrass, kaffir lime rind, and coriander root. Process.\n\n3. Add the garlic, shallot, peppercorns, coriander seed, cumin and shrimp paste.\n\n4. Process until a smooth paste.",
+  "recipeYield": "1/2 cup",
+  "recipeIngredient": [
+    "3 tbsp green hot chillies,",
+    "5 green spur chillies (sliced),",
+    "1 tsp sea salt,",
+    "1 tsp mature galangal (finely sliced),",
+    "1 tbsp lemongrass (sliced),",
+    "½ tsp kaffir lime rind (finely sliced),",
+    "1 tsp coriander root (finely sliced),",
+    "2 tbsp small garlic (peeled),",
+    "¼ cup shallot (sliced),",
+    "5 peppercorns,",
+    "1 tbsp coriander seeds (roasted and ground),",
+    "1 tsp shrimp paste."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Add both kinds of chilli to a food processor, with the salt, and process."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the galangal, lemongrass, kaffir lime rind, and coriander root. Process."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the garlic, shallot, peppercorns, coriander seed, cumin and shrimp paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Process until a smooth paste."
+    }
+  ]
+}

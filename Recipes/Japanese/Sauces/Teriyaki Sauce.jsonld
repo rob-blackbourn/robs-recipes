@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Teriyaki Sauce",
+  "text": "Teriyaki Sauce\n\nPreparation time: 3 minutes\n\nCooking time: 0 minutes\n\nYield: 120 ml\n\nIngredients\n\n2 tbsp soy sauce,\n\n2 tbsp mirin,\n\n4 tbsp sake,\n\n1/2 tbsp sugar.\n\nPreparation\n\n1. Add all ingredients to a bowl and mix well.",
+  "prepTime": "PT3M",
+  "cookTime": "PT0M",
+  "recipeYield": "120 ml",
+  "recipeIngredient": [
+    "2 tbsp soy sauce,",
+    "2 tbsp mirin,",
+    "4 tbsp sake,",
+    "1/2 tbsp sugar."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Add all ingredients to a bowl and mix well."
+    }
+  ]
+}

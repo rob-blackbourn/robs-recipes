@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Cucumber Relish",
+  "text": "Cucumber Relish\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n3 tbsp coconut vinegar or white vinegar,\n\n3 tbsp white sugar,\n\n4 tbsp water,\n\npinch of salt,\n\n1 small cucumber (washed, quartered lengthwise and sliced),\n\n4 red shallots (finely sliced),\n\n2 tbsp ginger (julienned),\n\n1 long red chilli (julienned or cut into thin rounds),\n\n1 tbsp coriander leaves.\n\nPreparation\n\n1. Combine vinegar, sugar, water and salt in a small saucepan, and bring to the boil.\n\n2. Remove from the heat when the sugar has dissolved and cool. The syrup should taste sour and sweet.\n\n3. Mix the remaining ingredients in a serving bowl and pour the syrup over them.",
+  "recipeIngredient": [
+    "3 tbsp coconut vinegar or white vinegar,",
+    "3 tbsp white sugar,",
+    "4 tbsp water,",
+    "pinch of salt,",
+    "1 small cucumber (washed, quartered lengthwise and sliced),",
+    "4 red shallots (finely sliced),",
+    "2 tbsp ginger (julienned),",
+    "1 long red chilli (julienned or cut into thin rounds),",
+    "1 tbsp coriander leaves."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine vinegar, sugar, water and salt in a small saucepan, and bring to the boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Remove from the heat when the sugar has dissolved and cool. The syrup should taste sour and sweet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Mix the remaining ingredients in a serving bowl and pour the syrup over them."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Strogranoff",
+  "text": "Beef Strogranoff\n\nPreparation time: 20 minutes\n\nCooking time: 10 minutes\n\nYield: 4\n\nIngredients\n\nFor the seared steak\n\n700g fillet or sirloin steak cut into thin strips,\n\n1 tbsp Worcestershire sauce,\n\n1 tsp salt,\n\n1/4 tsp pepper,\n\n1/2 tsp nutmeg,\n\n2 tsp allspice,\n\n2 tbsp vegetable oil\n\nFor the Stroganoff sauce\n\n500g tagliatelli,\n\n6 tbsp olive oil,\n\n700g mushrooms,\n\n2 medium onions - sliced,\n\n6 cloves garlic - minced,\n\n4 tbsp flour,\n\n1/2 glass (120g) dry white wine,\n\n750 ml beef stock,\n\n150 ml double cream,\n\n150 ml sour cream,\n\n2 tbsp Dijon Mustard,\n\n2 tbsp Worcestershire sauce,\n\nA ladle of pasta water,\n\n2 tbsp flat leaf parsley - minced,\n\nsalt and pepper - to taste\n\nPreparation\n\n1. With the meat in a bowl, sprinkle over 1 tsp salt, 1/4 tsp pepper, 1/2 tsp nutmeg and 2 tsp allspice. And massage into the meat. Add 1 tbsp Worcestershire sauce, 2 tbsp olive oil, massage again, and marinade for 2 hours.\n\n2. Pat dry the meat and sear in batches with vegetable oil over medium heat, then set aside. Remember to pat dry the pan between batches if it gets too moist.\n\n3. Deglaze the pan with 2 ladles of beef stock. Taste, and if not bitter, return to the stock.\n\n4. In a large saucepan, add some olive oil and bring to a medium heat. Add the mushrooms and cook until brown. Then set aside.\n\n5. Lower the heat and add some more olive oil and the onions and cook until softened (about 10 minutes).\n\n7. Add the garlic and cook until soft (2 minutes)\n\n6. Add 84g butter.\n\n7. Add 4 tbsp or plain flour, and cook until no longer white (around 1 minute).\n\n8. Add a glass of white wine and stir into the mixture.\n\n9. Add the 750ml of stock and add 2 tbsp of Dijon mustard and 2 tbsp worcestershire sauce..\n\n10. Add the mushrooms and the steak.\n\n11. Add 120ml of double cream and mix in.\n\n12. After 30 seconds add 120ml of sour cream and simmer for 3 to 4 minutes.\n\n13 Season with salt and pepper.",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "For the seared steak: 700g fillet or sirloin steak cut into thin strips,",
+    "For the seared steak: 1 tbsp Worcestershire sauce,",
+    "For the seared steak: 1 tsp salt,",
+    "For the seared steak: 1/4 tsp pepper,",
+    "For the seared steak: 1/2 tsp nutmeg,",
+    "For the seared steak: 2 tsp allspice,",
+    "For the seared steak: 2 tbsp vegetable oil",
+    "For the Stroganoff sauce: 500g tagliatelli,",
+    "For the Stroganoff sauce: 6 tbsp olive oil,",
+    "For the Stroganoff sauce: 700g mushrooms,",
+    "For the Stroganoff sauce: 2 medium onions - sliced,",
+    "For the Stroganoff sauce: 6 cloves garlic - minced,",
+    "For the Stroganoff sauce: 4 tbsp flour,",
+    "For the Stroganoff sauce: 1/2 glass (120g) dry white wine,",
+    "For the Stroganoff sauce: 750 ml beef stock,",
+    "For the Stroganoff sauce: 150 ml double cream,",
+    "For the Stroganoff sauce: 150 ml sour cream,",
+    "For the Stroganoff sauce: 2 tbsp Dijon Mustard,",
+    "For the Stroganoff sauce: 2 tbsp Worcestershire sauce,",
+    "For the Stroganoff sauce: A ladle of pasta water,",
+    "For the Stroganoff sauce: 2 tbsp flat leaf parsley - minced,",
+    "For the Stroganoff sauce: salt and pepper - to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. With the meat in a bowl, sprinkle over 1 tsp salt, 1/4 tsp pepper, 1/2 tsp nutmeg and 2 tsp allspice. And massage into the meat. Add 1 tbsp Worcestershire sauce, 2 tbsp olive oil, massage again, and marinade for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Pat dry the meat and sear in batches with vegetable oil over medium heat, then set aside. Remember to pat dry the pan between batches if it gets too moist."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Deglaze the pan with 2 ladles of beef stock. Taste, and if not bitter, return to the stock."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. In a large saucepan, add some olive oil and bring to a medium heat. Add the mushrooms and cook until brown. Then set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Lower the heat and add some more olive oil and the onions and cook until softened (about 10 minutes)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add the garlic and cook until soft (2 minutes)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Add 84g butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add 4 tbsp or plain flour, and cook until no longer white (around 1 minute)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Add a glass of white wine and stir into the mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Add the 750ml of stock and add 2 tbsp of Dijon mustard and 2 tbsp worcestershire sauce.."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Add the mushrooms and the steak."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Add 120ml of double cream and mix in."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. After 30 seconds add 120ml of sour cream and simmer for 3 to 4 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13 Season with salt and pepper."
+    }
+  ]
+}

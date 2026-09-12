@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Red Curry of Scallops (chuu chii hoi shenn)",
+  "text": "Red Curry of Scallops (chuu chii hoi shenn)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n500ml coconut cream,\n\n1 tbsp palm sugar,\n\n2 tbsp fish sauce,\n\n250ml coconut milk,\n\n12-16 small scallops (about 200g),\n\n4 kaffir lime leaves (shredded),\n\n1 tbsp thick coconut cream,\n\na little read chilli (julienned),\n\n1 tbsp coriander leaves.\n\nFor the paste\n\n5-8 dried long red chilies (deseeded, soaked and drained),\n\nlarge pinch salt,\n\n5 slices galangal,\n\n3 tbsp chopped lemongrass,\n\n4 tbsp chopped garlic,\n\n3 tbsp sliced red shallot,\n\n1 tbsp scraped and chopped coriander root,\n\n10 white peppercorns,\n\n1 rounded tbsp gapi shrimp paste (roasted).\n\nPreparation\n\n1. Make the curry paste.\n\n2. Crack the coconut cream over medium heat, add 3 tbsp of the paste and fry, stirring regularly, for 5 minutes, until fragrant. Season with sugar and fish sauce.\n\n3. Add coconut milk and simmer until reduced, quite thick, and separated.\n\n4. Add scallops, and half the kaffir lime leaves and continue to simmer briefly, with the scallops immersed, until the flesh is just cooked.\n\n5. Check seasoning: it should be salty, a little hot, and fragrant from the kaffir lime.\n\n6. To serve, arrange the scallops on a plate, drizzle over the coconut cream, then sprinkle with the remaining lime leaves, red chilli and coriander.",
+  "recipeIngredient": [
+    "500ml coconut cream,",
+    "1 tbsp palm sugar,",
+    "2 tbsp fish sauce,",
+    "250ml coconut milk,",
+    "12-16 small scallops (about 200g),",
+    "4 kaffir lime leaves (shredded),",
+    "1 tbsp thick coconut cream,",
+    "a little read chilli (julienned),",
+    "1 tbsp coriander leaves.",
+    "For the paste: 5-8 dried long red chilies (deseeded, soaked and drained),",
+    "For the paste: large pinch salt,",
+    "For the paste: 5 slices galangal,",
+    "For the paste: 3 tbsp chopped lemongrass,",
+    "For the paste: 4 tbsp chopped garlic,",
+    "For the paste: 3 tbsp sliced red shallot,",
+    "For the paste: 1 tbsp scraped and chopped coriander root,",
+    "For the paste: 10 white peppercorns,",
+    "For the paste: 1 rounded tbsp gapi shrimp paste (roasted)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Make the curry paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Crack the coconut cream over medium heat, add 3 tbsp of the paste and fry, stirring regularly, for 5 minutes, until fragrant. Season with sugar and fish sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add coconut milk and simmer until reduced, quite thick, and separated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add scallops, and half the kaffir lime leaves and continue to simmer briefly, with the scallops immersed, until the flesh is just cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Check seasoning: it should be salty, a little hot, and fragrant from the kaffir lime."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. To serve, arrange the scallops on a plate, drizzle over the coconut cream, then sprinkle with the remaining lime leaves, red chilli and coriander."
+    }
+  ]
+}

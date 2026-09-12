@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Green Curry of Chicken with Baby Corn (geng gwio warn gai)",
+  "text": "Green Curry of Chicken with Baby Corn (geng gwio warn gai)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n2 cups coconut cream,\n\n150g skinless chicken thigh fillets (sliced),\n\n2 tbsp fish sauce,\n\n2 cups thin coconut milk or stock,\n\n6 - 10 baby corn,\n\n3 kaffir lime leaves (torn),\n\n2 long red chilies (diagonally sliced),\n\nhandful of Thai basil leaves.\n\nFor the paste\n\n3 tbsp green birds eye chilies,\n\nlarge pinch of salt,\n\n1 tbsp chopped galangal,\n\n2 tbsp chopped lemongrass,\n\n1 tbsp finely chopped kaffir lime zest,\n\n1 tbsp scraped and chopped corriander root,\n\n1 teaspoon chopped red turmeric,\n\n3 tbsp chopped red shallot,\n\n2 tbsp chopped garlic,\n\n1 tsp gapi shrimp paste,\n\n10 white peppercorns,\n\n1/2 tsp coriander seeds (roasted and ground),\n\n1/4 tsp cumin seeds (roasted and ground).\n\nPreparation\n\nMake the paste\n\nMake the curry\n\n1. Crack the coconut cream in a pan and add 2 tbsp of the paste.\n\n2. Fry over a medium heat, stirring regularly to prevent the paste burning.\n\n3. Add chicken and continue to cook, still stirring, until the paste is fragrant.\n\n4. Season with fish sauce, and then add coconut milk or stock.\n\n5. Bring to the boil, reduce the heat, add corn, and simmer.\n\n6. When the chicken is cooked (about 3-4 minutes), garnish with lime leaves and thai basil.",
+  "recipeIngredient": [
+    "2 cups coconut cream,",
+    "150g skinless chicken thigh fillets (sliced),",
+    "2 tbsp fish sauce,",
+    "2 cups thin coconut milk or stock,",
+    "6 - 10 baby corn,",
+    "3 kaffir lime leaves (torn),",
+    "2 long red chilies (diagonally sliced),",
+    "handful of Thai basil leaves.",
+    "For the paste: 3 tbsp green birds eye chilies,",
+    "For the paste: large pinch of salt,",
+    "For the paste: 1 tbsp chopped galangal,",
+    "For the paste: 2 tbsp chopped lemongrass,",
+    "For the paste: 1 tbsp finely chopped kaffir lime zest,",
+    "For the paste: 1 tbsp scraped and chopped corriander root,",
+    "For the paste: 1 teaspoon chopped red turmeric,",
+    "For the paste: 3 tbsp chopped red shallot,",
+    "For the paste: 2 tbsp chopped garlic,",
+    "For the paste: 1 tsp gapi shrimp paste,",
+    "For the paste: 10 white peppercorns,",
+    "For the paste: 1/2 tsp coriander seeds (roasted and ground),",
+    "For the paste: 1/4 tsp cumin seeds (roasted and ground)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Make the curry",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "1. Crack the coconut cream in a pan and add 2 tbsp of the paste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "2. Fry over a medium heat, stirring regularly to prevent the paste burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "3. Add chicken and continue to cook, still stirring, until the paste is fragrant."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "4. Season with fish sauce, and then add coconut milk or stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "5. Bring to the boil, reduce the heat, add corn, and simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "6. When the chicken is cooked (about 3-4 minutes), garnish with lime leaves and thai basil."
+        }
+      ]
+    }
+  ]
+}

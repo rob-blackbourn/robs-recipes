@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sweet potato",
+  "text": "Sweet potato\n\nPreparation\n\n1. Slice thinly (3 mm).",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Slice thinly (3 mm)."
+    }
+  ]
+}

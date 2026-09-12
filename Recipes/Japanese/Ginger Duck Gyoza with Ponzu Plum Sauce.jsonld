@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ginger Duck Gyoza with Ponzu Plum Sauce",
+  "text": "Ginger Duck Gyoza with Ponzu Plum Sauce\n\nMakes about 50 pieces\n\nFilling:\n\n12 oz. Napa cabbage (about 1/2 of a medium head), chopped very fine\n\n1 1/2 tsp. Kosher salt, divided (cut in half if using table salt)\n\n2 cloves garlic, minced or grated\n\n2 tsp. fresh ginger, minced or grated\n\n2 scallions, sliced into fine rings\n\n1/2 tsp. freshly ground black pepper\n\n3 Tbsp. soy sauce\n\n2 Tbsp. rice wine\n\n1 lb. ground duck (chicken or pork can be substituted)\n\nPlum Dipping Sauce:\n\n1 1/2 c. Japanese ponzu sauce\n\n3 Tbsp. neri ume paste (3 Tbsp. extra plum sauce can be substituted)\n\n6 Tbsp. Chinese plum sauce\n\n3 Tbsp. Asian chili oil\n\nPut chopped cabbage in a colander and toss with 1 tsp. Kosher salt.  Set aside for at least 20 minutes to allow for some of the liquid to drain off.\n\nIn a large bowl, combine 1/2 tsp. Kosher salt, garlic, ginger, scallions, ground pepper, soy sauce, and rice wine.\n\nSqueeze as much liquid as possible from the cabbage and add it to the soy sauce mixture.  Add the duck and mix gently.  Chill until ready to fill the gyoza.\n\nIn a small bowl, whisk together the plum dipping sauce ingredients: ponzu sauce, neri ume, and plum sauce.  Add the chili oil last, mixing gently.  The oil will float on top of the sauce.",
+  "recipeYield": "Makes about 50 pieces",
+  "recipeIngredient": [
+    "Filling: 12 oz. Napa cabbage (about 1/2 of a medium head), chopped very fine",
+    "Filling: 1 1/2 tsp. Kosher salt, divided (cut in half if using table salt)",
+    "Filling: 2 cloves garlic, minced or grated",
+    "Filling: 2 tsp. fresh ginger, minced or grated",
+    "Filling: 2 scallions, sliced into fine rings",
+    "Filling: 1/2 tsp. freshly ground black pepper",
+    "Filling: 3 Tbsp. soy sauce",
+    "Filling: 2 Tbsp. rice wine",
+    "Filling: 1 lb. ground duck (chicken or pork can be substituted)",
+    "Plum Dipping Sauce: 1 1/2 c. Japanese ponzu sauce",
+    "Plum Dipping Sauce: 3 Tbsp. neri ume paste (3 Tbsp. extra plum sauce can be substituted)",
+    "Plum Dipping Sauce: 6 Tbsp. Chinese plum sauce",
+    "Plum Dipping Sauce: 3 Tbsp. Asian chili oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put chopped cabbage in a colander and toss with 1 tsp. Kosher salt.  Set aside for at least 20 minutes to allow for some of the liquid to drain off."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine 1/2 tsp. Kosher salt, garlic, ginger, scallions, ground pepper, soy sauce, and rice wine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Squeeze as much liquid as possible from the cabbage and add it to the soy sauce mixture.  Add the duck and mix gently.  Chill until ready to fill the gyoza."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, whisk together the plum dipping sauce ingredients: ponzu sauce, neri ume, and plum sauce.  Add the chili oil last, mixing gently.  The oil will float on top of the sauce."
+    }
+  ]
+}

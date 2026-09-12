@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Herb Crêpes",
+  "text": "Herb Crêpes\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n60g plain flour,\n\n150ml milk,\n\n2 eggs,\n\n15g mixed herbs (parsley, chervil, chives; chopped),\n\n30g clarified butter.\n\nPreparation\n\n1. Put the flour in a bowl, season, and make a well in the centre.\n\n2. Add one-third of the milk and the eggs then whisk lightly to make a smooth batter.\n\n3. Pour in the rest of the milk and mix thoroughly.\n\n4. Pass the batter through a chinois or fine sieve.\n\n5. Add the chopped herbs.\n\n5. Cover with cling film and leave to rest for at least 30 minutes in the fridge.",
+  "recipeIngredient": [
+    "60g plain flour,",
+    "150ml milk,",
+    "2 eggs,",
+    "15g mixed herbs (parsley, chervil, chives; chopped),",
+    "30g clarified butter."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put the flour in a bowl, season, and make a well in the centre."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add one-third of the milk and the eggs then whisk lightly to make a smooth batter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Pour in the rest of the milk and mix thoroughly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Pass the batter through a chinois or fine sieve."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the chopped herbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cover with cling film and leave to rest for at least 30 minutes in the fridge."
+    }
+  ]
+}

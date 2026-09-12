@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pineapple Fried Rice",
+  "text": "Pineapple Fried Rice\n\nPrep Time: ?\n\nCooking Time: ?\n\nTotal Time: ?\n\nYield: 2\n\nStatus: Untried\n\nIngredients\n\n8 oz. leftover and overnight rice,\n\n2 cloves garlic (finely chopped),\n\n1 fresh pineapple,\n\n8 medium prawns (shelled and deveined),\n\n2 tbsp cashew nuts,\n\n1 tsp shrimp paste,\n\n1 tbsp fish sauce,\n\n¼ tsp dark soy sauce,\n\n1 fresh red chili (seeded and cut into small pieces),\n\n2 tbsp oil,\n\nCoriander leaves for garnishing.\n\nPreparation\n\n1. Cut the pineapple in two. Scoop out the flesh and reserve. Separate the juice into a bowl.\n\n2. Heat up a wok and add oil. Stir-fry garlic, red chili, and shrimp paste until aromatic.\n\n3. Add the prawns and stir-fry until half-cooked.\n\n4. Add the rice, pineapple pieces, ½ tbsp of the pineapple juice, and stir. Add fish sauce and dark soy sauce to blend well with rice.\n\n5. Add the cashew nuts\n\n6. Stir-fry for another minute then serve.",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "8 oz. leftover and overnight rice,",
+    "2 cloves garlic (finely chopped),",
+    "1 fresh pineapple,",
+    "8 medium prawns (shelled and deveined),",
+    "2 tbsp cashew nuts,",
+    "1 tsp shrimp paste,",
+    "1 tbsp fish sauce,",
+    "¼ tsp dark soy sauce,",
+    "1 fresh red chili (seeded and cut into small pieces),",
+    "2 tbsp oil,",
+    "Coriander leaves for garnishing."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cut the pineapple in two. Scoop out the flesh and reserve. Separate the juice into a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat up a wok and add oil. Stir-fry garlic, red chili, and shrimp paste until aromatic."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the prawns and stir-fry until half-cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the rice, pineapple pieces, ½ tbsp of the pineapple juice, and stir. Add fish sauce and dark soy sauce to blend well with rice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the cashew nuts"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Stir-fry for another minute then serve."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Prep Time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking Time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Total Time: ?"
+    },
+    {
+      "@type": "Comment",
+      "text": "Status: Untried"
+    }
+  ]
+}

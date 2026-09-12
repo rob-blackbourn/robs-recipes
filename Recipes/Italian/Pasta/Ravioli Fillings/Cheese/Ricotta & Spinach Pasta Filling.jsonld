@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ricotta & Spinach Pasta Filling",
+  "text": "Ricotta & Spinach Pasta Filling\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n225 g (8 oz) spinach leaves,\n\n100 g (4 oz) ricotta cheese,\n\n25 g (1 oz) grated Parmesan cheese,\n\n1 egg,\n\na pinch of nutmeg,\n\nsalt and pepper.\n\nInstructions\n\n1. Place the spinach in a large saucepan pan with only the water which is left clinging to the leaves. Cover, place over a medium heat and cook for a few minutes, shaking the pan vigorously from time to time, until the spinach has wilted.\n\n2. Drain well, squeezing as much water out of the leaves as possible then transfer to a chopping board and chop.\n\n3. Place the chopped spinach in a mixing bowl together with the and cheeses, egg, nutmeg, salt and pepper and mix well. Allow to cool before using.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "225 g (8 oz) spinach leaves,",
+    "100 g (4 oz) ricotta cheese,",
+    "25 g (1 oz) grated Parmesan cheese,",
+    "1 egg,",
+    "a pinch of nutmeg,",
+    "salt and pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place the spinach in a large saucepan pan with only the water which is left clinging to the leaves. Cover, place over a medium heat and cook for a few minutes, shaking the pan vigorously from time to time, until the spinach has wilted."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Drain well, squeezing as much water out of the leaves as possible then transfer to a chopping board and chop."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Place the chopped spinach in a mixing bowl together with the and cheeses, egg, nutmeg, salt and pepper and mix well. Allow to cool before using."
+    }
+  ]
+}

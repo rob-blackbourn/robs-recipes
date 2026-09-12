@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Saint-Pierre à l’orange",
+  "text": "Saint-Pierre à l’orange\n\nPreparation time: 10 minutes\n\nCooking time: 40 minutes\n\nYield: 2\n\nIngredients\n\n2 fillets of John Dory,\n\nsalt & pepper,\n\ncayenne pepper,\n\n1 small orange,\n\n1/4 large lemon,\n\n125 g butter,\n\n12 chopped shallot,\n\n125 ml Madeira,\n\n125 ml double cream,\n\n2 large egg yolks.\n\nsamphire to garnish.\n\nPreparation\n\n1. Sprinkle the fish on both sides with salt, pepper and cayenne pepper, and set aside.\n\n2. Zest and juice the lemon.\n\n3. Cook the shallot without browning in butter.\n\n4. Put in the fish, lemon juice, wine, and enough water to come almost to the top of the fish.\n\n5. Cover and simmer until almost cooked (but still pinkish).\n\n6. With a slotted spoon, lift the fillets onto a serving plate and keep them warm in a low oven (where they will finish cooking).\n\n7. Boil down the cooking juices leaving 250 ml.\n\n8 Remove a third.\n\n9. Mix the cream with the egg yolks and, off the heat, stir them into the hot juices.\n\n10. Put the pan back on a low heat for the sauce to thicken without boiling.\n\n11. Add the remaining butter in small cubes and splashes of the reserved cooking liquor, until the taste is good.\n\n12. Pour around the fish and garnish with steamed samphire.",
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "2 fillets of John Dory,",
+    "salt & pepper,",
+    "cayenne pepper,",
+    "1 small orange,",
+    "1/4 large lemon,",
+    "125 g butter,",
+    "12 chopped shallot,",
+    "125 ml Madeira,",
+    "125 ml double cream,",
+    "2 large egg yolks.",
+    "samphire to garnish."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Sprinkle the fish on both sides with salt, pepper and cayenne pepper, and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Zest and juice the lemon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Cook the shallot without browning in butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Put in the fish, lemon juice, wine, and enough water to come almost to the top of the fish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cover and simmer until almost cooked (but still pinkish)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. With a slotted spoon, lift the fillets onto a serving plate and keep them warm in a low oven (where they will finish cooking)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Boil down the cooking juices leaving 250 ml."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8 Remove a third."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Mix the cream with the egg yolks and, off the heat, stir them into the hot juices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Put the pan back on a low heat for the sauce to thicken without boiling."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Add the remaining butter in small cubes and splashes of the reserved cooking liquor, until the taste is good."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. Pour around the fish and garnish with steamed samphire."
+    }
+  ]
+}

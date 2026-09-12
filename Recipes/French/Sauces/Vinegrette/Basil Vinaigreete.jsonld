@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Basil Vinaigrette",
+  "text": "Basil Vinaigrette\n\nPreparation time: 5 minutes\n\nCooking time: 0 minutes\n\nYield: 4 people\n\nIngredients\n\n1 tsp Dijon mustard,\n\n1 shallot (chopped),\n\n1/2 tsp salt,\n\n1 tsp sugar,\n\n1/2 cup roughly chopped basil leaves,\n\n1/4 cup white wine vinegar,\n\n3/4 cup olive oil.\n\nMethod\n\n1. Place the salt, sugar, mustard, shallot and basil in a blender or food processor. Scrape the sides of the blender down with a spatula. Add the vinegar and pulse again.\n\n2. Turn the blender on low and take off the cap in the centre of the blenders lid and dribble in the olive oil.\n\n3. Scrape down the sides of the blender and pulse for a further 2 minutes.",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "recipeYield": "4 people",
+  "recipeIngredient": [
+    "1 tsp Dijon mustard,",
+    "1 shallot (chopped),",
+    "1/2 tsp salt,",
+    "1 tsp sugar,",
+    "1/2 cup roughly chopped basil leaves,",
+    "1/4 cup white wine vinegar,",
+    "3/4 cup olive oil."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place the salt, sugar, mustard, shallot and basil in a blender or food processor. Scrape the sides of the blender down with a spatula. Add the vinegar and pulse again."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Turn the blender on low and take off the cap in the centre of the blenders lid and dribble in the olive oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Scrape down the sides of the blender and pulse for a further 2 minutes."
+    }
+  ]
+}

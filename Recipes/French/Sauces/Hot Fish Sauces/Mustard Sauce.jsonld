@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Mustard Sauce",
+  "text": "Mustard Sauce\n\nPreparation time: 5 minutes\n\nCooking time: None\n\nYield: 600 ml\n\nIngredients\n\n600 ml Velouté de Poisson made with half milk and half fumet de poisson,\n\n1 tsp french mustard.\n\nPreparation\n\n1. Add the mustard just before serving.",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "recipeYield": "600 ml",
+  "recipeIngredient": [
+    "600 ml Velouté de Poisson made with half milk and half fumet de poisson,",
+    "1 tsp french mustard."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Add the mustard just before serving."
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/11OqeKr82nmlTZYQhFoLcAk7BCWRmpS8NRGjXlJN0wmE/edit?usp=sharing",
+    "https://docs.google.com/document/d/1Y-dRBJ6Kh2S15Q-OmZ9FIiNJrMD-hxyOvJ-vrKNgI3U/edit?usp=sharing"
+  ]
+}

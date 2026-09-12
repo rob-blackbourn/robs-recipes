@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Duck Spring Rolls",
+  "text": "Duck Spring Rolls\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n500g beansprouts,\n\n500g cabbage (shredded),\n\n500g green beans (cut diagonally),\n\n1 carrot (thinly sliced),\n\n2 stalks of chopped celery,\n\n4 cloves minced garlic,\n\n1/2 onion (finely chopped),\n\n500g roast duck (shredded),\n\n1 egg white,\n\nBlack pepper,\n\nSoy sauce,\n\nOlive oil,\n\nSpring roll wrappers.\n\nPreparation\n\nPut oil into the wok.\n\nAdd the garlic and fry till golden.\n\nAdd the minced onion and fry until golden.\n\nAdd the meat and mix.\n\nAdd the beans.\n\nAdd the carrot.\n\nAdd the celery.\n\nAdd the cabbage.\n\nAdd the beansprouts.\n\nLet warm through for a minute.\n\nAdd soy sauce.\n\nSeason with pepper.\n\nPut the mixture into a strainer and let it cool.\n\nWhen the filling is cool",
+  "recipeIngredient": [
+    "500g beansprouts,",
+    "500g cabbage (shredded),",
+    "500g green beans (cut diagonally),",
+    "1 carrot (thinly sliced),",
+    "2 stalks of chopped celery,",
+    "4 cloves minced garlic,",
+    "1/2 onion (finely chopped),",
+    "500g roast duck (shredded),",
+    "1 egg white,",
+    "Black pepper,",
+    "Soy sauce,",
+    "Olive oil,",
+    "Spring roll wrappers."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put oil into the wok."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic and fry till golden."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced onion and fry until golden."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the meat and mix."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the beans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the carrot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the celery."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cabbage."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the beansprouts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let warm through for a minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add soy sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the mixture into a strainer and let it cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the filling is cool"
+    }
+  ]
+}

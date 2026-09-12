@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Chicken Satay",
+  "text": "Thai Chicken Satay\n\nPreparation time: 15 minutes plus 2 hours marrinade\n\nCooking time: 8 minutes\n\nYield:\n\nIngredients\n\n500g chicken breast ( cut into 1 in wide 3 in long)\n\n8-10 bamboo skewers.\n\nFor the marinade\n\n1/2 cup coconut milk,\n\n2 tbsp minced galangal,\n\n2 tbsp minced lemon grass,\n\n1 tbsp coriander powder,\n\n1-2 tbsp turmeric or curry powder,\n\n1 tsp salt,\n\n1-2 tsp sugar,\n\n1-2 tsp white or black pepper.\n\nFor the satay sauce\n\n1/2- 3/4 cup coconut milk\n\n1/4 cup coarsely ground roast peanut or peanut\n\n1/4 cup red curry paste\n\n1/4 cup tamarind juice\n\n1 tsp salt or fish sauce\n\nFor the cucumber relish sauce\n\n2 red spur chillies ( finely sliced)\n\n1 cucumber ( sliced in quarters lenght then sliced thin)\n\n1-2 shallot ( finely chopped)\n\n1/2 sugar\n\n1/2 cup vinegar\n\nPreparation\n\n1. Cut the chicken into thin wide strips. A single strip will be threaded on a skewer lengthways.\n\n2. Make the marinade, by combining all the dry ingredients in a food processor, then adding the liquids.\n\n3. Add the chicken to the marinade, cover with clingfilm, and refrigerate for 2 hours.\n\n4. To make the satay sauce, put the coarsely ground peanuts in a pan,then add the red curry paste, and coconut milk. Bring to the boil, then turn down the heat and add the remaining ingredients.\n\n5. To make the cucumber relish, put the vinegar in a small pan, add the sugar, and dissolve over  low heat. Turn off the heat and allow to cool. Add the cucumber, shallot and chilli.",
+  "cookTime": "PT8M",
+  "recipeIngredient": [
+    "500g chicken breast ( cut into 1 in wide 3 in long)",
+    "8-10 bamboo skewers.",
+    "For the marinade: 1/2 cup coconut milk,",
+    "For the marinade: 2 tbsp minced galangal,",
+    "For the marinade: 2 tbsp minced lemon grass,",
+    "For the marinade: 1 tbsp coriander powder,",
+    "For the marinade: 1-2 tbsp turmeric or curry powder,",
+    "For the marinade: 1 tsp salt,",
+    "For the marinade: 1-2 tsp sugar,",
+    "For the marinade: 1-2 tsp white or black pepper.",
+    "For the satay sauce: 1/2- 3/4 cup coconut milk",
+    "For the satay sauce: 1/4 cup coarsely ground roast peanut or peanut",
+    "For the satay sauce: 1/4 cup red curry paste",
+    "For the satay sauce: 1/4 cup tamarind juice",
+    "For the satay sauce: 1 tsp salt or fish sauce",
+    "For the cucumber relish sauce: 2 red spur chillies ( finely sliced)",
+    "For the cucumber relish sauce: 1 cucumber ( sliced in quarters lenght then sliced thin)",
+    "For the cucumber relish sauce: 1-2 shallot ( finely chopped)",
+    "For the cucumber relish sauce: 1/2 sugar",
+    "For the cucumber relish sauce: 1/2 cup vinegar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cut the chicken into thin wide strips. A single strip will be threaded on a skewer lengthways."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Make the marinade, by combining all the dry ingredients in a food processor, then adding the liquids."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the chicken to the marinade, cover with clingfilm, and refrigerate for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. To make the satay sauce, put the coarsely ground peanuts in a pan,then add the red curry paste, and coconut milk. Bring to the boil, then turn down the heat and add the remaining ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. To make the cucumber relish, put the vinegar in a small pan, add the sugar, and dissolve over  low heat. Turn off the heat and allow to cool. Add the cucumber, shallot and chilli."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 15 minutes plus 2 hours marrinade"
+    }
+  ]
+}

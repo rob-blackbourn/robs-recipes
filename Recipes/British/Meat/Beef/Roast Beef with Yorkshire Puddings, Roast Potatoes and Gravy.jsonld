@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Roast Beef with Yorkshire Puddings, Roast Potatoes and Gravy",
+  "text": "Roast Beef with Yorkshire Puddings, Roast Potatoes and Gravy\n\nPreparation time: 25 minutes, plus resting time for the batter\n\nCooking time: 1½ - 2 hours, plus resting time for the beef\n\nYield: 8\n\nIngredients\n\nFor the Yorkshire puddings\n\n350g plain flour,\n\n4 large eggs,\n\n800ml milk (you may not need all of it),\n\nvegetable oil (for cooking),\n\nsalt.\n\nFor the beef\n\n2.5kg oven-ready rib of beef on the bone,\n\n1 tbsp English mustard powder,\n\na drizzle of vegetable oil or 2 tsp duck fat,\n\nfreshly ground black pepper.\n\nFor the roast potatoes\n\n16 medium-sized Maris Piper potatoes (peeled, cut into equal-sized pieces),\n\n8 garlic cloves,\n\n5 tbsp duck fat,\n\n8 sprigs thyme,\n\nsea salt.\n\nFor the gravy\n\npan-roasting juices\n\n350ml oz red wine\n\n4 tsp plain flour\n\nPreparation method\n\n1. First make the Yorkshire pudding batter. Sift the flour and a pinch of salt into a bowl, add the eggs and gradually whisk in enough milk to make a smooth batter thick enough to coat the back of the spoon. Cover and leave to rest for six hours or overnight.\n\n2. Preheat the oven to 190C/375F/Gas 5. Take the beef out of the fridge and allow it to come back to room temperature.\n\n3. Mix the mustard powder with a few teaspoons of water to make a paste. Rub the beef all over with the mustard paste and season well with salt and pepper.\n\n4. Heat the oil or duck fat in a large frying pan. When hot, add the beef and sear on all sides, until it is nicely brown all over.\n\n5. Place the beef in a roasting tin and roast in the oven for one hour (11 minutes per 450g/1lb - this will give you rare meat). Cook for a further 15 minutes for medium-rare (14 minutes per 450g/1lb) or a further 30 minutes for well-done (16 minutes per 450g/1lb).\n\n6. While the beef is cooking, prepare the roast potatoes. Peel the potatoes and parboil them in salted water for about seven minutes until almost cooked (they will still feel firm when pierced with a knife). Drain thoroughly and then shake them around a little in the colander until the outsides are fluffy.\n\n7. Remove the beef from the oven, transfer it to a carving board and cover with foil. Allow it to rest in a warm place for 30 minutes. Turn up the oven to 220C/425F/Gas 7.\n\n8. Put the duck fat for the roast potatoes into a small roasting tin and heat in the oven for five minutes. Add the potatoes to the tin with the garlic cloves, thyme and some sea salt and toss them around until well coated in the fat. Return the tin to the oven and roast for 30-35 minutes or so until golden and crunchy.\n\n9. Next make the Yorkshire puddings. Pour 5mm/½inch of vegetable oil into the well of each Yorkshire pudding tin - eight individual ones or two four-hole trays. Place the tins in the oven to heat for a few minutes.\n\n10. When the oil is hot, remove from the oven. Give the Yorkshire batter a stir and carefully pour it into the tins. Take care, as the oil may splatter. Fill each well up to about halfway.\n\n11. Place the tins back in the oven and cook for about 25-30 minutes alongside the roast potatoes, until they are well risen and golden.\n\n12. While the potatoes and Yorkshire puddings are in the oven, make the gravy. Place the tin with its roasting juices on the hob over a medium heat. Stir in the flour and the red wine. Scrape well to get all the bits from the bottom of the tin into the gravy. Leave to simmer for ten minutes, then season.\n\n13. To serve, carve the beef into thick slices and pile on plates with the Yorkshire puddings and roast potatoes. Pour lashings of gravy over the top.",
+  "recipeYield": "8",
+  "recipeIngredient": [
+    "For the Yorkshire puddings: 350g plain flour,",
+    "For the Yorkshire puddings: 4 large eggs,",
+    "For the Yorkshire puddings: 800ml milk (you may not need all of it),",
+    "For the Yorkshire puddings: vegetable oil (for cooking),",
+    "For the Yorkshire puddings: salt.",
+    "For the beef: 2.5kg oven-ready rib of beef on the bone,",
+    "For the beef: 1 tbsp English mustard powder,",
+    "For the beef: a drizzle of vegetable oil or 2 tsp duck fat,",
+    "For the beef: freshly ground black pepper.",
+    "For the roast potatoes: 16 medium-sized Maris Piper potatoes (peeled, cut into equal-sized pieces),",
+    "For the roast potatoes: 8 garlic cloves,",
+    "For the roast potatoes: 5 tbsp duck fat,",
+    "For the roast potatoes: 8 sprigs thyme,",
+    "For the roast potatoes: sea salt.",
+    "For the gravy: pan-roasting juices",
+    "For the gravy: 350ml oz red wine",
+    "For the gravy: 4 tsp plain flour"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. First make the Yorkshire pudding batter. Sift the flour and a pinch of salt into a bowl, add the eggs and gradually whisk in enough milk to make a smooth batter thick enough to coat the back of the spoon. Cover and leave to rest for six hours or overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Preheat the oven to 190C/375F/Gas 5. Take the beef out of the fridge and allow it to come back to room temperature."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Mix the mustard powder with a few teaspoons of water to make a paste. Rub the beef all over with the mustard paste and season well with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Heat the oil or duck fat in a large frying pan. When hot, add the beef and sear on all sides, until it is nicely brown all over."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Place the beef in a roasting tin and roast in the oven for one hour (11 minutes per 450g/1lb - this will give you rare meat). Cook for a further 15 minutes for medium-rare (14 minutes per 450g/1lb) or a further 30 minutes for well-done (16 minutes per 450g/1lb)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. While the beef is cooking, prepare the roast potatoes. Peel the potatoes and parboil them in salted water for about seven minutes until almost cooked (they will still feel firm when pierced with a knife). Drain thoroughly and then shake them around a little in the colander until the outsides are fluffy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Remove the beef from the oven, transfer it to a carving board and cover with foil. Allow it to rest in a warm place for 30 minutes. Turn up the oven to 220C/425F/Gas 7."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Put the duck fat for the roast potatoes into a small roasting tin and heat in the oven for five minutes. Add the potatoes to the tin with the garlic cloves, thyme and some sea salt and toss them around until well coated in the fat. Return the tin to the oven and roast for 30-35 minutes or so until golden and crunchy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Next make the Yorkshire puddings. Pour 5mm/½inch of vegetable oil into the well of each Yorkshire pudding tin - eight individual ones or two four-hole trays. Place the tins in the oven to heat for a few minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. When the oil is hot, remove from the oven. Give the Yorkshire batter a stir and carefully pour it into the tins. Take care, as the oil may splatter. Fill each well up to about halfway."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Place the tins back in the oven and cook for about 25-30 minutes alongside the roast potatoes, until they are well risen and golden."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. While the potatoes and Yorkshire puddings are in the oven, make the gravy. Place the tin with its roasting juices on the hob over a medium heat. Stir in the flour and the red wine. Scrape well to get all the bits from the bottom of the tin into the gravy. Leave to simmer for ten minutes, then season."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13. To serve, carve the beef into thick slices and pile on plates with the Yorkshire puddings and roast potatoes. Pour lashings of gravy over the top."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 25 minutes, plus resting time for the batter"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 1½ - 2 hours, plus resting time for the beef"
+    }
+  ]
+}

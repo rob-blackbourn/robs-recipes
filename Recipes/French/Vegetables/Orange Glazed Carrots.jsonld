@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Orange Glazed Carrots",
+  "text": "Orange Glazed Carrots\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n2 large carrots (peeled and thinly sliced diagonally),\n\n250ml chicken stock,\n\n2 tsp sugar,\n\n2 tbsp orange juice,\n\n1 tsp orange zest,\n\nbutter,\n\nsalt and pepper.\n\nPreparation\n\nFry the carrot for 3-4 minutes, seasoning.\n\nAdd the sugar, orange juice and zest.\n\nAdd the stock, cover, and cook for 3 minutes.\n\nUncover and reduce most of the liquid.",
+  "recipeIngredient": [
+    "2 large carrots (peeled and thinly sliced diagonally),",
+    "250ml chicken stock,",
+    "2 tsp sugar,",
+    "2 tbsp orange juice,",
+    "1 tsp orange zest,",
+    "butter,",
+    "salt and pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Fry the carrot for 3-4 minutes, seasoning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sugar, orange juice and zest."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the stock, cover, and cook for 3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Uncover and reduce most of the liquid."
+    }
+  ]
+}

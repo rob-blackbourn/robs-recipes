@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Lamb Chop Peshwari",
+  "text": "Lamb Chop Peshwari\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n2 tbsp of fennel seeds,\n\n1/2 star anise,\n\n3 racks of lamb,\n\n2 tbsp of malt vinegar,\n\n1 tsp of chilli powder,\n\n1 tsp of paprika,\n\nsalt,\n\n1 tbsp of grated raw papaya,\n\n1 green chilli,\n\n4 garlic cloves (peeled),\n\n1 tbsp of vegetable oil,\n\n2 tbsp of double cream,\n\nPreparation\n\n1. Start the lamb kebab with the spices. Dry-grind the fennel seeds and star\n\nanise, then transfer to an airtight container. You only need ½ teaspoonful of this\n\nmixture later.\n\n1. Mix together the malt vinegar, chilli powder, paprika powder and salt. Then add\n\nthe chops, mix well and set to one side\n\n2. In a blender, add grated raw papaya, peeled garlic, green chilli and vegetable\n\noil and blend until smooth. Transfer to a mixing bowl add the double cream, ½\n\nteaspoon of the ground fennel seed and star anise powder and mix well\n\n3. Add the pre-marinated lamb chops to the bowl and mix together well. Marinate\n\nfor 3-4 hours before cooking\n\n4. To cook, thread a skewer through the lamb chops and grill in a medium hot\n\ntandoor or over a barbecue (no need for the skewer) for about 4 minutes, then\n\nturn over and grill for a further 3 minutes\n\n5. Serve hot sprinkled with chaat masala and lemon juice",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "2 tbsp of fennel seeds,",
+    "1/2 star anise,",
+    "3 racks of lamb,",
+    "2 tbsp of malt vinegar,",
+    "1 tsp of chilli powder,",
+    "1 tsp of paprika,",
+    "salt,",
+    "1 tbsp of grated raw papaya,",
+    "1 green chilli,",
+    "4 garlic cloves (peeled),",
+    "1 tbsp of vegetable oil,",
+    "2 tbsp of double cream,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Start the lamb kebab with the spices. Dry-grind the fennel seeds and star"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "anise, then transfer to an airtight container. You only need ½ teaspoonful of this"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "mixture later."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1. Mix together the malt vinegar, chilli powder, paprika powder and salt. Then add"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "the chops, mix well and set to one side"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. In a blender, add grated raw papaya, peeled garlic, green chilli and vegetable"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "oil and blend until smooth. Transfer to a mixing bowl add the double cream, ½"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "teaspoon of the ground fennel seed and star anise powder and mix well"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the pre-marinated lamb chops to the bowl and mix together well. Marinate"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "for 3-4 hours before cooking"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. To cook, thread a skewer through the lamb chops and grill in a medium hot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "tandoor or over a barbecue (no need for the skewer) for about 4 minutes, then"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "turn over and grill for a further 3 minutes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Serve hot sprinkled with chaat masala and lemon juice"
+    }
+  ]
+}

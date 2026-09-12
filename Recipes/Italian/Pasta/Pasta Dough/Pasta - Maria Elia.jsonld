@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pasta - Maria Elia",
+  "text": "Pasta - Maria Elia\n\nPreparation time: 30 minutes\n\nCooking time: less than 10 minutes\n\nYield: 2\n\nIngredients\n\n200g/7oz plain flour, plus extra for dusting\n\n2 free-range eggs, beaten\n\nPreparation method\n\n1. For the pasta, blend the flour and eggs in a food processor until combined. Turn the mixture out onto a lightly floured work surface and knead to bring together into a smooth dough.\n\n2. Flatten the dough ball using your hands. Lightly flour a pasta machine. Starting at the lowest (thickest) setting, feed the dough through the machine, turning the handle with one hand and holding the dough as it comes through the machine with the other. Change the setting on the pasta machine to the next-thickest setting, flour it again and feed the pasta sheet through the machine again, as before.\n\n3. Repeat this process 3-4 more times, flouring the machine and changing the setting down each time. At some point, you'll need to cut the pasta sheet in half lengthways or it will become too long to handle. The pasta should be quite thin, but still easy to handle without tearing. Don't be tempted to skip settings or the dough may tear.\n\n4. Once the pasta sheets have reached the ideal thickness, trim the edges slightly. Using a sharp knife, cut the pasta sheets into thin strips.\n\n5. Cook the pasta for 2-3 minutes in a pan of boiling salted water. For the last thirty seconds of cooking, add the carrot ribbons, then drain.",
+  "prepTime": "PT30M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "200g/7oz plain flour, plus extra for dusting",
+    "2 free-range eggs, beaten"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. For the pasta, blend the flour and eggs in a food processor until combined. Turn the mixture out onto a lightly floured work surface and knead to bring together into a smooth dough."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Flatten the dough ball using your hands. Lightly flour a pasta machine. Starting at the lowest (thickest) setting, feed the dough through the machine, turning the handle with one hand and holding the dough as it comes through the machine with the other. Change the setting on the pasta machine to the next-thickest setting, flour it again and feed the pasta sheet through the machine again, as before."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Repeat this process 3-4 more times, flouring the machine and changing the setting down each time. At some point, you'll need to cut the pasta sheet in half lengthways or it will become too long to handle. The pasta should be quite thin, but still easy to handle without tearing. Don't be tempted to skip settings or the dough may tear."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Once the pasta sheets have reached the ideal thickness, trim the edges slightly. Using a sharp knife, cut the pasta sheets into thin strips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cook the pasta for 2-3 minutes in a pan of boiling salted water. For the last thirty seconds of cooking, add the carrot ribbons, then drain."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Cooking time: less than 10 minutes"
+    }
+  ]
+}

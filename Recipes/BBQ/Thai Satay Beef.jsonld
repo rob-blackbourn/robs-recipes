@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Satay Beef",
+  "text": "Thai Satay Beef\n\nPreparation time: 15 minutes with a 2 hour marination\n\nCooking time: 7 minutes\n\nYield: 4 large skewers\n\nIngredients\n\n2 lbs beef top sirloin steak, sliced thin across grain, about 1/8-inch thick\n\nFor the marinade\n\n1 tbsp grated ginger\n\n4 cloves garlic, crushed\n\n2 tbsp minced onion\n\n1/4 cup packed brown sugar\n\n1/4 cup fish sauce\n\n2 tbsp soy sauce\n\n2 tbsp vegetable oil\n\n2 tbsp ground coriander\n\n1 tbsp cumin\n\n1/2 tsp turmeric\n\n1/8 tsp cayenne pepper\n\n1 rounded tbsp minced lemongrass\n\nPreparation\n\n1. Combine all the ingredients for the marinade.\n\n2. Slice the beef into thin strips.\n\n3. Put the sliced beef in the marinade, cover with clingfilm, and refrigerate for 2 hours.\n\n4. Thread onto four long metal skewers and barbecue for 8 minutes.",
+  "cookTime": "PT7M",
+  "recipeYield": "4 large skewers",
+  "recipeIngredient": [
+    "2 lbs beef top sirloin steak, sliced thin across grain, about 1/8-inch thick",
+    "For the marinade: 1 tbsp grated ginger",
+    "For the marinade: 4 cloves garlic, crushed",
+    "For the marinade: 2 tbsp minced onion",
+    "For the marinade: 1/4 cup packed brown sugar",
+    "For the marinade: 1/4 cup fish sauce",
+    "For the marinade: 2 tbsp soy sauce",
+    "For the marinade: 2 tbsp vegetable oil",
+    "For the marinade: 2 tbsp ground coriander",
+    "For the marinade: 1 tbsp cumin",
+    "For the marinade: 1/2 tsp turmeric",
+    "For the marinade: 1/8 tsp cayenne pepper",
+    "For the marinade: 1 rounded tbsp minced lemongrass"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine all the ingredients for the marinade."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Slice the beef into thin strips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Put the sliced beef in the marinade, cover with clingfilm, and refrigerate for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Thread onto four long metal skewers and barbecue for 8 minutes."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 15 minutes with a 2 hour marination"
+    }
+  ]
+}

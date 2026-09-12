@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Richard Ehrlich's Duck Casserole",
+  "text": "Richard Ehrlich's Duck Casserole\n\nPreparation time:\n\nCooking time:\n\nYield: Serves 4\n\nIngredients\n\nmedium duck 1.75–2.25kg\n\nvegetable oil 2-3 tbsp\n\nplain flour 2 tbsp\n\nCognac 3 tbsp\n\ndry white wine 100ml\n\nchicken or duck stock 250ml\n\nbouquet garni or mixed herbs such as herbes de Provence\n\ntomato purée 1 tsp\n\ncarrot 1\n\nsmall white onions 12\n\nsmall button mushrooms 12\n\nPreparation\n\n1. Joint the duck, or have the butcher do it for you. Pour enough oil into the pressure cooker to coat the base. Season the duck with salt and ground black pepper and turn the heat to medium high. Brown a few pieces then remove to a plate. Pour out the excess oil, leaving in about 2 tbsp.\n\n2. Return the pressure cooker to the heat and stir in the flour. When it is mixed into the fat, add the Cognac, wine, stock, herbs and tomato purée. Bring to the boil and put in the duck pieces and the carrot. Clamp on the lid. Bring to full pressure, turn the heat down to medium and cook for 20 minutes. Turn off the heat and vent immediately.\n\n3. While the duck is cooking, put the onions into a pan with water or stock to cover. Simmer for 15 minutes then drain. Put the onions and mushrooms into the pressure cooker, turn the heat down to medium and cook for 5 minutes more. Remove all the solid ingredients from the pressure cooker, setting the carrot aside. Put the carrot in a fine sieve and mash it back into the pressure cooker. Stir into the cooking liquid to blend. Taste the liquid. If it is too diluted, boil it down briskly. If there isn't enough of it, add stock or water. Serve with chopped parsley, rice or mashed potatoes.\n\n4. To cook the duck without a pressure cooker, make in the traditional way in a large, heavy-based casserole. The cooking of the duck will take 50-60 minutes or when the meat comes easily away from the bones. You can skip cooking the onions separately, adding them to the pan at the same time as the duck pieces.",
+  "recipeYield": "Serves 4",
+  "recipeIngredient": [
+    "medium duck 1.75–2.25kg",
+    "vegetable oil 2-3 tbsp",
+    "plain flour 2 tbsp",
+    "Cognac 3 tbsp",
+    "dry white wine 100ml",
+    "chicken or duck stock 250ml",
+    "bouquet garni or mixed herbs such as herbes de Provence",
+    "tomato purée 1 tsp",
+    "carrot 1",
+    "small white onions 12",
+    "small button mushrooms 12"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Joint the duck, or have the butcher do it for you. Pour enough oil into the pressure cooker to coat the base. Season the duck with salt and ground black pepper and turn the heat to medium high. Brown a few pieces then remove to a plate. Pour out the excess oil, leaving in about 2 tbsp."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Return the pressure cooker to the heat and stir in the flour. When it is mixed into the fat, add the Cognac, wine, stock, herbs and tomato purée. Bring to the boil and put in the duck pieces and the carrot. Clamp on the lid. Bring to full pressure, turn the heat down to medium and cook for 20 minutes. Turn off the heat and vent immediately."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. While the duck is cooking, put the onions into a pan with water or stock to cover. Simmer for 15 minutes then drain. Put the onions and mushrooms into the pressure cooker, turn the heat down to medium and cook for 5 minutes more. Remove all the solid ingredients from the pressure cooker, setting the carrot aside. Put the carrot in a fine sieve and mash it back into the pressure cooker. Stir into the cooking liquid to blend. Taste the liquid. If it is too diluted, boil it down briskly. If there isn't enough of it, add stock or water. Serve with chopped parsley, rice or mashed potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. To cook the duck without a pressure cooker, make in the traditional way in a large, heavy-based casserole. The cooking of the duck will take 50-60 minutes or when the meat comes easily away from the bones. You can skip cooking the onions separately, adding them to the pan at the same time as the duck pieces."
+    }
+  ]
+}

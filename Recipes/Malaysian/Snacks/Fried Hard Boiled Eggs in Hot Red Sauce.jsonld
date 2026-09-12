@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fried Hard Boiled Eggs in Hot Red Sauce",
+  "text": "Fried Hard Boiled Eggs in Hot Red Sauce\n\nYield: 4\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n8 shelled hard boiled eggs,\n\n1 stalk of lemongrass (trimmed quartered and crushed),\n\n2 large tomatoes (skinned, seeded, and chopped to a pulp),\n\n1-2 tsp sugar,\n\n2 tbsp dark soy sauce,\n\n1 lime (juiced),\n\n1 sprig of fresh coriander (coarsely chopped),\n\n1 sprig mint (coarsely chopped).\n\nFor the rempah\n\n4-6 red chilies (seeded and chopped),\n\n4 shallots (chopped),\n\n2 cloves of garlic (chopped),\n\n½ tsp shrimp paste.\n\nPreparation\n\n1. Process the rempah into a smooth paste.\n\n2. Deep fry the eggs until golden brown.\n\n3. Put some oil in a wok and fry the rempah until it becomes fragrant.\n\n4. Add the lemongrass, tomatoes, and sugar.\n\n5. Cook for 2-3 minutes until it becomes a thick paste.\n\n6. Reduce the heat.\n\n7. Stir in the soy sauce and lime juice.\n\n8. Add up to 2 tbsp water to thin the sauce then add the eggs and toss until coated.\n\n9. Serve with chopped coriander and mint.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "8 shelled hard boiled eggs,",
+    "1 stalk of lemongrass (trimmed quartered and crushed),",
+    "2 large tomatoes (skinned, seeded, and chopped to a pulp),",
+    "1-2 tsp sugar,",
+    "2 tbsp dark soy sauce,",
+    "1 lime (juiced),",
+    "1 sprig of fresh coriander (coarsely chopped),",
+    "1 sprig mint (coarsely chopped).",
+    "For the rempah",
+    "4-6 red chilies (seeded and chopped),",
+    "4 shallots (chopped),",
+    "2 cloves of garlic (chopped),",
+    "½ tsp shrimp paste."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Process the rempah into a smooth paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Deep fry the eggs until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Put some oil in a wok and fry the rempah until it becomes fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the lemongrass, tomatoes, and sugar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cook for 2-3 minutes until it becomes a thick paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Reduce the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Stir in the soy sauce and lime juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Add up to 2 tbsp water to thin the sauce then add the eggs and toss until coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Serve with chopped coriander and mint."
+    }
+  ]
+}

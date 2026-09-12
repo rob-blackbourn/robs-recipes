@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Rich Tomato Sauce",
+  "text": "Rich Tomato Sauce\n\nPreparation time: 20 minutes\n\nCooking time: 30 minutes\n\nYield: 4\n\nIngredients\n\nt tbsp olive oil,\n\n1 onion (finely chopped),\n\n2 cloves garlic (crushed),\n\n125 g button mushrooms (finely chopped),\n\n2 carrots (finely chopped),\n\n750 g ripe plum tomatoes (skinned and chopped),\n\n2 tbsp tomato puree,\n\n1/2 tsp castor sugar,\n\n4 tbsp single cream,\n\nSalt & pepper,\n\n1 tbsp oregano leaves to garnish,\n\nFreshly grated Parmesan cheese to serve.\n\nPreparation\n\n1. Heat the oil in a large saucepan. Add the onions, garlic, mushrooms, and carrots, and fry over a moderate heat for 5 minutes until softened.\n\n2. Add the tomatoes, tomato puree and sugar and stir well. Bring to the boil, then reduce the heat, cover the pan and simmer for 20 minutes, stirring occasionally. Season to taste with salt and pepper.\n\n3. Stir the cream into the sauce, garnish with oregano and serve with freshly grated Parmesan cheese.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "t tbsp olive oil,",
+    "1 onion (finely chopped),",
+    "2 cloves garlic (crushed),",
+    "125 g button mushrooms (finely chopped),",
+    "2 carrots (finely chopped),",
+    "750 g ripe plum tomatoes (skinned and chopped),",
+    "2 tbsp tomato puree,",
+    "1/2 tsp castor sugar,",
+    "4 tbsp single cream,",
+    "Salt & pepper,",
+    "1 tbsp oregano leaves to garnish,",
+    "Freshly grated Parmesan cheese to serve."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil in a large saucepan. Add the onions, garlic, mushrooms, and carrots, and fry over a moderate heat for 5 minutes until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the tomatoes, tomato puree and sugar and stir well. Bring to the boil, then reduce the heat, cover the pan and simmer for 20 minutes, stirring occasionally. Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Stir the cream into the sauce, garnish with oregano and serve with freshly grated Parmesan cheese."
+    }
+  ]
+}

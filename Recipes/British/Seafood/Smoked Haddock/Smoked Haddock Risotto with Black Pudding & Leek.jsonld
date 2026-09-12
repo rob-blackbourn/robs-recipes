@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Smoked Haddock Risotto with Black Pudding & Leek",
+  "text": "Smoked Haddock Risotto with Black Pudding & Leek\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n300g smoked haddock,\n\n85g butter,\n\n600ml fresh fish stock,\n\n300ml chicken stock,\n\n225g Arborio rice,\n\n3 shallots,\n\n2 cloves garlic,\n\n170g black pudding,\n\n2 leeks\n\nMascarpone cheese,\n\nParmesan cheese,\n\nSalt and pepper,\n\nFresh flat parsley (chopped),\n\nWhite wine.\n\nPreparation\n\n1. Peel and chop the onions and garlic, and sauté in a pan with a little butter and add the rice and cook for a further 30 seconds, then add the white wine and fish stock.\n\n2. Dice the black pudding and add it to the pan with some thinly sliced leek. Bring back to the boil and simmer gently for about 5 minutes before adding the diced smoked haddock.\n\n3. Cook for a further 4–5 minutes to ensure the rice is cooked, finish with chopped parsley, Mascarpone, grated Parmesan and seasoning.  Assembly  Serve in a large bowl with grated cheese and olive oil drizzled over the top.",
+  "recipeIngredient": [
+    "300g smoked haddock,",
+    "85g butter,",
+    "600ml fresh fish stock,",
+    "300ml chicken stock,",
+    "225g Arborio rice,",
+    "3 shallots,",
+    "2 cloves garlic,",
+    "170g black pudding,",
+    "2 leeks",
+    "Mascarpone cheese,",
+    "Parmesan cheese,",
+    "Salt and pepper,",
+    "Fresh flat parsley (chopped),",
+    "White wine."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Peel and chop the onions and garlic, and sauté in a pan with a little butter and add the rice and cook for a further 30 seconds, then add the white wine and fish stock."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Dice the black pudding and add it to the pan with some thinly sliced leek. Bring back to the boil and simmer gently for about 5 minutes before adding the diced smoked haddock."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Cook for a further 4–5 minutes to ensure the rice is cooked, finish with chopped parsley, Mascarpone, grated Parmesan and seasoning.  Assembly  Serve in a large bowl with grated cheese and olive oil drizzled over the top."
+    }
+  ]
+}

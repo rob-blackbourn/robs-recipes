@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Merguez Spice Blend",
+  "text": "Merguez Spice Blend\n\nPreparation time: 10 minutes\n\nCooking time: None\n\nYield: Seasoning for 1kg lamb\n\nIngredients\n\n2 tsp fennel seeds,\n\n2 tsp cumin seeds,\n\n2 tsp coriander seeds,\n\n2 tbsp sweet paprika,\n\n1 tbsp harissa paste,\n\n1 tbsp salt,\n\n1 tsp ground cinnamon,\n\n1 tsp cayenne pepper,\n\n1 tsp ground black pepper,\n\n4 garlic cloves,\n\nPreparation\n\n1. Grid spices and combine.",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "recipeYield": "Seasoning for 1kg lamb",
+  "recipeIngredient": [
+    "2 tsp fennel seeds,",
+    "2 tsp cumin seeds,",
+    "2 tsp coriander seeds,",
+    "2 tbsp sweet paprika,",
+    "1 tbsp harissa paste,",
+    "1 tbsp salt,",
+    "1 tsp ground cinnamon,",
+    "1 tsp cayenne pepper,",
+    "1 tsp ground black pepper,",
+    "4 garlic cloves,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Grid spices and combine."
+    }
+  ]
+}

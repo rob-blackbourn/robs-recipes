@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Steamed Snapper with Ginger",
+  "text": "Steamed Snapper with Ginger\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1 whole snapper (around 400g),\n\n3 tbsp light soy sauce,\n\npinch of white sugar,\n\n1 cup shredded ginger,\n\n4 spring onions (shredded),\n\nlarge pinch ground white pepper,\n\n1 tbsp coriander leaves.\n\nPreparation\n\n1. Clean and score the fish.\n\n2. Place on a plate and cover with soy sauce, sugar and half the ginger.\n\n3. Steam until just cooked (around 20 minutes) checking the underside of the fish to make sure it is done.\n\n4. Strew with the rest of the ginger and spring onions and steam for a moment longer until the onions have softened.\n\n5.Before serving remove as much of the liquid as possible, thn sprinkle with pepper and coriander.",
+  "recipeIngredient": [
+    "1 whole snapper (around 400g),",
+    "3 tbsp light soy sauce,",
+    "pinch of white sugar,",
+    "1 cup shredded ginger,",
+    "4 spring onions (shredded),",
+    "large pinch ground white pepper,",
+    "1 tbsp coriander leaves."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Clean and score the fish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Place on a plate and cover with soy sauce, sugar and half the ginger."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Steam until just cooked (around 20 minutes) checking the underside of the fish to make sure it is done."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Strew with the rest of the ginger and spring onions and steam for a moment longer until the onions have softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5.Before serving remove as much of the liquid as possible, thn sprinkle with pepper and coriander."
+    }
+  ]
+}

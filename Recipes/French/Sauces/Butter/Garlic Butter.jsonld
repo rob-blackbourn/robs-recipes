@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Garlic Butter",
+  "text": "Garlic Butter\n\nPreparation time: 5 minutes\n\nCooking time: none\n\nIngredients\n\n250 g unsalted butter,\n\n3 large cloves of garlic (finely chopped),\n\n30 g chopped shallot,\n\n50 g chopped parsley,\n\n1-2 tsp salt,\n\nfreshly ground black pepper.\n\nPreparation\n\n1. Cream the butter.\n\n2. Mix the ingredients.",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "recipeIngredient": [
+    "250 g unsalted butter,",
+    "3 large cloves of garlic (finely chopped),",
+    "30 g chopped shallot,",
+    "50 g chopped parsley,",
+    "1-2 tsp salt,",
+    "freshly ground black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cream the butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Mix the ingredients."
+    }
+  ]
+}

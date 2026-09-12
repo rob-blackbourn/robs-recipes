@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tofu & Wakame Miso Soup",
+  "text": "Tofu & Wakame Miso Soup\n\nPreparation time:\n\nCooking time:\n\nYield: Makes 3 -4 servings\n\nIngredients\n\n400ml dashi,\n\n1/2 tablespoon dried wakame, soaked in water for 5 minutes then drained,\n\n3 oz enoki mushrooms (trimmed),\n\n1 tbsp shiro miso,\n\n1/2 tbsp aka miso,\n\n3 oz firm tofu (cut into cubes).\n\nPreparation\n\n1. Bring the dashi to a boil in a saucepan.\n\n2. Add the wakame and mushrooms (if you are using them), and simmer for 1 minute.\n\n3. Put the miso paste in a separate bowl and add a small amount of the dashing, a little at a time, to prevent lumps.\n\n4. When the miso is well diluted, ad it to the remaining dashi.\n\n5. Add then the tofu, and reheat slightly, but do not boil.",
+  "recipeYield": "Makes 3 -4 servings",
+  "recipeIngredient": [
+    "400ml dashi,",
+    "1/2 tablespoon dried wakame, soaked in water for 5 minutes then drained,",
+    "3 oz enoki mushrooms (trimmed),",
+    "1 tbsp shiro miso,",
+    "1/2 tbsp aka miso,",
+    "3 oz firm tofu (cut into cubes)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Bring the dashi to a boil in a saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the wakame and mushrooms (if you are using them), and simmer for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Put the miso paste in a separate bowl and add a small amount of the dashing, a little at a time, to prevent lumps."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. When the miso is well diluted, ad it to the remaining dashi."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add then the tofu, and reheat slightly, but do not boil."
+    }
+  ]
+}

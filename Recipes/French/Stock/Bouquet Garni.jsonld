@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bouquet Garni",
+  "text": "Bouquet Garni\n\nYield: 1\n\nPreparation time: 1 minute\n\nIngredients\n\n1 sprig thyme,\n\n1 bay leaf,\n\n4 parsley stalks,\n\n1 leek leaf.\n\nPreparation\n\n1. Wrap the herbs in the leek leaf and tie with string.",
+  "recipeYield": "1",
+  "prepTime": "PT1M",
+  "recipeIngredient": [
+    "1 sprig thyme,",
+    "1 bay leaf,",
+    "4 parsley stalks,",
+    "1 leek leaf."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Wrap the herbs in the leek leaf and tie with string."
+    }
+  ]
+}

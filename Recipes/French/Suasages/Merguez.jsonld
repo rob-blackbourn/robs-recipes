@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Merguez",
+  "text": "Merguez\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n500 gm Lean Beef\n\n500 gm Breast of Lamb\n\n30 gm Iced Water\n\n10 gm Olive Oil\n\n38 gm Spice Mix\n\nSpice Mix\n\n18 gm Salt\n\n2.4 gm Black Pepper\n\n4 gm Hot chilli Powder\n\n0.6 gm Spanish Smoked Hot Paprika\n\n3 gm Ground Garlic\n\n4 gm Ground Cumin\n\n4 gm Ground Fennel seed\n\n2 gm Spanish Sweet Paprika\n\nPreparation\n\nGrinding and Mixing\n\nThe meat can be ground in the grinder or chopper to obtain a grain of 4-6 mm (1/4 in) as shown. The meats are then blended with the seasonings (dissolved in cold water) on low speed in a mixer until just mixed to avoid warming the mixture which causes the release of fat during cooking resulting in a dry\n\nproduct.\n\nFilling the Casings\n\nThe merguez mixture is stuffed into sheep casings (18-20 mm (3/4 in)). The standard merguez is sectioned into 12-15 cm (5-6 in) links. Smaller sausages measuring 5 cm (2 in) are used for brochettes and are served with couscous. Tinted casings can be used to intensify the colour which makes them more eye-catching and easier to market. The filled sausages are hung in the refrigerator to drain.",
+  "recipeIngredient": [
+    "500 gm Lean Beef",
+    "500 gm Breast of Lamb",
+    "30 gm Iced Water",
+    "10 gm Olive Oil",
+    "38 gm Spice Mix",
+    "Spice Mix: 18 gm Salt",
+    "Spice Mix: 2.4 gm Black Pepper",
+    "Spice Mix: 4 gm Hot chilli Powder",
+    "Spice Mix: 0.6 gm Spanish Smoked Hot Paprika",
+    "Spice Mix: 3 gm Ground Garlic",
+    "Spice Mix: 4 gm Ground Cumin",
+    "Spice Mix: 4 gm Ground Fennel seed",
+    "Spice Mix: 2 gm Spanish Sweet Paprika"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Grinding and Mixing",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "The meat can be ground in the grinder or chopper to obtain a grain of 4-6 mm (1/4 in) as shown. The meats are then blended with the seasonings (dissolved in cold water) on low speed in a mixer until just mixed to avoid warming the mixture which causes the release of fat during cooking resulting in a dry"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "product."
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Filling the Casings",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "The merguez mixture is stuffed into sheep casings (18-20 mm (3/4 in)). The standard merguez is sectioned into 12-15 cm (5-6 in) links. Smaller sausages measuring 5 cm (2 in) are used for brochettes and are served with couscous. Tinted casings can be used to intensify the colour which makes them more eye-catching and easier to market. The filled sausages are hung in the refrigerator to drain."
+        }
+      ]
+    }
+  ]
+}

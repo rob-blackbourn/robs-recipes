@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fish Tagine With Preserved Lemon & Mint",
+  "text": "Fish Tagine With Preserved Lemon & Mint\n\nPreparation time:\n\nCooking time:\n\nYield: 4-6\n\nIngredients\n\n1 quantity of chermoula,\n\n900g white fish like cod or haddock (cut into large chunks),\n\n2-3 tbsp olive oil,\n\n1 red onion (finely chopped),\n\n2 carrots (finely chopped),\n\n2 celery stalks (finely chopped),\n\n1 preserved lemon (finely chopped),\n\n1 400g can plum tomatoes,\n\n150 ml fish stock,\n\n150 ml white wine or fino sherry,\n\nsalt and pepper,\n\nmint leaves to garnish.\n\nPreparation\n\n1. Marinade the fish in all but 2 tsp of the chermoula for 1-2 hours.\n\n2. Fry the onion, carrot and celery over a medium heat until softened.\n\n3. Add the preserved lemons, reserved chermoula, and tomatoes. Stir well and cook for 10 minutes.\n\n4. Add the stock and the wine, bring to the boil, then simmer for another 10 minutes.\n\n5. Add the fish to the tagine, cover, and cook for 8 minutes.\n\n6. Season, and scatter with mint.",
+  "recipeYield": "4-6",
+  "recipeIngredient": [
+    "1 quantity of chermoula,",
+    "900g white fish like cod or haddock (cut into large chunks),",
+    "2-3 tbsp olive oil,",
+    "1 red onion (finely chopped),",
+    "2 carrots (finely chopped),",
+    "2 celery stalks (finely chopped),",
+    "1 preserved lemon (finely chopped),",
+    "1 400g can plum tomatoes,",
+    "150 ml fish stock,",
+    "150 ml white wine or fino sherry,",
+    "salt and pepper,",
+    "mint leaves to garnish."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Marinade the fish in all but 2 tsp of the chermoula for 1-2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Fry the onion, carrot and celery over a medium heat until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the preserved lemons, reserved chermoula, and tomatoes. Stir well and cook for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the stock and the wine, bring to the boil, then simmer for another 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the fish to the tagine, cover, and cook for 8 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Season, and scatter with mint."
+    }
+  ]
+}

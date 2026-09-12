@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken & Mushroom Pie - Hairy Bikers",
+  "text": "Chicken & Mushroom Pie - Hairy Bikers\n\nPreparation time: 30 mins to 1 hour\n\nCooking time: 1 to 2 hours\n\nYield: 4\n\nIngredients\n\nFor the pastry\n\n550g/1lb 4oz lard, plus extra for greasing\n\n1.15kg/3lb 5oz plain flour, plus extra for dusting\n\n1½ tsp salt\n\n300ml/½ pint water\n\nFor the filling\n\n300ml/½ pint sunflower oil\n\n4kg/9lb chicken thighs, boned and skin removed, flesh cut into pieces\n\n100g/3½oz chopped fresh thyme\n\n1kg/2lb 4oz mushrooms, roughly chopped\n\n100g/3½oz chopped fresh tarragon\n\n500ml/18fl oz soured cream\n\nmilk, to glaze\n\nsalt and freshly ground black pepper\n\nPreparation method\n\n1. Preheat the oven to 180C/350F/Gas 4. Grease five large pie dishes with lard. Add a small amount of flour, then turn the tin to coat the base and sides, shaking out any excess.\n\n2. For the pastry, pulse the flour, salt, and lard in a large food processor until the mixture resembles breadcrumbs. Add the water, mix until just combined, then tip onto a work surface and knead until smooth. Place the pastry in the fridge for 30 minutes. (This makes a lot of pastry, so you may need to make it in batches.)\n\n3. Meanwhile, for the filling, heat half of the oil in a large saucepan over a medium heat, add the chicken pieces and cook for 4-5 minutes, or until browned (you may need to do this in batches). Add 1.5 litre/2¾ pints water and the thyme, and season, to taste, with salt and freshly ground black pepper. Bring the mixture to the boil, reduce the heat, and simmer for 15-20 minutes, or until the volume of liquid has reduced by a third and the chicken is cooked through.\n\n4. Heat the remaining oil in a separate frying pan over a medium heat, add the mushrooms, and cook for 4-5 minutes, or until golden-brown, then season, to taste, with salt and freshly ground black pepper. (It is best not to overcrowd the pan, so you may need to do this in batches.)\n\n5. Add the mushrooms to the chicken mixture along with the tarragon, then stir in the soured cream until well combined. If the mixture is looking dry add a little hot water or stock. Divide the mixture among the pie dishes and set aside.\n\n6. Divide the pastry into five pieces and roll each piece of pastry out on a clean, floured work surface until it is a little bit larger than the diameter of the pie dish.\n\n7. Place the pastry lid on top of the pie and trim off any excess pastry. With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry with a little milk.\n\n8. Repeat with the remaining pastry.\n\n9. Bake the pies in the oven for 30-35 minutes, or until golden-brown.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "For the pastry: 550g/1lb 4oz lard, plus extra for greasing",
+    "For the pastry: 1.15kg/3lb 5oz plain flour, plus extra for dusting",
+    "For the pastry: 1½ tsp salt",
+    "For the pastry: 300ml/½ pint water",
+    "For the filling: 300ml/½ pint sunflower oil",
+    "For the filling: 4kg/9lb chicken thighs, boned and skin removed, flesh cut into pieces",
+    "For the filling: 100g/3½oz chopped fresh thyme",
+    "For the filling: 1kg/2lb 4oz mushrooms, roughly chopped",
+    "For the filling: 100g/3½oz chopped fresh tarragon",
+    "For the filling: 500ml/18fl oz soured cream",
+    "For the filling: milk, to glaze",
+    "For the filling: salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Preheat the oven to 180C/350F/Gas 4. Grease five large pie dishes with lard. Add a small amount of flour, then turn the tin to coat the base and sides, shaking out any excess."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. For the pastry, pulse the flour, salt, and lard in a large food processor until the mixture resembles breadcrumbs. Add the water, mix until just combined, then tip onto a work surface and knead until smooth. Place the pastry in the fridge for 30 minutes. (This makes a lot of pastry, so you may need to make it in batches.)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Meanwhile, for the filling, heat half of the oil in a large saucepan over a medium heat, add the chicken pieces and cook for 4-5 minutes, or until browned (you may need to do this in batches). Add 1.5 litre/2¾ pints water and the thyme, and season, to taste, with salt and freshly ground black pepper. Bring the mixture to the boil, reduce the heat, and simmer for 15-20 minutes, or until the volume of liquid has reduced by a third and the chicken is cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Heat the remaining oil in a separate frying pan over a medium heat, add the mushrooms, and cook for 4-5 minutes, or until golden-brown, then season, to taste, with salt and freshly ground black pepper. (It is best not to overcrowd the pan, so you may need to do this in batches.)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the mushrooms to the chicken mixture along with the tarragon, then stir in the soured cream until well combined. If the mixture is looking dry add a little hot water or stock. Divide the mixture among the pie dishes and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Divide the pastry into five pieces and roll each piece of pastry out on a clean, floured work surface until it is a little bit larger than the diameter of the pie dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Place the pastry lid on top of the pie and trim off any excess pastry. With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry with a little milk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Repeat with the remaining pastry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Bake the pies in the oven for 30-35 minutes, or until golden-brown."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 30 mins to 1 hour"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 1 to 2 hours"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pain Ordinaire",
+  "text": "Pain Ordinaire\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n350 ml warm water,\n\n15 g of fresh yeast or 2 tsp dried yeast,\n\n500 g strong white flour,\n\n1 1/2 tsp salt.\n\nPreparation\n\n1. Pour 100 ml of water in a large bowl, sprinkle in the yeast, whisk lightly, and leave for 5 minutes.\n\n2. Add a third of the flour and mix to a light paste. Cover the bowl with a tea towel and wait for 20 minutes.\n\n3. Add the rest of the flour and salt and the majority of the remaining water. Mix, and add enough water to make a moist yet firm dough.\n\n4. Knead for 10 minutes on a floured surface.\n\n5. Leave covered to prove for 30 minutes to 2 hours, until more than doubled in size.\n\n6. Knock back the dough for 1 minute and put in a greased bread tin.\n\n7. Cover with a tea towel and leave for 45 minutes to 1 hour until doubles in size.\n\n8. Place in a pre-heated oven at 220C/gas 7 for 45 minutes.",
+  "recipeIngredient": [
+    "350 ml warm water,",
+    "15 g of fresh yeast or 2 tsp dried yeast,",
+    "500 g strong white flour,",
+    "1 1/2 tsp salt."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Pour 100 ml of water in a large bowl, sprinkle in the yeast, whisk lightly, and leave for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add a third of the flour and mix to a light paste. Cover the bowl with a tea towel and wait for 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the rest of the flour and salt and the majority of the remaining water. Mix, and add enough water to make a moist yet firm dough."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Knead for 10 minutes on a floured surface."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Leave covered to prove for 30 minutes to 2 hours, until more than doubled in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Knock back the dough for 1 minute and put in a greased bread tin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Cover with a tea towel and leave for 45 minutes to 1 hour until doubles in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Place in a pre-heated oven at 220C/gas 7 for 45 minutes."
+    }
+  ]
+}

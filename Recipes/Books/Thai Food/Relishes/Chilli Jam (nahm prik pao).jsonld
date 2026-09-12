@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chilli Jam (nahm prik pao)",
+  "text": "Chilli Jam (nahm prik pao)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\noil for deep frying,\n\n4 cups red shallots (sliced lengthwise),\n\n2 cups garlic (sliced lengthwise),\n\n1/2 cup dried prawns (rinsed and dried),\n\n1 cup dried long red chilli (deseeded and chopped),\n\n10 slices galangal,\n\n1 tsp gapi shrimp paste (roasted),\n\n1 cup palm sugar,\n\n1/2 cup thick tamarind water,\n\n3 tbsp salt or 1/2 cup fish sauce.\n\nPreparation\n\n1. Heat oil in a wok and separately deep fry shallots garlic, prawns, chilies, and galangal until golden. Blend them all in a food processor, with the shrimp paste, moistening with some of the oil used for deep frying (up to 1 cup) to facilitate the blending.\n\n2. In a pan, bring the mixture to the boil and season with palm sugar and tamarind water and salt or fish sauce.\n\n3. Simmer until quite thick. stirring regularly. The resulting “jam” should taste sweet, sour, and salty.",
+  "recipeIngredient": [
+    "oil for deep frying,",
+    "4 cups red shallots (sliced lengthwise),",
+    "2 cups garlic (sliced lengthwise),",
+    "1/2 cup dried prawns (rinsed and dried),",
+    "1 cup dried long red chilli (deseeded and chopped),",
+    "10 slices galangal,",
+    "1 tsp gapi shrimp paste (roasted),",
+    "1 cup palm sugar,",
+    "1/2 cup thick tamarind water,",
+    "3 tbsp salt or 1/2 cup fish sauce."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat oil in a wok and separately deep fry shallots garlic, prawns, chilies, and galangal until golden. Blend them all in a food processor, with the shrimp paste, moistening with some of the oil used for deep frying (up to 1 cup) to facilitate the blending."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. In a pan, bring the mixture to the boil and season with palm sugar and tamarind water and salt or fish sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Simmer until quite thick. stirring regularly. The resulting “jam” should taste sweet, sour, and salty."
+    }
+  ]
+}

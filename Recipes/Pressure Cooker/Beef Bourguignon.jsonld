@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Bourguignon",
+  "text": "Beef Bourguignon\n\nPreparation time: 25 minutes\n\nCooking time: 30 minutes\n\nYield: 6 servings\n\nIngredients\n\n900 gm. round steak, cut into 2-3cm pieces\n\n1 cup dry red wine\n\n1/2 cup beef stock\n\n2 carrots, sliced 1/2 cm thick\n\n3 slices of bacon\n\n225 gm fresh mushrooms, quartered\n\n2 Tbs. flour\n\n12 sm. pearl onions or 1 lg. onion, chopped\n\n1/4 tsp. basil\n\n2 cloves garlic, minced\n\nPreparation\n\n1. Slice bacon into 1 cm pieces and fry in cooker.\n\n2. Add onion and cook for 2 minutes.\n\n3. Add round steak and brown meat for 5 minutes.\n\n4. Stir in flour and blend thoroughly.\n\n5. Stir in wine, beef stock and seasonings. Close the lid.\n\n6. Cook for 20 minutes. Remove the lid.\n\n7. Add carrots and mushrooms. Close the lid.\n\n8. Cook for 5 minutes. Remove the lid.",
+  "prepTime": "PT25M",
+  "cookTime": "PT30M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "900 gm. round steak, cut into 2-3cm pieces",
+    "1 cup dry red wine",
+    "1/2 cup beef stock",
+    "2 carrots, sliced 1/2 cm thick",
+    "3 slices of bacon",
+    "225 gm fresh mushrooms, quartered",
+    "2 Tbs. flour",
+    "12 sm. pearl onions or 1 lg. onion, chopped",
+    "1/4 tsp. basil",
+    "2 cloves garlic, minced"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Slice bacon into 1 cm pieces and fry in cooker."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add onion and cook for 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add round steak and brown meat for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Stir in flour and blend thoroughly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Stir in wine, beef stock and seasonings. Close the lid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Cook for 20 minutes. Remove the lid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add carrots and mushrooms. Close the lid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Cook for 5 minutes. Remove the lid."
+    }
+  ]
+}

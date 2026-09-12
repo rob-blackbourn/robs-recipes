@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tai-meshi",
+  "text": "Tai-meshi\n\nPreparation time:\n\nCooking time:\n\nYield: 2\n\nIngredients\n\n1 fillet of sea bream (with bones),\n\n180 ml rice,\n\n200 ml water,\n\n1 tbsp sake,\n\n½ tsp salt,\n\n¼ tsp soy sauce,\n\n4x5cm dashi kombu seaweed,\n\n5 g ginger root (thinly sliced).\n\nToppings\n\n4 sprigs of Kinome - Young Leaves of Sansho Pepper (or mitsuba, parsley, shiso leaves),\n\ntoasted white sesame seeds.\n\nPreparation\n\n1. Soak the rice in water with the kombu for 30 minutes.\n\n2. Sprinkle salt on both sides of the sea bream. Lightly rub in the salt, then pour the sake over it. Allow to marinate for 10 minutes.\n\n3. Brush the grilling basket with vinegar to prevent sticking.\n\n4. Dry the fillet in a paper towel, put in the grilling basket, and cook with the skin side facing the heat. When the skin is browned flip over and cook until lightly browned.\n\n5. Add the salt, sake, and soy sauce to the rice. Place this fish on top and add the ginger.\n\n6. Cover, and bring to a boil on medium heat, leaving the lid slightly open. When it begins to boil, cover completely and reduce the heat to a very low setting. Cook for 12 minutes.\n\n7. Allow to rest for 10 minutes.\n\n8. Put the fish on a plate, and remove the bones. Break into bite size pieces, then roughly crumble.\n\n9. Remove the kombu seaweed and cut into thin strips.\n\n10. Return the fish and the seaweed to the rice and lightly mix.\n\n11. Serve in a bowl garnished with toasted sesame seeds and kinome.",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "1 fillet of sea bream (with bones),",
+    "180 ml rice,",
+    "200 ml water,",
+    "1 tbsp sake,",
+    "½ tsp salt,",
+    "¼ tsp soy sauce,",
+    "4x5cm dashi kombu seaweed,",
+    "5 g ginger root (thinly sliced).",
+    "Toppings: 4 sprigs of Kinome - Young Leaves of Sansho Pepper (or mitsuba, parsley, shiso leaves),",
+    "Toppings: toasted white sesame seeds."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak the rice in water with the kombu for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Sprinkle salt on both sides of the sea bream. Lightly rub in the salt, then pour the sake over it. Allow to marinate for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Brush the grilling basket with vinegar to prevent sticking."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Dry the fillet in a paper towel, put in the grilling basket, and cook with the skin side facing the heat. When the skin is browned flip over and cook until lightly browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the salt, sake, and soy sauce to the rice. Place this fish on top and add the ginger."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Cover, and bring to a boil on medium heat, leaving the lid slightly open. When it begins to boil, cover completely and reduce the heat to a very low setting. Cook for 12 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Allow to rest for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Put the fish on a plate, and remove the bones. Break into bite size pieces, then roughly crumble."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Remove the kombu seaweed and cut into thin strips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Return the fish and the seaweed to the rice and lightly mix."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Serve in a bowl garnished with toasted sesame seeds and kinome."
+    }
+  ],
+  "image": [
+    "Tai-meshi.assets/image1.png"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fish Stock",
+  "text": "Fish Stock\n\nYield: 2 l\n\nPreparation time: 20 minutes\n\nCooking time: 30 minutes\n\nIngredients\n\n1.5 kg bones and trimmings of white fish (cut into pieces),\n\n50 g unsalted butter,\n\n2 leeks (white part, thinly sliced),\n\n75 g onions (thinly sliced),\n\n75 g button mushrooms (thinly sliced),\n\n200 ml dry white wine,\n\n1 bouquet garni,\n\n2 slices of lemon,\n\n8 white peppercorns (crushed and wrapped in a piece of muslin).\n\nPreparation\n\n1. Rinse the bones and trimmings then drain.\n\n2. Melt the butter in a saucepan and sweat the vegetables over a low heat for a few minutes.\n\n3. Add the fish bones and trimmings and bubble gently for a few seconds.\n\n4. Pur in the wine.\n\n5. Cook until reduced to one third.\n\n6. Add 2.5 l cold water, bring to the boil, then immediately reduce to a simmer.\n\n7. Skim the surface.\n\n8. Add the bouquet garni and lemon.\n\n9. Simmer gently for 25 minutes, skimming when necessary.\n\n10. 10 minutes before the end add the muslin wrapped peppercorns.\n\n11. Strain the stock and cool as quickly as possible.",
+  "recipeYield": "2 l",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "recipeIngredient": [
+    "1.5 kg bones and trimmings of white fish (cut into pieces),",
+    "50 g unsalted butter,",
+    "2 leeks (white part, thinly sliced),",
+    "75 g onions (thinly sliced),",
+    "75 g button mushrooms (thinly sliced),",
+    "200 ml dry white wine,",
+    "1 bouquet garni,",
+    "2 slices of lemon,",
+    "8 white peppercorns (crushed and wrapped in a piece of muslin)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Rinse the bones and trimmings then drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Melt the butter in a saucepan and sweat the vegetables over a low heat for a few minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the fish bones and trimmings and bubble gently for a few seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Pur in the wine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cook until reduced to one third."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Add 2.5 l cold water, bring to the boil, then immediately reduce to a simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Skim the surface."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Add the bouquet garni and lemon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Simmer gently for 25 minutes, skimming when necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. 10 minutes before the end add the muslin wrapped peppercorns."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Strain the stock and cool as quickly as possible."
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1ApMSfXhCOThtVDLk7fhTr1J_yzvej9FlOwQg1WIuu7M/edit"
+  ]
+}

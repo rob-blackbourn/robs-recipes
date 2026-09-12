@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken & Tomato Sauce",
+  "text": "Chicken & Tomato Sauce\n\nPreparation time: 5 minutes\n\nCooking time: 20 minutes\n\nYield: 4-6\n\nIngredients\n\n2 tbsp olive oil,\n\n250 g boneless skinless chicken breasts (diced),\n\n1 large onion (finely chopped),\n\n3 celery sticks (diced),\n\n2 carrots (diced),\n\n2 tsp dried oregano,\n\n125 ml red wine,\n\n400 g tin of chopped tomatoes,\n\nsalt & pepper,\n\n1 tbsp chopped oregano (to garnish),\n\nParmesan cheese shavings (to server).\n\nPreparation\n\n1. Heat the oil in a saucepan and fry the chicken, stirring occasionally, until lightly coloured.\n\n2. Add the onion, celery, and carrots, and cook for 5 minutes until softened.\n\n3. Add the oregano, wine and tomatoes.\n\n4. Bring to the boil, cover, then reduce the heat and simmer for 10 minutes.\n\n5. Season to taste with salt and pepper.\n\n6. Garnish with oregano and serve with parmesan shavings.",
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "recipeYield": "4-6",
+  "recipeIngredient": [
+    "2 tbsp olive oil,",
+    "250 g boneless skinless chicken breasts (diced),",
+    "1 large onion (finely chopped),",
+    "3 celery sticks (diced),",
+    "2 carrots (diced),",
+    "2 tsp dried oregano,",
+    "125 ml red wine,",
+    "400 g tin of chopped tomatoes,",
+    "salt & pepper,",
+    "1 tbsp chopped oregano (to garnish),",
+    "Parmesan cheese shavings (to server)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil in a saucepan and fry the chicken, stirring occasionally, until lightly coloured."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the onion, celery, and carrots, and cook for 5 minutes until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the oregano, wine and tomatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Bring to the boil, cover, then reduce the heat and simmer for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Garnish with oregano and serve with parmesan shavings."
+    }
+  ]
+}

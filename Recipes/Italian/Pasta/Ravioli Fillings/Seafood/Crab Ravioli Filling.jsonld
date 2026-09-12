@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Crab Ravioli Filling",
+  "text": "Crab Ravioli Filling\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n2 tbsp Butter or Olive Oil\n\n1 Shallot, finely chopped\n\n1 Garlic Clove, crushed\n\n350g/12oz Cooked Crabmeat\n\n1 tbsp Fresh Lemon Juice\n\n2 tbsp freshly chopped Parsley\n\n4 tbsp Crème Fraîche\n\nSalt and pepper\n\nPreparation\n\n1. Heat the oil and butter in a medium saucepan, add the shallot and garlic and sauté for 2-3 minutes.\n\n2. Remove the pan from the heat, add the crabmeat, lemon juice and parsley, stir to mix well then stir in the crème fraîche, salt and pepper. Allow to cool before using.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "2 tbsp Butter or Olive Oil",
+    "1 Shallot, finely chopped",
+    "1 Garlic Clove, crushed",
+    "350g/12oz Cooked Crabmeat",
+    "1 tbsp Fresh Lemon Juice",
+    "2 tbsp freshly chopped Parsley",
+    "4 tbsp Crème Fraîche",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil and butter in a medium saucepan, add the shallot and garlic and sauté for 2-3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Remove the pan from the heat, add the crabmeat, lemon juice and parsley, stir to mix well then stir in the crème fraîche, salt and pepper. Allow to cool before using."
+    }
+  ]
+}

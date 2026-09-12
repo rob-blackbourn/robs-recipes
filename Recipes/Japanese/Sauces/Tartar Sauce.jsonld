@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tartar Sauce",
+  "text": "Tartar Sauce\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n1 egg,\n\n2 tbsp minced onion,\n\n2 tbsp minced parsley,\n\n1 small pickled cucumber,\n\n2 tbsp mayonnaise,\n\n? tsp salt,\n\n2 tsp lemon juice.\n\nPreparation\n\n1. Boil the egg for 6 minutes, then cool in cold water.\n\n2. Finely dice the egg (this is easier with an egg slicer).\n\n3. Finely dice the onion.\n\n4. Put the onion in a small bowl. Rub in a little salt. Rinse the onion in cold water, then drain with a mesh strainer. Squeeze out the water, and dry on a paper towel.\n\n5. Add the onion to the chopped egg.\n\n6. Finely chop the parsley, and add to the mixture.\n\n7. Finely dice the pickled cucumber and add to the mixture.\n\n8. Add the mayonnaise.\n\n9. Add the lemon juice.\n\n10. Season with salt.",
+  "recipeIngredient": [
+    "1 egg,",
+    "2 tbsp minced onion,",
+    "2 tbsp minced parsley,",
+    "1 small pickled cucumber,",
+    "2 tbsp mayonnaise,",
+    "? tsp salt,",
+    "2 tsp lemon juice."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Boil the egg for 6 minutes, then cool in cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Finely dice the egg (this is easier with an egg slicer)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Finely dice the onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Put the onion in a small bowl. Rub in a little salt. Rinse the onion in cold water, then drain with a mesh strainer. Squeeze out the water, and dry on a paper towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the onion to the chopped egg."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Finely chop the parsley, and add to the mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Finely dice the pickled cucumber and add to the mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Add the mayonnaise."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Add the lemon juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Season with salt."
+    }
+  ]
+}

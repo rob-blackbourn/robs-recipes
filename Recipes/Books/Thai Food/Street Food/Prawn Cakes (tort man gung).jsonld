@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Prawn Cakes (tort man gung)",
+  "text": "Prawn Cakes (tort man gung)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n2 coriander roots (scraped and chopped),\n\npinch of salt,\n\n3 garlic cloves (peeled),\n\n1 slice ginger,\n\nlarge pinch of ground white pepper,\n\n150g minced uncooked prawns,\n\nlarge pinch of palm sugar,\n\n1-2 tbsp soy sauce,\n\noil for deep frying.g\n\nServe with cucumber relish\n\nPreparation\n\n1. Pound the coriander roots, salt, garlic, ginger and pepper into a paste.\n\n2. Combine with the minced prawns, then slap the mixture against the side of the bowl until it becomes firm and stickier.\n\n3. Season with sugar and soy sauce. Test a little by poaching in water - it should taste salty and slightly sweet.\n\n4. Roll into 2cm balls, flatten into cakes, and deep fry in plenty of medium hot oil.",
+  "recipeIngredient": [
+    "2 coriander roots (scraped and chopped),",
+    "pinch of salt,",
+    "3 garlic cloves (peeled),",
+    "1 slice ginger,",
+    "large pinch of ground white pepper,",
+    "150g minced uncooked prawns,",
+    "large pinch of palm sugar,",
+    "1-2 tbsp soy sauce,",
+    "oil for deep frying.g",
+    "Serve with cucumber relish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Pound the coriander roots, salt, garlic, ginger and pepper into a paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Combine with the minced prawns, then slap the mixture against the side of the bowl until it becomes firm and stickier."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Season with sugar and soy sauce. Test a little by poaching in water - it should taste salty and slightly sweet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Roll into 2cm balls, flatten into cakes, and deep fry in plenty of medium hot oil."
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1jH_Y94O5DeFPMUjYiUSlJm1lUuorcSl2ONCmqie9Dh4/edit?usp=sharing"
+  ]
+}

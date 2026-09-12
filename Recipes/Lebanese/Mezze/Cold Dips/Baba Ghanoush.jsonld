@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Baba Ghanoush",
+  "text": "Baba Ghanoush\n\nCooking time: 30 minutes\n\nPreparation time: 5 minutes\n\nYield: 2 portions\n\nIngredients\n\n1 large aubergine,\n\n1 tbsp tahini,\n\n1 clove garlic (crushed),\n\n1 tsp lemon juice,\n\nSalt,\n\nOlive oil to drizzle\n\n1 tbsp pomegranate seeds (optional) or flat leaf parsley (chopped).\n\nPreparation\n\nHeat the grill to it’s highest setting and grill the aubergine for about 30 minutes, turning regularly until their skins are blackened, the insides feel soft and they smell smokey.\n\nCut the aubergine in half and scoop out the soft flesh into a bowl.\n\nUsing a potato masher work into a coarse paste.\n\nAdd the tahini, crushed garlic, lemon juice, a drizzle of olive oil, season with salt and mix well.\n\nMake a well in the centre and drizzle in some olive oil, and sprinkle with pomegranate seeds or chopped flat leaf parsley.",
+  "cookTime": "PT30M",
+  "prepTime": "PT5M",
+  "recipeYield": "2 portions",
+  "recipeIngredient": [
+    "1 large aubergine,",
+    "1 tbsp tahini,",
+    "1 clove garlic (crushed),",
+    "1 tsp lemon juice,",
+    "Salt,",
+    "Olive oil to drizzle",
+    "1 tbsp pomegranate seeds (optional) or flat leaf parsley (chopped)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the grill to it’s highest setting and grill the aubergine for about 30 minutes, turning regularly until their skins are blackened, the insides feel soft and they smell smokey."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the aubergine in half and scoop out the soft flesh into a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using a potato masher work into a coarse paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tahini, crushed garlic, lemon juice, a drizzle of olive oil, season with salt and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make a well in the centre and drizzle in some olive oil, and sprinkle with pomegranate seeds or chopped flat leaf parsley."
+    }
+  ]
+}

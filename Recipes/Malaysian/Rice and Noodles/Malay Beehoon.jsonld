@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Malay Beehoon",
+  "text": "Malay Beehoon\n\nYield: 4\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n1 carrot (cut into matchsticks),\n\n225 g fresh prawns (peeled),\n\n120 ml chicken stock,\n\n2 tbsp dark soy sauce,\n\n175 g beansprouts,\n\n115 g mustard greens or pak choi (shredded),\n\n225 g dried rice vermicelli (soaked in lukewarm water until pliable and drained),\n\n1-2 fresh chilies (deseeded and finely sliced),\n\nFresh coriander leaves (roughly chopped).\n\nFor the rempah\n\n4 dried red chilies (soaked until soft and deseeded),\n\n4 cloves of garlic,\n\n4 shallots (chopped),\n\n25 g fresh root ginger (peeled and chopped),\n\n1 tsp ground turmeric.\n\nPreparation\n\n1. Combine the ingredients for the rempah in a mortar and pestle or food processor into a paste.\n\n2. In a wok fry off the rempah in a little oil until it begins to colour and becomes fragrant.\n\n3. Toss in the carrots and cook for a few minutes.\n\n4. Add the prawns.\n\n5. Add the stock and soy sauce and cook for 1 minute.\n\n6. Add the beansprouts and mustard greens.\n\n7. Add the noodles.\n\n8. Toss well to ensure the vegetables and noodles are coated and heated through.\n\n9. Transfer to a serving plate and garnish with the sliced chilies and coriander.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1 carrot (cut into matchsticks),",
+    "225 g fresh prawns (peeled),",
+    "120 ml chicken stock,",
+    "2 tbsp dark soy sauce,",
+    "175 g beansprouts,",
+    "115 g mustard greens or pak choi (shredded),",
+    "225 g dried rice vermicelli (soaked in lukewarm water until pliable and drained),",
+    "1-2 fresh chilies (deseeded and finely sliced),",
+    "Fresh coriander leaves (roughly chopped).",
+    "For the rempah: 4 dried red chilies (soaked until soft and deseeded),",
+    "For the rempah: 4 cloves of garlic,",
+    "For the rempah: 4 shallots (chopped),",
+    "For the rempah: 25 g fresh root ginger (peeled and chopped),",
+    "For the rempah: 1 tsp ground turmeric."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Combine the ingredients for the rempah in a mortar and pestle or food processor into a paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. In a wok fry off the rempah in a little oil until it begins to colour and becomes fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Toss in the carrots and cook for a few minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the prawns."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the stock and soy sauce and cook for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Add the beansprouts and mustard greens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add the noodles."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Toss well to ensure the vegetables and noodles are coated and heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Transfer to a serving plate and garnish with the sliced chilies and coriander."
+    }
+  ]
+}

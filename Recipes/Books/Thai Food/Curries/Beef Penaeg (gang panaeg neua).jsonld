@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Penaeg (gang panaeg neua)",
+  "text": "Beef Penaeg (gang panaeg neua)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n200 g beef brisket (sinew removed),\n\n1l coconut milk (for cooking the beef),\n\n750ml coconut milk (for the curry),\n\n750ml coconut cream,\n\n1 1/2 tbsp palm sugar,\n\n2 tbsp fish sauce,\n\n3 kaffir lime leaves (torn),\n\n3 long red or green chilies (cut in half and deseeded,\n\nlarge handful of thai basil leaves.\n\nFor the paste\n\n4 tbsp peanuts,\n\n7 dried long red chilies (deseeded, soaked and drained),\n\nlarge pinch of salt,\n\n1 tsp scraped and chopped coriander root,\n\n1 1/2 tbsp chopped galangal,\n\n1 tbsp chopped lemongrass,\n\n3 tbsp chopped red shallot,\n\n2 tbsp chopped garlic,\n\n1/2 nutmeg (coarsely pounded and briefly roasted)\n\nPreparation\n\n1. First make the paste. Boil the peanuts for at least 30 minutes until very soft, drain and cool. Pound or blend the paste, adding the peanuts last.\n\n2. Blanch the meat from a cold water start (to soften it’s flavour) and rinse. Bring the coconut milk to the boil, add the beef, then turn down the heat and braise gently until tender (about 2 hours). Allow to cool in the liquid, then remove and slice.\n\n3. Crack the coconut cream by simmering over a medium heat, then fry 4 tbsp of the paste in the coconut cream for 10 minutes. Season, first with palm sugar, and then, after a minute with the fish sauce. Moisten with 3 cups of coconut milk. Add the sliced beef, simmer briefly to heat through, and finish with the remaining ingredients.",
+  "recipeIngredient": [
+    "200 g beef brisket (sinew removed),",
+    "1l coconut milk (for cooking the beef),",
+    "750ml coconut milk (for the curry),",
+    "750ml coconut cream,",
+    "1 1/2 tbsp palm sugar,",
+    "2 tbsp fish sauce,",
+    "3 kaffir lime leaves (torn),",
+    "3 long red or green chilies (cut in half and deseeded,",
+    "large handful of thai basil leaves.",
+    "For the paste: 4 tbsp peanuts,",
+    "For the paste: 7 dried long red chilies (deseeded, soaked and drained),",
+    "For the paste: large pinch of salt,",
+    "For the paste: 1 tsp scraped and chopped coriander root,",
+    "For the paste: 1 1/2 tbsp chopped galangal,",
+    "For the paste: 1 tbsp chopped lemongrass,",
+    "For the paste: 3 tbsp chopped red shallot,",
+    "For the paste: 2 tbsp chopped garlic,",
+    "For the paste: 1/2 nutmeg (coarsely pounded and briefly roasted)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. First make the paste. Boil the peanuts for at least 30 minutes until very soft, drain and cool. Pound or blend the paste, adding the peanuts last."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Blanch the meat from a cold water start (to soften it’s flavour) and rinse. Bring the coconut milk to the boil, add the beef, then turn down the heat and braise gently until tender (about 2 hours). Allow to cool in the liquid, then remove and slice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Crack the coconut cream by simmering over a medium heat, then fry 4 tbsp of the paste in the coconut cream for 10 minutes. Season, first with palm sugar, and then, after a minute with the fish sauce. Moisten with 3 cups of coconut milk. Add the sliced beef, simmer briefly to heat through, and finish with the remaining ingredients."
+    }
+  ]
+}

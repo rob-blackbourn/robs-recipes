@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Red Curry with Roasted Duck and Lychees\nKaeng Phet Pet Yaang",
+  "text": "Red Curry with Roasted Duck and Lychees\nKaeng Phet Pet Yaang\n\nYield: 4\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n1/2 Chinese roast duck,\n\n4 tsp red curry paste,\n\n400 ml coconut cream,\n\n2 tsp ground sweet paprika,\n\n2 mild fresh chilies (deseeded),\n\n3 kaffir lime leaves (torn in half),\n\n1 tbsp palm sugar,\n\n2 tbsp fish sauce,\n\n8 lychees (cut in half),\n\nSalt,\n\nLime juice,\n\nFresh basil leaves to garnish.\n\nPreparation\n\n1. Remove the meat from the bones and slice.\n\n2. Heat the curry paste with half the coconut milk and simmer for 2 1/2 minutes stirring occasionally.\n\n3. Add the remaining coconut cream.\n\n4. Add 1/3 cup water.\n\n5. Add the paprika chillies, lime leaves, sugar and fish sauce. Simmer for 3-4 minutes.\n\n6. Reduce the heat and add the duck and the lychees to the sauce.\n\n7. Season with salt and lime juice.\n\n8. Serve when the duck is warmed through.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1/2 Chinese roast duck,",
+    "4 tsp red curry paste,",
+    "400 ml coconut cream,",
+    "2 tsp ground sweet paprika,",
+    "2 mild fresh chilies (deseeded),",
+    "3 kaffir lime leaves (torn in half),",
+    "1 tbsp palm sugar,",
+    "2 tbsp fish sauce,",
+    "8 lychees (cut in half),",
+    "Salt,",
+    "Lime juice,",
+    "Fresh basil leaves to garnish."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Remove the meat from the bones and slice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat the curry paste with half the coconut milk and simmer for 2 1/2 minutes stirring occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the remaining coconut cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add 1/3 cup water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the paprika chillies, lime leaves, sugar and fish sauce. Simmer for 3-4 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Reduce the heat and add the duck and the lychees to the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Season with salt and lime juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Serve when the duck is warmed through."
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1Hq6wHvx19q4IBzHeiEgGrNewZqysK3wSSiXECilwnyA/edit"
+  ]
+}

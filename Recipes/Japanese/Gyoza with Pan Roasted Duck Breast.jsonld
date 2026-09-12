@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gyoza with Pan Roasted Duck Breast",
+  "text": "Gyoza with Pan Roasted Duck Breast\n\n2 cooked breasts chopped fine\n\n2 scallions white and green chopped fine\n\n3 med. mushrooms chopped small\n\n1 Tbls. soy sauce\n\n1 Tbls. Mirin\n\n1/2 tsp. grated fresh ginger (easier to do if ginger is frozen first)\n\n1 tsp. red chili paste pepper to taste",
+  "recipeIngredient": [
+    "2 cooked breasts chopped fine",
+    "2 scallions white and green chopped fine",
+    "3 med. mushrooms chopped small",
+    "1 Tbls. soy sauce",
+    "1 Tbls. Mirin",
+    "1/2 tsp. grated fresh ginger (easier to do if ginger is frozen first)",
+    "1 tsp. red chili paste pepper to taste"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Spiced Fish Cakes in Banana Leaves - Ikan Otakotak",
+  "text": "Spiced Fish Cakes in Banana Leaves - Ikan Otakotak\n\nPreparation time:\n\nCooking time:\n\nYield: 4-6\n\nIngredients\n\n4 shallots (chopped),\n\n1 stalk lemongrass (trimmed and chopped),\n\n25g galangal (chopped),\n\n4 candlenuts or macadamia nuts (roasted),\n\n4 dried red chillies (soaked in warm water until soft, squeezed dry and deseeded),\n\n1 tsp shrimp paste,\n\n1-2 tsp ground turmeric,\n\n250 ml coconut cream,\n\n1 tbsp dark soy sauce,\n\n2 tsp palm sugar,\n\n450 g fresh mackerel (cleaned skinned and flaked),\n\n4-6 kaffir lime leaves (finely shredded),\n\n2 eggs (lightly beaten),\n\nSalt and ground black pepper,\n\n12 banana leaves cut into pieces about 20 cm square,\n\n2 limes (quartered lengthways and chilli or peanut sambal, to serve).\n\nPreparation\n\n1. Using a pestle and mortar or a food processor make a paste from the shallots, lemongrass, galangal, nuts, and chillies.\n\n2. Beat in the shrimp paste and turmeric.\n\n3. Stir in the coconut cream, soy sauce, and sugar.\n\n4. Put the flaked fish and lime leaves in a bowl.\n\n5. Pour in the spiced coconut cream and the beaten eggs, and season with salt and pepper.\n\n6. Lay a square of banana leaf on a flat surface. Place 2 tbsp of fish mixture just off centre and fold the sides of the leaf over the top, leaving a little room for expansion.\n\n7. Secure the package with a cocktail stick.\n\n8. Preheat the oven to 200C or Gas 6 and bake the fish cakes for 30 minutes or grill them for 15 minutes on each side.",
+  "recipeYield": "4-6",
+  "recipeIngredient": [
+    "4 shallots (chopped),",
+    "1 stalk lemongrass (trimmed and chopped),",
+    "25g galangal (chopped),",
+    "4 candlenuts or macadamia nuts (roasted),",
+    "4 dried red chillies (soaked in warm water until soft, squeezed dry and deseeded),",
+    "1 tsp shrimp paste,",
+    "1-2 tsp ground turmeric,",
+    "250 ml coconut cream,",
+    "1 tbsp dark soy sauce,",
+    "2 tsp palm sugar,",
+    "450 g fresh mackerel (cleaned skinned and flaked),",
+    "4-6 kaffir lime leaves (finely shredded),",
+    "2 eggs (lightly beaten),",
+    "Salt and ground black pepper,",
+    "12 banana leaves cut into pieces about 20 cm square,",
+    "2 limes (quartered lengthways and chilli or peanut sambal, to serve)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Using a pestle and mortar or a food processor make a paste from the shallots, lemongrass, galangal, nuts, and chillies."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Beat in the shrimp paste and turmeric."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Stir in the coconut cream, soy sauce, and sugar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Put the flaked fish and lime leaves in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Pour in the spiced coconut cream and the beaten eggs, and season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Lay a square of banana leaf on a flat surface. Place 2 tbsp of fish mixture just off centre and fold the sides of the leaf over the top, leaving a little room for expansion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Secure the package with a cocktail stick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Preheat the oven to 200C or Gas 6 and bake the fish cakes for 30 minutes or grill them for 15 minutes on each side."
+    }
+  ]
+}

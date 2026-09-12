@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Asian-flavoured beef shin with papaya salad",
+  "text": "Asian-flavoured beef shin with papaya salad\n\nPreparation time: 30 mins to 1 hour\n\ncooking time: Over 2 hours\n\nYield: Serves 6-8\n\nIngredients\n\nFor the beef\n\n3kg/6lb 8oz beef shin (on the bone),\n\n4 tbsp sunflower oil,\n\nsalt and freshly ground black pepper,\n\n600g/1lb 5oz chopped white onions (about 4 onions),\n\n1 piece root ginger (finely chopped),\n\n½ red chilli (chopped),\n\n20g/¾oz miso paste,\n\n½ tsp Chinese five-spice powder\n\n20g/¾oz clear honey\n\n20g/¾oz sweet soy sauce\n\n3 tbsp dark soy sauce\n\n4 tbsp mirin\n\n3 kaffir lime leaves, torn (optional)\n\nfresh coriander, to serve\n\nFor the dressing\n\n1 snub nose red chilli, seeds removed, finely chopped\n\n2 garlic cloves, finely chopped\n\n2 limes, juice only\n\n2 tbsp fish sauce\n\n2 tsp palm sugar, grated\n\nFor the salad\n\n150g/5½oz papaya, unripe green, cut in half, peeled and sliced into\n\n2mm fine strips\n\n150g/5½ cucumber, seeds removed, cut in half, sliced into thin strips\n\n3 spring onions, finely sliced at an angle, 2mm\n\n1 handful coriander, roughly chopped, plus a few torn leaves to garnish\n\n1 handful mint (spearmint or Vietnamese mint), roughly chopped, plus a\n\nfew torn leaves to garnish\n\n40g/1¼oz pomegranate seeds, pith removed (half reserved for the\n\ngarnish) (optional)\n\n60g/2¼oz peanuts, unsalted, dry roasted, roughly chopped (20g/¾oz\n\nreserved for the garnish)\n\nPreparation method\n\n1. For the beef, preheat the oven to 150C/300F/Gas 2.\n\n2. Rub the shin of beef all over with half of the oil and season with salt and pepper. In a large flame-proof casserole on a medium high heat brown the beef for four minutes on either side. Remove the beef and set aside.\n\n3. Add the remaining oil to the pan and fry the onion, ginger, chilli, miso paste and Chinese five-spice powder for 8-10 minutes, or until softened and golden-brown.\n\n4. Stir in the honey, soy sauces, mirin and 500g/1lb 2oz water and bring to the boil.\n\n5. Add the beef to the cooking liquid. Bring to a simmer, cover and transfer to the oven to cook for 4½ hours.\n\n6. Remove the beef from the casserole and set aside on a plate. Place the casserole over a high heat, and boil the sauce until it starts to thicken slightly. Add the kaffir lime leaves.\n\n7. Cut the beef into four equal portions and stir it back into the sauce.\n\n8. For the salad, mix all the ingredients for the dressing together in a large bowl. Toss the ingredients for the salad with three tablespoons of the dressing in a large bowl. Taste and correct the seasoning if necessary with more lime juice, fish sauce and palm sugar. You are looking for an even balance of salty, sweet, acid, and spicy\n\n9. To finish the dish, arrange the beef and sauce in the centre of four large plates with the salad to the side. Garnish the salad with the pomegranate seeds and roasted peanuts and a few torn leaves of coriander and mint. Top the beef shin with some chopped fresh coriander.",
+  "recipeYield": "Serves 6-8",
+  "recipeIngredient": [
+    "For the beef: 3kg/6lb 8oz beef shin (on the bone),",
+    "For the beef: 4 tbsp sunflower oil,",
+    "For the beef: salt and freshly ground black pepper,",
+    "For the beef: 600g/1lb 5oz chopped white onions (about 4 onions),",
+    "For the beef: 1 piece root ginger (finely chopped),",
+    "For the beef: ½ red chilli (chopped),",
+    "For the beef: 20g/¾oz miso paste,",
+    "For the beef: ½ tsp Chinese five-spice powder",
+    "For the beef: 20g/¾oz clear honey",
+    "For the beef: 20g/¾oz sweet soy sauce",
+    "For the beef: 3 tbsp dark soy sauce",
+    "For the beef: 4 tbsp mirin",
+    "For the beef: 3 kaffir lime leaves, torn (optional)",
+    "For the beef: fresh coriander, to serve",
+    "For the dressing: 1 snub nose red chilli, seeds removed, finely chopped",
+    "For the dressing: 2 garlic cloves, finely chopped",
+    "For the dressing: 2 limes, juice only",
+    "For the dressing: 2 tbsp fish sauce",
+    "For the dressing: 2 tsp palm sugar, grated",
+    "For the dressing: For the salad",
+    "For the dressing: 150g/5½oz papaya, unripe green, cut in half, peeled and sliced into",
+    "For the dressing: 2mm fine strips",
+    "For the dressing: 150g/5½ cucumber, seeds removed, cut in half, sliced into thin strips",
+    "For the dressing: 3 spring onions, finely sliced at an angle, 2mm",
+    "For the dressing: 1 handful coriander, roughly chopped, plus a few torn leaves to garnish",
+    "For the dressing: 1 handful mint (spearmint or Vietnamese mint), roughly chopped, plus a",
+    "For the dressing: few torn leaves to garnish",
+    "For the dressing: 40g/1¼oz pomegranate seeds, pith removed (half reserved for the",
+    "For the dressing: garnish) (optional)",
+    "For the dressing: 60g/2¼oz peanuts, unsalted, dry roasted, roughly chopped (20g/¾oz",
+    "For the dressing: reserved for the garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. For the beef, preheat the oven to 150C/300F/Gas 2."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Rub the shin of beef all over with half of the oil and season with salt and pepper. In a large flame-proof casserole on a medium high heat brown the beef for four minutes on either side. Remove the beef and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the remaining oil to the pan and fry the onion, ginger, chilli, miso paste and Chinese five-spice powder for 8-10 minutes, or until softened and golden-brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Stir in the honey, soy sauces, mirin and 500g/1lb 2oz water and bring to the boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the beef to the cooking liquid. Bring to a simmer, cover and transfer to the oven to cook for 4½ hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Remove the beef from the casserole and set aside on a plate. Place the casserole over a high heat, and boil the sauce until it starts to thicken slightly. Add the kaffir lime leaves."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Cut the beef into four equal portions and stir it back into the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. For the salad, mix all the ingredients for the dressing together in a large bowl. Toss the ingredients for the salad with three tablespoons of the dressing in a large bowl. Taste and correct the seasoning if necessary with more lime juice, fish sauce and palm sugar. You are looking for an even balance of salty, sweet, acid, and spicy"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. To finish the dish, arrange the beef and sauce in the centre of four large plates with the salad to the side. Garnish the salad with the pomegranate seeds and roasted peanuts and a few torn leaves of coriander and mint. Top the beef shin with some chopped fresh coriander."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 30 mins to 1 hour"
+    },
+    {
+      "@type": "Comment",
+      "text": "cooking time: Over 2 hours"
+    }
+  ]
+}

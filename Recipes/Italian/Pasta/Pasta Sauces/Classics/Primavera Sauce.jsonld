@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Primavera Sauce",
+  "text": "Primavera Sauce\n\nPreparation time: 15 minutes\n\nCooking time: 15 minutes\n\nYield: 4\n\nIngredients\n\n50 g / 2 oz butter,\n\n1 onion (diced),\n\n1 carrot (diced),\n\n1 celery stick (diced),\n\n100 g / 4 oz shelled peas,\n\n2 ripe tomatoes (skinned and chopped),\n\n1 large courgette (cut into 1 cm cubes),\n\n100 g / 4 oz thin asparagus stalks (chopped),\n\n300 ml / 1/2 pint double cream,\n\n2 tbsp finely chopped parsley (to garnish),\n\n50 g Parmesan cheese (freshly grated, to serve).\n\nPreparation\n\n1 Melt the butter in a large saucepan.\n\n2. Gently fry the onion, carrot and celery until soft.\n\n3. Add the peas, tomatoes, and courgette, and fry for another 5 minutes.\n\n4. Add the asparagus and fry for a further minute.\n\n6. Stir in the cream. Bring to the boil and simmer gently until reduced by half.\n\n7 Season to taste with salt and pepper.\n\n8. Garnish with parsley and serve with freshly grated Parmesan cheese.",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "50 g / 2 oz butter,",
+    "1 onion (diced),",
+    "1 carrot (diced),",
+    "1 celery stick (diced),",
+    "100 g / 4 oz shelled peas,",
+    "2 ripe tomatoes (skinned and chopped),",
+    "1 large courgette (cut into 1 cm cubes),",
+    "100 g / 4 oz thin asparagus stalks (chopped),",
+    "300 ml / 1/2 pint double cream,",
+    "2 tbsp finely chopped parsley (to garnish),",
+    "50 g Parmesan cheese (freshly grated, to serve)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1 Melt the butter in a large saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Gently fry the onion, carrot and celery until soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the peas, tomatoes, and courgette, and fry for another 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Add the asparagus and fry for a further minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Stir in the cream. Bring to the boil and simmer gently until reduced by half."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7 Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Garnish with parsley and serve with freshly grated Parmesan cheese."
+    }
+  ]
+}

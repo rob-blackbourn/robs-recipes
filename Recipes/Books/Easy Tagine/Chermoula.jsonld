@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chermoula",
+  "text": "Chermoula\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n2-3 garlic cloves (chopped),\n\n1 fresh red chillie (chopped),\n\n1 tsp sea salt,\n\nsmall bunch of fresh coriander,\n\npinch of saffron threads,\n\n1-2 tsp ground cumin,\n\n3-4 tbsp olive oil,\n\njuice of 1 lemon\n\nPreparation\n\n1. Use a mortar and pestle to pound the garlic, chilli and salt into a paste.\n\n2. Add the coriander leaves and work into a paste.\n\n3. Mix in the saffron and cumin.\n\n4. Bind with the oil and lemon juice.",
+  "recipeIngredient": [
+    "2-3 garlic cloves (chopped),",
+    "1 fresh red chillie (chopped),",
+    "1 tsp sea salt,",
+    "small bunch of fresh coriander,",
+    "pinch of saffron threads,",
+    "1-2 tsp ground cumin,",
+    "3-4 tbsp olive oil,",
+    "juice of 1 lemon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Use a mortar and pestle to pound the garlic, chilli and salt into a paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the coriander leaves and work into a paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Mix in the saffron and cumin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Bind with the oil and lemon juice."
+    }
+  ]
+}

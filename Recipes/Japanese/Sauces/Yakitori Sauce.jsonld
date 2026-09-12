@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Yakitori Sauce",
+  "text": "Yakitori Sauce\n\nPreparation time: 1 minute\n\nCooking time: 10 minutes\n\nYield: 200ml\n\nIngredients\n\n100 ml soy sauce,\n\n100 ml sake,\n\n3 tbsp brown sugar,\n\n1 tbsp honey,\n\n1 clove of garlic (crushed).\n\nPreparation\n\n1. Add all the ingredients to a pan.\n\n2. On a medium heat, dissolve the sugar.\n\n3. When it starts to boil remove the foam.\n\n4. Reduce the heat, and allow the sauce to reduce a little.",
+  "prepTime": "PT1M",
+  "cookTime": "PT10M",
+  "recipeYield": "200ml",
+  "recipeIngredient": [
+    "100 ml soy sauce,",
+    "100 ml sake,",
+    "3 tbsp brown sugar,",
+    "1 tbsp honey,",
+    "1 clove of garlic (crushed)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Add all the ingredients to a pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. On a medium heat, dissolve the sugar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. When it starts to boil remove the foam."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Reduce the heat, and allow the sauce to reduce a little."
+    }
+  ]
+}

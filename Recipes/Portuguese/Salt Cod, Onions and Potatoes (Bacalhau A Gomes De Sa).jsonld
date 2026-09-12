@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salt Cod, Onions and Potatoes (Bacalhau A Gomes De Sa)",
+  "text": "Salt Cod, Onions and Potatoes (Bacalhau A Gomes De Sa)\n\nPreparation time: 20 minutes (plus 1 day soaking)\n\nCooking time: 45 minutes\n\nYield: 4\n\nIngredients\n\n175g salt cod, 111g\n\nolive oil,\n\n1 onion (thinly sliced),\n\n2 cloves garlic,\n\nSalt and Freshly ground black pepper,\n\n250g waxy potatoes (sliced 1/4-inch thick and cooked until tender),\n\n2 hard-boiled eggs,\n\n4 black olives,\n\n1/2 tbsp parsley leaves (finely chopped).\n\nPreparation\n\n1. Soak the cod in cold water to cover for 24 to 36 hours, changing the water occasionally, drain.\n\n2. Flake the cod into small pieces, removing any bones. Set aside.\n\n3. In a large saute pan, over medium heat, add 1/4 cup of the oil. When the oil is hot, add the onions and the garlic. Season with salt and pepper. Saute until lightly golden, about 6 minutes.\n\n4. Preheat the oven to 350 degrees F.\n\n5. Grease a medium ovenproof casserole dish with 1 teaspoon of olive oil. Season the potatoes with salt and pepper.\n\n6. Spread half of the potatoes over the bottom of the prepared dish. Sprinkle half of the salt cod over the potatoes. Place half of the onion mixture over the salt cod. Top the onion mixture with more salt cod. Place another layer of potatoes over the top of the cod. Drizzle the entire pan with the remaining 1/4 cup of oil.\n\n7. Place in the oven and bake for 30 to 40 minutes, or until golden.\n\n8. Place on a serving platter. Garnish with the sliced eggs, olives, and parsley.",
+  "cookTime": "PT45M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "175g salt cod, 111g",
+    "olive oil,",
+    "1 onion (thinly sliced),",
+    "2 cloves garlic,",
+    "Salt and Freshly ground black pepper,",
+    "250g waxy potatoes (sliced 1/4-inch thick and cooked until tender),",
+    "2 hard-boiled eggs,",
+    "4 black olives,",
+    "1/2 tbsp parsley leaves (finely chopped)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak the cod in cold water to cover for 24 to 36 hours, changing the water occasionally, drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Flake the cod into small pieces, removing any bones. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. In a large saute pan, over medium heat, add 1/4 cup of the oil. When the oil is hot, add the onions and the garlic. Season with salt and pepper. Saute until lightly golden, about 6 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Preheat the oven to 350 degrees F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Grease a medium ovenproof casserole dish with 1 teaspoon of olive oil. Season the potatoes with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Spread half of the potatoes over the bottom of the prepared dish. Sprinkle half of the salt cod over the potatoes. Place half of the onion mixture over the salt cod. Top the onion mixture with more salt cod. Place another layer of potatoes over the top of the cod. Drizzle the entire pan with the remaining 1/4 cup of oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Place in the oven and bake for 30 to 40 minutes, or until golden."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Place on a serving platter. Garnish with the sliced eggs, olives, and parsley."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 20 minutes (plus 1 day soaking)"
+    }
+  ]
+}

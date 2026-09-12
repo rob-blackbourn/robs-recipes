@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Grilled Beef (neua yang)",
+  "text": "Grilled Beef (neua yang)\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n150g rump steak,\n\n3-4 tbsp light soy sauce.\n\nFor the sauce\n\n3 tbsp lime juice,\n\n2 tbsp fish sauce,\n\npinch of white sugar (optional),\n\nvery large pinch of roasted chilli powder,\n\n1 red shallot (finely sliced),\n\n1 tbsp chopped coriander leaves.\n\nPreparation\n\n1. Clean the beef and remove excess fat, as preferred. Marinate in the light soy sauce for an hour or so. Drain and pat dry.\n\n2. To make the chilli sauce, combine the ingredients and check seasoning: the sauce should taste hot, sour, and salty.\n\n3. Grill the beef over high heat for 5-10 minutes, until cooked to the preferred degree, then rest for the same amount of time in a warm place.\n\n4. Slice and serve with the chilli sauce.",
+  "recipeIngredient": [
+    "150g rump steak,",
+    "3-4 tbsp light soy sauce.",
+    "For the sauce: 3 tbsp lime juice,",
+    "For the sauce: 2 tbsp fish sauce,",
+    "For the sauce: pinch of white sugar (optional),",
+    "For the sauce: very large pinch of roasted chilli powder,",
+    "For the sauce: 1 red shallot (finely sliced),",
+    "For the sauce: 1 tbsp chopped coriander leaves."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Clean the beef and remove excess fat, as preferred. Marinate in the light soy sauce for an hour or so. Drain and pat dry."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. To make the chilli sauce, combine the ingredients and check seasoning: the sauce should taste hot, sour, and salty."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Grill the beef over high heat for 5-10 minutes, until cooked to the preferred degree, then rest for the same amount of time in a warm place."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Slice and serve with the chilli sauce."
+    }
+  ]
+}

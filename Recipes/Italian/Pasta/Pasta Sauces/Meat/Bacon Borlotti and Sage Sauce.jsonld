@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bacon Borlotti and Sage Sauce",
+  "text": "Bacon Borlotti and Sage Sauce\n\nPreparation time: 10 minutes\n\nCooking time: 10 minutes\n\nYield: 4\n\nIngredients\n\n3 tbsp olive oil,\n\n75 g smoked bacon (rinds removed and diced),\n\n1 onion (finely chopped),\n\n5 sage leaves (plus extra to garnish),\n\n250 g  can borlotti beans (rinsed and drained),\n\n2 tbsp chicken stock,\n\n1/2 tsp plain flour,\n\n1 tbsp tomato puree,\n\n2 tbsp red wine,\n\nsalt & pepper,\n\n2 tbsp freshly grated Parmesan cheese,\n\n1 tbsp freshly grated pecorino cheese.\n\nPreparation\n\n1. Heat the oil in a large saucepan, add the bacon, onion, and sage leaves, and cook over a medium heat until golden. Add the borlotti beans.\n\n2. Heat the stock, Mix the flour and the tomato puree in a small bowl, then stir in the hot stock and the wine. Pour into the bean mixture, stirring with a wooden spoon, then cook over low heat until the sauce thickens.\n\n3. Remove the sage leaves and and salt and pepper to taste. Garnish with a few fresh sage leaves and the grated cheese.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "3 tbsp olive oil,",
+    "75 g smoked bacon (rinds removed and diced),",
+    "1 onion (finely chopped),",
+    "5 sage leaves (plus extra to garnish),",
+    "250 g  can borlotti beans (rinsed and drained),",
+    "2 tbsp chicken stock,",
+    "1/2 tsp plain flour,",
+    "1 tbsp tomato puree,",
+    "2 tbsp red wine,",
+    "salt & pepper,",
+    "2 tbsp freshly grated Parmesan cheese,",
+    "1 tbsp freshly grated pecorino cheese."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Heat the oil in a large saucepan, add the bacon, onion, and sage leaves, and cook over a medium heat until golden. Add the borlotti beans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat the stock, Mix the flour and the tomato puree in a small bowl, then stir in the hot stock and the wine. Pour into the bean mixture, stirring with a wooden spoon, then cook over low heat until the sauce thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Remove the sage leaves and and salt and pepper to taste. Garnish with a few fresh sage leaves and the grated cheese."
+    }
+  ]
+}

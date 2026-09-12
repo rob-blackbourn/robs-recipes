@@ -1,0 +1,176 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken chasseur",
+  "text": "Chicken chasseur\n\nPreparation time: less than 30 mins\n\nCooking time: 30 mins to 1 hour\n\nYield: Serves 4\n\nIngredients\n\nFor the chicken\n\n1.5 kg chicken (cut into 8 pieces},\n\nsalt and freshly ground black pepper,\n\n50 g plain flour\n\n2 tbsp olive oil\n\n110g butter\n\n175g button mushrooms\n\n150g shallots, thickly sliced\n\n40g caster sugar\n\n175ml white wine\n\n350ml chicken stock\n\n3 tbsp tomato purée\n\nsmall handful fresh tarragon, half left as sprigs, half finely chopped\n\n2 tomatoes, peeled, seeds removed, chopped\n\n2 tbsp fresh flatleaf parsley, finely chopped\n\nFor the mashed potatoes\n\n1 kg floury potatoes (such as King Edwards or Desiree), peeled,\n\ncut into chunks\n\n110 g butter\n\n110 ml oz full fat milk\n\nsalt and freshly ground black pepper\n\nPreparation method\n\n1. Season the chicken pieces with salt and freshly ground black pepper,\n\nthen dredge in the flour to coat.\n\n2. Heat a large, deep frying pan over a medium heat. Add the oil, and a\n\nthird of the butter and heat until the butter is foaming.\n\n3. Add the chicken pieces and fry skin-side down for 1-2 minutes until\n\ngolden-brown, then turn the chicken and fry on the other side for\n\nanother 1-2 minutes.\n\n4.Meanwhile, heat a separate frying pan over a medium heat and add\n\nanother third of the butter. When the butter is foaming add the button\n\nmushrooms and fry, stirring occasionally, until golden-brown all over.\n\n5. Add the mushrooms to the chicken pan.\n\n6. To the pan used to fry the mushrooms, add the remaining third of the\n\nbutter, the shallots and the caster sugar and fry for 2-3 minutes until\n\nthe shallots are golden-brown and caramelised.\n\n7. Add the wine and bring to the boil, scraping the base of the pan with\n\na wooden spoon to dislodge any brown bits.\n\n8. Pour the shallots and wine mixture over the chicken, then add the\n\nstock, tomato purée and whole tarragon sprigs. Bring to the boil, then\n\nreduce the heat to simmer for 45 minutes to one hour, or until the\n\nchicken is completely cooked through and the sauce has reduced\n\nslightly.\n\n9. Add the tomatoes, flatleaf parsley and the chopped tarragon and\n\nseason, to taste, with salt and freshly ground black pepper. Simmer\n\nfor a further two minutes.\n\n10.Meanwhile, for the mashed potatoes, place the potatoes into a pan\n\nof salted water and bring to the boil. Reduce the heat and simmer\n\nfor 12-15 minutes, or until the potatoes are tender.\n\n11. Drain the potatoes and return to the pan. Place over a low heat for\n\none minute to drive off any excess moisture.\n\n12.Mash the potatoes well, then add the butter and milk, beating well\n\nto form a smooth mash. Season, to taste, with salt and freshly\n\nground black pepper.\n\n13. To serve, place two pieces of chicken onto each plate. Drizzle the\n\nsauce over each and place a dollop of mashed potatoes alongside.",
+  "recipeYield": "Serves 4",
+  "recipeIngredient": [
+    "For the chicken: 1.5 kg chicken (cut into 8 pieces},",
+    "For the chicken: salt and freshly ground black pepper,",
+    "For the chicken: 50 g plain flour",
+    "For the chicken: 2 tbsp olive oil",
+    "For the chicken: 110g butter",
+    "For the chicken: 175g button mushrooms",
+    "For the chicken: 150g shallots, thickly sliced",
+    "For the chicken: 40g caster sugar",
+    "For the chicken: 175ml white wine",
+    "For the chicken: 350ml chicken stock",
+    "For the chicken: 3 tbsp tomato purée",
+    "For the chicken: small handful fresh tarragon, half left as sprigs, half finely chopped",
+    "For the chicken: 2 tomatoes, peeled, seeds removed, chopped",
+    "For the chicken: 2 tbsp fresh flatleaf parsley, finely chopped",
+    "For the mashed potatoes: 1 kg floury potatoes (such as King Edwards or Desiree), peeled,",
+    "For the mashed potatoes: cut into chunks",
+    "For the mashed potatoes: 110 g butter",
+    "For the mashed potatoes: 110 ml oz full fat milk",
+    "For the mashed potatoes: salt and freshly ground black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Season the chicken pieces with salt and freshly ground black pepper,"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "then dredge in the flour to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Heat a large, deep frying pan over a medium heat. Add the oil, and a"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "third of the butter and heat until the butter is foaming."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Add the chicken pieces and fry skin-side down for 1-2 minutes until"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "golden-brown, then turn the chicken and fry on the other side for"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "another 1-2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4.Meanwhile, heat a separate frying pan over a medium heat and add"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "another third of the butter. When the butter is foaming add the button"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "mushrooms and fry, stirring occasionally, until golden-brown all over."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add the mushrooms to the chicken pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. To the pan used to fry the mushrooms, add the remaining third of the"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "butter, the shallots and the caster sugar and fry for 2-3 minutes until"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "the shallots are golden-brown and caramelised."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Add the wine and bring to the boil, scraping the base of the pan with"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "a wooden spoon to dislodge any brown bits."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Pour the shallots and wine mixture over the chicken, then add the"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "stock, tomato purée and whole tarragon sprigs. Bring to the boil, then"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "reduce the heat to simmer for 45 minutes to one hour, or until the"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "chicken is completely cooked through and the sauce has reduced"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Add the tomatoes, flatleaf parsley and the chopped tarragon and"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "season, to taste, with salt and freshly ground black pepper. Simmer"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "for a further two minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10.Meanwhile, for the mashed potatoes, place the potatoes into a pan"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "of salted water and bring to the boil. Reduce the heat and simmer"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "for 12-15 minutes, or until the potatoes are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Drain the potatoes and return to the pan. Place over a low heat for"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "one minute to drive off any excess moisture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12.Mash the potatoes well, then add the butter and milk, beating well"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "to form a smooth mash. Season, to taste, with salt and freshly"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "ground black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "13. To serve, place two pieces of chicken onto each plate. Drizzle the"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "sauce over each and place a dollop of mashed potatoes alongside."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: less than 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 30 mins to 1 hour"
+    }
+  ]
+}

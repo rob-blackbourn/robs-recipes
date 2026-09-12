@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Massaman Lamb Curry",
+  "text": "Thai Massaman Lamb Curry\n\nPrep Time: 10 minutes\n\nCook Time: 1 hour, 30 minutes\n\nTotal Time: 1 hour, 40 minutes\n\nYield: 4\n\nIngredients\n\n1kg pounds lamb shoulder (cut into cubes or pieces),\n\n500 ml beef stock,\n\n500 ml chicken stock,\n\n1 onion (diced),\n\n3 bay leaves,\n\n2 potatoes (cut into chunks),\n\n1 whole star anise,\n\n1/4 cup fresh basil.\n\nFor the curry sauce\n\n1 thumb-piece ginger (grated),\n\n4-5 cloves garlic,\n\n1 stalk lemongrass,\n\n1 red chili, sliced,\n\n1/4 cup chopped unsalted cashews (+ a few more for garnish)\n\n1 tsp ground coriander,\n\n1 tsp whole cumin seed,\n\n1/2 tsp white pepper,\n\n1 tsp turmeric,\n\n1/8 tsp cardamon,\n\n1 tsp tamarind, or substitute 1 1bsp lime juice\n\n1 tbsp brown sugar\n\n3/4 tsp shrimp paste,\n\n2 tbsp fish sauce,\n\n400 ml can coconut milk\n\nPreparation\n\nPlace stock in a large pot over high heat. Add the meat, onion and bay leaves. If using fresh lemongrass, also add the upper leftover stalk pieces. Bring to a boil then reduce to low, until you get a nice simmer. Cover or partially-cover with a lid and simmer 40 to 80 minutes, stirring occasionally, until meat is tender or near-tender.\n\nAdd all curry sauce ingredients, stirring with each addition. Also add the potatoes and whole star anise. Return to a boil, then continue simmering 30 more minutes or until potatoes are tender. Stir occasionally.\n\nTaste-test the curry, adding more fish sauce for increased flavor/saltiness, or more chili if you want it spicier. If too sour, add a little more sugar. If too salty or sweet for your taste, add a touch more tamarind or lime juice. If too spicy, add more coconut milk.\n\nTransfer to a serving bowl, or plate up on individual plates or bowls. Top with a few more cashews and fresh basil.",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H40M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1kg pounds lamb shoulder (cut into cubes or pieces),",
+    "500 ml beef stock,",
+    "500 ml chicken stock,",
+    "1 onion (diced),",
+    "3 bay leaves,",
+    "2 potatoes (cut into chunks),",
+    "1 whole star anise,",
+    "1/4 cup fresh basil.",
+    "For the curry sauce: 1 thumb-piece ginger (grated),",
+    "For the curry sauce: 4-5 cloves garlic,",
+    "For the curry sauce: 1 stalk lemongrass,",
+    "For the curry sauce: 1 red chili, sliced,",
+    "For the curry sauce: 1/4 cup chopped unsalted cashews (+ a few more for garnish)",
+    "For the curry sauce: 1 tsp ground coriander,",
+    "For the curry sauce: 1 tsp whole cumin seed,",
+    "For the curry sauce: 1/2 tsp white pepper,",
+    "For the curry sauce: 1 tsp turmeric,",
+    "For the curry sauce: 1/8 tsp cardamon,",
+    "For the curry sauce: 1 tsp tamarind, or substitute 1 1bsp lime juice",
+    "For the curry sauce: 1 tbsp brown sugar",
+    "For the curry sauce: 3/4 tsp shrimp paste,",
+    "For the curry sauce: 2 tbsp fish sauce,",
+    "For the curry sauce: 400 ml can coconut milk"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place stock in a large pot over high heat. Add the meat, onion and bay leaves. If using fresh lemongrass, also add the upper leftover stalk pieces. Bring to a boil then reduce to low, until you get a nice simmer. Cover or partially-cover with a lid and simmer 40 to 80 minutes, stirring occasionally, until meat is tender or near-tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all curry sauce ingredients, stirring with each addition. Also add the potatoes and whole star anise. Return to a boil, then continue simmering 30 more minutes or until potatoes are tender. Stir occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste-test the curry, adding more fish sauce for increased flavor/saltiness, or more chili if you want it spicier. If too sour, add a little more sugar. If too salty or sweet for your taste, add a touch more tamarind or lime juice. If too spicy, add more coconut milk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to a serving bowl, or plate up on individual plates or bowls. Top with a few more cashews and fresh basil."
+    }
+  ]
+}

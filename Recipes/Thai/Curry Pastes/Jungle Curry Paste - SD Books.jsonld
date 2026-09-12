@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Jungle Curry Paste - SD Books",
+  "text": "Jungle Curry Paste - SD Books\n\nYield: 1 cup\n\nPreparation time:\n\nCooking time:\n\nIngredients\n\n5 dried spur chilies (seeded and soaked until tender),\n\n30 g dried hot chilies,\n\n20 fresh hot chillies (assorted colours),\n\n1 tsp sea salt,\n\n1½ tbsp mature galangal (finely sliced),\n\n3 stalks lemongrass (sliced),\n\n2 tsp kaffir lime rind (finely sliced),\n\n60 g small garlic (peeled),\n\n¼ cup shallot (sliced),\n\n1 tsp black peppercorns,\n\n1 tbsp shrimp paste.\n\nPreparation\n\n1. Process to a smooth paste.",
+  "recipeYield": "1 cup",
+  "recipeIngredient": [
+    "5 dried spur chilies (seeded and soaked until tender),",
+    "30 g dried hot chilies,",
+    "20 fresh hot chillies (assorted colours),",
+    "1 tsp sea salt,",
+    "1½ tbsp mature galangal (finely sliced),",
+    "3 stalks lemongrass (sliced),",
+    "2 tsp kaffir lime rind (finely sliced),",
+    "60 g small garlic (peeled),",
+    "¼ cup shallot (sliced),",
+    "1 tsp black peppercorns,",
+    "1 tbsp shrimp paste."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Process to a smooth paste."
+    }
+  ]
+}

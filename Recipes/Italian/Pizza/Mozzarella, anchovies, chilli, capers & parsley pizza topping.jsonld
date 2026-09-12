@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Mozzarella, anchovies, chilli, capers & parsley pizza topping",
+  "text": "Mozzarella, anchovies, chilli, capers & parsley pizza topping\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n4 anchovy fillets,\n\n½ fresh red chilli (sliced),\n\n1 heaped teaspoon small capers (rinsed if salty),\n\nextra virgin olive oil,\n\nzest and juice of ½ lemon,\n\n3 tablespoons tomato sauce,\n\n50 g mozzarella,\n\n1 tablespoon finely sliced fresh flat-leaf parsley,\n\nsea salt,\n\nfreshly ground black pepper.\n\nPreparation\n\n1. Cut the anchovy fillets in half lengthways and add to a bowl with the sliced chilli, the capers, a couple of tablespoons of extra virgin olive oil and the lemon zest.\n\n2. Squeeze over a little lemon juice as well and mix up.\n\n3. Let the anchovies sit in the marinade for 15 minutes.\n\n4. Smear the tomato sauce evenly over the pizza base and scatter torn-up pieces of mozzarella over the top.\n\n5. Evenly lay over the anchovy fillets, scatter over the capers and chilli, and sprinkle with a little parsley and seasoning.\n\n6. Drizzle with the leftover marinating oil and cook until crisp and golden.",
+  "recipeIngredient": [
+    "4 anchovy fillets,",
+    "½ fresh red chilli (sliced),",
+    "1 heaped teaspoon small capers (rinsed if salty),",
+    "extra virgin olive oil,",
+    "zest and juice of ½ lemon,",
+    "3 tablespoons tomato sauce,",
+    "50 g mozzarella,",
+    "1 tablespoon finely sliced fresh flat-leaf parsley,",
+    "sea salt,",
+    "freshly ground black pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cut the anchovy fillets in half lengthways and add to a bowl with the sliced chilli, the capers, a couple of tablespoons of extra virgin olive oil and the lemon zest."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Squeeze over a little lemon juice as well and mix up."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Let the anchovies sit in the marinade for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Smear the tomato sauce evenly over the pizza base and scatter torn-up pieces of mozzarella over the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Evenly lay over the anchovy fillets, scatter over the capers and chilli, and sprinkle with a little parsley and seasoning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Drizzle with the leftover marinating oil and cook until crisp and golden."
+    }
+  ]
+}

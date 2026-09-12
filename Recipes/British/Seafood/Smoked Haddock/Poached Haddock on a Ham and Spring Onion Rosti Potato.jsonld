@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Poached Haddock on a Ham and Spring Onion Rosti Potato",
+  "text": "Poached Haddock on a Ham and Spring Onion Rosti Potato\n\nPreparation time:\n\nCooking time:\n\nYield:\n\nIngredients\n\n100ml whipping cream ,\n\n125g spring onions,\n\n9 asparagus spears,\n\n125g Orkney smoked cheese,\n\n60g flour,\n\n1 shallot,\n\n1 leek,\n\n150ml sunflower oil,\n\n2 litres water,\n\n2 thyme sprigs,\n\n6 black peppercorns,\n\n450g Maris Piper potatoes,\n\n125g diced ham,\n\n2 x 675g whole haddock,\n\n60g butter,\n\n1 red pepper,\n\n1 onion,\n\n1 clove garlic,\n\n75ml dry white wine,\n\n6 parsley sprigs,\n\n1 lemon,\n\n125g butter.\n\nPreparation\n\n1. Put on a pan of water for the stock, scrub potatoes and boil with seasoning.\n\n2. Prepare vegetables for the fish stock and poaching dish and put on to sweat off.\n\n3. Fillet the haddock and cut into 3 portions, add fish bones to vegetables and sweat off. Put haddock in fridge\n\n4. Cut julienne of red pepper and put in cold water in fridge. Make bouquet garni.\n\n5. Add water to make fish stock, add bouquet garni and take to boil. Skin and simmer for 15-20 minutes.\n\n6. Sliceandsautéspringonions,peelasparagus,gratesmokedcheese.\n\n7. Drain potatoes and cool, melt butter add flour and cook to a blond roux, put shallots, lemon and parsley in a  shallow greased dish and peel and grate potatoes add spring onions and ham and season.\n\n8. Sieve fish stock, place haddock in a dish and season, add lemon, shallots, fish stock and wine and cover with  greased paper. Place in the oven.\n\n9. Make velouté adding stock slowly until smooth, add peppercorns and reduce.\n\n10. Sauté rosti potatoes in a heavy frying pan with metal rings, put on asparagus to cook. Sieve velouté, add cream  and small amount of stock from fish dish, reduce and add cheese, check seasoning.\n\n11. Arrange potato on plate, drain asparagus and glaze with butter and put on top of potato. Nap the asparagus with  sauce and place haddock on top skin side up, put sauce on plate and finish with julienne of pepper and serve.  Whilst every care has been taken on the compilation of this publication, the publishers and promoters of this publication shall not be liable for any inaccuracies.",
+  "recipeIngredient": [
+    "100ml whipping cream ,",
+    "125g spring onions,",
+    "9 asparagus spears,",
+    "125g Orkney smoked cheese,",
+    "60g flour,",
+    "1 shallot,",
+    "1 leek,",
+    "150ml sunflower oil,",
+    "2 litres water,",
+    "2 thyme sprigs,",
+    "6 black peppercorns,",
+    "450g Maris Piper potatoes,",
+    "125g diced ham,",
+    "2 x 675g whole haddock,",
+    "60g butter,",
+    "1 red pepper,",
+    "1 onion,",
+    "1 clove garlic,",
+    "75ml dry white wine,",
+    "6 parsley sprigs,",
+    "1 lemon,",
+    "125g butter."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Put on a pan of water for the stock, scrub potatoes and boil with seasoning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Prepare vegetables for the fish stock and poaching dish and put on to sweat off."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Fillet the haddock and cut into 3 portions, add fish bones to vegetables and sweat off. Put haddock in fridge"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Cut julienne of red pepper and put in cold water in fridge. Make bouquet garni."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Add water to make fish stock, add bouquet garni and take to boil. Skin and simmer for 15-20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Sliceandsautéspringonions,peelasparagus,gratesmokedcheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Drain potatoes and cool, melt butter add flour and cook to a blond roux, put shallots, lemon and parsley in a  shallow greased dish and peel and grate potatoes add spring onions and ham and season."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Sieve fish stock, place haddock in a dish and season, add lemon, shallots, fish stock and wine and cover with  greased paper. Place in the oven."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Make velouté adding stock slowly until smooth, add peppercorns and reduce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Sauté rosti potatoes in a heavy frying pan with metal rings, put on asparagus to cook. Sieve velouté, add cream  and small amount of stock from fish dish, reduce and add cheese, check seasoning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Arrange potato on plate, drain asparagus and glaze with butter and put on top of potato. Nap the asparagus with  sauce and place haddock on top skin side up, put sauce on plate and finish with julienne of pepper and serve.  Whilst every care has been taken on the compilation of this publication, the publishers and promoters of this publication shall not be liable for any inaccuracies."
+    }
+  ]
+}

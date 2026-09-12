@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pesto Trapanese",
+  "text": "Pesto Trapanese\n\nPreparation Time: 12 minutes\n\nCooking time: 0 minutes\n\nYield: 4 - 6\n\nIngredients\n\n3 ripe tomatoes\n\n4 cloves of garlic,\n\n50 g (2 oz) basil leaves (plus extra to garnish),\n\n125 g (4 oz) blanched almonds (toasted),\n\n150 ml (1/4 pint) olive oil,\n\nsalt and pepper.\n\nPreparation\n\n1. Place all of the ingredients in a food processor and blend until they are smooth.\n\n2. Season with salt and pepper.\n\nNotes\n\nCan be kept in a lidded jar covered with olive oil for up to 5 days.",
+  "prepTime": "PT12M",
+  "cookTime": "PT0M",
+  "recipeYield": "4 - 6",
+  "recipeIngredient": [
+    "3 ripe tomatoes",
+    "4 cloves of garlic,",
+    "50 g (2 oz) basil leaves (plus extra to garnish),",
+    "125 g (4 oz) blanched almonds (toasted),",
+    "150 ml (1/4 pint) olive oil,",
+    "salt and pepper."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Place all of the ingredients in a food processor and blend until they are smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Season with salt and pepper."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Can be kept in a lidded jar covered with olive oil for up to 5 days."
+    }
+  ]
+}

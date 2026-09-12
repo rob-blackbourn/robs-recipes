@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fresh Salmon & Caper Ravioli Filling",
+  "text": "Fresh Salmon & Caper Ravioli Filling\n\nPreparation time:\n\nCooking time:\n\nYield: 4\n\nIngredients\n\n450g/1lb Skinless Salmon Fillet\n\n90ml/3fl.oz Crème Fraîche or Double Cream\n\n4 Spring (green) Onions, chopped\n\n4 tbsp Capers, chopped\n\n3 tbsp Fresh Coriander (Cilantro)\n\n1 tbsp Fresh Lemon Juice\n\nSalt and Black Pepper\n\nPreparation\n\n1. Cut the salmon into chunks then place in a food processor and pulse to chop.\n\n2. Add the remaining ingredients and process until well blended but not too smooth.",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "450g/1lb Skinless Salmon Fillet",
+    "90ml/3fl.oz Crème Fraîche or Double Cream",
+    "4 Spring (green) Onions, chopped",
+    "4 tbsp Capers, chopped",
+    "3 tbsp Fresh Coriander (Cilantro)",
+    "1 tbsp Fresh Lemon Juice",
+    "Salt and Black Pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Cut the salmon into chunks then place in a food processor and pulse to chop."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Add the remaining ingredients and process until well blended but not too smooth."
+    }
+  ]
+}

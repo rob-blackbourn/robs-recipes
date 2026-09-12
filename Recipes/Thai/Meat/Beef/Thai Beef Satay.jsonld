@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Beef Satay",
+  "text": "Thai Beef Satay\n\nPrep Time: 30 minutes\n\nCook Time: 15 minutes\n\nTotal Time: 45 minutes\n\nYield: 4\n\nStatus: Successful\n\nIngredients\n\n1 lb (500g) beef steak sliced into very thin strips or diced into ¾” cubes,\n\n12 wooden skewers\n\nThai Satay Marinade\n\nThai Satay Sauce\n\nPreparation\n\n1. Soak the skewers for 20 minutes.\n\n2. Pour the marinade over and stir well to combine. Allow at least 1 hour for marinating, or longer (up to 24 hours).\n\n3. When ready to cook, thread meat onto the skewers. Tip: Fill up to 3/4 of the skewer; leaving the lower half empty so the person grilling has a \"handle\" to easily turn the satay.\n\n4. Cook on an outdoor grill, basting the first time you time it with a little of the leftover marinade from the bottom of the bowl. Turn the satay every 5 to 6 minutes until done to your liking (15 to 25 minutes).",
+  "prepTime": "PT30M",
+  "cookTime": "PT15M",
+  "totalTime": "PT45M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "1 lb (500g) beef steak sliced into very thin strips or diced into ¾” cubes,",
+    "12 wooden skewers",
+    "Thai Satay Marinade",
+    "Thai Satay Sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Soak the skewers for 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Pour the marinade over and stir well to combine. Allow at least 1 hour for marinating, or longer (up to 24 hours)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. When ready to cook, thread meat onto the skewers. Tip: Fill up to 3/4 of the skewer; leaving the lower half empty so the person grilling has a \"handle\" to easily turn the satay."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Cook on an outdoor grill, basting the first time you time it with a little of the leftover marinade from the bottom of the bowl. Turn the satay every 5 to 6 minutes until done to your liking (15 to 25 minutes)."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Status: Successful"
+    }
+  ],
+  "citation": [
+    "https://docs.google.com/document/d/1eJfYMmuzKkpLKXjIcgBCsgpO-EN1ffAypXl1qxPvwss/edit",
+    "https://docs.google.com/document/d/192KFaQAN3KjAMe9je1wKzudpX54_MLCeFam-acZDi80/edit"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Cauliflower Cheese With Salmon",
+  "text": "Cauliflower Cheese With Salmon\n\nPreparation time: less than 30 mins\n\nCooking time: 30 mins to 1 hour\n\nYield: Serves 4\n\nIngredients\n\n1 large cauliflower (cut into florets),\n\n50g/2oz butter (plus extra for greasing),\n\n50g/2oz plain flour,\n\n450ml/16fl oz milk,\n\n2 egg yolks,\n\n1 tsp English mustard,\n\nsplash of Worcestershire sauce,\n\nsalt and black pepper,\n\n150g/5oz cooked flaked salmon,\n\n125g/4½oz cheddar cheese (grated),\n\n75g/3oz emmental cheese (grated).\n\nPreparation method\n\n1. Preheat oven to 200C/400F/Gas 6.\n\n2. Bring a large pan of salted water to the boil, then add the cauliflower and cook for two minutes.\n\n3. Drain and place in a buttered ovenproof dish.\n\n4. Place the butter and flour into a saucepan and heat to melt the butter.\n\n5. Cook, stirring for one to two minutes until lightly golden.\n\n6. Remove from the heat and gradually whisk in the milk to form a smooth sauce.\n\n7. Return to the heat and simmer for two to three minutes.\n\n8. Remove from the heat and beat in the egg yolks, mustard and Worcestershire sauce.\n\n9. Season with salt and pepper.\n\n10. Flake the salmon into the sauce, stirring carefully.\n\n11. Pour over the cauliflower and top with the grated cheeses.\n\n12. Place in the oven and cook for 10-15 minutes, until golden brown.",
+  "recipeYield": "Serves 4",
+  "recipeIngredient": [
+    "1 large cauliflower (cut into florets),",
+    "50g/2oz butter (plus extra for greasing),",
+    "50g/2oz plain flour,",
+    "450ml/16fl oz milk,",
+    "2 egg yolks,",
+    "1 tsp English mustard,",
+    "splash of Worcestershire sauce,",
+    "salt and black pepper,",
+    "150g/5oz cooked flaked salmon,",
+    "125g/4½oz cheddar cheese (grated),",
+    "75g/3oz emmental cheese (grated)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. Preheat oven to 200C/400F/Gas 6."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Bring a large pan of salted water to the boil, then add the cauliflower and cook for two minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Drain and place in a buttered ovenproof dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Place the butter and flour into a saucepan and heat to melt the butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. Cook, stirring for one to two minutes until lightly golden."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Remove from the heat and gradually whisk in the milk to form a smooth sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "7. Return to the heat and simmer for two to three minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "8. Remove from the heat and beat in the egg yolks, mustard and Worcestershire sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "9. Season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "10. Flake the salmon into the sauce, stirring carefully."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "11. Pour over the cauliflower and top with the grated cheeses."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "12. Place in the oven and cook for 10-15 minutes, until golden brown."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: less than 30 mins"
+    },
+    {
+      "@type": "Comment",
+      "text": "Cooking time: 30 mins to 1 hour"
+    }
+  ]
+}

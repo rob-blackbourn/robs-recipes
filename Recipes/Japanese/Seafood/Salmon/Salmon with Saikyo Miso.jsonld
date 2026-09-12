@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salmon with Saikyo Miso",
+  "text": "Salmon with Saikyo Miso\n\nPreparation time: 30 minutes, with a 2 day marinade\n\nCooking time: 20 minutes\n\nYield: 2\n\nIngredients\n\nFor the Saikyo miso\n\n100 ml sake,\n\n100 ml mirin,\n\n150 g caster sugar,\n\n300 g white miso paste.\n\nFor the fish\n\n2 salmon steaks (or cod, halibut, or sablefish).\n\nFor the garnish\n\nCherry plum tomatoes (on the vine),\n\nSmall slender courgettes (ideally with the flowers attached, briefly blanched and refreshed).\n\nPreparation\n\n1. About 2 days ahead, make the Saikyo miso: in a heavy-based non-reactive saucepan, bring the sake and mirin to the boil, and continue to boil for  2-3 minutes to allow the alcohol to evaporate.\n\n2. Using a wooden spoon, stir in the sugar until it has dissolved, then slowly mix in the miso paste, a little at a time. Cook over medium heat, stirring constantly so as to not let any of the mixture burn, for 10-15 minutes.\n\n3. Strain the mixture through a sieve to remove any lumps, allow to cool, then chill until quite cold.\n\n4. Place the fish in a non-reactive container, pour in a good splash of the Saikyo miso over each of the fillets and leave for 1-2 days in the refrigerator.\n\n5. When you want to cook the fish, preheat a hot grill or the oven to 200C/gas 6. Place the fillets on the grill pan or a non-stick baking sheet and cook under the grill or in the preheated oven for 10-12 minutes, turning once if grilling, until cooked through and golden on the outside.\n\n6. Place on a serving dish and dress the plate with a little extra Saikyo miso, and some cherry plum tomatoes on the vine, or small slender courgettes.",
+  "cookTime": "PT20M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "For the Saikyo miso: 100 ml sake,",
+    "For the Saikyo miso: 100 ml mirin,",
+    "For the Saikyo miso: 150 g caster sugar,",
+    "For the Saikyo miso: 300 g white miso paste.",
+    "For the fish: 2 salmon steaks (or cod, halibut, or sablefish).",
+    "For the garnish: Cherry plum tomatoes (on the vine),",
+    "For the garnish: Small slender courgettes (ideally with the flowers attached, briefly blanched and refreshed)."
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "1. About 2 days ahead, make the Saikyo miso: in a heavy-based non-reactive saucepan, bring the sake and mirin to the boil, and continue to boil for  2-3 minutes to allow the alcohol to evaporate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "2. Using a wooden spoon, stir in the sugar until it has dissolved, then slowly mix in the miso paste, a little at a time. Cook over medium heat, stirring constantly so as to not let any of the mixture burn, for 10-15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "3. Strain the mixture through a sieve to remove any lumps, allow to cool, then chill until quite cold."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "4. Place the fish in a non-reactive container, pour in a good splash of the Saikyo miso over each of the fillets and leave for 1-2 days in the refrigerator."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "5. When you want to cook the fish, preheat a hot grill or the oven to 200C/gas 6. Place the fillets on the grill pan or a non-stick baking sheet and cook under the grill or in the preheated oven for 10-12 minutes, turning once if grilling, until cooked through and golden on the outside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "6. Place on a serving dish and dress the plate with a little extra Saikyo miso, and some cherry plum tomatoes on the vine, or small slender courgettes."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "Preparation time: 30 minutes, with a 2 day marinade"
+    }
+  ]
+}
