@@ -48,14 +48,16 @@ test('settings persist and affect explicit serving yields only', async ({ page }
   await expect(page.getByLabel('Default servings')).toHaveValue('');
 });
 
-test('recipe overrides, source conventions, reset and checkbox stability', async ({ page }) => {
+test('recipe overrides, source conventions, reset and ingredient selection stability', async ({
+  page,
+}) => {
   await page.goto('./' + chicken);
   await page.getByLabel('Required servings').fill('6');
   await page.getByLabel('Display units').selectOption('metric');
   await expect(page.locator('.ingredient-list')).toContainText('420 g mushrooms');
-  await page.getByRole('checkbox').first().check();
+  await page.locator('.ingredient-toggle').first().click();
   await page.getByLabel('Display units').selectOption('cups-us');
-  await expect(page.getByRole('checkbox').first()).toBeChecked();
+  await expect(page.locator('.ingredient-toggle').first()).toHaveAttribute('aria-pressed', 'true');
   await page.getByText('Original measurement conventions', { exact: true }).click();
   await page.getByLabel('Source cups').selectOption('us');
   await page.reload();

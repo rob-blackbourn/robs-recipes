@@ -763,32 +763,32 @@ function Recipe({
                 )}
               </div>
               <div id="ingredients-content" className="cooking-content" hidden={!ingredientsOpen}>
-                {!lines.length && (
-                  <p className="notice">
-                    No ingredient list is available. See the original text below.
-                  </p>
-                )}
+                {!lines.length && <p className="notice">No ingredient list is available.</p>}
                 <ul className="ingredient-list">
                   {lines.map((line, index) => (
-                    <li key={index} className={checked.has(index) ? 'checked' : ''}>
-                      <label>
-                        <input
-                          type="checkbox"
-                          checked={checked.has(index)}
-                          onChange={() =>
-                            setChecked((previous) => {
-                              const next = new Set(previous);
-                              if (next.has(index)) next.delete(index);
-                              else next.add(index);
-                              return next;
-                            })
-                          }
-                        />
+                    <li
+                      key={index}
+                      className={checked.has(index) ? 'checked' : ''}
+                      onClick={(event) => {
+                        if ((event.target as HTMLElement).closest('details')) return;
+                        setChecked((previous) => {
+                          const next = new Set(previous);
+                          if (next.has(index)) next.delete(index);
+                          else next.add(index);
+                          return next;
+                        });
+                      }}
+                    >
+                      <button
+                        type="button"
+                        className="ingredient-toggle"
+                        aria-pressed={checked.has(index)}
+                      >
                         <span>
                           {line.density && <span aria-label="Approximate">≈ </span>}
                           <TemperatureText text={line.text} allowGas={false} />
                         </span>
-                      </label>
+                      </button>
                       {line.issue && (
                         <span className="quantity-issue" title={line.issue}>
                           Check quantity · {line.issue}
@@ -823,9 +823,7 @@ function Recipe({
                 {entry.recipeInstructions?.length ? (
                   <Instructions steps={entry.recipeInstructions} />
                 ) : (
-                  <p className="notice">
-                    No preparation steps are available. See the original text below.
-                  </p>
+                  <p className="notice">No preparation steps are available.</p>
                 )}
                 {entry.tool?.length ? (
                   <section className="notes">
@@ -881,8 +879,7 @@ function Recipe({
                 internal food temperatures. Fan temperatures stay labelled separately.
               </p>
               <p>
-                Existing Celsius values take precedence where the original equivalents disagree. The
-                complete original text below preserves those source values.
+                Existing Celsius values take precedence where the original equivalents disagree.
               </p>
               <p>
                 <a href={temperatureSources.fahrenheit} target="_blank" rel="noreferrer">
@@ -901,16 +898,11 @@ function Recipe({
           )}
         </>
       )}
-      {!isRecipe ? (
+      {!isRecipe && (
         <section className="reference-text">
           <h2>Reference notes</h2>
           <div className="source-text">{entry.text}</div>
         </section>
-      ) : (
-        <details className="full-source">
-          <summary>Read the complete original text</summary>
-          <div className="source-text">{entry.text}</div>
-        </details>
       )}
       {citations.length > 0 && (
         <section className="citations">

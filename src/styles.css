@@ -673,24 +673,25 @@ input[aria-invalid='true'] {
 .ingredient-list > li {
   break-inside: avoid;
   overflow-wrap: anywhere;
-  padding: 8px 0;
+  padding: 0;
   font-size: 0.91rem;
   line-height: 1.45;
 }
-.ingredient-list label {
-  display: flex;
-  align-items: baseline;
-  gap: 11px;
+.ingredient-list > li {
   cursor: pointer;
 }
-.ingredient-list input[type='checkbox'] {
-  width: 16px;
-  height: 16px;
-  flex-shrink: 0;
-  accent-color: var(--green);
-  transform: translateY(2px);
+.ingredient-toggle {
+  display: block;
+  width: 100%;
+  padding: 8px 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
 }
-.checked label > span {
+.checked .ingredient-toggle > span {
   text-decoration: line-through;
   color: #859081;
 }
@@ -698,16 +699,16 @@ input[aria-invalid='true'] {
   display: block;
   color: var(--muted);
   font-size: 0.72rem;
-  margin: 6px 0 0 27px;
+  margin: 0 0 6px;
 }
 .quantity-issue {
   display: block;
   color: #906527;
   font-size: 0.73rem;
-  margin: 5px 0 0 27px;
+  margin: 0 0 5px;
 }
 .original-line {
-  margin: 5px 0 0 27px;
+  margin: 0 0 5px;
   color: var(--muted);
   font-size: 0.72rem;
 }
@@ -775,15 +776,13 @@ input[aria-invalid='true'] {
 .notes p {
   white-space: pre-line;
 }
-.density-notes,
-.full-source {
+.density-notes {
   padding: 17px 0;
   border-top: 1px solid var(--line);
   font-size: 0.84rem;
   color: var(--muted);
 }
-.density-notes summary,
-.full-source summary {
+.density-notes summary {
   font-weight: 550;
   color: var(--green);
   cursor: pointer;
@@ -1169,17 +1168,14 @@ input[aria-invalid='true'] {
     padding: 6px 0;
     break-inside: avoid;
   }
-  .ingredient-list input {
-    display: none;
-  }
-  .ingredient-list label {
-    display: block;
+  .ingredient-toggle {
+    padding: 0;
   }
   .ingredient-note,
   .quantity-issue {
     margin-left: 0;
   }
-  .checked label > span {
+  .checked .ingredient-toggle > span {
     color: #000;
     text-decoration: none;
   }
@@ -1195,9 +1191,6 @@ input[aria-invalid='true'] {
   }
   .recipe-images img {
     max-height: 200px;
-  }
-  .full-source:not([open]) {
-    display: none;
   }
   .density-notes {
     display: block;
@@ -1251,7 +1244,7 @@ input[aria-invalid='true'] {
 }
 @media print {
   .section-heading .section-toggle {
-    display: inline-flex;
+    display: inline-flex !important;
   }
   .section-toggle span {
     display: none;
