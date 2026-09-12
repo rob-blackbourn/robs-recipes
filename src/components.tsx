@@ -39,21 +39,34 @@ export function UnitSelect({
   value,
   onChange,
   label = 'Display units',
+  metadata = false,
 }: {
   value: UnitMode;
   onChange: (mode: UnitMode) => void;
   label?: string;
+  metadata?: boolean;
 }) {
-  return (
+  const id = useId();
+  const control = (
+    <select id={id} value={value} onChange={(event) => onChange(event.target.value as UnitMode)}>
+      {Object.entries(unitModes).map(([key, name]) => (
+        <option value={key} key={key}>
+          {name}
+        </option>
+      ))}
+    </select>
+  );
+  return metadata ? (
+    <div className="units-meta">
+      <dt>
+        <label htmlFor={id}>{label}</label>
+      </dt>
+      <dd>{control}</dd>
+    </div>
+  ) : (
     <label className="field">
       <span>{label}</span>
-      <select value={value} onChange={(event) => onChange(event.target.value as UnitMode)}>
-        {Object.entries(unitModes).map(([key, name]) => (
-          <option value={key} key={key}>
-            {name}
-          </option>
-        ))}
-      </select>
+      {control}
     </label>
   );
 }
@@ -64,12 +77,18 @@ export function NumberField({
   onChange,
   optional = false,
   hint,
+  unit,
+  plain = false,
+  metadata = false,
 }: {
   label: string;
   value: number | null | undefined;
   onChange: (value: number | null) => void;
   optional?: boolean;
   hint?: string;
+  unit?: string;
+  plain?: boolean;
+  metadata?: boolean;
 }) {
   const [draft, setDraft] = useState(value?.toString() || '');
   const [invalid, setInvalid] = useState(false);
@@ -78,33 +97,54 @@ export function NumberField({
     setDraft(value?.toString() || '');
     setInvalid(false);
   }, [value]);
-  return (
-    <label className="field">
-      <span>{label}</span>
-      <input
-        type="number"
-        inputMode="decimal"
-        min="0"
-        step="any"
-        value={draft}
-        aria-invalid={invalid}
-        aria-describedby={hint || invalid ? id : undefined}
-        placeholder={optional ? 'Use original' : 'Enter a value'}
-        onChange={(event) => {
-          const next = event.target.value;
-          setDraft(next);
-          const parsed = positive(next);
-          const valid =
-            parsed !== undefined || (optional && next === '' && !event.target.validity.badInput);
-          setInvalid(!valid);
-          if (valid) onChange(parsed ?? null);
-        }}
-      />
+  const control = (
+    <>
+      <span className="number-control">
+        <input
+          id={`${id}-input`}
+          style={metadata ? { width: `${Math.max(1.5, draft.length)}ch` } : undefined}
+          type={plain ? 'text' : 'number'}
+          inputMode="decimal"
+          min={plain ? undefined : '0'}
+          step={plain ? undefined : 'any'}
+          value={draft}
+          aria-invalid={invalid}
+          aria-describedby={hint || invalid ? id : undefined}
+          placeholder={optional ? 'Use original' : 'Enter a value'}
+          onChange={(event) => {
+            const next = event.target.value;
+            setDraft(next);
+            const parsed = positive(next);
+            const valid =
+              parsed !== undefined || (optional && next === '' && !event.target.validity.badInput);
+            setInvalid(!valid);
+            if (valid) onChange(parsed ?? null);
+          }}
+        />
+        {unit && (
+          <span className="number-unit" aria-hidden="true">
+            {unit}
+          </span>
+        )}
+      </span>
       {(hint || invalid) && (
         <small id={id} className={invalid ? 'error' : ''}>
           {invalid ? 'Enter a number greater than zero.' : hint}
         </small>
       )}
+    </>
+  );
+  return metadata ? (
+    <div className="yield-meta">
+      <dt>
+        <label htmlFor={`${id}-input`}>{label}</label>
+      </dt>
+      <dd>{control}</dd>
+    </div>
+  ) : (
+    <label className="field">
+      <span>{label}</span>
+      {control}
     </label>
   );
 }

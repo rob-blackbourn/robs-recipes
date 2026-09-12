@@ -31,10 +31,12 @@ test('settings persist and affect explicit serving yields only', async ({ page }
   await expect(page.getByLabel('Default servings')).toHaveValue('8');
   await page.goto('./' + chicken);
   await expect(page.getByLabel('Required servings')).toHaveValue('8');
-  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveValue('2');
+  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
+  await expect(page.getByText('Required servings', { exact: true })).toHaveCount(1);
+  await expect(page.getByLabel('Required servings')).toBeEditable();
   await expect(page.locator('.ingredient-list')).toContainText('560 g mushrooms');
   await page.goto('./' + nonServingYield);
-  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveValue('1');
+  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
   await page.goto('./#/settings');
   await page.getByLabel('Default servings').fill('0');
   await expect(page.getByText('Enter a number greater than zero.')).toBeVisible();
@@ -69,10 +71,10 @@ test('recipe overrides, source conventions, reset and ingredient selection stabi
   await expect(page.getByLabel('Required servings')).toHaveValue('4');
   await expect(page.locator('.ingredient-list')).toContainText('280g mushrooms');
   await page.getByRole('button', { name: 'Use my defaults' }).click();
-  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveValue('1');
-  await page.getByLabel('Multiplier', { exact: true }).fill('0');
+  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
+  await page.getByLabel('Required servings').fill('0');
   await page.getByRole('button', { name: 'Show original recipe' }).click();
-  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveValue('1');
+  await expect(page.getByLabel('Multiplier', { exact: true })).toHaveCount(0);
 });
 
 test('mobile layout, references, images, unknown routes, and print', async ({ page }, testInfo) => {
@@ -148,7 +150,7 @@ test('temperature preferences persist and apply to recipes and printing independ
   await page.reload();
   await expect(page.getByLabel('Preferred temperature unit')).toHaveValue('fahrenheit');
   await page.goto('./#/recipe/' + encodeURIComponent('british/bread/bloomer'));
-  await page.getByLabel('Multiplier', { exact: true }).fill('2');
+  await page.getByLabel('Required yield', { exact: true }).fill('2');
   await page.getByLabel('Display units').selectOption('imperial');
   await expect(page.locator('.method')).toContainText('430°F');
   await expect(page.locator('.method')).not.toContainText('°C');

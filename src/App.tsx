@@ -565,11 +565,18 @@ function Recipe({
           </p>
         )}
         <dl className="recipe-meta">
-          {entry.recipeYield && (
-            <div>
-              <dt>Original yield</dt>
-              <dd>{entry.recipeYield}</dd>
-            </div>
+          {isRecipe && (
+            <NumberField
+              key={resetVersion}
+              metadata
+              plain
+              label={info && !info.servings ? 'Required yield' : 'Required servings'}
+              unit={
+                info ? (info.servings ? 'servings' : targetUnit?.name || info.label) : 'servings'
+              }
+              value={info ? effectiveYield : options.target}
+              onChange={(value) => update({ yield: String(value), factor: null })}
+            />
           )}
           {[
             ['Prep', entry.prepTime],
@@ -583,6 +590,9 @@ function Recipe({
                   <dd>{duration(time)}</dd>
                 </div>
               ),
+          )}
+          {isRecipe && (
+            <UnitSelect metadata value={units} onChange={(value) => update({ units: value })} />
           )}
         </dl>
       </header>
@@ -609,25 +619,12 @@ function Recipe({
               <a href="#/settings">Edit defaults ↗</a>
             </div>
             <div className="adjustment-fields" key={resetVersion}>
-              {info ? (
+              {!info && (
                 <NumberField
-                  label={`Required ${info.servings ? 'servings' : 'yield'}`}
-                  value={effectiveYield}
-                  onChange={(value) => update({ yield: String(value), factor: null })}
+                  label="Recipe servings (before scaling)"
+                  value={baseline}
+                  onChange={(value) => update({ baseline: String(value), factor: null })}
                 />
-              ) : (
-                <>
-                  <NumberField
-                    label="Original yield (enter to scale)"
-                    value={baseline}
-                    onChange={(value) => update({ baseline: String(value), factor: null })}
-                  />
-                  <NumberField
-                    label="Required yield"
-                    value={options.target}
-                    onChange={(value) => update({ yield: String(value), factor: null })}
-                  />
-                </>
               )}
               {info?.unit && (
                 <label className="field">
@@ -662,19 +659,14 @@ function Recipe({
                   </select>
                 </label>
               )}
-              <NumberField
-                label="Multiplier"
-                value={factor}
-                onChange={(value) => update({ factor: String(value) })}
-              />
-              <UnitSelect value={units} onChange={(value) => update({ units: value })} />
             </div>
             {!info && (
               <p className="help">
                 {entry.recipeYield
                   ? `The original yield “${entry.recipeYield}” needs a baseline.`
                   : 'This recipe has no stated yield.'}{' '}
-                Enter an original and required yield, or use the multiplier.
+                Enter the recipe’s starting servings and your required servings to scale the
+                ingredients.
               </p>
             )}
             <div className="adjustment-actions">

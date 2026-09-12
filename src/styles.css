@@ -450,7 +450,7 @@ ul {
   min-width: 0;
   font-size: 0.87rem;
 }
-.field > span {
+.field > span:not(.number-control) {
   font-size: 0.77rem;
   font-weight: 600;
 }
@@ -1277,4 +1277,62 @@ input[aria-invalid='true'] {
   .cooking-content[hidden] {
     display: block;
   }
+}
+
+.number-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+.number-control input {
+  width: 100%;
+  min-width: 0;
+  flex: 1;
+}
+.number-unit {
+  flex-shrink: 0;
+  color: var(--muted);
+  font-size: 0.87rem;
+}
+
+.yield-meta .number-control {
+  gap: 0.4em;
+}
+.yield-meta input {
+  flex: none;
+  min-width: 1.5ch;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-style: italic;
+  font-variant-numeric: tabular-nums;
+}
+.yield-meta .number-unit {
+  color: inherit;
+  font: inherit;
+}
+.yield-meta small {
+  display: block;
+  max-width: 220px;
+  margin-top: 6px;
+}
+
+.units-meta {
+  min-width: 0;
+  max-width: 100%;
+}
+.units-meta select {
+  width: auto;
+  max-width: 100%;
+  padding: 0 1.5em 0 0;
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
 }

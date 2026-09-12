@@ -34,9 +34,9 @@ The collection tests currently assert 413 recipes, six references, and 12 images
 
 Settings contains preferred output units and an optional default serving count. Valid changes save immediately under the versioned `recipe-collection.preferences.v1` localStorage key. Invalid entries do not overwrite saved values. Corrupt or unknown storage versions fall back to defaults. If storage is disabled, preferences remain available until the page is reloaded.
 
-Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. These and missing yields can be adjusted manually with a target, an explicit baseline, or a multiplier. Compatible mass and volume yields support changing the target unit.
+Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. These and missing yields can be adjusted manually with a target and an explicit baseline. Compatible mass and volume yields support changing the target unit.
 
-Explicit recipe URL overrides take precedence over preferences, then original values. `Use my defaults` removes overrides. `Show original recipe` explicitly selects original units and a multiplier of one, restoring exact source wording. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
+Explicit recipe URL overrides take precedence over preferences, then original values. `Use my defaults` removes overrides. `Show original recipe` explicitly selects original units and the original yield, restoring exact source wording. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
 
 Scaling changes ingredient quantities only. Package counts change while package sizes remain fixed. Cooking times, temperature settings, preparation dimensions, and quantities in instruction text do not change with the yield. Unrecognised or contradictory quantities are retained and flagged when scaling. Qualitative amounts such as “a handful” require judgement.
 
