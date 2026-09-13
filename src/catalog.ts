@@ -24,6 +24,7 @@ export function makeEntry(
     search: [
       data.name,
       folder,
+      ...(Array.isArray(data.keywords) ? data.keywords : [data.keywords]),
       ...(data['@type'] === 'Recipe' ? data.recipeIngredient || [] : [data.description]),
     ]
       .join(' ')

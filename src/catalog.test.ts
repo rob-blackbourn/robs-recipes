@@ -68,3 +68,34 @@ describe('the complete collection', () => {
     expect(duration(undefined)).toBeUndefined();
   });
 });
+
+describe('keyword search', () => {
+  it.each([
+    { keywords: ['Quick supper', 'Freezer friendly'] },
+    { keywords: 'Quick supper, Freezer friendly' },
+  ])('finds keywords from arrays and strings', ({ keywords }) => {
+    const entry = makeEntry(
+      '../recipes/british/example.jsonld',
+      JSON.stringify({
+        '@type': 'Recipe',
+        name: 'Chicken',
+        recipeIngredient: ['1 onion'],
+        keywords,
+      }),
+      {},
+    );
+    expect(filterDocuments([entry], 'recipes', 'FREEZER friendly', '')).toEqual([entry]);
+    expect(filterDocuments([entry], 'recipes', 'quick onion', 'british')).toEqual([entry]);
+    expect(filterDocuments([entry], 'recipes', 'quick onion', 'french')).toEqual([]);
+    expect(filterDocuments([entry], 'recipes', 'quick missing', '')).toEqual([]);
+  });
+  it('supports documents without keywords', () => {
+    const entry = makeEntry(
+      '../recipes/example.jsonld',
+      JSON.stringify({ '@type': 'Recipe', name: 'Soup' }),
+      {},
+    );
+    expect(filterDocuments([entry], 'recipes', 'soup', '')).toEqual([entry]);
+    expect(entry.search).not.toContain('undefined');
+  });
+});
