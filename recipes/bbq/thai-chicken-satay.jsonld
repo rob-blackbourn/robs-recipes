@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Chicken Satay",
+  "prepTime": "PT15M",
   "cookTime": "PT8M",
   "recipeCuisine": "Thai",
   "recipeYield": "4 Servings",
@@ -53,10 +54,9 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 15 minutes plus 2 hours marrinade"
+      "text": "Allow 2 hours to marinate."
     }
   ],
-  "prepTime": "15 minutes plus 2 hours marrinade",
   "keywords": [
     "BBQ"
   ]

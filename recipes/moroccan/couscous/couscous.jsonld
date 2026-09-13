@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Morocco",
+  "recipeCuisine": "Moroccan",
   "name": "Couscous",
   "prepTime": "PT0M",
   "cookTime": "PT10M",

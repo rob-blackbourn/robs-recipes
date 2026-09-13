@@ -46,18 +46,6 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Prep Time: ?"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking Time: ?"
-    },
-    {
-      "@type": "Comment",
-      "text": "Total Time: ?"
-    },
-    {
-      "@type": "Comment",
       "text": "Status: Untried"
     }
   ],

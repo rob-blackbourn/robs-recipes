@@ -72,20 +72,6 @@
       "text": "Scatter the chopped parsley over the paella and serve."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 6-8"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "10 to 30 mins"
+  "prepTime": "PT1H",
+  "cookTime": "PT30M"
 }

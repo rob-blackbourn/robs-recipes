@@ -43,10 +43,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Cooking time: 12 minutes (including 10 minutes cooling)"
+      "text": "Allow 10 minutes cooling"
     }
   ],
-  "cookTime": "12 minutes (including 10 minutes cooling)",
+  "cookTime": "PT12M",
   "keywords": [
     "Sauces",
     "Butter"

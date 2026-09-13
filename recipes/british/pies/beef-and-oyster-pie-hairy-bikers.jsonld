@@ -58,18 +58,8 @@
       "text": "Roll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

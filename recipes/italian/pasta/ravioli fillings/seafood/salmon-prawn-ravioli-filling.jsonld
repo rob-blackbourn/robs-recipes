@@ -28,10 +28,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 10 minutes (with 20 minutes chilling time)"
+      "text": "Allow 20 minutes chilling time"
     }
   ],
-  "prepTime": "10 minutes (with 20 minutes chilling time)",
+  "prepTime": "PT10M",
   "keywords": [
     "Pasta",
     "Ravioli Fillings",

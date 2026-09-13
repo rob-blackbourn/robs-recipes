@@ -53,8 +53,8 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 20 minutes (plus 1 day soaking)"
+      "text": "Allow 1 day soaking"
     }
   ],
-  "prepTime": "20 minutes (plus 1 day soaking)"
+  "prepTime": "PT20M"
 }

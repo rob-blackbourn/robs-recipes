@@ -46,18 +46,8 @@
       "text": "To serve, either serve the pudding by spooning portions straight out of the bowl, or slide a palette knife round the edge and turn the whole thing out on to a serving plate (which is more fun!)."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT1H",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

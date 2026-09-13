@@ -85,15 +85,7 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Cooking time: 2 1/4 hours"
-    },
-    {
-      "@type": "Comment",
       "text": "Status: Untried"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 4-6"
     }
   ],
   "cookTime": "PT2H15M",

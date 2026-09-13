@@ -48,10 +48,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 15 minutes with 2 hours marinade"
+      "text": "Allow 2 hours marinade"
     }
   ],
-  "prepTime": "15 minutes with 2 hours marinade",
+  "prepTime": "PT15M",
   "keywords": [
     "Meat",
     "Venison"

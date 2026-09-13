@@ -56,19 +56,11 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: overnight"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: less than 10 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: Makes 4 pizzas"
+      "text": "Allow overnight rising"
     }
   ],
-  "prepTime": "overnight",
-  "cookTime": "less than 10 mins",
+  "prepTime": "PT30M",
+  "cookTime": "PT10M",
   "keywords": [
     "Pizza"
   ]

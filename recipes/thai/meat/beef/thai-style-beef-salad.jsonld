@@ -57,18 +57,8 @@
       "text": "Serve the salad on a large plate, with lime wedges on the side."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "10 to 30 mins",
+  "prepTime": "PT30M",
+  "cookTime": "PT30M",
   "keywords": [
     "Meat",
     "Beef"

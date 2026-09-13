@@ -67,22 +67,8 @@
       "text": "Place in the oven and cook for 10-15 minutes, until golden brown."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: Serves 4"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "keywords": [
     "Seafood",
     "Salmon"

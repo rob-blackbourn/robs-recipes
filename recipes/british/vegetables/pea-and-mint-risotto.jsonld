@@ -40,17 +40,7 @@
       "text": "To serve, toss the rocket with the olive oil and balsamic vinegar and scatter over the parmesan. Spoon the risotto into warm bowls and serve the salad alongside."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: serves 2"
-    }
-  ],
-  "cookTime": "10 to 30 mins",
+  "cookTime": "PT30M",
   "keywords": [
     "Vegetables"
   ]

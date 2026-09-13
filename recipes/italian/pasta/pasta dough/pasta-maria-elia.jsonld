@@ -31,13 +31,7 @@
       "text": "Cook the pasta for 2-3 minutes in a pan of boiling salted water. For the last thirty seconds of cooking, add the carrot ribbons, then drain."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: less than 10 minutes"
-    }
-  ],
-  "cookTime": "less than 10 minutes",
+  "cookTime": "PT10M",
   "keywords": [
     "Pasta",
     "Pasta Dough"

@@ -163,22 +163,8 @@
       "text": "sauce over each and place a dollop of mashed potatoes alongside."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: Serves 4"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "keywords": [
     "Poultry"
   ]

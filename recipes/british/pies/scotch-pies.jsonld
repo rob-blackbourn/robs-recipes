@@ -41,18 +41,8 @@
       "text": "Put the pies on the baking tray and cut a steam hole in the centre of each. Brush with beaten egg yolk and transfer to the fridge to rest for 30 minutes. Bake for 35-40 minutes, or until golden-brown. Serve"
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT1H",
+  "cookTime": "PT1H",
   "keywords": [
     "Pies"
   ]

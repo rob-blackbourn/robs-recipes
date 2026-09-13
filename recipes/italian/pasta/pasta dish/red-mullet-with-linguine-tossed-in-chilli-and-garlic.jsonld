@@ -121,18 +121,8 @@
       "text": "freshly ground black pepper."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "10 to 30 mins",
+  "prepTime": "PT1H",
+  "cookTime": "PT30M",
   "keywords": [
     "Pasta",
     "Pasta Dish"

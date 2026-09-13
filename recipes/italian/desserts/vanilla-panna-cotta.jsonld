@@ -52,18 +52,8 @@
       "text": "To serve, turn each panna cotta out onto a serving plate. Spoon over the sauce and garnish with a sprig of mint. Dust with icing sugar."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 1 - 2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 - 30 minutes"
-    }
-  ],
-  "prepTime": "1 - 2 hours",
-  "cookTime": "10 - 30 minutes",
+  "prepTime": "PT2H",
+  "cookTime": "PT30M",
   "keywords": [
     "Desserts"
   ]

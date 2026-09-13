@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Asian-flavoured beef shin with papaya salad",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "recipeYield": "8 servings",
   "recipeIngredient": [
     "3 kg beef shin (on the bone)",
@@ -71,22 +73,6 @@
       "text": "To finish the dish, arrange the beef and sauce in the centre of four large plates with the salad to the side. Garnish the salad with the pomegranate seeds and roasted peanuts and a few torn leaves of coriander and mint. Top the beef shin with some chopped fresh coriander."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "cooking time: Over 2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: Serves 6-8"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "Over 2 hours",
   "keywords": [
     "Meat",
     "Beef"

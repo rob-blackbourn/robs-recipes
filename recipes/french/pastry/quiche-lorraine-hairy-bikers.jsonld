@@ -51,18 +51,8 @@
       "text": "Bake the quiche for 15 minutes, or until the filling is set. Serve hot or cold with a green salad."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "10 to 30 mins",
+  "prepTime": "PT1H",
+  "cookTime": "PT30M",
   "keywords": [
     "Pastry"
   ]

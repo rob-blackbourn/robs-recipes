@@ -87,18 +87,8 @@
       "text": "Serve the pie piping hot with creamy mashed potatoes and seasonal vegetables."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 1-2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 1 to 2 hours"
-    }
-  ],
-  "prepTime": "1-2 hours",
-  "cookTime": "1 to 2 hours",
+  "prepTime": "PT1H30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

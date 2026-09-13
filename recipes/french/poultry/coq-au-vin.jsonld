@@ -89,10 +89,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 1 hour, plus overnight marinade."
+      "text": "Allow for an overnight marinade."
     }
   ],
-  "prepTime": "1 hour, plus overnight marinade.",
+  "prepTime": "PT1H",
   "keywords": [
     "Poultry"
   ]

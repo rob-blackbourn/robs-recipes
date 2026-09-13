@@ -29,22 +29,8 @@
       "text": "Pour into bowls and serve."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: less than 10 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: Serves 2"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "less than 10 mins",
+  "prepTime": "PT30M",
+  "cookTime": "PT10M",
   "keywords": [
     "Vegetables"
   ]

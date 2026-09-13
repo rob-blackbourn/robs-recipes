@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Fish Tagine With Preserved Lemon & Mint",
-  "recipeCuisine": "Morocco",
+  "recipeCuisine": "Moroccan",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "1 quantity of chermoula",
@@ -42,12 +42,6 @@
     {
       "@type": "HowToStep",
       "text": "Season, and scatter with mint."
-    }
-  ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Original yield: 4-6"
     }
   ],
   "keywords": [

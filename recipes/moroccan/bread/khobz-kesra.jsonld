@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Morocco",
+  "recipeCuisine": "Moroccan",
   "name": "Khobz Kesra",
   "cookTime": "PT15M",
   "recipeYield": "4 servings",
@@ -63,10 +63,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 10 minutes with 50 minutes waiting."
+      "text": "Allow 50 minutes waiting."
     }
   ],
-  "prepTime": "10 minutes with 50 minutes waiting.",
+  "prepTime": "PT10M",
   "keywords": [
     "Bread"
   ]

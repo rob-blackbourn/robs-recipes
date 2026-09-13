@@ -47,13 +47,7 @@
       "text": "Place the casserole into the oven to cook for 20 minutes, then remove the lid and cook for a further 20 minutes, or until the potatoes are golden-brown on top."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 minutes to 1 hour"
-    }
-  ],
-  "cookTime": "30 minutes to 1 hour",
+  "cookTime": "PT1H",
   "keywords": [
     "Pies"
   ]

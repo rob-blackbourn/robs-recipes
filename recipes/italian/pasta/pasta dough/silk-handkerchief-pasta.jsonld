@@ -25,18 +25,8 @@
       "text": "To cook the pasta, put the pasta sheets one by one into a saucepan with plenty of lightly salted boiling water, and add the remaining oil. Cook until al dente, about three minutes or so."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 minutes to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: Less than 10 minutes"
-    }
-  ],
-  "prepTime": "30 minutes to 1 hour",
-  "cookTime": "Less than 10 minutes",
+  "prepTime": "PT1H",
+  "cookTime": "PT10M",
   "keywords": [
     "Pasta",
     "Pasta Dough"

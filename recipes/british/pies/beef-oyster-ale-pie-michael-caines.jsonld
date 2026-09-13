@@ -64,18 +64,8 @@
       "text": "Serve the pies with sides of lightly boiled seasonal green vegetables, such as green beans, broccoli or spinach."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

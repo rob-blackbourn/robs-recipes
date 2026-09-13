@@ -44,13 +44,7 @@
       "text": "Cook in boiling salted water for 3-5 minutes, depending on the thickness of the strands or shapes."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 minutes to 1 hour"
-    }
-  ],
-  "prepTime": "30 minutes to 1 hour",
+  "prepTime": "PT30M",
   "keywords": [
     "Pasta",
     "Pasta Dough"

@@ -68,18 +68,8 @@
       "text": "To serve, stir the cooked carrots and spring onions into the curry sauce. Spoon the cooked rice onto serving plates, spoon over some sauce and top with the fried chicken pieces."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "keywords": [
     "chicken"
   ]

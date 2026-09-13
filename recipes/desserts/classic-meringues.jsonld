@@ -30,17 +30,7 @@
       "text": "Spoon the mixture onto the parchment-lined baking sheet."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 1 1/2 - 2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 6 large meringues"
-    }
-  ],
-  "cookTime": "1 1/2 - 2 hours",
+  "cookTime": "PT2H",
   "keywords": [
     "Desserts"
   ]

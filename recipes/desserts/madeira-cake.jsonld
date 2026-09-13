@@ -40,13 +40,7 @@
       "text": "To serve, decorate the cake with the candied peel."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 - 40 minutes"
-    }
-  ],
-  "cookTime": "30 - 40 minutes",
+  "cookTime": "PT40M",
   "keywords": [
     "Desserts"
   ]

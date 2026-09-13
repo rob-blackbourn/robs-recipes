@@ -33,13 +33,7 @@
       "text": "Stir in the parsley and basil then season with salt and pepper."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 minutes (to combine)"
-    }
-  ],
-  "cookTime": "30 minutes (to combine)",
+  "cookTime": "PT30M",
   "keywords": [
     "Salsa"
   ]

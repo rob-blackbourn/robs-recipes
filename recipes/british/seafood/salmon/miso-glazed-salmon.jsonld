@@ -109,18 +109,8 @@
       "text": "To serve, sprinkle the miso salmon fillet with black and white sesame seeds and place onto serving plates. Serve the pickled cucumber salad alongside with the sushi rice, sprinkled with a few sesame seeds. Garnish with herb cress and a dusting of seven spice pepper."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: over 2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "over 2 hours",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT2H",
+  "cookTime": "PT1H",
   "keywords": [
     "Seafood",
     "Salmon"

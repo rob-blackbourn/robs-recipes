@@ -104,18 +104,8 @@
       "text": "Cut the string, foil and paper off the pudding basin. Run a blunt-ended knife around the inside of the pudding basin to loosen the sides of the pudding and invert it onto a deep plate. Serve in generous wedges with hot gravy."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT1H",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

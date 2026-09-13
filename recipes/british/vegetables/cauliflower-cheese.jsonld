@@ -31,18 +31,8 @@
       "text": "Stir in the mustard and two thirds of the cheese and set aside. Arrange the cauliflower in an ovenproof baking dish. Carefully pour over the sauce, ensuring the cauliflower is completely covered. Scatter over the remaining cheese and bake for 25-30 minutes, until the top is golden-brown and bubbling."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "keywords": [
     "Vegetables"
   ]

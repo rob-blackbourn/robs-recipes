@@ -43,10 +43,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 30 minutes, with a 2 day marinade"
+      "text": "Allow for a 2 day marinade"
     }
   ],
-  "prepTime": "30 minutes, with a 2 day marinade",
+  "prepTime": "PT30M",
   "keywords": [
     "Seafood",
     "Salmon"

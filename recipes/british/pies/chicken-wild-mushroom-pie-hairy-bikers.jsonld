@@ -66,18 +66,8 @@
       "text": "With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry lid with the remaining beaten egg, then transfer to the oven and bake for 30-35 minutes, or until golden-brown."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 1-2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "1-2 hours",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT1H30M",
+  "cookTime": "PT1H",
   "keywords": [
     "Pies"
   ]

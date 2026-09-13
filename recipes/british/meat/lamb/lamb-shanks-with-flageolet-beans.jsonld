@@ -85,18 +85,8 @@
       "text": "To serve, divide the flageolet beans equally among four serving plates. Place one lamb shank on top of each. Drizzle the reduced sauce over and around the lamb shanks."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Meat",
     "Lamb"

@@ -69,22 +69,8 @@
       "text": "To serve, turn out the pudding onto a large warm plate. Cut a wedge of the pudding and place on a serving plate with mashed potatoes and a spoonful of peas."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: over 2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 6-8"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "over 2 hours",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

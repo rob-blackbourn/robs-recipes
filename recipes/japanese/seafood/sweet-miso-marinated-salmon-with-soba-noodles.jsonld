@@ -45,15 +45,11 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: overnight"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 - 30 minutes"
+      "text": "Allow overnight marinade"
     }
   ],
-  "prepTime": "overnight",
-  "cookTime": "10 - 30 minutes",
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
   "keywords": [
     "Seafood"
   ]

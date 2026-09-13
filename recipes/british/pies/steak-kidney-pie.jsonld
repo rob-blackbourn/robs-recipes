@@ -58,18 +58,8 @@
       "text": "Serve with creamy mash and steamed vegetables to soak up the gravy."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 1 to 2 hours"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "1 to 2 hours",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "keywords": [
     "Pies"
   ]

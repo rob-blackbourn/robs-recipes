@@ -13,13 +13,7 @@
     "1 courgette (cut into ribbons with a potato peeler or mandolin)",
     "1 tbsp white wine vinegar"
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 minutes (to combine)"
-    }
-  ],
-  "cookTime": "30 minutes (to combine)",
+  "cookTime": "PT30M",
   "keywords": [
     "Salsa"
   ]

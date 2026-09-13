@@ -52,14 +52,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 10 minutes plus overnight"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 6-8"
+      "text": "Chills overnight"
     }
   ],
-  "prepTime": "10 minutes plus overnight",
+  "prepTime": "PT10M",
   "keywords": [
     "Desserts"
   ]

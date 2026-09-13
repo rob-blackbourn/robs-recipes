@@ -44,20 +44,6 @@
       "text": "Lay the pieces of fish on top of the rice, turn off the heat and cover the casserole with a clean tea towel, opened-out newspaper or lid. Leave to rest for five minutes, during which time the monkfish will finish cooking through."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: serves 4"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "10 to 30 mins"
+  "prepTime": "PT30M",
+  "cookTime": "PT30M"
 }

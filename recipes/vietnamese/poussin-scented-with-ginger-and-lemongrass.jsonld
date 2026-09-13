@@ -51,11 +51,5 @@
       "text": "To serve, pile the hot rice on a serving platter and arrange the poussin breasts and legs on top. Scatter on little heaps of broccoli and rocket, and serve at once, handing the sauce around separately."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 minutes to 1 hour"
-    }
-  ],
-  "cookTime": "30 minutes to 1 hour"
+  "cookTime": "PT1H"
 }

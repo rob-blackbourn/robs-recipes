@@ -31,16 +31,6 @@
       "text": "Heat the oil in a deep frying pan and add the mustard seeds. When they start to pop and jump about in the pan, add the onion and garlic. Cook until they're golden brown before adding the chicken and any extra paste from the marinade. Fry over a gentle heat for about 8 minutes before adding the coconut milk. Increase the heat slightly and bring to a simmer. Cook for a further 10-12 minutes until the sauce has thickened slightly before seasoning with salt if necessary."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 1-2 hours"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking Time: 20-30 mins"
-    }
-  ],
-  "prepTime": "1-2 hours",
-  "cookTime": "20-30 mins"
+  "prepTime": "PT1H",
+  "cookTime": "PT30M"
 }

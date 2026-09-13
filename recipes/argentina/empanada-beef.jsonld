@@ -4,6 +4,7 @@
   "recipeCuisine": "Argentina",
   "name": "Beef Empanada",
   "prepTime": "PT30M",
+  "cookTime": "PT12M",
   "recipeYield": "12 servings",
   "recipeIngredient": [
     "1 kg of empanada dough",
@@ -63,14 +64,7 @@
       "name": "Parchment paper."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10-15 Minutes"
-    }
-  ],
   "citation": [
     "./empanada-dough.jsonld"
-  ],
-  "cookTime": "PT12M"
+  ]
 }

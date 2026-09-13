@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "United Kingdom",
   "name": "Salmon & Smoked Haddock Fish Cakes",
+  "recipeCategory": "Starter",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "275g haddock fillets",
@@ -28,7 +29,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Remove from the milk and when cool enough to handle, flake the fish discarding any skin or bone. Combine the  haddock with the potato, butter, onions and anchovy essence in a mixer with a dough hook, then fold in the salmon,  egg, parsley and dill by hand until well combined, do not over-mix."
+      "text": "Remove from the milk and when cool enough to handle, flake the fish discarding any skin or bone. Combine the haddock with the potato, butter, onions and anchovy essence in a mixer with a dough hook, then fold in the salmon, egg, parsley and dill by hand until well combined, do not over-mix."
     },
     {
       "@type": "HowToStep",
@@ -36,7 +37,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Divide the mixture up into 4 equal amounts, then shape into patties. Dip in the flour, egg and finally breadcrumbs and  reshape."
+      "text": "Divide the mixture up into 4 equal amounts, then shape into patties. Dip in the flour, egg and finally breadcrumbs and reshape."
     },
     {
       "@type": "HowToStep",
@@ -44,13 +45,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Pan-fry in butter for 5 minutes each side – keep warm in the oven.  Assembly  Serve one cake on a bed of buttered spinach surrounded by parsley sauce."
-    }
-  ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Original yield: 4 servings as a starter"
+      "text": "Pan-fry in butter for 5 minutes each side – keep warm in the oven. Assembly Serve one cake on a bed of buttered spinach surrounded by parsley sauce."
     }
   ],
   "keywords": [

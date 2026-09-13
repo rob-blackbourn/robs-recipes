@@ -43,17 +43,7 @@
       "text": "Gradually add the cooled clarified butter, initially a drop at a time, gradually increasing."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 12-15 minutes"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 2-3"
-    }
-  ],
-  "cookTime": "12-15 minutes",
+  "cookTime": "PT15M",
   "keywords": [
     "Sauces",
     "Emulsions"

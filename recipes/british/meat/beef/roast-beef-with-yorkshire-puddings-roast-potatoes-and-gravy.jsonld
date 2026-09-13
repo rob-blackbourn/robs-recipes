@@ -80,15 +80,15 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 25 minutes, plus resting time for the batter"
+      "text": "Allow resting time for the batter."
     },
     {
       "@type": "Comment",
-      "text": "Cooking time: 1 1/2 - 2 hours, plus resting time for the beef"
+      "text": "Allow resting time for the beef"
     }
   ],
-  "prepTime": "25 minutes, plus resting time for the batter",
-  "cookTime": "1 1/2 - 2 hours, plus resting time for the beef",
+  "prepTime": "PT25M",
+  "cookTime": "PT1H30M",
   "keywords": [
     "Meat",
     "Beef"

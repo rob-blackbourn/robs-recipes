@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Satay Beef",
+  "prepTime": "PT15M",
   "cookTime": "PT7M",
   "recipeCuisine": "Thai",
   "recipeYield": "4 skewers",
@@ -41,14 +42,9 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 15 minutes with a 2 hour marination"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 4 large skewers"
+      "text": "Allow 2 hours for marination"
     }
   ],
-  "prepTime": "15 minutes with a 2 hour marination",
   "keywords": [
     "BBQ"
   ]

@@ -40,22 +40,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Prep time: ?"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 8-10 minutes"
-    },
-    {
-      "@type": "Comment",
-      "text": "Total time: ?"
-    },
-    {
-      "@type": "Comment",
       "text": "Status: Untried"
     }
   ],
-  "cookTime": "8-10 minutes",
+  "cookTime": "PT10M",
   "keywords": [
     "Seafood",
     "Sea Bass"

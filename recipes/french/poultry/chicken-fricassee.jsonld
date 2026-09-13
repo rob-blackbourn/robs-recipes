@@ -44,13 +44,7 @@
       "text": "Place in the oven until the chicken is cooked through."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "cookTime": "30 mins to 1 hour",
+  "cookTime": "PT1H",
   "keywords": [
     "Poultry"
   ]

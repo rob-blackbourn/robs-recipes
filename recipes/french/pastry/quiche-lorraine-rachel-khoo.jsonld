@@ -63,13 +63,7 @@
       "text": "Cook at 180°C (oven) for 40 minutes."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 10 mins pastry - 1 hour chill, 10 mins rest."
-    }
-  ],
-  "prepTime": "10 mins pastry - 1 hour chill, 10 mins rest.",
+  "prepTime": "PT10M",
   "keywords": [
     "Pastry"
   ]

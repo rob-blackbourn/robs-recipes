@@ -39,14 +39,10 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 30 minutes (plus 30 minutes resting)"
-    },
-    {
-      "@type": "Comment",
-      "text": "Original yield: 2 (of tagliatelle)"
+      "text": "Allow 30 minutes resting"
     }
   ],
-  "prepTime": "30 minutes (plus 30 minutes resting)",
+  "prepTime": "PT30M",
   "keywords": [
     "Pasta",
     "Pasta Dough"

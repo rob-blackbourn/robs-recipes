@@ -88,13 +88,7 @@
       "text": "Serve ravioli with a hot tomato cream sauce and grated Parmesan."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 40-45 minutes"
-    }
-  ],
-  "cookTime": "40-45 minutes",
+  "cookTime": "PT45M",
   "keywords": [
     "Pasta",
     "Ravioli Fillings",

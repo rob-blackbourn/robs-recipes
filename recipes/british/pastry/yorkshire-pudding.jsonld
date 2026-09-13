@@ -37,12 +37,6 @@
       "text": "Turn the oven down to 190°C and cook for a further 10 minutes to set the bottom of the puddings."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 35 minutes."
-    }
-  ],
   "cookTime": "PT35M",
   "keywords": [
     "Pastry"

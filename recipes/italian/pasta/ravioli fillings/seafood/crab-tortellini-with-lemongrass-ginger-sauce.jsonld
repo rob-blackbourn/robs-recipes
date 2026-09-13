@@ -111,18 +111,8 @@
       "text": "To serve, place the tortellini into serving bowls, pour over the sauce and scatter with pink grapefruit and cress. Drizzle with a little basil oil."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: 30 mins to 1 hour"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 10 to 30 mins"
-    }
-  ],
-  "prepTime": "30 mins to 1 hour",
-  "cookTime": "10 to 30 mins",
+  "prepTime": "PT1H",
+  "cookTime": "PT30M",
   "keywords": [
     "Pasta",
     "Ravioli Fillings",

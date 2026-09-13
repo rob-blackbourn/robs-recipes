@@ -73,18 +73,8 @@
       "name": "23cm round pie dish."
     }
   ],
-  "comment": [
-    {
-      "@type": "Comment",
-      "text": "Preparation time: less than 30 mins"
-    },
-    {
-      "@type": "Comment",
-      "text": "Cooking time: 30 mins to 1 hour"
-    }
-  ],
-  "prepTime": "less than 30 mins",
-  "cookTime": "30 mins to 1 hour",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "keywords": [
     "Pies"
   ]
