@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Prawn Noodle Soup - Penang Hokkien Mee",
+  "recipeCuisine": "Malaysia",
+  "recipeCategory": "Soup",
   "recipeYield": "6 servings",
   "prepTime": "PT20M",
   "recipeIngredient": [
@@ -90,7 +91,6 @@
   ],
   "cookTime": "PT2H15M",
   "keywords": [
-    "Soup",
     "meat",
     "pork",
     "seafood",

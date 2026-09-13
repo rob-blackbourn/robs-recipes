@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Japan",
   "name": "Takikomi Gohan",
+  "recipeCuisine": "Japan",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "180 ml rice (washed)",
@@ -55,6 +55,7 @@
   "keywords": [
     "rice",
     "chicken",
-    "poultry"
+    "poultry",
+    "tofu"
   ]
 }

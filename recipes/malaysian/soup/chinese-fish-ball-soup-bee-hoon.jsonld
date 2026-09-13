@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Chinese Fish Ball Soup - Bee Hoon",
+  "recipeCuisine": "Malaysia",
+  "recipeCategory": "Soup",
   "recipeYield": "6 servings",
   "prepTime": "PT20M",
   "cookTime": "PT10M",
@@ -66,7 +67,6 @@
     }
   ],
   "keywords": [
-    "Soup",
     "fish",
     "haddock",
     "cod",

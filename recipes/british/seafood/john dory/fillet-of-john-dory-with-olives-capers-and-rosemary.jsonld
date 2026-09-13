@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
+  "recipeCuisine": "British",
   "name": "Fillet of John Dory with Olives, Capers and Rosemary",
   "prepTime": "PT10M",
   "cookTime": "PT20M",

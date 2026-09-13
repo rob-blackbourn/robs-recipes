@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "recipeCuisine": "Japan",
   "name": "Tofu & Wakame Miso Soup",
+  "recipeCategory": "Soup",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "400ml dashi",
@@ -35,6 +36,7 @@
     }
   ],
   "keywords": [
-    "Soup"
+    "tofu",
+    "mushrooms"
   ]
 }

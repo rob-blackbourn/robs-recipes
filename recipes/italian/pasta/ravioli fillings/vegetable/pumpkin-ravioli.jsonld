@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Pumpkin Ravioli",
+  "recipeCuisine": "Italy",
   "prepTime": "PT3H20M",
   "cookTime": "PT1H30M",
   "recipeYield": "4 servings",

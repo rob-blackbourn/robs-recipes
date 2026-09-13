@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Beef, Ale & Carrot Pie - James Martin",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pie",
   "recipeYield": "6 servings",
   "prepTime": "PT30M",
   "cookTime": "PT2H",

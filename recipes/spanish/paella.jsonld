@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Spain",
   "name": "Paella",
+  "recipeCuisine": "Spain",
   "recipeYield": "8 servings",
   "recipeIngredient": [
     "60 g chorizo (cut into thin slices)",

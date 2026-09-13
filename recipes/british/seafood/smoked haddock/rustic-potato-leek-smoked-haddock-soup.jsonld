@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Rustic Potato, Leek & Smoked Haddock Soup",
+  "recipeCuisine": "British",
+  "recipeCategory": "Soup",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "100g butter",
@@ -14,7 +15,7 @@
     "2 large potatoes (peeled and cut into 15mm chunks)",
     "250ml milk",
     "600ml light fish stock or vegetable stock",
-    "120ml double cream ",
+    "120ml double cream",
     "1 tablespoon flat parsley (chopped)",
     "Sea salt",
     "White pepper and nutmeg"
@@ -34,7 +35,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Add milk and stock and cook for a further 15 minutes. Stir in the cream and any reserved juices from the fish, bring  back to the boil. The potatoes should be cooked by this stage."
+      "text": "Add milk and stock and cook for a further 15 minutes. Stir in the cream and any reserved juices from the fish, bring back to the boil. The potatoes should be cooked by this stage."
     },
     {
       "@type": "HowToStep",
@@ -42,14 +43,10 @@
     },
     {
       "@type": "HowToStep",
-      "text": "You may only need a little salt as the haddock can be quite salty.  Assembly  Ladle into bowls and swirl on some extra cream and chopped parsley, serve with hunks of soda bread."
+      "text": "You may only need a little salt as the haddock can be quite salty. Assembly Ladle into bowls and swirl on some extra cream and chopped parsley, serve with hunks of soda bread."
     }
   ],
   "keywords": [
-    "Seafood",
-    "Smoked Haddock",
-    "meat",
-    "pork",
     "fish",
     "haddock"
   ]

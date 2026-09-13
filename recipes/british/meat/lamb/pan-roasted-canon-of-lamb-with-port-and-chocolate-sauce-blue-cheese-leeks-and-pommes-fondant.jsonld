@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Pan-roasted Canon of Lamb with Port and Chocolate Sauce, Blue Cheese Leeks and Pommes Fondant",
+  "recipeCuisine": "British",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "125g unsalted butter (For the pommes fondant)",

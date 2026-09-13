@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Japan",
   "name": "Agedashi Dofu",
+  "recipeCuisine": "Japan",
+  "recipeCategory": "Soup",
   "cookTime": "PT10M",
   "recipeYield": "2 servings",
   "recipeIngredient": [
@@ -50,8 +51,6 @@
     "agedashi dofu.assets/image1.png"
   ],
   "keywords": [
-    "Tofu",
-    "fish",
-    "bonito"
+    "tofu"
   ]
 }

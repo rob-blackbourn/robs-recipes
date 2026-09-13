@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Scotch Pies",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pie",
   "recipeYield": "4 pies",
   "recipeIngredient": [
     "600g mutton mince",

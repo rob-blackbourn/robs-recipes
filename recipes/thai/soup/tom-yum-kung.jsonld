@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Tom Yum Kung",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Soup",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "2 cups chicken stock",
@@ -41,7 +42,6 @@
     }
   ],
   "keywords": [
-    "Soup",
     "seafood",
     "prawns"
   ]

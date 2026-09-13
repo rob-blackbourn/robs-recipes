@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Beef and oyster pie - Hairy Bikers",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pie",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "900 g stewing beef, trimmed, cut into rough 3 cm cubes",

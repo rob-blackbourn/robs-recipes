@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Tom Kha Kai",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Soup",
   "prepTime": "PT10M",
   "cookTime": "PT10M",
   "totalTime": "PT20M",
@@ -52,7 +53,6 @@
     }
   ],
   "keywords": [
-    "Soup",
     "poultry",
     "chicken"
   ]

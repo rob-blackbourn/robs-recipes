@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Lamb Pie - Hairy Bikers",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pie",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "3 tbsp plain flour (For the pie filling)",

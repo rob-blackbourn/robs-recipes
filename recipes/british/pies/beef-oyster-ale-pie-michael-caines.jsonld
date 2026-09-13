@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
   "name": "Beef, Oyster & Ale Pie - Michael Caines",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pie",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 kg beef braising steak, chopped",

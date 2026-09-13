@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "United Kingdom",
+  "recipeCuisine": "British",
   "name": "Cauliflower soup",
+  "recipeCategory": "Soup",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "15 g butter",

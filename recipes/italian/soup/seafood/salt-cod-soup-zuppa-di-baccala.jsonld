@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Salt cod soup (Zuppa di baccala)",
+  "recipeCuisine": "Italy",
+  "recipeCategory": "Soup",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "300 g salt cod",
@@ -45,7 +46,6 @@
     }
   ],
   "keywords": [
-    "Soup",
     "fish",
     "cod"
   ]

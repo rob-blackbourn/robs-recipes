@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Spicy Chicken Soup - Soto Ayam",
+  "recipeCuisine": "Malaysia",
+  "recipeCategory": "Soup",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "8 shallots (chopped)",
@@ -83,7 +84,6 @@
     }
   ],
   "keywords": [
-    "Soup",
     "poultry",
     "chicken"
   ]
