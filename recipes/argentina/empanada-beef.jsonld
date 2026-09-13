@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Argentina",
   "name": "Beef Empanada",
   "prepTime": "PT30M",
   "cookTime": "PT12M",
+  "recipeCuisine": "Argentina",
+  "recipeCategory": "Street Food",
   "recipeYield": "12 servings",
   "recipeIngredient": [
     "1 kg of empanada dough",

@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Lamb Shish Kebab",
+  "prepTime": "10 minutes plus 2 hour marinade",
   "cookTime": "PT10M",
   "recipeCuisine": "Indian",
   "recipeYield": "4 servings",
@@ -36,7 +37,6 @@
       "text": "Allow 2 hour to marinate."
     }
   ],
-  "prepTime": "10 minutes plus 2 hour marinade",
   "keywords": [
     "BBQ",
     "meat",
