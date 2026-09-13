@@ -2,11 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Paella",
+  "prepTime": "PT1H",
+  "cookTime": "PT30M",
   "recipeCuisine": "Spain",
   "recipeYield": "8 servings",
   "recipeIngredient": [
     "60 g chorizo (cut into thin slices)",
-    "40g pancetta (finely diced)",
+    "40 g pancetta (finely diced)",
     "1 clove garlic (finely chopped)",
     "1/2 Spanish onion (finely diced)",
     "1/2 red pepper (diced)",
@@ -66,8 +68,6 @@
       "text": "Scatter the chopped parsley over the paella and serve immediately."
     }
   ],
-  "prepTime": "PT1H",
-  "cookTime": "PT30M",
   "keywords": [
     "meat",
     "pork",

@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Rice with Monkfish, Saffron and Red Peppers",
+  "prepTime": "PT30M",
+  "cookTime": "PT30M",
   "recipeCuisine": "Spain",
   "recipeYield": "4 servings",
   "recipeIngredient": [
@@ -11,12 +13,12 @@
     "1/2 tsp smoked paprika (plus extra for seasoning the fish)",
     "pinch crushed dried chilies",
     "4 vine tomatoes",
-    "500ml fish stock",
+    "500 ml fish stock",
     "500 ml chicken stock",
     "1/2 tsp loosely packed saffron strands",
-    "400g paella rice",
+    "400 g paella rice",
     "1 large roasted red pepper",
-    "500g monkfish fillet (cut into 1cm thick slices)"
+    "500 g monkfish fillet (cut into 1cm thick slices)"
   ],
   "recipeInstructions": [
     {
@@ -44,8 +46,6 @@
       "text": "Lay the pieces of fish on top of the rice, turn off the heat and cover the casserole with a clean tea towel, opened-out newspaper or lid. Leave to rest for five minutes, during which time the monkfish will finish cooking through."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT30M",
   "keywords": [
     "fish",
     "monkfish"

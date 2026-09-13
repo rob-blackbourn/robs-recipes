@@ -1,11 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Rendang Ayam Negeri Sembilan",
-  "recipeYield": "6 servings",
   "prepTime": "PT20M",
   "cookTime": "PT45M",
+  "recipeCuisine": "Malaysia",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "1 chicken (about 1.5 kg, cut into bite sized pieces)",
     "1 tsp salt",
@@ -39,7 +39,6 @@
     }
   ],
   "keywords": [
-    "Meat Curry",
     "poultry",
     "chicken"
   ]

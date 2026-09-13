@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Singapore Laksa",
+  "recipeCuisine": "Malaysia",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "8 shallots (chopped) (For the spice paste)",

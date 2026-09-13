@@ -1,26 +1,26 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Malaysia",
   "name": "Spiced Fish Cakes in Banana Leaves - Ikan Otakotak",
+  "recipeCuisine": "Malaysia",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "4 shallots (chopped)",
     "1 stalk lemongrass (trimmed and chopped)",
-    "25g galangal (chopped)",
+    "25 g galangal (chopped)",
     "4 candlenuts or macadamia nuts (roasted)",
     "4 dried red chillies (soaked in warm water until soft, squeezed dry and de-seeded)",
     "1 tsp shrimp paste",
-    "1-2 tsp ground turmeric",
+    "1 tsp ground turmeric",
     "250 ml coconut cream",
     "1 tbsp dark soy sauce",
     "2 tsp palm sugar",
     "450 g fresh mackerel (cleaned skinned and flaked)",
-    "4-6 kaffir lime leaves (finely shredded)",
+    "4 kaffir lime leaves (finely shredded)",
     "2 eggs (lightly beaten)",
-    "Salt and pepper for seasoning",
     "12 banana leaves cut into pieces about 20 cm square",
-    "2 limes (quartered lengthways and chilli or peanut sambal, to serve)"
+    "2 limes (quartered lengthwise and chilli or peanut sambal, to serve)",
+    "Salt and pepper for seasoning"
   ],
   "recipeInstructions": [
     {

@@ -2,11 +2,11 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chinese Fish Ball Soup - Bee Hoon",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
   "recipeCuisine": "Malaysia",
   "recipeCategory": "Soup",
   "recipeYield": "6 servings",
-  "prepTime": "PT20M",
-  "cookTime": "PT10M",
   "recipeIngredient": [
     "450g white fish fillets (haddock, cod, bream - boned and flaked)",
     "1 - 2 tbsp rice flour",
