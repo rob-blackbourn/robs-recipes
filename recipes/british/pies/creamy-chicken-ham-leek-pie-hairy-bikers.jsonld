@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Creamy Chicken, Ham & Leek Pie - Hairy Bikers",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -74,10 +76,7 @@
       "name": "23cm round pie dish."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT1H",
   "keywords": [
-    "Pies",
     "meat",
     "ham",
     "poultry",

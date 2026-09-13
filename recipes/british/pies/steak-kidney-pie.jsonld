@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Steak & Kidney Pie",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -59,10 +61,7 @@
       "text": "Serve with creamy mash and steamed vegetables to soak up the gravy."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
     "lamb",
     "beef"

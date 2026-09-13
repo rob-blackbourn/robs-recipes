@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Yorkshire Pudding",
+  "prepTime": "PT5M",
+  "cookTime": "PT35M",
+  "recipeCuisine": "British",
+  "recipeCategory": "Batter",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "225 g plain flour",
@@ -37,7 +40,6 @@
       "text": "Turn the oven down to 190°C and cook for a further 10 minutes to set the bottom of the puddings."
     }
   ],
-  "cookTime": "PT35M",
   "keywords": [
     "Pastry"
   ]

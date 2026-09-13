@@ -1,10 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Lancashire Hotpot",
-  "recipeYield": "6 servings",
   "prepTime": "PT30M",
+  "cookTime": "PT1H",
+  "recipeCuisine": "British",
+  "recipeCategory": "Stew",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "2 tbsp olive oil",
     "1kg neck of lamb (chopped into bite-sized pieces)",
@@ -47,9 +49,7 @@
       "text": "Place the casserole into the oven to cook for 20 minutes, then remove the lid and cook for a further 20 minutes, or until the potatoes are golden-brown on top."
     }
   ],
-  "cookTime": "PT1H",
   "keywords": [
-    "Pies",
     "meat",
     "lamb"
   ]

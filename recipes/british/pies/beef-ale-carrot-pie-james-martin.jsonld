@@ -2,11 +2,11 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Beef, Ale & Carrot Pie - James Martin",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "6 servings",
-  "prepTime": "PT30M",
-  "cookTime": "PT2H",
   "recipeIngredient": [
     "75 g plain flour",
     "Salt and pepper for seasoning",
@@ -67,7 +67,6 @@
     }
   ],
   "keywords": [
-    "Pies",
     "meat",
     "beef"
   ]

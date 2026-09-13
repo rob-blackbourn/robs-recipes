@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Beef, Oyster & Ale Pie - Michael Caines",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -65,14 +67,10 @@
       "text": "Serve the pies with sides of lightly boiled seasonal green vegetables, such as green beans, broccoli or spinach."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
-    "pork",
     "beef",
-    "poultry",
-    "chicken"
+    "seafood",
+    "oyster"
   ]
 }

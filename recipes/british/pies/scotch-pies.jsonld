@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Scotch Pies",
+  "prepTime": "PT1H",
+  "cookTime": "PT1H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 pies",
@@ -42,10 +44,7 @@
       "text": "Put the pies on the baking tray and cut a steam hole in the centre of each. Brush with beaten egg yolk and transfer to the fridge to rest for 30 minutes. Bake for 35-40 minutes, or until golden-brown. Serve"
     }
   ],
-  "prepTime": "PT1H",
-  "cookTime": "PT1H",
   "keywords": [
-    "Pies",
     "meat",
     "lamb"
   ]

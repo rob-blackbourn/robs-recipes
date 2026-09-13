@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Lamb Pie - Hairy Bikers",
+  "prepTime": "PT1H30M",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "6 servings",
@@ -88,13 +90,8 @@
       "text": "Serve the pie piping hot with creamy mashed potatoes and seasonal vegetables."
     }
   ],
-  "prepTime": "PT1H30M",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
-    "lamb",
-    "poultry",
-    "chicken"
+    "lamb"
   ]
 }

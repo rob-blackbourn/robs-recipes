@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Steak & Ale Pie",
+  "prepTime": "PT2H",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -126,10 +128,7 @@
       "text": "Bake for 30 minutes, or until the filling is bubbling and the pastry is golden-brown and puffed all over."
     }
   ],
-  "prepTime": "PT2H",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
     "beef"
   ]

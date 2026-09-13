@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Beef and oyster pie - Hairy Bikers",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -59,12 +61,8 @@
       "text": "Roll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
-    "pork",
     "beef"
   ]
 }

@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Steak & Kidney Pudding with Steak and Kidney Gravy - Delia Smith",
+  "prepTime": "PT1H",
+  "cookTime": "PT2H",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pudding",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "350 g self-raising flour",
@@ -46,8 +49,6 @@
       "text": "To serve, either serve the pudding by spooning portions straight out of the bowl, or slide a palette knife round the edge and turn the whole thing out on to a serving plate (which is more fun!)."
     }
   ],
-  "prepTime": "PT1H",
-  "cookTime": "PT2H",
   "keywords": [
     "Pies",
     "meat",

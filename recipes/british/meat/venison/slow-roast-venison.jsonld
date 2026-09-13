@@ -1,9 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Slow Roast Haunch of Venison with Shallots, cranberries, and chestnuts.",
+  "prepTime": "PT15M",
   "cookTime": "PT4H",
+  "recipeCuisine": "British",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "2 - 2 1/2 kg haunch of venison (bone in)",
@@ -51,7 +52,6 @@
       "text": "Allow 2 hours marinade"
     }
   ],
-  "prepTime": "PT15M",
   "keywords": [
     "Meat",
     "Venison",

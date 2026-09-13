@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chicken & Wild Mushroom Pie - Hairy Bikers",
+  "prepTime": "PT1H30M",
+  "cookTime": "PT1H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -67,10 +69,7 @@
       "text": "With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry lid with the remaining beaten egg, then transfer to the oven and bake for 30-35 minutes, or until golden-brown."
     }
   ],
-  "prepTime": "PT1H30M",
-  "cookTime": "PT1H",
   "keywords": [
-    "Pies",
     "poultry",
     "chicken"
   ]

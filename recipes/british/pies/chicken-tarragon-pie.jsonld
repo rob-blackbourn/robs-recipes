@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chicken & Tarragon Pie",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
   "recipeCuisine": "British",
   "recipeCategory": "Pie",
   "recipeYield": "4 servings",
@@ -63,12 +65,7 @@
       "text": "Bake in the oven for 35-40 minutes."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT1H",
   "keywords": [
-    "Pies",
-    "meat",
-    "pork",
     "poultry",
     "chicken"
   ]

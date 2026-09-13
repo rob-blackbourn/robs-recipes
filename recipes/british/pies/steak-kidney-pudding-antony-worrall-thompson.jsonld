@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Steak & Kidney Pudding - Antony Worrall Thompson",
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pudding",
   "recipeYield": "8 servings",
   "recipeIngredient": [
     "675 g chuck steak, cut into 2.5cm cubes",
@@ -69,10 +72,7 @@
       "text": "To serve, turn out the pudding onto a large warm plate. Cut a wedge of the pudding and place on a serving plate with mashed potatoes and a spoonful of peas."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT2H",
   "keywords": [
-    "Pies",
     "meat",
     "beef"
   ]

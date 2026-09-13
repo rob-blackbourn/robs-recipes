@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Pan-roasted Canon of Lamb with Port and Chocolate Sauce, Blue Cheese Leeks and Pommes Fondant",
+  "prepTime": "PT30M",
+  "cookTime": "PT10M",
   "recipeCuisine": "British",
   "recipeYield": "2 servings",
   "recipeIngredient": [
@@ -75,8 +77,6 @@
       "text": "To serve, carve the lamb into thick slices. Spoon some creamed leeks into the centre of each serving plate and top with the slices of lamb and pommes fondant. Drizzle the port and chocolate sauce around the edge of the plates."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT10M",
   "keywords": [
     "meat",
     "lamb"

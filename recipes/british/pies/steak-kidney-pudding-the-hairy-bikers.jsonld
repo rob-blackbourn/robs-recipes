@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Steak & Kidney Pudding - The Hairy Bikers",
+  "prepTime": "PT1H",
+  "cookTime": "PT2H",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pudding",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "3 very fresh lambs' kidneys",
@@ -104,8 +107,6 @@
       "text": "Cut the string, foil and paper off the pudding basin. Run a blunt-ended knife around the inside of the pudding basin to loosen the sides of the pudding and invert it onto a deep plate. Serve in generous wedges with hot gravy."
     }
   ],
-  "prepTime": "PT1H",
-  "cookTime": "PT2H",
   "keywords": [
     "Pies",
     "meat",
