@@ -34,7 +34,7 @@ The collection tests currently assert 413 recipes, six references, and 12 images
 
 Settings contains preferred output units and an optional default serving count. Valid changes save immediately under the versioned `recipe-collection.preferences.v1` localStorage key. Invalid entries do not overwrite saved values. Corrupt or unknown storage versions fall back to defaults. If storage is disabled, preferences remain available until the page is reloaded.
 
-Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. The recipe header provides editable required yield and display units. Recipes without a known baseline cannot be scaled. Advanced baseline and yield-unit overrides remain supported in URLs.
+Automatic serving scaling applies only to a single, explicit `serves`, `servings`, `portions`, or `people` yield. A bare `4`, a range such as `4–6 servings`, or `20 pieces` is not automatically scaled. The recipe header provides editable yield and display units. Any single positive numeric yield can be scaled, regardless of its unit or item label (for example, jars, batches, or dough balls). Recipes without a known baseline cannot be scaled. Advanced baseline and yield-unit overrides remain supported in URLs.
 
 Explicit recipe URL overrides take precedence over preferences, then original values. Opening a recipe without URL overrides uses saved preferences. Search and folder selections survive the return from a recipe. Ingredient checks last for the current recipe view and are not persisted.
 

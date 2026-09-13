@@ -250,15 +250,7 @@ function Catalogue({
       </aside>
       <section className="catalogue-content">
         <div className="page-heading">
-          <span className="eyebrow">
-            {kind === 'recipes' ? 'FIND YOUR NEXT FAVOURITE' : 'A LITTLE KITCHEN KNOW-HOW'}
-          </span>
-          <h1>{kind === 'recipes' ? 'What’s cooking?' : 'The reference shelf.'}</h1>
-          <p>
-            {kind === 'recipes'
-              ? 'Familiar favourites and something new. Find a recipe and make it yours.'
-              : 'Ingredient notes, useful measures, and the details worth keeping.'}
-          </p>
+          <h1>{kind === 'recipes' ? 'Recipes' : 'Reference'}</h1>
         </div>
         <div className="search-row">
           <label className="search">
@@ -396,9 +388,7 @@ function Settings({
         ← Back to recipes
       </a>
       <div className="page-heading">
-        <span className="eyebrow">MAKE YOURSELF AT HOME</span>
-        <h1>Your kitchen, your way.</h1>
-        <p>Set your everyday preferences. You can always adjust an individual recipe.</p>
+        <h1>Settings</h1>
       </div>
       <div className="settings-panel">
         <h2>Cooking preferences</h2>

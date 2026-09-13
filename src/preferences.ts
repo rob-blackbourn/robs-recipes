@@ -65,8 +65,7 @@ export function parseYield(
   const servings =
     /^serves?\s+/i.test(raw) ||
     /^(?:servings?|portions?|people)(?:\s+as\s+(?:a\s+)?starter)?$/i.test(rest);
-  if (amount.unit.dimension !== 'count') {
-    if (rest) return undefined;
+  if (amount.unit.dimension !== 'count' && !rest) {
     return { value: amount.low, label: amount.unit.name, servings: false, unit: amount.unit };
   }
   if (
@@ -74,13 +73,10 @@ export function parseYield(
     (!rest || /^(?:servings?|portions?|people)(?:\s+as\s+(?:a\s+)?starter)?$/i.test(rest))
   )
     return { value: amount.low, label: 'servings', servings: true };
-  if (
-    /^(?:(?:small|medium|large)\s+)?(?:drinks?|glass(?:es)?|cocktails?|bowls?|pieces?|loaves?|loafs?|skewers?|chickens?|meringues?|baguettes?|pizzas?|pies?|cakes?|pitta breads?|duck|curries|starters|portions?)?$/i.test(
-      rest,
-    )
-  )
-    return { value: amount.low, label: rest || 'yield', servings: false };
-  return undefined;
+  // A yield label is not restricted to a vocabulary of foods or containers.
+  // Preserve it verbatim while scaling by the numeric amount.
+  const label = amount.unit.dimension === 'count' ? rest : `${amount.unit.name} ${rest}`;
+  return { value: amount.low, label: label || 'yield', servings: false };
 }
 
 export function conventionsFrom(params: URLSearchParams): Conventions {

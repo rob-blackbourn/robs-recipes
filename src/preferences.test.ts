@@ -40,6 +40,19 @@ describe('serving preferences', () => {
       expect(result.factor).toBe(3);
     },
   );
+  it.each([
+    ['2 jars', 'jars'],
+    ['2 batches', 'batches'],
+    ['2 dough balls', 'dough balls'],
+    ['2 dozen biscuits', 'dozen biscuits'],
+    ['2 ramekins', 'ramekins'],
+    ['2 m²', 'm²'],
+    ['2 kg dough', 'kg dough'],
+  ])('scales arbitrary yield units: %s', (raw, label) => {
+    expect(parseYield(raw)).toEqual({ value: 2, label, servings: false });
+    expect(resolveOptions(raw, preferences, new URLSearchParams('yield=5')).factor).toBe(2.5);
+    expect(resolveOptions(raw, preferences, new URLSearchParams('yield=1')).factor).toBe(0.5);
+  });
   it('allows manual scaling of bare yields and other counts', () => {
     expect(resolveOptions('4', preferences, new URLSearchParams('yield=6')).factor).toBe(1.5);
     expect(resolveOptions('20 pieces', preferences, new URLSearchParams('yield=10')).factor).toBe(
