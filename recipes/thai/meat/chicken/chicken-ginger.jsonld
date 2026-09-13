@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Small Plate",
   "name": "Chicken Ginger",
   "prepTime": "PT10M",
   "cookTime": "PT8M",

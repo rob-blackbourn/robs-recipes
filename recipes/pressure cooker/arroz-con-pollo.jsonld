@@ -77,8 +77,13 @@
       "text": "Remove the chicken and stir in with the rice. Add in green peas, tomato, olives, and pimiento."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "poultry",
     "chicken"
   ]

@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Small Plate",
   "name": "Stir-Fried Minced Beef with Chillies & Holy Basil",
   "prepTime": "PT30M",
   "cookTime": "PT10M",

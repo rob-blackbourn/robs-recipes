@@ -38,8 +38,13 @@
       "text": "Dip the cauliflower into the sauce to cover all the sides. Once that is done leave it in the pot & recover with a lid. Simmer for another 15 minutes or until the cauliflower is done. If using a pressure cooker, cover and cook for additional 5-7 minutes (after the cooker begins to hiss)."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "meat",
     "beef"
   ]

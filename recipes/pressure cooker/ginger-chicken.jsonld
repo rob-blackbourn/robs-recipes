@@ -39,8 +39,13 @@
       "text": "Add salt and pepper to taste"
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "poultry",
     "chicken"
   ]

@@ -51,8 +51,13 @@
       "text": "Cook for 5 minutes. Remove the lid."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "meat",
     "pork",
     "beef"

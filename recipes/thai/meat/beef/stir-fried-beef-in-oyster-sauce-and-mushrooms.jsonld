@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "recipeCategory": "Small Plate",
   "recipeCuisine": "Thai",
   "name": "Stir Fried Beef in Oyster Sauce with Mushrooms",
   "recipeYield": "4 servings",

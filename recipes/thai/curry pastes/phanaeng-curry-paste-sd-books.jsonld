@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Phanaeng Curry Paste - SD Books",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Spice Paste",
   "recipeYield": "140 ml",
   "recipeIngredient": [
     "5 dried spur chilies (seeded and soaked until tender)",

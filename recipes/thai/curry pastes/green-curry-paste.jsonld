@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Green Curry Paste",
-  "recipeCategory": "pice Paste",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Spice Paste",
   "recipeYield": "100 g",
   "recipeIngredient": [
     "15 large fresh green hot chilies",

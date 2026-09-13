@@ -42,8 +42,13 @@
       "text": "Spread the warm egg noodles on a serving platter. Arrange the chicken over the noodles and pour the sauce over all."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "poultry",
     "chicken"
   ]

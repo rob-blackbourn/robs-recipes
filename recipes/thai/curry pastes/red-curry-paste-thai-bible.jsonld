@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Red Curry Paste - Thai Bible",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Spice Paste",
   "recipeYield": "4 curries",
   "recipeIngredient": [
     "1 tsp toasted coriander seeds",

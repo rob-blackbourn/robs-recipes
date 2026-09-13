@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Sour Curry Paste - SD Books",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Spice Paste",
   "recipeYield": "1/4 cup",
   "recipeIngredient": [
     "10 dried spur chilies (seeded and soaked until tender)",

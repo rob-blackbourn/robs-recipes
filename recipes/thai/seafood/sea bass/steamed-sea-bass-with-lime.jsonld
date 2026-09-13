@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Small Plate",
   "name": "Steamed Sea Bass with Lime",
   "recipeYield": "4 servings",
   "recipeIngredient": [

@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thai",
   "name": "Mussamun Curry Paste - SD Books",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Spice Paste",
   "recipeYield": "1/2 cup",
   "recipeIngredient": [
     "3 dried spur chilies (seeded and soaked until tender)",

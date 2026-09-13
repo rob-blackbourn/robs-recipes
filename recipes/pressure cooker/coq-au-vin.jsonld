@@ -54,10 +54,13 @@
       "text": "Close and finish cooking. Steam potatoes (in separate pressure cooker or conventional steamer) and serve with chopped parsley."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
-    "meat",
-    "pork",
     "poultry",
     "chicken"
   ]

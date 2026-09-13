@@ -30,8 +30,13 @@
       "text": "When meat is done, drain all except 1/2 cup of the water, the onions are optional to keep in - personally I take them out."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "meat",
     "beef"
   ]

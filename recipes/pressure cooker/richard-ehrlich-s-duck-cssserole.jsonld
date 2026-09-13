@@ -34,10 +34,14 @@
       "text": "To cook the duck without a pressure cooker, make in the traditional way in a large, heavy-based casserole. The cooking of the duck will take 50-60 minutes or when the meat comes easily away from the bones. You can skip cooking the onions separately, adding them to the pan at the same time as the duck pieces."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "poultry",
-    "chicken",
     "duck"
   ]
 }

@@ -2,6 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Small Plate",
   "name": "Beef with Chilli and Kaffir Lime Leaves",
   "recipeYield": "5 servings",
   "recipeIngredient": [

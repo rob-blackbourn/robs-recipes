@@ -72,8 +72,13 @@
     }
   ],
   "prepTime": "PT15M",
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Pressure cooker"
+    }
+  ],
   "keywords": [
-    "Pressure Cooker",
     "meat",
     "beef"
   ]
