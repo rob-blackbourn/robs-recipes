@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Garlic Chicken - Gai Pad Gratiem",
   "recipeYield": "4 servings",
   "recipeIngredient": [
@@ -41,9 +41,7 @@
     }
   ],
   "keywords": [
-    "Meat",
-    "Chicken",
-    "poultry",
-    "fish"
+    "chicken",
+    "poultry"
   ]
 }

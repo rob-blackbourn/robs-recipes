@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Pad Thai",
   "recipeYield": "3 servings",
   "recipeIngredient": [
@@ -10,7 +10,7 @@
     "2 Tbsp fish sauce",
     "3 Tbsp water",
     "100 g of dry rice noodles",
-    "8-10 Shrimp, or as many as you’d like, peeled and deveined",
+    "8-10 Shrimp, or as many as you'd like, peeled and deveined",
     "1 small head shallot, thinly sliced, about 3 Tbsp",
     "2 cloves garlic, chopped",
     "1 Tbsp dried shrimp, chopped",
@@ -54,9 +54,8 @@
     }
   ],
   "keywords": [
-    "Noodles",
+    "noodles",
     "seafood",
-    "shrimp",
-    "fish"
+    "shrimp"
   ]
 }

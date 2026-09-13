@@ -4,6 +4,7 @@
   "name": "Beef Penaeg (gang panaeg neua)",
   "recipeYield": "2 servings",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Main",
   "recipeIngredient": [
     "200 g beef brisket (sinew removed)",
     "1l coconut milk (for cooking the beef)",
@@ -39,12 +40,9 @@
     }
   ],
   "keywords": [
-    "books",
     "bbq",
     "curry",
-    "thai",
     "beef",
-    "meat",
-    "fish"
+    "meat"
   ]
 }

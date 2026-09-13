@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Chilli Jam (nahm prik pao)",
   "recipeYield": "8 cups",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Relish",
   "recipeIngredient": [
     "oil for deep frying",
     "4 cups red shallots (sliced lengthwise)",
@@ -28,14 +30,5 @@
       "@type": "HowToStep",
       "text": "Simmer until quite thick. stirring regularly. The resulting “jam” should taste sweet, sour, and salty."
     }
-  ],
-  "keywords": [
-    "Books",
-    "Thai Food",
-    "Relishes",
-    "seafood",
-    "prawns",
-    "shrimp",
-    "fish"
   ]
 }

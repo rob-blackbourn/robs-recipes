@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Phanaeng Curry Paste - SD Books",
   "recipeYield": "140 ml",
   "recipeIngredient": [
@@ -23,8 +23,5 @@
     }
   ],
   "keywords": [
-    "Curry Pastes",
-    "seafood",
-    "shrimp"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Sour Curry Paste - SD Books",
   "recipeYield": "1/4 cup",
   "recipeIngredient": [
@@ -19,8 +19,5 @@
     }
   ],
   "keywords": [
-    "Curry Pastes",
-    "seafood",
-    "shrimp"
   ]
 }

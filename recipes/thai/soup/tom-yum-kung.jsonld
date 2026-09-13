@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Tom Yum Kung",
   "recipeYield": "2 servings",
   "recipeIngredient": [
@@ -43,9 +43,6 @@
   "keywords": [
     "Soup",
     "seafood",
-    "prawns",
-    "poultry",
-    "chicken",
-    "fish"
+    "prawns"
   ]
 }

@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Thai Satay Sauce",
+  "recipeCategory": "Sauce",
   "prepTime": "PT15M",
   "cookTime": "PT0M",
   "totalTime": "PT15M",
@@ -30,9 +31,5 @@
       "@type": "Comment",
       "text": "Status: Too sweet, contains untried changes."
     }
-  ],
-  "keywords": [
-    "Dips",
-    "fish"
   ]
 }

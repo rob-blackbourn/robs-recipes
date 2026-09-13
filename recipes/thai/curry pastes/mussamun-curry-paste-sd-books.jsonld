@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Mussamun Curry Paste - SD Books",
   "recipeYield": "1/2 cup",
   "recipeIngredient": [
@@ -23,8 +23,5 @@
     }
   ],
   "keywords": [
-    "Curry Pastes",
-    "seafood",
-    "shrimp"
   ]
 }

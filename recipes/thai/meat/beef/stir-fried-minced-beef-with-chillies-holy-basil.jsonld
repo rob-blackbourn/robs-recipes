@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Stir-Fried Minced Beef with Chillies & Holy Basil",
   "prepTime": "PT30M",
   "cookTime": "PT10M",
@@ -42,8 +42,7 @@
   ],
   "description": "(neau pat bai grapao)",
   "keywords": [
-    "Meat",
-    "Beef",
-    "fish"
+    "meat",
+    "beef"
   ]
 }

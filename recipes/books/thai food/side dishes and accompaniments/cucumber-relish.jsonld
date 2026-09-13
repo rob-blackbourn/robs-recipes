@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Cucumber Relish",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Relish",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 tbsp coconut vinegar or white vinegar",
@@ -27,10 +29,5 @@
       "@type": "HowToStep",
       "text": "Mix the remaining ingredients in a serving bowl and pour the syrup over them."
     }
-  ],
-  "keywords": [
-    "Books",
-    "Thai Food",
-    "Side Dishes and Accompaniments"
   ]
 }

@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Noodles with Crab, Prawn & Chilli Jam (kano jin nahm prik)",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Street Food",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 cups coconut cream",
@@ -48,13 +50,8 @@
     }
   ],
   "keywords": [
-    "books",
-    "thai",
-    "street food",
     "seafood",
     "crab",
-    "prawns",
-    "shrimp",
-    "fish"
+    "prawns"
   ]
 }

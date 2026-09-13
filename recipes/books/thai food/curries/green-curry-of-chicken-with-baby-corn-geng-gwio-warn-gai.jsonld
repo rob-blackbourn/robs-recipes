@@ -4,6 +4,7 @@
   "name": "Green Curry of Chicken with Baby Corn (geng gwio warn gai)",
   "recipeYield": "2 servings",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Main",
   "recipeIngredient": [
     "2 cups coconut cream",
     "150 g skinless chicken thigh fillets (sliced)",
@@ -60,14 +61,9 @@
     }
   ],
   "keywords": [
-    "books",
     "bbq",
     "curry",
-    "thai",
     "chicken",
-    "seafood",
-    "shrimp",
-    "poultry",
-    "fish"
+    "poultry"
   ]
 }

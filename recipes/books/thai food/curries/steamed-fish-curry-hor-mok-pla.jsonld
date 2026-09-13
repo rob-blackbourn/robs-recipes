@@ -4,6 +4,7 @@
   "name": "Steamed Fish Curry (hor mok pla)",
   "recipeYield": "2 servings",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Main",
   "recipeIngredient": [
     "200 g fish fillets (whiting, blue eye cod, or perch)",
     "a pinch of salt",
@@ -58,13 +59,9 @@
     }
   ],
   "keywords": [
-    "books",
     "bbq",
     "curry",
-    "thai",
     "fish",
-    "seafood",
-    "shrimp",
     "cod",
     "whiting",
     "perch"

@@ -1,7 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "marinade",
   "name": "Thai Satay Marinade",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
@@ -37,8 +38,5 @@
       "@type": "Comment",
       "text": "Status: Successful"
     }
-  ],
-  "keywords": [
-    "fish"
   ]
 }

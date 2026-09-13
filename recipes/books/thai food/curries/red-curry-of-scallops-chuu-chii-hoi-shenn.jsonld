@@ -4,6 +4,7 @@
   "name": "Red Curry of Scallops (chuu chii hoi shenn)",
   "recipeYield": "2 servings",
   "recipeCuisine": "Thai",
+  "recipeCategory": "Main",
   "recipeIngredient": [
     "500 ml coconut cream",
     "1 tbsp palm sugar",
@@ -57,13 +58,9 @@
     }
   ],
   "keywords": [
-    "books",
     "bbq",
     "curry",
-    "thai",
     "seafood",
-    "scallops",
-    "shrimp",
-    "fish"
+    "scallops"
   ]
 }

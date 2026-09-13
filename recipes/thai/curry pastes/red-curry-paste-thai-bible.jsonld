@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
+  "recipeCuisine": "Thai",
   "name": "Red Curry Paste - Thai Bible",
   "recipeYield": "4 curries",
   "recipeIngredient": [
@@ -26,8 +26,5 @@
     }
   ],
   "keywords": [
-    "Curry Pastes",
-    "seafood",
-    "shrimp"
   ]
 }

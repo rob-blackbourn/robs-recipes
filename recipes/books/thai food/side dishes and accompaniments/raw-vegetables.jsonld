@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Raw Vegetables",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "Thai",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "‘betel leaves’ (picked)",
@@ -31,10 +33,5 @@
       "@type": "HowToStep",
       "text": "Steep vegetables into very cold water before serving."
     }
-  ],
-  "keywords": [
-    "Books",
-    "Thai Food",
-    "Side Dishes and Accompaniments"
   ]
 }

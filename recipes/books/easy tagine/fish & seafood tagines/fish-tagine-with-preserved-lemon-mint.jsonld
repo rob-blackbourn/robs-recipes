@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Fish Tagine With Preserved Lemon & Mint",
   "recipeCuisine": "Moroccan",
+  "recipeCategory": "Main",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "1 quantity of chermoula",
@@ -45,9 +46,7 @@
     }
   ],
   "keywords": [
-    "Books",
-    "Easy Tagine",
-    "Fish & Seafood Tagines",
+    "tagine",
     "fish",
     "haddock",
     "cod"

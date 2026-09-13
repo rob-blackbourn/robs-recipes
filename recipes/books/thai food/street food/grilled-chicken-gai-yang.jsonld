@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Grilled Chicken (gai yang)",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Street Food",
   "recipeYield": "1 small chicken",
   "recipeIngredient": [
     "3 coriander roots (scraped and chopped)",
@@ -54,11 +56,7 @@
     "https://docs.google.com/document/d/1AySBwVjmFdnCCZiqJBUcVu_QpNGPk2MF7h_y1x5yAec/edit?usp=sharing"
   ],
   "keywords": [
-    "books",
-    "thai",
-    "street food",
     "poultry",
-    "chicken",
-    "fish"
+    "chicken"
   ]
 }

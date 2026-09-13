@@ -2,7 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Prawn Cakes (tort man gung)",
-  "recipeCategory": "Tapas",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Street Food",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "2 coriander roots (scraped and chopped)",
@@ -38,9 +39,6 @@
     "https://docs.google.com/document/d/1jH_Y94O5DeFPMUjYiUSlJm1lUuorcSl2ONCmqie9Dh4/edit?usp=sharing"
   ],
   "keywords": [
-    "books",
-    "thai",
-    "street food",
     "seafood",
     "prawns"
   ]

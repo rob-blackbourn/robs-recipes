@@ -3,6 +3,7 @@
   "@type": "Recipe",
   "name": "Chermoula",
   "recipeYield": "50 g",
+  "recipeCategory": "Relish",
   "recipeIngredient": [
     "2 garlic cloves (chopped)",
     "1 fresh red chilli (chopped)",
@@ -32,7 +33,6 @@
     }
   ],
   "keywords": [
-    "Books",
-    "Easy Tagine"
+    "marinade" 
   ]
 }

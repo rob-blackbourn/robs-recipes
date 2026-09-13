@@ -5,6 +5,7 @@
   "prepTime": "PT10M",
   "cookTime": "PT1H",
   "recipeCuisine": "Moroccan",
+  "recipeCategory": "Main",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "2 tbsp olive oil",
@@ -68,8 +69,7 @@
     }
   ],
   "keywords": [
-    "Books",
-    "Easy Tagine",
+    "tagine",
     "poultry",
     "duck"
   ]

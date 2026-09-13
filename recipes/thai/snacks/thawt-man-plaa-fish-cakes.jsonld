@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Thailand",
-  "name": "Thawt Man Plaa - Fish Cakes",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Small Plate",
+  "name": "Fish Cakes - Thawt Man Plaa",
   "recipeYield": "30 servings",
   "recipeIngredient": [
     "450g firm white fish fillets (roughly chopped)",
@@ -35,7 +36,6 @@
     }
   ],
   "keywords": [
-    "Snacks",
     "fish",
     "white fish"
   ]

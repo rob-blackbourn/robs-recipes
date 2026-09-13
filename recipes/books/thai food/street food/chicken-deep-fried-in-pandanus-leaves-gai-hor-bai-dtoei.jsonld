@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Chicken Deep Fried in Pandanus Leaves (gai hor bai dtoei)",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Street Food",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "3 skinless chicken thighs",
@@ -59,9 +61,6 @@
     }
   ],
   "keywords": [
-    "books",
-    "thai",
-    "street food",
     "poultry",
     "chicken"
   ]
