@@ -2,25 +2,27 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Thai Grilled Whole Chicken - Gai Yang",
+  "prepTime": "PT1H30M",
+  "cookTime": "PT1H30M",
   "recipeCuisine": "Thai",
   "recipeYield": "2 chickens",
   "recipeIngredient": [
-    "1 whole chickens (1.8 kg. each)",
+    "1 large chicken",
     "Bamboo sticks or skewers",
-    "2 heads garlic (30 - 40 cloves) finely chopped",
+    "2 heads garlic finely chopped",
     "1 stalks lemongrass finely chopped",
-    "1 1/4 tablespoons black pepper corns",
-    "4 coriander roots (optional) finely chopped",
-    "2 tablespoons soy sauce",
-    "1/2 tablespoon fish sauce (For the marinade)",
-    "1 tablespoons palm sugar",
-    "1/2 tablespoon dark soy sauce",
-    "4 tablespoons water",
-    "3/4 tablespoons khao kua",
-    "3/4 tablespoons chili flakes",
-    "1/2 tablespoon of sugar",
-    "1 1/2 tablespoons fish sauce (For the sauce)",
-    "4 tablespoons tamarind water",
+    "1 1/4 tbsp black pepper corns",
+    "4 coriander roots, finely chopped (optional)",
+    "2 tbsp soy sauce",
+    "1/2 tsp fish sauce (for the marinade)",
+    "1 tbsp palm sugar",
+    "1/2 tsp dark soy sauce",
+    "4 tbsp water",
+    "3/4 tbsp khao kua",
+    "3/4 tbsp chili flakes",
+    "1/2 tsp of sugar",
+    "1 1/2 tbsp fish sauce (for the sauce)",
+    "4 tbsp tamarind water",
     "few sprigs of coriander"
   ],
   "recipeInstructions": [
@@ -48,15 +50,13 @@
   "comment": [
     {
       "@type": "Comment",
-      "text": "Preparation time: 30 minutes plus 2 hours for the marinade"
+      "text": "Add 2 hours for the marinade"
     },
     {
       "@type": "Comment",
-      "text": "Cooking time: 1 1/2 hours"
+      "text": "A large chicken should weigh 1.8 kg."
     }
   ],
-  "prepTime": "30 minutes plus 2 hours for the marinade",
-  "cookTime": "PT1H30M",
   "keywords": [
     "BBQ"
   ]

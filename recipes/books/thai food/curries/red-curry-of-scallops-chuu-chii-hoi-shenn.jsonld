@@ -5,16 +5,16 @@
   "recipeYield": "2 servings",
   "recipeCuisine": "Thai",
   "recipeIngredient": [
-    "500ml coconut cream",
+    "500 ml coconut cream",
     "1 tbsp palm sugar",
     "2 tbsp fish sauce",
-    "250ml coconut milk",
-    "12-16 small scallops (about 200g)",
+    "250 ml coconut milk",
+    "12 small scallops",
     "4 kaffir lime leaves (shredded)",
     "1 tbsp thick coconut cream",
     "a little read chilli (julienned)",
     "1 tbsp coriander leaves",
-    "5-8 dried long red chilies (de-seeded, soaked and drained)",
+    "6 dried long red chilies (de-seeded, soaked and drained)",
     "a large pinch salt",
     "5 slices galangal",
     "3 tbsp chopped lemongrass",
@@ -48,6 +48,12 @@
     {
       "@type": "HowToStep",
       "text": "To serve, arrange the scallops on a plate, drizzle over the coconut cream, then sprinkle with the remaining lime leaves, red chilli and coriander."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "12 scallops should weigh around 200 g."
     }
   ],
   "keywords": [

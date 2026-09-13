@@ -2,17 +2,17 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Harissa",
-  "recipeYield": "3 tbsp",
+  "recipeYield": "150 g",
   "prepTime": "PT10M",
   "totalTime": "PT10M",
   "recipeIngredient": [
-    "12 to 15 dried red chili peppers (approx. 100 g)",
-    "3 or 4 cloves garlic",
-    "1 teaspoon salt, or to taste",
-    "1 teaspoon ground cumin (optional)",
-    "1/2 teaspoon ground coriander seeds (optional)",
-    "1/2 teaspoon ground caraway seeds (optional)",
-    "2 to 3 teaspoons lemon juice",
+    "12 dried red chili peppers",
+    "3 cloves garlic",
+    "1 tsp salt, or to taste",
+    "1 tsp ground cumin (optional)",
+    "1/2 tsp ground coriander seeds (optional)",
+    "1/2 tsp ground caraway seeds (optional)",
+    "2 tsp lemon juice",
     "Olive oil"
   ],
   "recipeInstructions": [
@@ -33,6 +33,10 @@
     {
       "@type": "Comment",
       "text": "Status: Untried"
+    },
+    {
+      "@type": "Comment",
+      "text": "For 150 g yield the chillies should weigh 100 g which is usually 12 to 15 chillies."
     }
   ]
 }

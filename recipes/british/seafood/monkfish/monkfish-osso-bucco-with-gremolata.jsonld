@@ -5,11 +5,11 @@
   "name": "Monkfish Osso Bucco with Gremolata",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "2 x 250g Monkfish tail (cut into steaks)",
+    "2 Monkfish tail (cut into steaks)",
     "plain flour (for dusting)",
     "Salt and pepper for seasoning",
     "extra virgin olive oil (for frying)",
-    "60g unsalted butter",
+    "60 g unsalted butter",
     "1/2 onion (peeled and finely chopped)",
     "1 garlic clove (peeled and crushed) (For the sauce)",
     "1 small carrot (peeled and finely chopped)",
@@ -87,6 +87,12 @@
     {
       "@type": "HowToTool",
       "name": "Metal handled frying pan (suitable for the oven)."
+    }
+  ],
+  "comment": [
+    {
+      "@type": "Comment",
+      "text": "A monkfish tail should weigh around 250 g."
     }
   ],
   "keywords": [
