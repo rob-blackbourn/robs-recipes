@@ -1,9 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Bloomer",
   "cookTime": "PT25M",
+  "recipeCuisine": "British",
+  "recipeCategory": "Bread",
   "recipeYield": "1 loaf",
   "recipeIngredient": [
     "500g strong white flour",
@@ -54,6 +55,5 @@
   ],
   "prepTime": "30 minutes, plus 4 hours waiting.",
   "keywords": [
-    "Bread"
   ]
 }

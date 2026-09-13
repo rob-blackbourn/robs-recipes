@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italian",
   "name": "Ciabatta 2",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Bread",
   "recipeYield": "6 loaves",
   "recipeIngredient": [
     "750 g strong white bread flour",
@@ -35,6 +36,5 @@
     }
   ],
   "keywords": [
-    "Bread"
   ]
 }

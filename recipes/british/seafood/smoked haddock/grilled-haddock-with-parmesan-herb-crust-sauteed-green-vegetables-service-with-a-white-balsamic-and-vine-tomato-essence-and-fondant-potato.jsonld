@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Grilled Haddock with Parmesan Herb Crust, Sauteed Green Vegetables service with a White Balsamic and Vine Tomato Essence and Fondant Potato",
+  "recipeCuisine": "British",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "300g haddock",
@@ -66,7 +66,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Once the vegetables have come back to the boil take them off the heat and strain, place them back in the pan and  add butter and seasoning and arrange around the potato."
+      "text": "Once the vegetables have come back to the boil take them off the heat and strain, place them back in the pan and add butter and seasoning and arrange around the potato."
     },
     {
       "@type": "HowToStep",
@@ -74,8 +74,6 @@
     }
   ],
   "keywords": [
-    "Seafood",
-    "Smoked Haddock",
     "fish",
     "haddock"
   ]

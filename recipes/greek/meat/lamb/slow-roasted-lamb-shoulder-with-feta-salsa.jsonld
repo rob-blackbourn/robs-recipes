@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Greece",
+  "recipeCuisine": "Greek",
   "name": "Slow-Roasted Lamb Shoulder with Feta Salsa",
   "prepTime": "PT30M",
   "cookTime": "PT3H",

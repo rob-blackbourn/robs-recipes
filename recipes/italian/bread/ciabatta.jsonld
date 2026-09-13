@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italian",
   "name": "Ciabatta",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Bread",
   "recipeYield": "2 loaves",
   "recipeIngredient": [
     "1/8 tsp dried yeast (For the starter)",
@@ -50,6 +51,5 @@
     }
   ],
   "keywords": [
-    "Bread"
   ]
 }
