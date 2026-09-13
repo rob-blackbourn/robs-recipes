@@ -1,21 +1,22 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Smoked Haddock Lasagne with Mustard Sauce",
+  "recipeCuisine": "British",
+  "recipeCategory": "Pasta Dish",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "1kg smoked haddock fillets",
-    "500ml milk and water mixed",
-    "300g fresh pasta lasagne sheets or 150g dried",
-    "400ml fish stock",
-    "100ml dry white wine",
-    "150ml double cream",
+    "1 kg smoked haddock fillets",
+    "500 ml milk and water mixed",
+    "300 g fresh pasta lasagne sheets or 150g dried",
+    "400 ml fish stock",
+    "100 ml dry white wine",
+    "150 ml double cream",
     "1 tbsp coarse grain mustard",
     "1 tbsp chopped fresh chives",
-    "200g wild mushrooms or chestnut mushrooms (sliced)",
+    "200 g wild mushrooms or chestnut mushrooms (sliced)",
     "2 tbsp olive oil",
-    "12–16 asparagus tips",
+    "12 asparagus tips",
     "150g baby spinach leaves (washed and dried)",
     "1 tbsp freshly grated Parmesan cheese",
     "Salt and pepper for seasoning"
@@ -51,12 +52,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Arrange the blanched asparagus tips on top and pour over the last of the sauce. Sprinkle with the Parmesan then  bake for about 15 minutes until hot and bubbling. Allow to stand to about 10 minutes before serving."
+      "text": "Arrange the blanched asparagus tips on top and pour over the last of the sauce. Sprinkle with the Parmesan then bake for about 15 minutes until hot and bubbling. Allow to stand to about 10 minutes before serving."
     }
   ],
   "keywords": [
-    "Seafood",
-    "Smoked Haddock",
+    "pasta",
     "fish",
     "haddock"
   ]

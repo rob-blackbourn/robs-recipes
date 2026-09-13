@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Tomato Cream Sauce",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "1 cup",
   "recipeIngredient": [
     "1 tbsp olive oil",
@@ -33,8 +34,6 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Vegetable"
+    "pasta"
   ]
 }

@@ -1,18 +1,19 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Ciociara-Style Sauce",
   "prepTime": "PT10M",
   "cookTime": "PT8M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "125 g frozen peas",
-    "50 g butter",
-    "250 g button mushrooms (thinly sliced)",
-    "200 ml single cream",
     "125 g piece of lean cooked ham (thinly sliced)",
+    "250 g button mushrooms (thinly sliced)",
+    "125 g frozen peas",
     "125 g Parmesan cheese (freshly grated)",
+    "50 g butter",
+    "200 ml single cream",
     "salt"
   ],
   "recipeInstructions": [
@@ -34,9 +35,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
+    "pasta",
+    "classics",
     "meat",
     "pork"
   ]

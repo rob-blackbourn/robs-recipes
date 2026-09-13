@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
-  "name": "Buongustaio Sauce",
+  "recipeCuisine": "Italian",
   "prepTime": "PT15M",
   "cookTime": "PT22M",
+  "name": "Buongustaio Sauce",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 tbsp olive oil",
@@ -13,7 +14,7 @@
     "1 aubergine (peeled and diced)",
     "125 g mushrooms (sliced)",
     "400 g can chopped tomatoes",
-    "sprig of sage",
+    "1 sprig of sage",
     "Salt and pepper for seasoning"
   ],
   "recipeInstructions": [
@@ -53,8 +54,7 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics"
+    "pasta",
+    "classic"
   ]
 }

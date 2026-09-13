@@ -1,13 +1,14 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
-  "name": "Fresh Pasta - Gino D’Acampo",
+  "name": "Fresh Pasta - Gino D'Acampo",
   "prepTime": "PT30M",
   "cookTime": "PT2M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dough",
   "recipeYield": "1 servings",
   "recipeIngredient": [
-    "200g 00 or plain flour (plus extra to flour the pasta machine)",
+    "200 g 00 or plain flour (plus extra to flour the pasta machine)",
     "4 free-range egg yolks",
     "1/2 tsp salt"
   ],
@@ -34,7 +35,6 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Dough"
+    "pasta"
   ]
 }

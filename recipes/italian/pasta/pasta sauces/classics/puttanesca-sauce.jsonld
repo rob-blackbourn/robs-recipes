@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Puttanesca Sauce",
   "prepTime": "PT10M",
   "cookTime": "PT30M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "4 tbsp olive oil",
@@ -34,10 +35,7 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
-    "fish",
-    "anchovies"
+    "pasta",
+    "classics"
   ]
 }

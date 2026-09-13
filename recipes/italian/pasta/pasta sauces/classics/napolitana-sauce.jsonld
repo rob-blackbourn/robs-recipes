@@ -1,20 +1,21 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Napolitana Sauce",
   "prepTime": "PT15M",
   "cookTime": "PT25M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "2 tbsp olive oil",
-    "1 onion (chopped)",
-    "2 cloves of garlic (crushed)",
+    "4 large tomatoes (chopped)",
+    "400 g can chopped tomatoes with herbs",
     "2 carrots (finely chopped and blanched)",
     "2 red peppers (cored, de-seeded, and finely chopped)",
-    "4 large tomatoes (chopped)",
+    "1 onion (chopped)",
     "150 ml red wine",
-    "400 g can chopped tomatoes with herbs",
+    "2 cloves of garlic (crushed)",
+    "2 tbsp olive oil",
     "basil leaves ( to garnish)"
   ],
   "recipeInstructions": [
@@ -48,8 +49,7 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics"
+    "pasta",
+    "classic"
   ]
 }

@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Pasta - Michela Chiappa",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dough",
   "recipeIngredient": [
     "400g Tipo '00' flour",
     "4 eggs",
@@ -39,7 +40,6 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Dough"
+    "pasta"
   ]
 }

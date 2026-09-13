@@ -1,15 +1,16 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Cod and Anchovy Pasta Filling",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Filling",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "25g Butter",
-    "1 Small Onion, very finely chopped",
-    "6  Tinned Anchovy fillets, chopped",
-    "4 tbsp White Wine",
     "350g Cod Fillet, cut into small cubes",
+    "25g butter",
+    "1 small onion, very finely chopped",
+    "6 anchovy fillets, chopped",
+    "4 tbsp White Wine",
     "120ml Crème Fraîche",
     "1 Egg Yolk",
     "Pepper"
@@ -33,11 +34,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Ravioli Fillings",
-    "Seafood",
+    "pasta",
     "fish",
-    "anchovies",
     "cod"
   ]
 }

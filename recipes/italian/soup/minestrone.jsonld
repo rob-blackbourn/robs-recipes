@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Minestrone",
-  "recipeCuisine": "Italy",
+  "recipeCuisine": "Italian",
   "recipeCategory": "Soup",
   "prepTime": "PT15M",
   "cookTime": "PT30M",

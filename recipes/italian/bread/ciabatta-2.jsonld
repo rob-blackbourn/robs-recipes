@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
+  "recipeCuisine": "Italian",
   "name": "Ciabatta 2",
   "recipeYield": "6 loaves",
   "recipeIngredient": [

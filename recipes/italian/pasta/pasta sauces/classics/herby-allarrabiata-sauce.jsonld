@@ -1,23 +1,24 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
-  "name": "Herby all’Arrabiata Sauce",
+  "name": "Herby al'Arrabiata Sauce",
   "prepTime": "PT10M",
   "cookTime": "PT40M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "2 x 400 g cans of plum tomatoes (drained)",
-    "25 g butter",
     "1 onion (finely chopped)",
     "125 g streaky bacon (rind removed and diced)",
     "2 cloves of garlic (finely chopped)",
     "1-2 red chilies (finely chopped)",
     "1 tbsp chopped oregano",
     "1 tbsp chopped thyme",
-    "Salt and pepper for seasoning",
+    "25 g butter",
     "1 tbsp chopped parsley to garnish",
-    "125 g Parmesan cheese (freshly grated) to serve"
+    "125 g Parmesan cheese (freshly grated) to serve",
+    "Salt and pepper for seasoning"
   ],
   "recipeInstructions": [
     {
@@ -34,9 +35,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
+    "pasta",
+    "classics",
     "meat",
     "pork"
   ]

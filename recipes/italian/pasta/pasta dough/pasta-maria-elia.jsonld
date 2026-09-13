@@ -1,12 +1,14 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Pasta - Maria Elia",
   "prepTime": "PT30M",
+  "cookTime": "PT10M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dough",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "200g plain flour, plus extra for dusting",
+    "200 g plain flour, plus extra for dusting",
     "2 free-range eggs, beaten"
   ],
   "recipeInstructions": [
@@ -31,9 +33,7 @@
       "text": "Cook the pasta for 2-3 minutes in a pan of boiling salted water. For the last thirty seconds of cooking, add the carrot ribbons, then drain."
     }
   ],
-  "cookTime": "PT10M",
   "keywords": [
-    "Pasta",
-    "Pasta Dough"
+    "pasta"
   ]
 }

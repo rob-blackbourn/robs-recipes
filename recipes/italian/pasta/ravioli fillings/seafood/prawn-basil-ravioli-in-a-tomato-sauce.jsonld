@@ -1,19 +1,18 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Prawn & Basil Ravioli in a Tomato Sauce",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dish",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "For the ravioli",
-    "500g pasta dough",
-    "275g raw peeled prawns",
+    "500 g pasta dough",
+    "275 g raw peeled prawns",
     "10 basil leaves (chopped)",
     "1 handful breadcrumbs",
     "1 medium egg",
-    "Zest of 1/2 unwaxed lemon",
-    "For the sauce",
-    "6 tomatoes (halved accross the middle)",
+    "1/2 lemon, zest only",
+    "6 tomatoes (halved across the middle)",
     "1 bunch watercress (roughly chopped)",
     "2 garlic cloves (whole, in their skin)"
   ],
@@ -48,9 +47,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Ravioli Fillings",
-    "Seafood",
+    "pasta",
+    "seafood",
     "prawns"
   ]
 }

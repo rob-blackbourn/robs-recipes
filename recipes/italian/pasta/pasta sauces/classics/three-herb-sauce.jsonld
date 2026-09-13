@@ -2,9 +2,10 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Three Herb Sauce",
-  "recipeCuisine": "Italy",
+  "recipeCuisine": "Italian",
   "prepTime": "PT10M",
   "cookTime": "PT0M",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "3 tbsp chopped parsley",
@@ -23,8 +24,7 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics"
+    "pasta",
+    "classic"
   ]
 }

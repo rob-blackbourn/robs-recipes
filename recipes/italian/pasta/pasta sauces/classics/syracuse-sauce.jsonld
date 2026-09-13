@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Syracuse Sauce",
   "prepTime": "PT15M",
   "cookTime": "PT35M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "2 medium onions (sliced)",
@@ -30,10 +31,7 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
-    "fish",
-    "anchovies"
+    "pasta",
+    "classic"
   ]
 }

@@ -1,9 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Fresh Egg Pasta",
+  "prepTime": "PT30M",
   "cookTime": "PT5M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dough",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "100 g \"00\" plain flour",
@@ -42,9 +44,7 @@
       "text": "Allow 30 minutes resting"
     }
   ],
-  "prepTime": "PT30M",
   "keywords": [
-    "Pasta",
-    "Pasta Dough"
+    "pasta"
   ]
 }

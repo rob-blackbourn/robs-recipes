@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
+  "recipeCuisine": "Italian",
   "name": "San Marzano tomato pizza",
   "recipeYield": "4 pizzas",
   "recipeIngredient": [

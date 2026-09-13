@@ -1,19 +1,20 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Red mullet with linguine tossed in chilli and garlic",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dish",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "300g Italian \"00\" flour",
-    "3 free-range eggs",
-    "1 tbsp olive oil",
-    "pinch salt",
+    "4 whole red mullet (filleted, pin boned and cut into strips)",
     "4 tsp finely sliced red chilli",
     "4 tsp finely sliced garlic",
     "125ml white wine",
     "125ml fish or vegetable stock",
-    "4 whole red mullet (filleted, pin boned and cut into strips)",
+    "300g Italian \"00\" flour",
+    "3 free-range eggs",
+    "1 tbsp olive oil",
+    "pinch salt",
     "2 tbsp flat leaf parsley",
     "1 tbsp basil leaves",
     "1 lemon (zest only)",
@@ -124,8 +125,8 @@
   "prepTime": "PT1H",
   "cookTime": "PT30M",
   "keywords": [
-    "Pasta",
-    "Pasta Dish",
+    "pasta",
+    "red mullet",
     "fish"
   ]
 }

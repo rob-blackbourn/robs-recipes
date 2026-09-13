@@ -1,15 +1,16 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
-  "name": "Lobster Ravioli with Crabmeat Cream Sauce",
+  "name": "Lobster Ravioli with Crab meat Cream Sauce",
   "prepTime": "PT30M",
   "cookTime": "PT35M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Dish",
   "recipeYield": "4 servings",
   "recipeIngredient": [
-    "55 g unsalted butter (For the ravioli)",
+    "55 g unsalted butter (for the ravioli)",
     "1 clove garlic, chopped",
-    "1 tablespoon chopped shallots (For the ravioli)",
+    "1 tablespoon chopped shallots (for the ravioli)",
     "450 g cooked lobster meat",
     "100 g cooked snow crab meat",
     "50 g Cognac (For the ravioli)",
@@ -19,13 +20,13 @@
     "1 tablespoon chopped chives",
     "Pasta dough, recipe follows",
     "Egg white, slightly beaten",
-    "50 g unsalted butter (For the sauce)",
-    "1 tbsp chopped shallots (For the sauce)",
+    "50 g unsalted butter (for the sauce)",
+    "1 tbsp chopped shallots (for the sauce)",
     "100 g whole chunk Maryland crab meat",
-    "50 g Cognac (For the sauce)",
+    "50 g Cognac (for the sauce)",
     "150 g tomato sauce",
     "300 g heavy cream",
-    "Salt (For the sauce)"
+    "Salt (for the sauce)"
   ],
   "recipeInstructions": [
     {
@@ -42,9 +43,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Ravioli Fillings",
-    "Seafood",
+    "pasta",
+    "seafood",
     "crab",
     "lobster"
   ]

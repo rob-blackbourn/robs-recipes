@@ -1,21 +1,22 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Bolognese Sauce",
   "prepTime": "PT15M",
   "cookTime": "PT1H15M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "6 servings",
   "recipeIngredient": [
-    "25 g butter",
-    "2 tbsp olive oil",
+    "500 g lean minced beef",
+    "200 g spicy Italian sausage (skinned)",
+    "400 g can of chopped tomatoes",
     "1 onion (finely chopped)",
     "2 celery sticks (finely chopped)",
     "2 cloves of garlic (crushed)",
-    "500 g lean minced beef",
-    "200 g spicy Italian sausage (skinned)",
     "300 ml red or white wine",
-    "400 g can of chopped tomatoes",
+    "25 g butter",
+    "2 tbsp olive oil",
     "1 tsp caster sugar",
     "2 bay leaves",
     "1 tsp dried oregano",
@@ -37,9 +38,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
+    "pasta",
+    "classics",
     "meat",
     "beef"
   ]

@@ -1,29 +1,30 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Meatball Sauce",
   "prepTime": "PT20M",
   "cookTime": "PT30M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "5 servings",
   "recipeIngredient": [
     "500 g minced beef",
-    "1/2 large onion (very finely chopped) (For the meatballs)",
+    "400 g can plum tomatoes",
+    "600 ml beef stock",
+    "1 onion (for the sauce)",
+    "1/2 large onion (very finely chopped) (for the meatballs)",
     "1 clove of garlic",
-    "1 tsp chopped oregano (For the meatballs)",
-    "1 tsp dried mixed herbs (For the meatballs)",
+    "1 tsp chopped oregano (for the meatballs)",
+    "1 tsp dried mixed herbs (for the meatballs)",
     "50 g fresh breadcrumbs",
     "1 egg (beaten)",
     "2 tbsp olive oil",
-    "Salt and pepper for seasoning",
-    "1 onion (For the sauce)",
-    "400 g can plum tomatoes",
-    "600 ml beef stock",
     "2 tbsp tomato puree",
     "1 tbsp red wine vinegar",
-    "1 tsp chopped oregano (For the sauce)",
-    "1 tsp dried mixed herbs (For the sauce)",
-    "1 tsp caster sugar"
+    "1 tsp chopped oregano (for the sauce)",
+    "1 tsp dried mixed herbs (for the sauce)",
+    "1 tsp caster sugar",
+    "Salt and pepper for seasoning"
   ],
   "recipeInstructions": [
     {
@@ -44,9 +45,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Classics",
+    "pasta",
+    "classic",
     "meat",
     "beef"
   ]

@@ -1,20 +1,21 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Italy",
   "name": "Arrabbiata Sauce with Garlic Crumbs",
   "prepTime": "PT5M",
   "cookTime": "PT30M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Pasta Sauce",
   "recipeYield": "4 servings",
   "recipeIngredient": [
+    "8 slices of unsmoked pancetta (chopped)",
+    "500 g tinned chopped tomatoes",
     "3 tbsp olive oil",
     "3 shallots (finely chopped)",
-    "8 slices of unsmoked pancetta (chopped)",
     "2 tsp crushed dried chilli flakes",
-    "500g tinned chopped tomatoes",
     "Salt and pepper for seasoning",
     "6 slices of white bread, crusts removed",
-    "125g butter",
+    "125 g butter",
     "2 cloves of garlic (finely chopped)"
   ],
   "recipeInstructions": [
@@ -32,9 +33,8 @@
     }
   ],
   "keywords": [
-    "Pasta",
-    "Pasta Sauces",
-    "Meat",
+    "pasta",
+    "meat",
     "pork"
   ]
 }
