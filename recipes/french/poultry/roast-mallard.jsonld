@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Roast Mallard",
+  "recipeCuisine": "France",
+  "recipeCategory": "Main",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "1 wild mallard duck",
@@ -29,7 +30,7 @@
     }
   ],
   "keywords": [
-    "Poultry",
+    "poultry",
     "duck"
   ]
 }

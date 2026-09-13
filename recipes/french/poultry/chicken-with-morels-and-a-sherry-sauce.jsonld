@@ -4,19 +4,19 @@
   "recipeCuisine": "France",
   "name": "Chicken with Morels and a Sherry Sauce",
   "prepTime": "PT15M",
+  "recipeCategory": "Main",
   "cookTime": "PT30M",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "7 g dried morel mushrooms",
     "2 chicken breasts",
-    "Salt and pepper for seasoning",
-    "1/2 tbsp unsalted butter (For the chicken)",
+    "7 g dried morel mushrooms",
     "30 g button mushrooms",
+    "2 leeks (sliced into 2 cm pieces)",
+    "1/2 tbsp unsalted butter (For the chicken)",
     "50 ml of dry white wine or sherry (boiled for 30 seconds to reduce the alcohol",
     "100 ml double cream",
-    "Salt",
     "1/2 tbsp unsalted butter (For the leeks)",
-    "2 leeks (sliced into 2 cm pieces)"
+    "Salt and pepper"
   ],
   "recipeInstructions": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "keywords": [
-    "Poultry",
+    "poultry",
     "chicken"
   ]
 }

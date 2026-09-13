@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
-  "name": "Saint-Pierre à l’orange",
+  "name": "Saint-Pierre à l'orange",
   "prepTime": "PT10M",
   "cookTime": "PT40M",
+  "recipeCuisine": "France",
+  "recipeCategory": "Main",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "2 fillets of John Dory",
@@ -70,8 +71,7 @@
     }
   ],
   "keywords": [
-    "Seafood",
-    "John Dory",
+    "john dory",
     "fish"
   ]
 }

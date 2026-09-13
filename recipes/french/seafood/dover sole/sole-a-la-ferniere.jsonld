@@ -1,22 +1,23 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Sole à la Fermière",
   "prepTime": "PT8M",
   "cookTime": "PT15M",
+  "recipeCuisine": "France",
+  "recipeCategory": "Main",
   "recipeYield": "2 servings",
   "recipeIngredient": [
+    "1 large sole (375 g each)",
     "1 chopped shallot",
     "1/2 tsp chopped parsley",
     "1 sprig thyme",
     "1/2 bay leaf",
     "175 g sliced mushrooms",
-    "1 large sole (375-400 g)",
     "175 ml red wine",
-    "Salt and pepper for seasoning",
     "75 g butter",
-    "1 tsp plain flour"
+    "1 tsp plain flour",
+    "Salt and pepper for seasoning"
   ],
   "recipeInstructions": [
     {
@@ -53,8 +54,6 @@
     }
   ],
   "keywords": [
-    "Seafood",
-    "Dover Sole",
     "fish",
     "sole"
   ]

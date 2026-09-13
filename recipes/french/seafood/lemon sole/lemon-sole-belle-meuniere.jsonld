@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Lemon Sole Belle Meunière",
   "prepTime": "PT10M",
   "cookTime": "PT15M",
+  "recipeCuisine": "France",
+  "recipeCategory": "Main",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "250 g fresh or frozen soft herring roes",
@@ -16,7 +17,7 @@
     "plain flour for dusting",
     "125 g brown shrimps or prawns (peeled and cooked)",
     "150 g unsalted butter",
-    "1/2 bunch flat leaf pasrley",
+    "1/2 bunch flat leaf parsley",
     "juice of 1/5 lemon",
     "Salt and pepper for seasoning"
   ],
@@ -39,11 +40,7 @@
     }
   ],
   "keywords": [
-    "Seafood",
-    "Lemon Sole",
-    "prawns",
-    "shrimp",
-    "fish",
-    "herring"
+    "lemon Sole",
+    "fish"
   ]
 }
