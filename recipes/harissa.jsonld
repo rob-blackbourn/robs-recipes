@@ -2,9 +2,9 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Harissa",
-  "recipeYield": "150 g",
   "prepTime": "PT10M",
   "totalTime": "PT10M",
+  "recipeYield": "150 g",
   "recipeIngredient": [
     "12 dried red chili peppers",
     "3 cloves garlic",
