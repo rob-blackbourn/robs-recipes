@@ -273,7 +273,7 @@ function Catalogue({
               type="search"
               placeholder={
                 kind === 'recipes'
-                  ? 'Search recipes, ingredients, keywords, or folders…'
+                  ? 'Search names, cuisines, categories, keywords, ingredients…'
                   : 'Search reference notes…'
               }
               value={query}

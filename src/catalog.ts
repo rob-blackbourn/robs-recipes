@@ -16,19 +16,23 @@ export function makeEntry(
     if (!assets[imagePath]) throw new Error(`Missing image: ${imagePath}`);
     return assets[imagePath];
   });
+  const searchFields = [
+    data.name,
+    data.recipeCuisine,
+    data.recipeCategory,
+    data.keywords,
+    data.recipeIngredient,
+    ...(data['@type'] === 'CreativeWork' ? [data.description] : []),
+  ].map((value) =>
+    (Array.isArray(value) ? value : [value]).filter(Boolean).join(' ').toLocaleLowerCase('en-GB'),
+  );
   return {
     ...data,
     id: relative,
     folder,
     images,
-    search: [
-      data.name,
-      folder,
-      ...(Array.isArray(data.keywords) ? data.keywords : [data.keywords]),
-      ...(data['@type'] === 'Recipe' ? data.recipeIngredient || [] : [data.description]),
-    ]
-      .join(' ')
-      .toLocaleLowerCase('en-GB'),
+    searchFields,
+    search: searchFields.join(' '),
   };
 }
 export function filterDocuments(
@@ -37,13 +41,32 @@ export function filterDocuments(
   query: string,
   folder: string,
 ) {
-  const words = query.trim().toLocaleLowerCase('en-GB').split(/\s+/).filter(Boolean);
-  return entries.filter(
+  const words = [...new Set(query.trim().toLocaleLowerCase('en-GB').split(/\s+/).filter(Boolean))];
+  const filtered = entries.filter(
     (entry) =>
       entry['@type'] === (kind === 'references' ? 'CreativeWork' : 'Recipe') &&
-      (!folder || entry.folder === folder || entry.folder.startsWith(folder + '/')) &&
-      words.every((word) => entry.search.includes(word)),
+      (!folder || entry.folder === folder || entry.folder.startsWith(folder + '/')),
   );
+  if (!words.length) return filtered;
+  return filtered
+    .flatMap((entry) => {
+      const score = Array(entry.searchFields.length).fill(0) as number[];
+      for (const word of words) {
+        const index = entry.searchFields.findIndex((field) => field.includes(word));
+        if (index < 0) return [];
+        score[index]++;
+      }
+      return [{ entry, score }];
+    })
+    .sort((a, b) => {
+      // Compare highest-priority fields first; stable ties retain catalogue order.
+      for (let i = 0; i < Math.max(a.score.length, b.score.length); i++) {
+        const difference = (b.score[i] || 0) - (a.score[i] || 0);
+        if (difference) return difference;
+      }
+      return 0;
+    })
+    .map((result) => result.entry);
 }
 export function duration(raw?: string): string | undefined {
   if (!raw) return undefined;

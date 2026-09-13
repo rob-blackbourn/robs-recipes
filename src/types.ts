@@ -10,7 +10,8 @@ export interface RecipeDocument {
   '@type': 'Recipe' | 'CreativeWork';
   name: string;
   description?: string;
-  recipeCuisine?: string;
+  recipeCuisine?: string | string[];
+  recipeCategory?: string | string[];
   keywords?: string | string[];
   recipeYield?: string;
   prepTime?: string;
@@ -29,6 +30,7 @@ export interface DocumentEntry extends RecipeDocument {
   folder: string;
   images: string[];
   search: string;
+  searchFields: string[];
 }
 
 export const unitModes = {

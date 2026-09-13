@@ -99,3 +99,38 @@ describe('keyword search', () => {
     expect(entry.search).not.toContain('undefined');
   });
 });
+
+describe('search field priorities', () => {
+  const create = (name: string, fields: Record<string, unknown> = {}) =>
+    makeEntry(
+      `../recipes/test/${name}.jsonld`,
+      JSON.stringify({ '@type': 'Recipe', name, ...fields }),
+      {},
+    );
+  it('ranks name, cuisine, category, keywords, then ingredients', () => {
+    const ingredient = create('A', { recipeIngredient: ['chicken'] });
+    const keyword = create('B', { keywords: ['Chicken'] });
+    const category = create('C', { recipeCategory: ['Dinner', 'Chicken'] });
+    const cuisine = create('D', { recipeCuisine: ['Chicken'] });
+    const name = create('Chicken');
+    expect(
+      filterDocuments([ingredient, keyword, category, cuisine, name], 'recipes', 'CHICKEN', ''),
+    ).toEqual([name, cuisine, category, keyword, ingredient]);
+  });
+  it('matches all query terms across fields and keeps priority over lower-field matches', () => {
+    const name = create('Thai', { recipeIngredient: ['chicken', 'rice'] });
+    const cuisine = create('Dinner', { recipeCuisine: 'Thai', keywords: 'chicken rice' });
+    const incomplete = create('Thai chicken');
+    expect(
+      filterDocuments([cuisine, incomplete, name], 'recipes', 'thai chicken rice', ''),
+    ).toEqual([name, cuisine]);
+  });
+  it('preserves ties and empty-query order, and retains folder filtering', () => {
+    const a = create('A', { recipeCategory: 'Dinner' });
+    const b = create('B', { recipeCategory: 'Dinner' });
+    expect(filterDocuments([b, a], 'recipes', 'dinner', 'test')).toEqual([b, a]);
+    expect(filterDocuments([b, a], 'recipes', '', '')).toEqual([b, a]);
+    expect(filterDocuments([b, a], 'recipes', 'dinner', 'other')).toEqual([]);
+    expect(filterDocuments([b, a], 'recipes', 'test', '')).toEqual([]);
+  });
+});
