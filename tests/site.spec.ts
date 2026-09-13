@@ -7,7 +7,7 @@ const nonServingYield =
 
 test('browse, combine filters, follow recipe, and return to search', async ({ page }, testInfo) => {
   await page.goto('./');
-  await expect(page.getByRole('heading', { name: 'What’s cooking?' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Recipes' })).toBeVisible();
   await expect(page.locator('.recipe-card')).toHaveCount(36);
   await page.screenshot({ path: testInfo.outputPath('desktop.png') });
   await page.getByRole('button', { name: /^British / }).click();
