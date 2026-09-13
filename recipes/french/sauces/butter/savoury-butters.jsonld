@@ -2,9 +2,5 @@
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "name": "Savoury Butters",
-  "description": "Anise Butter\n\nBeurre Maître D’Hôtel",
-  "citation": [
-    "https://docs.google.com/document/d/1rqUPeO-03W7KnD8fQqP_HOk1U4i8XwhJEsNfl8aF_hs/edit?usp=sharing",
-    "https://docs.google.com/document/d/16ZnW7s1lrpL0D13MEO3z8I6hiU8dlbmcAW5W5qJKYe0/edit?usp=sharing"
-  ]
+  "description": "Anise Butter\n\nBeurre Maître D’Hôtel"
 }

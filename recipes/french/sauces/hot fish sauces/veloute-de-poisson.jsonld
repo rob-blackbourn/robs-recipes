@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Velouté de Poisson",
   "prepTime": "PT5M",
   "cookTime": "PT1H",
+  "recipeCuisine": "France",
+  "recipeCategory": "Sauce",
   "recipeYield": "600 ml",
   "recipeIngredient": [
     "60 g butter",
@@ -44,11 +45,6 @@
       "text": "Season to taste."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1Y-dRBJ6Kh2S15Q-OmZ9FIiNJrMD-hxyOvJ-vrKNgI3U/edit?usp=sharing"
-  ],
   "keywords": [
-    "Sauces",
-    "Hot Fish Sauces"
   ]
 }

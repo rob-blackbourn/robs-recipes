@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Moroccan",
   "name": "Fish Tagine",
   "prepTime": "PT15M",
   "cookTime": "PT10M",
+  "recipeCuisine": "Moroccan",
+  "recipeCategory": "Tagine",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "2-3 tbsp olive oil",
@@ -48,11 +49,8 @@
       "text": "Just before serving, squeeze the lemon juice over the plaice tagine, then sprinkle over the coriander leaves."
     }
   ],
-  "citation": [
-    "https://drive.google.com/open?id=1ICecAKPQ6KpftcHDpPBmZGDUzJVhhtTSsv7qHbqfWfI"
-  ],
   "keywords": [
-    "Fish",
+    "fish",
     "plaice"
   ]
 }

@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Chicken Stock",
   "recipeYield": "1.5 l",
   "prepTime": "PT15M",
+  "recipeCuisine": "France",
+  "recipeCategory": "Stock",
   "recipeIngredient": [
     "1 chicken (1.5 kg, blanched and refreshed)",
     "200 g carrots (cut into chunks)",
@@ -36,12 +37,8 @@
       "text": "Strain and cool as quickly as possible."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1ApMSfXhCOThtVDLk7fhTr1J_yzvej9FlOwQg1WIuu7M/edit"
-  ],
   "cookTime": "PT1H45M",
   "keywords": [
-    "Stock",
     "poultry",
     "chicken"
   ]

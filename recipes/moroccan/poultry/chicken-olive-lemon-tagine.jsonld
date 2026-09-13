@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Moroccan",
   "name": "Chicken, Olive & Lemon Tagine",
   "prepTime": "PT15M",
   "cookTime": "PT45M",
+  "recipeCuisine": "Moroccan",
+  "recipeCategory": "Tagine",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "1 red onion - finely diced",

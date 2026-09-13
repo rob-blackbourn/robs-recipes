@@ -1,12 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Ireland",
   "name": "Chicken Stew with Dumplings",
-  "citation": "Donal Skehan",
-  "recipeYield": "2 servings",
   "prepTime": "PT15M",
   "cookTime": "PT45M",
+  "recipeCuisine": "Ireland",
+  "recipeCategory": "Stew",
+  "recipeYield": "2 servings",
   "recipeIngredient": [
     "1kg chicken thighs (skin on, bone in)",
     "3 celery stalks (trimmed and cut into bite sized pieces)",
@@ -89,6 +89,9 @@
         }
       ]
     }
+  ],
+  "citation": [
+    "Donal Skehan"
   ],
   "keywords": [
     "poultry",

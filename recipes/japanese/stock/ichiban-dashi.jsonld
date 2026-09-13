@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Japan",
   "name": "Ichiban Dashi (First Sea Stock)",
   "prepTime": "PT15M",
   "cookTime": "PT20M",
+  "recipeCuisine": "Japan",
+  "recipeCategory": "Stock",
   "recipeYield": "4 cups",
   "recipeIngredient": [
     "1l water",
@@ -29,13 +30,6 @@
       "text": "Refrigerate the stock in a tightly covered container for up to 4 days in the refrigerator."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1h4dFQM2AdX1kOnOi1Jv4TVtNJ1Lh9TrrLP20j_9vZEk/edit?usp=sharing",
-    "https://docs.google.com/document/d/17FYsMA82sgP291r006MWexrrYoCfq8kNVH0Qpk-7df0/edit?usp=sharing"
-  ],
   "keywords": [
-    "Stock",
-    "fish",
-    "bonito"
   ]
 }

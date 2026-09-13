@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Mergeuz Sausages",
   "prepTime": "PT15M",
   "totalTime": "PT15M",
+  "recipeCuisine": "France",
   "recipeYield": "12 sausages",
   "recipeIngredient": [
     "250 g lamb",
@@ -34,12 +34,8 @@
       "text": "Fill out into pre soaked natural sheep casings 20/22 or 22/24."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1Hvt5ygawT90DpfVXXikXZQu3mOzty1PB-Yy-1BVNNYo/edit",
-    "https://docs.google.com/document/d/1Bz_yls5JhCyCOQoTZGNmMdTDs8Vw0vgbriSbioJarBw/edit"
-  ],
   "keywords": [
-    "Suasages",
+    "sausage",
     "meat",
     "lamb",
     "beef"

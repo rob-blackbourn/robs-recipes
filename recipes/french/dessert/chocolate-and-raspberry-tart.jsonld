@@ -3,7 +3,8 @@
   "@type": "Recipe",
   "recipeCuisine": "France",
   "name": "Chocolate and Raspberry Tart",
-  "recipeCategory": "6 servings",
+  "recipeCategory": "Dessert",
+  "recipeYield": "6 servings",
   "recipeIngredient": [
     "240g pâte sucrée",
     "250g raspberries",
@@ -43,10 +44,6 @@
       "text": "Use a very sharp knife dipped in hot water and wiped dry to cut each slice. Place the tart slices on individual plates with the reserved raspberries. Serve cold, but not straight from the fridge."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1v_yiXTNlWd-95NNI1AU0Lgc86h3KP-eWvg5Iijq5DEk/edit?usp=sharing"
-  ],
   "keywords": [
-    "Dessert"
   ]
 }

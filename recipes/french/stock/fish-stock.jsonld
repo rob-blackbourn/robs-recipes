@@ -1,11 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "France",
   "name": "Fish Stock",
   "recipeYield": "2 l",
   "prepTime": "PT20M",
   "cookTime": "PT30M",
+  "recipeCuisine": "France",
+  "recipeCategory": "Stock",
   "recipeIngredient": [
     "1.5 kg bones and trimmings of white fish (cut into pieces)",
     "50 g unsalted butter",
@@ -63,11 +64,7 @@
       "text": "Strain the stock and cool as quickly as possible."
     }
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1ApMSfXhCOThtVDLk7fhTr1J_yzvej9FlOwQg1WIuu7M/edit"
-  ],
   "keywords": [
-    "Stock",
     "fish",
     "white fish"
   ]
