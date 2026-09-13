@@ -3,6 +3,9 @@
   "@type": "Recipe",
   "name": "Vanilla & Passion Fruit Meringues",
   "prepTime": "PT20M",
+  "cookTime": "PT1H30M",
+  "recipeCuisine": "French",
+  "recipeCategory": "Dessert",
   "recipeYield": "6 meringues",
   "recipeIngredient": [
     "1 vanilla pod",
@@ -24,8 +27,6 @@
       "text": "Follow the preparation for classic meringues."
     }
   ],
-  "cookTime": "PT1H30M",
   "keywords": [
-    "Desserts"
   ]
 }

@@ -1,12 +1,14 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "China",
   "name": "Red Cooked Wild Boar",
   "prepTime": "PT20M",
+  "cookTime": "PT1H30M",
+  "recipeCuisine": "China",
+  "recipeCategory": "Main",
   "recipeYield": "6 servings",
   "recipeIngredient": [
-    "1.5 kg Wild Boar (diced)",
+    "1.5 kg wild boar (diced)",
     "6 tbsp dark soy sauce",
     "10 tbsp Sunflower oil",
     "6 tbsp of water",
@@ -41,8 +43,8 @@
       "text": "Cover with a well fitting lid and cook in the oven for 1 1/2 hours, until the meat is really tender."
     }
   ],
-  "cookTime": "PT1H30M",
   "keywords": [
-    "Meat"
+    "meat",
+    "pork"
   ]
 }

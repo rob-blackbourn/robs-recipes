@@ -1,8 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "China",
   "name": "Roast Duck",
+  "prepTime": "PT15M",
+  "cookTime": "PT2H30M",
+  "recipeCuisine": "China",
   "recipeYield": "6 servings",
   "recipeIngredient": [
     "1.8 kg Duck",
@@ -62,10 +64,8 @@
       "text": "Allow 2 hours for the duck to dry."
     }
   ],
-  "prepTime": "PT15M",
-  "cookTime": "PT2H30M",
   "keywords": [
-    "Poultry",
-    "Duck"
+    "poultry",
+    "duck"
   ]
 }

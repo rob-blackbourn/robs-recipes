@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Chocolate Fondant",
   "cookTime": "PT14M",
+  "recipeCuisine": "French",
+  "recipeCategory": "Dessert",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "60g unsalted butter (cut into dice, plus extra to grease)",
@@ -43,6 +45,5 @@
     }
   ],
   "keywords": [
-    "Desserts"
   ]
 }

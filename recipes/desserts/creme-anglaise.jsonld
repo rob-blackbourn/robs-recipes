@@ -2,6 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": "Crème anglaise",
+  "recipeCuisine": "French",
+  "recipeCategory": "Dessert",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "150 ml whole milk",
@@ -34,6 +36,5 @@
     }
   ],
   "keywords": [
-    "Desserts"
   ]
 }

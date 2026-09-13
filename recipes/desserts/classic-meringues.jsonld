@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Classic Meringues",
   "prepTime": "PT10M",
+  "recipeCuisine": "French",
+  "recipeCategory": "Dessert",
   "recipeYield": "6 meringues",
   "recipeIngredient": [
     "2 egg whites (at room temperature)",
@@ -32,6 +34,5 @@
   ],
   "cookTime": "PT2H",
   "keywords": [
-    "Desserts"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "China",
   "name": "Peking Duck",
+  "recipeCuisine": "China",
   "recipeYield": "1 duck",
   "recipeIngredient": [
     "1 duck",
@@ -103,7 +103,7 @@
     }
   ],
   "keywords": [
-    "Poultry",
-    "Duck"
+    "poultry",
+    "duck"
   ]
 }

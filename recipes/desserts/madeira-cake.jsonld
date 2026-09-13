@@ -3,6 +3,8 @@
   "@type": "Recipe",
   "name": "Madeira cake",
   "prepTime": "PT30M",
+  "cookTime": "PT40M",
+  "recipeCuisine": "French",
   "recipeCategory": "Dessert",
   "recipeYield": "6 servings",
   "recipeIngredient": [
@@ -40,8 +42,6 @@
       "text": "To serve, decorate the cake with the candied peel."
     }
   ],
-  "cookTime": "PT40M",
   "keywords": [
-    "Desserts"
   ]
 }
