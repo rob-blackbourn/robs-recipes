@@ -1,8 +1,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Lebanon",
   "name": "Baba Ghanoush",
+  "recipeCuisine": "Lebanese",
   "cookTime": "PT30M",
   "prepTime": "PT5M",
   "recipeYield": "2 servings",
@@ -13,7 +13,7 @@
     "1 tsp lemon juice",
     "Salt",
     "Olive oil to drizzle",
-    "1 tbsp pomegranate seeds (optional) or flat leaf parsley (chopped)"
+    "1 tbsp pomegranate seeds or flat leaf parsley (chopped) - optional"
   ],
   "recipeInstructions": [
     {

@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Lebanon",
   "name": "Baharat",
+  "recipeCuisine": "Lebanese",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "recipeYield": "1 portion",
   "recipeIngredient": [
     "4 parts black pepper",
     "3 parts coriander seeds",
@@ -19,10 +22,7 @@
       "text": "Put all the ingredients into a pestle and grind until a fine powder."
     }
   ],
-  "description": "Cooking time: 0\nPreparation time: 10 minutes",
-  "prepTime": "PT10M",
-  "cookTime": "PT0M",
   "keywords": [
-    "Spices"
+    "spice"
   ]
 }

@@ -1,22 +1,22 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Lebanon",
   "name": "Hot Hummus with Pine Nuts and Chilli Butter",
+  "recipeCuisine": "Lebanese",
   "cookTime": "PT25M",
   "prepTime": "PT10M",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "400g can chickpeas drained and thoroughly rinsed",
+    "400 g can chickpeas drained and thoroughly rinsed",
     "1 tsp cumin seeds",
     "1 cloves garlic",
     "2 tbsp olive oil",
     "1 lemons (juice of)",
     "1 tbsp tahini",
-    "150ml thick creamy yogurt",
+    "150 ml thick creamy yogurt",
     "Salt and pepper for seasoning",
     "1 tbsp pine nuts",
-    "25g butter",
+    "25 g butter",
     "1/2 tsp finely chopped dried red chilli (or chilli flakes)"
   ],
   "recipeInstructions": [
