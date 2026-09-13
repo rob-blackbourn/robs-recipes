@@ -5,7 +5,7 @@
   "name": "Hitsumabushi",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "1 Unagi Kabayaki - Frozen Roasted Eel",
+    "1 unagi kabayaki - frozen roasted eel",
     "Sake",
     "2 tbsp mirin",
     "1 tbsp sake (Unagi Sauce)",
@@ -13,10 +13,10 @@
     "1 tbsp honey",
     "1/3 tsp salt",
     "400 ml dashi stock",
-    "Sansho Pepper Powder",
-    "Crumbled Toasted Nori Seaweed",
-    "Spring Onions",
-    "Wasabi Paste"
+    "Sansho pepper powder",
+    "Crumbled toasted nori seaweed",
+    "Spring onions",
+    "Wasabi paste"
   ],
   "recipeInstructions": [
     {
@@ -67,11 +67,8 @@
   "image": [
     "hitsumabushi.assets/image1.png"
   ],
-  "citation": [
-    "https://docs.google.com/document/d/1REqN4CHP5wws7DraOUMLb5WGEIx2Ow1HJHdx3sxS0E0/edit?usp=sharing"
-  ],
   "keywords": [
-    "Seafood",
-    "Eel"
+    "seafood",
+    "eel"
   ]
 }

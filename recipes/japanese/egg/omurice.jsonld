@@ -5,19 +5,19 @@
   "name": "Omurice",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "130g chicken",
+    "130 g chicken",
     "1 clove of garlic",
     "1/4 onion",
     "4 button mushrooms",
     "1 tbsp sake",
-    "200g canned tomato",
+    "200 g canned tomato",
     "1 tbsp tomato ketchup",
     "1/2 bouillon cube",
     "1 bay leaf",
-    "30g frozen peas",
+    "30 g frozen peas",
     "olive oil",
     "Salt and pepper for seasoning",
-    "280g steamed rice (cooked with less water)",
+    "280 g steamed rice (cooked with less water)",
     "4 eggs",
     "2 tsp single cream",
     "baby salad greens",
@@ -121,6 +121,8 @@
     "omurice.assets/image1.png"
   ],
   "keywords": [
-    "Egg"
+    "egg",
+    "omelette",
+    "chicken"
   ]
 }

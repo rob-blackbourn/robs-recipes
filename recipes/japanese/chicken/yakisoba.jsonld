@@ -7,11 +7,11 @@
   "cookTime": "PT20M",
   "recipeYield": "1 servings",
   "recipeIngredient": [
-    "150 g / 1 pack of Yakisoba Noodles",
-    "1/3 tbsp Sake",
+    "150 g pack of Yakisoba Noodles",
+    "1/3 tbsp sake",
     "50 g sliced pork (cut into 4 cm pieces)",
     "75 g bean sprouts",
-    "1/2 cabbage leaf (40g, cut into 2.5 cm squares)",
+    "1/2 cabbage leaf (cut into 2.5 cm squares)",
     "1/2 long green onion or 2 spring onions (sliced diagonally)",
     "15 g carrot (sliced into 2.5 cm long thin sticks)",
     "1 clove garlic (crushed, root removed, and finely diced)",
@@ -20,9 +20,9 @@
     "1/2 tsp soy sauce",
     "1/2 tbsp sake or water",
     "Salt and pepper for seasoning",
-    "Katsuobushi Shavings - Bonito Flakes",
-    "Aonori - Green Laver",
-    "Beni Shoga - Pickled Ginger"
+    "Katsuobushi shavings - bonito flakes",
+    "Aonori - green laver",
+    "Beni shoga - pickled ginger"
   ],
   "recipeInstructions": [
     {
@@ -55,6 +55,6 @@
     }
   ],
   "keywords": [
-    "Chicken"
+    "chicken"
   ]
 }

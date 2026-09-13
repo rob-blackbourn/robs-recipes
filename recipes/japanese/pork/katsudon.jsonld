@@ -6,22 +6,20 @@
   "recipeYield": "1 servings",
   "recipeIngredient": [
     "120g 1cm thick pork loin",
-    "a pinch of salt",
-    "a pinch of pepper",
+    "Salt and pepper",
     "flour",
-    "1/4 egg (For the Tonkatsu)",
-    "a dash of water",
+    "1/4 egg (for the tonkatsu)",
+    "A dash of water",
     "Nama-Panko (fresh bread crumbs)",
-    "Frying Oil",
-    "50ml dashi",
+    "Frying oil",
+    "50 ml dashi",
     "1 tbsp soy sauce",
     "1 tbsp mirin",
     "1 tsp sugar",
-    "To complete the dish",
     "1/4 onion (cut into thin slices)",
-    "1 egg (For the sauce)",
-    "To Garnish: Mitsuba (Japanese wild parsley, roughly chopped)",
-    "Serve with: 200g steamed rice"
+    "1 egg (for the sauce)",
+    "Mitsuba (Japanese wild parsley, roughly chopped)",
+    "Steamed rice"
   ],
   "recipeInstructions": [
     {
@@ -66,6 +64,7 @@
     }
   ],
   "keywords": [
-    "Pork"
+    "pork",
+    "rice"
   ]
 }

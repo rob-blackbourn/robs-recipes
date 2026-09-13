@@ -6,19 +6,19 @@
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "1/2 cup ketchup",
-    "2 tablespoons Worcestershire sauce",
-    "1 tablespoon soy sauce",
-    "2 teaspoons prepared hot mustard (preferably Japanese, but Colman’s will work too)",
-    "1 teaspoon freshly ground black pepper",
-    "3 tablespoons vegetable oil",
-    "250",
+    "2 tbsp Worcestershire sauce",
+    "1 tbsp soy sauce",
+    "2 tsp prepared hot mustard (preferably Japanese, but Colman's will work too)",
+    "1 tsp freshly ground black pepper",
+    "3 tbsp vegetable oil",
+    "220 g thinly sliced pork (or thick, uncured bacon), cut into 1-inch wide pieces",
     "3 cups shredded savoy cabbage",
     "2 cups bean sprouts",
     "1/2 medium yellow onion, diced",
     "500 g cooked Chinese egg noodles (yakisoba noodles, sometimes labeled “chukamen”), at room temperature",
     "Salt and pepper for seasoning",
-    "ao nori (shredded nori seaweed)—to taste",
-    "beni shoga (julienned red pickled ginger)—to garnish"
+    "Ao nori (shredded nori seaweed)—to taste",
+    "Beni shoga (julienned red pickled ginger)—to garnish"
   ],
   "recipeInstructions": [
     {
@@ -39,6 +39,7 @@
     }
   ],
   "keywords": [
-    "Noodles"
+    "noodles",
+    "pork"
   ]
 }

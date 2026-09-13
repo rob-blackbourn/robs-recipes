@@ -6,7 +6,7 @@
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "4 fillets of black cod",
-    "800g Nobu-Style Saikyo Miso",
+    "800 g Nobu-style saikyo miso",
     "1 stalk hajikami (to garnish)"
   ],
   "recipeInstructions": [
@@ -16,7 +16,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 200°C. Preheat the grill. Lightly wipe off any excess miso, but don’t rinse it off. Grill, skin side toward the heat, until the skin crisps up. Then bake for 10-15 minutes."
+      "text": "Preheat the oven to 200°C. Preheat the grill. Lightly wipe off any excess miso, but don't rinse it off. Grill, skin side toward the heat, until the skin crisps up. Then bake for 10-15 minutes."
     },
     {
       "@type": "HowToStep",
@@ -24,10 +24,10 @@
     }
   ],
   "citation": [
-    "https://docs.google.com/document/d/1if2YR9mGFvN9HMUxTtyZKYP95WdMK4g7kACriuxzswc/edit?usp=sharing"
+    "../../sauces/nobu-style-saikyo-miso.jsonld"
   ],
   "keywords": [
-    "Seafood",
-    "Black Cod"
+    "seafood",
+    "black cod"
   ]
 }

@@ -5,15 +5,15 @@
   "name": "Takikomi Gohan",
   "recipeYield": "2 servings",
   "recipeIngredient": [
-    "180ml rice (washed)",
-    "180ml dashi stock",
-    "70g chicken breast (cut into small bite sizes pieces)",
-    "20g carrot (cut into matchsticks)",
-    "25g burdock root (cut into matchsticks and rinsed in cold water)",
-    "30g shitaki mushrooms (sliced then halved)",
-    "20g maitake mushrooms (torn and chopped into small bite sized pieces)",
+    "180 ml rice (washed)",
+    "180 ml dashi stock",
+    "70 g chicken breast (cut into small bite sizes pieces)",
+    "20 g carrot (cut into matchsticks)",
+    "25 g burdock root (cut into matchsticks and rinsed in cold water)",
+    "30 g shitake mushrooms (sliced then halved)",
+    "20 g maitake mushrooms (torn and chopped into small bite sized pieces)",
     "1/2 aburaage (thin deep fried tofu cut into short fingers)",
-    "5g ginger root (thinly shredded)",
+    "5 g ginger root (thinly shredded)",
     "Mitsuba parsley",
     "1 tsp soy sauce",
     "1/2 tsp salt",
@@ -53,6 +53,7 @@
     }
   ],
   "keywords": [
-    "Rice"
+    "rice",
+    "chicken"
   ]
 }
