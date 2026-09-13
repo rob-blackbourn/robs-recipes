@@ -1,8 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Japan",
   "name": "Chicken Katsu Curry",
+  "prepTime": "PT30M",
+  "cookTime": "PT1H",
+  "recipeCuisine": "Japan",
+  "recipeCategory": "Curry",
   "recipeYield": "4 servings",
   "recipeIngredient": [
     "1 tsp cumin seeds",
@@ -68,8 +71,6 @@
       "text": "To serve, stir the cooked carrots and spring onions into the curry sauce. Spoon the cooked rice onto serving plates, spoon over some sauce and top with the fried chicken pieces."
     }
   ],
-  "prepTime": "PT30M",
-  "cookTime": "PT1H",
   "keywords": [
     "chicken",
     "poultry"

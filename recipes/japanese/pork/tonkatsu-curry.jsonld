@@ -1,8 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "Japan",
   "name": "Tonkatsu Curry",
+  "recipeCuisine": "Japan",
+  "recipeCategory": "Curry",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "1 large onion (chopped) (For the curry)",

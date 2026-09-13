@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "name": "Fish Cakes - Thawt Man Plaa",
   "recipeCuisine": "Thai",
   "recipeCategory": "Small Plate",
-  "name": "Fish Cakes - Thawt Man Plaa",
   "recipeYield": "30 servings",
   "recipeIngredient": [
-    "450g firm white fish fillets (roughly chopped)",
+    "450 g firm white fish fillets (roughly chopped)",
     "1 tbsp red curry paste",
     "1 tbsp fish sauce",
     "1 egg",
-    "50g green beans (very thinly sliced)",
+    "50 g green beans (very thinly sliced)",
     "5 kaffir lime leaves (finely shredded)"
   ],
   "recipeInstructions": [

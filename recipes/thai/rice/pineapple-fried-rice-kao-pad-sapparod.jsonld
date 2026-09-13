@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
+  "name": "Pineapple Fried Rice - Kao Pad Sapparod",
   "recipeCuisine": "Thai",
   "recipeCategory": "Side Dish",
-  "name": "Pineapple Fried Rice - Kao Pad Sapparod",
   "recipeYield": "2 servings",
   "recipeIngredient": [
     "8 Shrimp (leave 4 whole, and cut the rest into small pieces)",

@@ -1,10 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "recipeCuisine": "British",
   "name": "Kedgeree",
   "prepTime": "PT10M",
   "cookTime": "PT15M",
+  "recipeCuisine": "British",
+  "recipeCategory": "Rice Bowl",
   "recipeYield": "3 servings",
   "recipeIngredient": [
     "1 1/2 fillets of smoked haddock",
@@ -52,8 +53,6 @@
     }
   ],
   "keywords": [
-    "Seafood",
-    "Smoked Haddock",
     "fish",
     "haddock"
   ]
