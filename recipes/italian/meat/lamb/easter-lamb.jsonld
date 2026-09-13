@@ -50,11 +50,7 @@
   "prepTime": "PT30M",
   "cookTime": "PT1H",
   "keywords": [
-    "Meat",
-    "Lamb",
-    "poultry",
-    "chicken",
-    "fish",
-    "anchovies"
+    "meat",
+    "lamb"
   ]
 }

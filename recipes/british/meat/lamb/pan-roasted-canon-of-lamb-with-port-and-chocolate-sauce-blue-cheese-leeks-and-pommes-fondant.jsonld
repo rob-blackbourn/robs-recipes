@@ -78,10 +78,7 @@
   "prepTime": "PT30M",
   "cookTime": "PT10M",
   "keywords": [
-    "Meat",
-    "Lamb",
-    "beef",
-    "poultry",
-    "chicken"
+    "meat",
+    "lamb"
   ]
 }
