@@ -56,5 +56,9 @@
       "text": "Allow 1 day soaking"
     }
   ],
-  "prepTime": "PT20M"
+  "prepTime": "PT20M",
+  "keywords": [
+    "fish",
+    "cod"
+  ]
 }

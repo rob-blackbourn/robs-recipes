@@ -45,5 +45,11 @@
     }
   ],
   "prepTime": "PT30M",
-  "cookTime": "PT30M"
+  "cookTime": "PT30M",
+  "keywords": [
+    "poultry",
+    "chicken",
+    "fish",
+    "monkfish"
+  ]
 }

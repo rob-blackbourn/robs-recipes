@@ -67,5 +67,13 @@
     }
   ],
   "prepTime": "PT1H",
-  "cookTime": "PT30M"
+  "cookTime": "PT30M",
+  "keywords": [
+    "meat",
+    "pork",
+    "seafood",
+    "prawns",
+    "poultry",
+    "chicken"
+  ]
 }
