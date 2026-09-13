@@ -90,11 +90,12 @@
     }
   ],
   "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingCount": 1,
-      "ratingValue": 5
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
   },
   "keywords": [
-    "Poultry"
+    "Poultry",
+    "chicken"
   ]
 }

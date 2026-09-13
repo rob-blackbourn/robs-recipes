@@ -102,3 +102,5 @@ Browser tests build and serve the production site under `/test-kitchen/`, verify
 Connect this repository to GitHub, push the files, and enable **Settings → Pages → Source → GitHub Actions**. The included workflow checks pull requests and builds/deploys pushes to `main` (also available through manual dispatch on `main`). It obtains the deployment base path from Pages configuration, runs unit and browser tests, then publishes the production artifact. See [Vite's Pages deployment guide](https://vite.dev/guide/static-deploy).
 
 The application has no backend, editing interface, account, favourites, cloud preference syncing, or manual density overrides.
+
+Ingredient-based keywords can be populated with `node scripts/populate-ingredient-keywords.mjs --write`. This adds meat, seafood, poultry, or fish categories and matching ingredient names, preserving existing keywords without case-only duplicates. Stocks, sauces, and explicit ingredient alternatives are included. Unspecified fish ingredients receive `fish` without an inferred species. Omit `--write` to check for missing keywords.

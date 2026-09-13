@@ -73,5 +73,9 @@
     }
   ],
   "prepTime": "PT1H",
-  "cookTime": "PT30M"
+  "cookTime": "PT30M",
+  "keywords": [
+    "poultry",
+    "chicken"
+  ]
 }
