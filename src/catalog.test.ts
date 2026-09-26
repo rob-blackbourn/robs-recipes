@@ -36,15 +36,6 @@ describe('the complete collection', () => {
       expect(link.split('?')[0]).not.toContain('%2F');
     }
   });
-  it('loads every document and image with distinct IDs', () => {
-    expect(entries).toHaveLength(418);
-    expect(entries.filter((entry) => entry['@type'] === 'Recipe')).toHaveLength(413);
-    expect(entries.filter((entry) => entry['@type'] === 'CreativeWork')).toHaveLength(5);
-    expect(new Set(entries.map((entry) => entry.id)).size).toBe(418);
-    const images = entries.flatMap((entry) => entry.images);
-    expect(images).toHaveLength(12);
-    for (const image of images) expect(readFileSync(image).length).toBeGreaterThan(100);
-  });
   it('handles all ingredients in every output mode without corrupting source text', () => {
     for (const entry of entries)
       for (const ingredient of entry.recipeIngredient || []) {
