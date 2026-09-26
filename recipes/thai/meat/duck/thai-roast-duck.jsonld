@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai Roast Duck",
+  "recipeCuisine": "Thai",
+  "recipeCategory": "Roast",
+  "recipeYield": "1 duck",
+  "recipeIngredient": [
+    "1 duck",
+    "30 g coriander roots or stems",
+    "2 stalks of lemongrass",
+    "60 g shallots, roughly sliced",
+    "4 spring onions, chopped into finger length pieces",
+    "1 tbsp vegitable oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the duck with salt and pepper all over the duck, including inside it. Rub it well and rinse with cold water. Dry the duck with paper towels to help make the skin crispy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stuff lemongrass, cilantro stems, shallots, and green onions inside the cavity."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brush the duck with oil and rub in more salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the duck in a baking tray breast side down and cook at 200°C (180°C fan) for 40 minutes per kilogram. Halfway through cooking flip the duck."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn the temperature to max for 10 minutes to crisp the skin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reserve the fat for later use."
+    }
+  ],
+  "keywords": [
+    "duck",
+    "poultry"
+  ]
+}
