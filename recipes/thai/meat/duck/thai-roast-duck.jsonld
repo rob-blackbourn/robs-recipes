@@ -39,6 +39,12 @@
       "text": "Reserve the fat for later use."
     }
   ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Roasting tin with a wire tray."
+    }
+  ],
   "keywords": [
     "duck",
     "poultry"
